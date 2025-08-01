@@ -2,6 +2,8 @@
 
 This project uses language models to create a detailed social simulation of San Francisco. The goal is to generate a rich dataset of synthetic humans, or "SF citizens," each with a unique identity, background, and daily life within the city. This data can be used for a wide range of urban studies, social science research, and simulation applications.
 
+NOTE: All data in this repo is purely synthetic and any relation to real life people is coincidental. 
+
 ## Data Overview
 
 The data for this simulation is stored in this directory and is organized as follows:
