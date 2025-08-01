@@ -1,3 +1,6 @@
+
+<img width="1200" height="800" alt="industry_distribution" src="https://github.com/user-attachments/assets/0e841762-3d0c-48d5-bc0d-f55d7b60b56c" />
+
 # SF Social Simulations // SF 20k Humans
 
 This project uses language models to create a detailed social simulation of San Francisco. The goal is to generate a rich dataset of synthetic humans, or "SF citizens," each with a unique identity, background, and daily life within the city. This data can be used for a wide range of urban studies, social science research, and simulation applications.
@@ -51,3 +54,16 @@ This dataset can be used for various purposes, including:
 - For developing and testing AI systems that process and understand human life data.
 
 The `_schema.json` file can be used with any JSON Schema validator to ensure that any new or modified data conforms to the expected structure.
+
+## Analysis
+
+Comparing distributions in synthetic dataset to the real US Census data.
+
+<img width="1200" height="800" alt="race_distribution" src="https://github.com/user-attachments/assets/ae9a3a1d-e701-49aa-beed-ff72448183e4" />
+<img width="1200" height="800" alt="industry_distribution" src="https://github.com/user-attachments/assets/6690bc58-dc40-4050-bfb3-4bfb5f802e90" />
+<img width="1200" height="800" alt="education_distribution" src="https://github.com/user-attachments/assets/91904bbf-2004-462e-a6e2-ba7b8d323325" />
+<img width="1400" height="800" alt="education_by_age" src="https://github.com/user-attachments/assets/cd4c45b7-c606-4ffd-88ff-0eae21907ede" />
+<img width="1000" height="600" alt="commute_time_distribution" src="https://github.com/user-attachments/assets/e8dbacd0-8f5c-458c-8ab3-df8ec7acaa83" />
+<img width="1200" height="800" alt="commute_method_distribution" src="https://github.com/user-attachments/assets/cf98477b-f396-4077-8963-207d704bb872" />
+
+
