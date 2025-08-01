@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Carter",
+    "givenName": "Daniel",
+    "familyName": "Carter",
+    "jobTitle": "Licensed Clinical Social Worker (LCSW)",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Carter\u2019s childhood in the manicured suburbs of the East Bay was deceptively placid. From the outside, his family was a portrait of middle-class success, but inside, a quiet storm brewed. His older sister\u2019s debilitating struggle with anxiety and depression cast a long shadow, leaving a young Daniel feeling powerless. He watched his parents navigate a system they didn\u2019t understand, a confusing maze of doctors and therapists. It was this feeling of helpless empathy that planted the seed for his future profession.\n\nHe pursued a psychology degree at UC Santa Cruz, drawn to the campus\u2019s progressive ethos. His educational journey culminated at UC Berkeley, where he earned his Master of Social Work, a degree that felt less like an academic choice and more like a calling. His first job was in the trenches of a large San Francisco hospital, a grueling but formative experience. He saw the city's rawest vulnerabilities and the systemic cracks people fell through. While rewarding, the bureaucracy and emotional toll led to burnout, a key turning point that prompted him to seek a new way of working.\n\nNow, at 31, Daniel is a Licensed Clinical Social Worker with a fully remote private practice. His 0.0-mile commute is a deliberate choice, a way to create a calm, controlled environment for both himself and his clients. He lives in a one-bedroom apartment in the Inner Richmond, where the fog-dampened quiet suits his introspective nature. His days follow a rhythm: a morning walk in Golden Gate Park with coffee from a local cafe, followed by back-to-back telehealth sessions.\n\nThough he cherishes his work, its isolating nature creates a quiet tension in his life. He is deeply connected to the intimate struggles of his clients but feels detached from the city's broader pulse. His social life is a small, tight-knit circle of friends from grad school. His greatest aspiration is to bridge this gap\u2014to find a community outside of his work, perhaps by joining a local running club or volunteering. Daniel dreams of not just healing others within the city, but of truly making it his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2642\ufe0f",
+                        "action": "Wake up, meditate to prepare for the day, and brew a french press coffee.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Noe Valley Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed for work, and eat a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Noe Valley Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, listening to a psychology podcast while navigating traffic on I-280 North.",
+                        "geocode": {
+                            "lat": 37.7323739,
+                            "lng": -122.4307687,
+                            "formatted_address": "I-280, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "I-280 North"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Settle into the office, review notes for morning clients, and respond to urgent emails.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Carter Therapy Practice @ SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct back-to-back psychotherapy sessions with two individual clients.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "Carter Therapy Practice @ SOMAcentral"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Complete session notes and handle insurance billing paperwork from the morning's clients.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 60,
+                        "location": "Carter Therapy Practice @ SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a nearby cafe for a healthy lunch to reset before the afternoon.",
+                        "geocode": {
+                            "lat": 37.626763,
+                            "lng": -122.4253448,
+                            "formatted_address": "851 Cherry Ave Suite 2, San Bruno, CA 94066, USA"
+                        },
+                        "duration": 60,
+                        "location": "Local Kitchen & Wine Merchant"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Hold an afternoon block of sessions, including one in-person and one telehealth appointment.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "Carter Therapy Practice @ SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Finalize all clinical documentation for the day and plan tomorrow's schedule.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 60,
+                        "location": "Carter Therapy Practice @ SOMAcentral"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, enduring the evening gridlock on 10th St heading back towards Noe Valley.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "City Streets & Highways"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Whole Foods Market (24th Street)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a de-stressing run to clear his head after a long day of clinical work.",
+                        "geocode": {
+                            "lat": 37.7473543,
+                            "lng": -122.4388663,
+                            "formatted_address": "Douglass Playground Park, Douglass St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 60,
+                        "location": "Douglass Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Cook a simple but nutritious dinner and eat while catching up on personal messages.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Noe Valley Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind by reading a non-fiction book and listening to a jazz record.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Noe Valley Apartment)"
+                    }
+                ],
+                "day_overview": "A structured day for a clinical social worker, balancing demanding client sessions in SoMa with crucial self-care routines like running and quiet time back in his Noe Valley home.",
+                "home_address": "1376 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7531542,
+                    "lng": -122.40658,
+                    "formatted_address": "1376 24th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Carter Family"
+    }
+}

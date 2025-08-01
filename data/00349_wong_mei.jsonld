@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Wong",
+    "givenName": "Mei",
+    "familyName": "Wong",
+    "jobTitle": "Quality Control Technician",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Wong\u2019s life is a map of the Outer Richmond, drawn in disciplined, repeating lines. Born at Chinese Hospital and raised in a foggy avenues duplex, she is the only child of parents who emigrated from Hong Kong in the late 1960s. They ran a small, perpetually busy laundromat on Clement Street, instilling in Mei a profound appreciation for diligence and stability. She absorbed their belief that dreams were luxuries; dependable work was survival. In high school, while her peers talked about art school or moving to LA, Mei focused on a practical path. She earned an Associate's degree in Electronics Technology from City College of San Francisco, a choice that promised a steady job without the debt of a four-year university.\n\nFor over two decades, Mei has worked in quality control. She began her career on the factory floors of Silicon Valley, meticulously inspecting circuit boards. Now, at 48, she\u2019s a senior QC Technician for a major software company, a role she performs entirely from a small office set up in her childhood bedroom. Her commute is a ten-step walk down the hall. This transition to remote work wasn't a corporate perk but a necessity. After her father passed away a decade ago, Mei became the primary caregiver for her aging mother, who still lives downstairs.\n\nMei\u2019s world is a contained, ten-block radius. Her daily routine is a comforting ritual: a morning walk through Golden Gate Park before the tourists arrive, logging into work to test software builds for bugs, a shared lunch of congee with her mother, and evenings spent watching Cantonese dramas. Her social life is small but cherished, consisting of a weekly mahjong game with her mother\u2019s friends and monthly dim sum with two cousins.\n\nHer connection to San Francisco is not one of tech disruption or vibrant nightlife, but of the familiar hum of the 38-Geary bus and the scent of salt in the air. While she sometimes feels like a ghost in a city that\u2019s constantly reinventing itself, she finds satisfaction in her quiet purpose. Her greatest aspiration is to save enough to take her mother on a trip to see the village her family came from, a journey her father always planned but never took. Mei Wong is an anchor, a quiet preserver of order, ensuring the code works and her family is cared for, a point of stability in a city defined by change."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, morning stretches, and prepare a pot of jook (congee) for the family's breakfast.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Pacific Heights Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Enjoy breakfast with her elderly parents, checking in on them and discussing their plans for the day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Get dressed in cycling gear, pack work clothes, and double-check her pannier with her laptop and essentials.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5\u200d\u2640\ufe0f",
+                        "action": "Begin the brisk, hilly bike commute, navigating down Larkin Street and cutting across Bush towards the Financial District.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Pacific Heights to FiDi Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office building, lock up the bike, and head upstairs to change and grab a coffee from the office kitchenette.",
+                        "geocode": {
+                            "lat": 37.7925827,
+                            "lng": -122.3989817,
+                            "formatted_address": "100 Pine St #1250, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 20,
+                        "location": "Intelligent Office - San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Participate in the daily QC stand-up meeting, reviewing yesterday's bug reports and aligning on today's testing priorities for the new software build.",
+                        "geocode": {
+                            "lat": 37.7925827,
+                            "lng": -122.3989817,
+                            "formatted_address": "100 Pine St #1250, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 30,
+                        "location": "Work - Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\uddea",
+                        "action": "Execute a series of manual test cases on the staging environment, carefully documenting each step and result.",
+                        "geocode": {
+                            "lat": 37.7925827,
+                            "lng": -122.3989817,
+                            "formatted_address": "100 Pine St #1250, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 135,
+                        "location": "Work - Desk"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy pre-ordered grain bowl for lunch, eating at a nearby public plaza to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7920903,
+                            "lng": -122.4036761,
+                            "formatted_address": "555 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 45,
+                        "location": "Proper Food on California St"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Perform regression testing on recently fixed bugs, ensuring the new code hasn't introduced any new issues.",
+                        "geocode": {
+                            "lat": 37.7925827,
+                            "lng": -122.3989817,
+                            "formatted_address": "100 Pine St #1250, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 150,
+                        "location": "Work - Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Write detailed bug reports in Jira for any new issues found, including steps to reproduce, screenshots, and logs.",
+                        "geocode": {
+                            "lat": 37.7925827,
+                            "lng": -122.3989817,
+                            "formatted_address": "100 Pine St #1250, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 60,
+                        "location": "Work - Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Start the challenging uphill bike commute home, a good workout to end the workday.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "FiDi to Pacific Heights Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6c",
+                        "action": "Stop by the local grocery to pick up fresh bok choy and tofu for dinner.",
+                        "geocode": {
+                            "lat": 37.7901983,
+                            "lng": -122.4208305,
+                            "formatted_address": "1475 Polk St Ste G, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Golden Veggie Market, Polk Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare and cook a simple, traditional dinner for her and her parents.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Sit down for dinner with her parents, sharing stories from their respective days.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Dining Table"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a favorite C-drama with her mother.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Prepare for the next day: lay out clothes, pack lunch, and tidy up the kitchen before bed.",
+                        "geocode": {
+                            "lat": 37.7942655,
+                            "lng": -122.4258527,
+                            "formatted_address": "1867 Pacific Ave, San Francisco, CA 94123"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured day for Mei, balancing a detail-oriented tech job in the Financial District with her role as a caregiver for her elderly parents in Pacific Heights, punctuated by a hilly but invigorating bike commute.",
+                "home_address": "1867 Pacific Ave, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7942655,
+                    "lng": -122.4258527,
+                    "formatted_address": "1867 Pacific Ave, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

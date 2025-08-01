@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Noah Al-Aziz",
+    "givenName": "Noah",
+    "familyName": "Al-Aziz",
+    "jobTitle": "Junior Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Noah Al-Aziz is a product of San Francisco\u2019s unique cultural fusion. The only child of a Syrian history professor and a Filipina nurse, he grew up in the fog-drenched avenues of the Sunset District. His childhood home was a place of competing, complementary aromas: his father\u2019s cardamom-spiced coffee and his mother\u2019s garlicky adobo. This blend of cultures made him feel distinctly San Franciscan, yet he always ticked the \"Other\" box on forms, a label that felt both accurate and incomplete.\n\nHe attended UC Berkeley, initially drawn to the social sciences that mirrored his father\u2019s academic world. He graduated with a B.A. in Sociology, fascinated by urban inequality and the patterns that defined city life. However, the reality of Bay Area economics was a stark contrast to academic theory. Faced with daunting rent prices and the pull of the region\u2019s dominant industry, Noah made a pragmatic pivot. He completed an intensive data analytics boot camp, translating his skills in statistical analysis from social theory to corporate datasets.\n\nThis decision was the key turning point in his life. He landed a job as a Junior Data Analyst for a downtown tech firm, but with a permanent work-from-home arrangement. Now, at 24, his entire professional world exists within the walls of his small, tidy apartment in Hayes Valley. His 0.0-mile commute is a strange blessing. He saves time and money, but the boundary between work and life has dissolved into a continuous stream of Slack notifications and SQL queries.\n\nHis days are structured by code and coffee. After logging off, he forces himself to reconnect with the physical city, often going for long runs through the Panhandle and into Golden Gate Park, a landscape from his childhood. His social life consists of planned weekend meetups with college friends and video calls with his parents.\n\nNoah\u2019s dream is to bridge the chasm between his education and his career. He aspires to move into a data science role for a civic-tech company or a non-profit, using his skills to analyze housing disparities or improve public transportation\u2014the very issues he once studied passionately. He wants his work to feel tangible again, to shape the city he loves not just as an abstract dataset, but as a living, breathing community."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, hydrate, and do a quick 10-minute stretch to get the day started.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a brisk morning run along the waterfront, enjoying the view of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for the day, and listen to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make a protein smoothie and toast, pack a lunch, and check personal emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the designated pickup spot to meet a coworker for the morning carpool.",
+                        "geocode": {
+                            "lat": 37.8002004,
+                            "lng": -122.4412056,
+                            "formatted_address": "Scott St & Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 10,
+                        "location": "Corner of Chestnut & Scott St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool to work, catching up with a colleague and navigating morning traffic on Lombard and Geary.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk. Run SQL queries on patient demographic data and begin data cleaning for a new analytics project.",
+                        "geocode": {
+                            "lat": 37.6310617,
+                            "lng": -122.4184587,
+                            "formatted_address": "901 El Camino Real, San Bruno, CA 94066, USA"
+                        },
+                        "duration": 180,
+                        "location": "Kaiser Permanente Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy lunch with a few colleagues from the data team.",
+                        "geocode": {
+                            "lat": 37.7882632,
+                            "lng": -122.4335274,
+                            "formatted_address": "2016 Fillmore St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Grove - Fillmore"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focus on building a new visualization dashboard in Tableau to track hospital admission trends.",
+                        "geocode": {
+                            "lat": 37.6310617,
+                            "lng": -122.4184587,
+                            "formatted_address": "901 El Camino Real, San Bruno, CA 94066, USA"
+                        },
+                        "duration": 120,
+                        "location": "Kaiser Permanente Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1",
+                        "action": "Attend a weekly project sync meeting to present initial findings and discuss next steps with senior analysts.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kaiser Permanente Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Wrap up work for the day and meet the carpool for the commute back to the Marina.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up fresh ingredients for dinner and some snacks for the week.",
+                        "geocode": {
+                            "lat": 37.8000211,
+                            "lng": -122.4416326,
+                            "formatted_address": "2323 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Marina Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet up with friends for a happy hour drink and appetizers after a long workday.",
+                        "geocode": {
+                            "lat": 37.8006796,
+                            "lng": -122.4364833,
+                            "formatted_address": "2001 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Dorian"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare and eat dinner at home while catching up on a new series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a book, laying out clothes for tomorrow, and doing a final check of social media.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a young data analyst, balancing focused work with health data, a fitness routine with views of the bay, and a relaxed evening socializing in the Marina.",
+                "home_address": "2037 Chestnut St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8007532,
+                    "lng": -122.4368908,
+                    "formatted_address": "2037 Chestnut St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Al-Aziz Family"
+    }
+}

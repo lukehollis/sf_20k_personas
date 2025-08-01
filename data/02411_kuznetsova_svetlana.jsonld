@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Svetlana Kuznetsova",
+    "givenName": "Svetlana",
+    "familyName": "Kuznetsova",
+    "jobTitle": "Certified Nursing Assistant (CNA)",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Svetlana Kuznetsova\u2019s story began not in San Francisco, but 5,000 miles away in Vladivostok, Russia. Raised as an only child by her mother and grandmother, her world was one of books and the briny air of the port city. She began a degree in history, fascinated by the tales of tsars and revolutions. However, when her grandmother\u2019s health severely declined, her mother made the difficult decision to immigrate to San Francisco, following an aunt who promised access to better medical care in the city\u2019s large Russian-speaking community.\n\nAt 21, Svetlana arrived in the fog-shrouded Sunset District. Her history degree was abandoned as she and her mother navigated a new language and the overwhelming task of caring for a loved one. It was in the hushed rooms of their small apartment, helping her grandmother with daily tasks, that Svetlana discovered an unexpected calling. She possessed a deep well of patience and a quiet, steadying presence. After her grandmother passed away, the path forward felt clear. She enrolled in a short, intensive program and became a Certified Nursing Assistant.\n\nNow 34, Svetlana\u2019s life is woven into the fabric of the \u201cRichmond Gardens,\u201d a small, private assisted living facility in the Outer Richmond where she not only works but also resides in a modest staff studio. Her 0.0-mile commute is a walk down a single flight of stairs. Her days are a cycle of soft-soled shoes on clean floors, assisting elderly residents with meals, medication, and companionship. She is a familiar comfort, known for her calm demeanor and her willingness to listen to stories of a San Francisco she never knew.\n\nHer social life is quiet. She maintains a close bond with her mother, who still lives in the Sunset, and shares Sunday tea with a few other Russian caregivers. The dream of completing her history degree has faded, replaced by a more immediate aspiration: to one day have her own small apartment, a space separate from her work. She longs for a window overlooking the ocean, where she can read Chekhov in peace, a quiet life earned through a decade of caring for others."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, hit snooze once, then make a strong cup of coffee and look at the bay from the apartment window.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment, Marina District"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Quick jog along the waterfront path, enjoying the morning view of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in scrubs, and pack a lunch and work bag for the day.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment, Marina District"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to client's home, navigating traffic on Lombard and Van Ness.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "In-Car Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\u2695\ufe0f",
+                        "action": "Begin shift with elderly client. Assist with morning routine, medication reminders, and prepare breakfast.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Client's Residence, Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break. Eat packed lunch while chatting with the client as they have their meal.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Client's Residence, Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Afternoon care duties. Assist client with a short, slow walk for mobility and fresh air.",
+                        "geocode": {
+                            "lat": 37.79165,
+                            "lng": -122.4275889,
+                            "formatted_address": "Lafayette Park, Gough St &, Washington St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 180,
+                        "location": "Lafayette Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "End shift. Document patient's day in the agency's mobile app and ensure client is settled before leaving.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Client's Residence, Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive home, hitting the start of evening traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "In-Car Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly grocery shopping to restock the fridge.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 40,
+                        "location": "Safeway on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Attend a heated Vinyasa yoga class to de-stress and stretch after a physical day.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Ritual Hot Yoga on Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Meet a friend for a casual dinner and catch-up.",
+                        "geocode": {
+                            "lat": 37.8004003,
+                            "lng": -122.4405457,
+                            "formatted_address": "2250 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "Tacolicious on Chestnut Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down at home. Unpack, put away groceries, and watch an episode of a show on Netflix.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 65,
+                        "location": "Home Apartment, Marina District"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: brush teeth, set out scrubs for tomorrow, and read a few pages of a book before sleep.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment, Marina District"
+                    }
+                ],
+                "day_overview": "A busy day for Svetlana, balancing the demands of her CNA role with a private client in Pacific Heights with personal wellness and social time in her Marina neighborhood. The day includes a challenging commute, attentive patient care, and evening relaxation through yoga and dinner with a friend.",
+                "home_address": "3465 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8060726,
+                    "lng": -122.4401602,
+                    "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Kuznetsova Family"
+    }
+}

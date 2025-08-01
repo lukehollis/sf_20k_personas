@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Tanaka",
+    "givenName": "Liam",
+    "familyName": "Tanaka",
+    "jobTitle": "Line Cook",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Tanaka\u2019s world is a 500-foot walk. He lives in a small, rent-controlled studio in Mission Bay, an aging brick holdout dwarfed by the glass-and-steel monolith of Mythos Corp, the tech giant where he works. His commute is a daily reminder of the two San Franciscos he straddles.\n\nRaised in the fog-laced avenues of the Sunset District, Liam was the only son of third-generation Japanese American parents who ran a small, struggling dry-cleaning business. Their dream for him was simple and practical: get a business degree from SF State, take over the family shop, and achieve a stable, predictable life. Liam tried. For two years, he sat through lectures on marketing and accounting, the weight of his parents' unspoken expectations pressing down on him. The path felt less like a future and more like a cage.\n\nThe turning point was a quiet rebellion. He stopped registering for classes and, without telling his parents, took a job as a dishwasher at a bustling North Beach restaurant. The clatter, heat, and raw energy of the kitchen felt more honest than any classroom. It was there he discovered an unexpected passion. He watched the line cooks, admiring their precise, frantic ballet, and began to learn. He was a natural, his quiet focus translating perfectly to the craft.\n\nEventually, he leveraged that skill into a line cook position at Mythos Corp. The pay and benefits were better, an irony not lost on him. He had fled the corporate path only to end up serving gourmet lunches to the coders and venture capitalists living a life he couldn't imagine. His relationship with his father remains strained, a gulf of disappointment between them, though he speaks to his mother weekly.\n\nNow, Liam\u2019s days are a routine of intense, focused work. He expertly plates pan-seared salmon for people debating Series B funding. After his shift, he returns to his tiny apartment, often sketching out menus in a worn notebook. His dream is to save enough to one day buy a food truck. He envisions a modern izakaya on wheels, serving the Japanese comfort food of his childhood, but reimagined with the culinary skills he\u2019s honed. For Liam, San Francisco isn't about disruption or IPOs; it's about finding his own flavor and building something real, one plate at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up to alarm, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7775903,
+                            "lng": -122.4604931,
+                            "formatted_address": "148 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home at 148 Balboa St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Have a quick coffee and a piece of toast while chatting with his Mom.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Start the long 4.5-mile walk to work, listening to a true crime podcast.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Golden Gate Park Panhandle Trail"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the coworking space, change into chef whites, and clock in for his shift.",
+                        "geocode": {
+                            "lat": 37.775316,
+                            "lng": -122.4174374,
+                            "formatted_address": "1455 Market St UNIT 600, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "'The Daily Grind Cafe' at Mindspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2a",
+                        "action": "Morning prep (mise en place): chopping vegetables, prepping grains, and portioning proteins for the lunch menu.",
+                        "geocode": {
+                            "lat": 37.775316,
+                            "lng": -122.4174374,
+                            "formatted_address": "1455 Market St UNIT 600, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "Kitchen at 'The Daily Grind Cafe'"
+                    },
+                    {
+                        "emoji": "\ud83d\udd25",
+                        "action": "Work the lunch rush, preparing and plating salads, sandwiches, and grain bowls to order.",
+                        "geocode": {
+                            "lat": 37.775316,
+                            "lng": -122.4174374,
+                            "formatted_address": "1455 Market St UNIT 600, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "The Line at 'The Daily Grind Cafe'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a quick lunch break, eating a staff meal of leftover salmon and quinoa.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Staff Break Room"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Break down his station, thoroughly clean all surfaces, and prep for the following day.",
+                        "geocode": {
+                            "lat": 37.775316,
+                            "lng": -122.4174374,
+                            "formatted_address": "1455 Market St UNIT 600, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Kitchen at 'The Daily Grind Cafe'"
+                    },
+                    {
+                        "emoji": "\ud83c\udf07",
+                        "action": "Begin the long walk home, listening to a synth-pop playlist to unwind.",
+                        "geocode": {
+                            "lat": 37.7742823,
+                            "lng": -122.4359741,
+                            "formatted_address": "Fell St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Market Street to Fell Street Bike Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh noodles and bok choy for his family's dinner.",
+                        "geocode": {
+                            "lat": 37.7827054,
+                            "lng": -122.4668356,
+                            "formatted_address": "707 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Richmond New May Wah Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83d\udc86\u200d\u2642\ufe0f",
+                        "action": "Arrive home, take a long shower, and relax on the couch for a bit.",
+                        "geocode": {
+                            "lat": 37.7775903,
+                            "lng": -122.4604931,
+                            "formatted_address": "148 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home at 148 Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Eat dinner with his parents, sharing stories from their respective days.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Family Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83e\uddcb",
+                        "action": "Meet up with a childhood friend for a post-dinner bubble tea.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Feng Cha Teahouse on Clement St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfae",
+                        "action": "Wind down by playing a few rounds of a competitive video game online.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "His Bedroom"
+                    }
+                ],
+                "day_overview": "An early-rising line cook's day, focused on a physically demanding shift at a corporate cafe, bookended by long walks across the city for his commute, and ending with low-key socializing and family time in his Inner Richmond neighborhood.",
+                "home_address": "148 Balboa St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7775903,
+                    "lng": -122.4604931,
+                    "formatted_address": "148 Balboa St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

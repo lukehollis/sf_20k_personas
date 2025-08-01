@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aisha Johnson",
+    "givenName": "Aisha",
+    "familyName": "Johnson",
+    "jobTitle": "Public School Teacher",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Black or African American"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Education"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Aisha Johnson\u2019s story is woven into the very fabric of the Bay Area. Raised across the water in Oakland, she was the daughter of a union carpenter and a social worker, a household where conversations about community, equity, and hard work were as common as Sunday dinner. From a young age, Aisha was acutely aware of the invisible lines that divided neighborhoods and the systemic forces that shaped destinies. This awareness fueled a quiet, intense academic drive that led her to pursue a Master's degree in Urban Education at UC Berkeley.\n\nHer initial goal was policy. She envisioned herself analyzing data and shaping educational reform from a detached, macro level. The turning point came during a graduate internship, where she was assigned to a struggling middle school in San Francisco\u2019s Mission District. Faced with the vibrant, complicated, and underserved students, she realized policy papers felt sterile and distant. The real work, the work that mattered to her soul, was in the classroom. She pivoted her focus, earned her teaching credential, and never looked back.\n\nToday, Aisha is a beloved, if sometimes weary, 8th-grade history teacher at that same Mission District public school. Her \"commute\" is a three-block walk from her rent-controlled one-bedroom apartment, a cherished relic from her graduate school days. Her morning routine involves grabbing a coffee from a local panaderia, greeting familiar faces, and mentally preparing for the day under the watchful eyes of the neighborhood's vibrant murals. Her life is deeply integrated into the community she serves; her friends are fellow teachers, local artists she meets at Clarion Alley, and parents of her students.\n\nAisha\u2019s dream isn't fame or fortune, but sustainability. She hopes to one day launch a free, after-school program that uses local history and art to empower her students, giving them a stronger sense of place and identity amidst the city\u2019s frantic changes. Aisha Johnson remains a steadfast anchor in her corner of San Francisco, finding profound meaning in nurturing the city\u2019s most important asset: its next generation."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, make coffee, and check the morning news.",
+                        "geocode": {
+                            "lat": 37.7676755,
+                            "lng": -122.4503599,
+                            "formatted_address": "Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Cole St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Shower, get dressed, and pack a lunch and snacks for the day.",
+                        "geocode": {
+                            "lat": 37.7676755,
+                            "lng": -122.4503599,
+                            "formatted_address": "Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Cole St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to the station and take the N-Judah Muni Metro downtown.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Cole & Carl Muni Station"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Arrive at school, organize the classroom, and prepare today's lesson materials.",
+                        "geocode": {
+                            "lat": 37.7691924,
+                            "lng": -122.3856652,
+                            "formatted_address": "Bayfront Park, 16th Street &, Terry A Francois Blvd, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 50,
+                        "location": "Bayfront Public School"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udfeb",
+                        "action": "Lead the morning teaching block, focusing on English Language Arts and social studies.",
+                        "geocode": {
+                            "lat": 37.7691924,
+                            "lng": -122.3856652,
+                            "formatted_address": "Bayfront Park, 16th Street &, Terry A Francois Blvd, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 180,
+                        "location": "Her Classroom at Bayfront Public School"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Eat a packed lunch and decompress with fellow teachers in the staff lounge.",
+                        "geocode": {
+                            "lat": 37.7691924,
+                            "lng": -122.3856652,
+                            "formatted_address": "Bayfront Park, 16th Street &, Terry A Francois Blvd, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 35,
+                        "location": "Bayfront Public School Teacher's Lounge"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Lead the afternoon teaching block, covering math and a hands-on science experiment.",
+                        "geocode": {
+                            "lat": 37.7691924,
+                            "lng": -122.3856652,
+                            "formatted_address": "Bayfront Park, 16th Street &, Terry A Francois Blvd, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 160,
+                        "location": "Her Classroom at Bayfront Public School"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Stay after school to grade student assignments and plan tomorrow's lessons.",
+                        "geocode": {
+                            "lat": 37.7691924,
+                            "lng": -122.3856652,
+                            "formatted_address": "Bayfront Park, 16th Street &, Terry A Francois Blvd, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 90,
+                        "location": "Her Classroom at Bayfront Public School"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Take the crowded N-Judah Muni Metro back home to Cole Valley.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Montgomery St Muni Station"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop for a quick grocery run to pick up items for dinner.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Cole Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a de-stressing run to clear her head after a long day.",
+                        "geocode": {
+                            "lat": 37.7729862,
+                            "lng": -122.4459943,
+                            "formatted_address": "Panhandle, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Cook a stir-fry with the fresh vegetables and unwind while eating.",
+                        "geocode": {
+                            "lat": 37.7676755,
+                            "lng": -122.4503599,
+                            "formatted_address": "Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Cole St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a couple of episodes of a new streaming series.",
+                        "geocode": {
+                            "lat": 37.7676755,
+                            "lng": -122.4503599,
+                            "formatted_address": "Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Cole St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: lay out clothes for tomorrow and read a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7676755,
+                            "lng": -122.4503599,
+                            "formatted_address": "Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (Cole St Apartment)"
+                    }
+                ],
+                "day_overview": "A busy weekday for a public school teacher, balancing classroom demands with a commute across the city, while finding time for personal wellness and errands in her Cole Valley neighborhood.",
+                "home_address": "3208 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7676755,
+                    "lng": -122.4503599,
+                    "formatted_address": "Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Johnson Family"
+    }
+}

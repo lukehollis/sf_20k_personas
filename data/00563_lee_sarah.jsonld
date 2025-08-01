@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Lee",
+    "givenName": "Sarah",
+    "familyName": "Lee",
+    "jobTitle": "Project Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "The daughter of hardworking Korean immigrants who ran a San Jose dry-cleaning business, Sarah Lee grew up steeped in the values of pragmatism and sacrifice. She was expected to pursue a stable, lucrative career, but her heart was drawn to the abstract world of art. In a quiet act of rebellion, she enrolled at UC Santa Cruz, earning a bachelor's degree in Art History, much to her parents\u2019 dismay. She dreamed of a life curating museum collections, surrounded by beauty and historical narrative.\n\nReality hit hard after graduation. The art world was fiercely competitive and poorly paid. After a series of unfulfilling internships and retail jobs, a friend helped her land an administrative assistant role at a burgeoning tech startup in San Francisco during the second tech boom. It was meant to be temporary, a way to pay rent. However, Sarah discovered a surprising aptitude for organizing chaotic projects and managing disparate personalities. She was methodical, empathetic, and an excellent communicator\u2014skills that made her invaluable. She slowly but surely climbed the ladder to become a respected Project Coordinator.\n\nNow at 39, Sarah\u2019s life is a study in contrasts. Her 0.0-mile commute is a two-step journey from her bed to her desk in her cozy Inner Richmond apartment. Her days are a blur of Slack notifications, Gantt charts, and Zoom calls, coordinating engineers and designers from her sunlit living room. The work is stable and pays well, but it doesn't feed the part of her soul that once fell in love with Renaissance paintings.\n\nHer connection to San Francisco is intimate and hyperlocal. She\u2019s a regular at the small cafes on Clement Street and finds solace in long, foggy walks through Golden Gate Park, often ending up at the de Young Museum, where she wanders the galleries, a silent observer reconnecting with her first love. Her social life is a small, tight-knit circle of friends from various stages of her life.\n\nSarah\u2019s dream is no longer to escape her career but to merge her two worlds. She fantasizes about joining a tech company focused on the arts, perhaps one developing virtual museum tours or digital art archives. She\u2019s started taking pottery classes on weekends, a tangible, messy escape from her digital life, hoping to mold a future that honors both the practical woman she has become and the dreamer she once was."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf05",
+                        "action": "Wake up, check phone for urgent notifications and news headlines.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Quick yoga and stretching session using a YouTube guide in the living room.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make coffee and have a quick breakfast of toast and avocado with her partner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Navigate the morning traffic from North Beach to the Mission.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Streets (Columbus Ave -> Folsom St -> 17th St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at her dedicated desk, grab a complimentary coffee, and review daily priorities.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 20,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Lead the daily stand-up meeting via Zoom with the development team to track progress.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 45,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work block: updating the project Gantt chart and clearing the task backlog in Asana.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 150,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a salad for a healthy and quick lunch.",
+                        "geocode": {
+                            "lat": 37.7583991,
+                            "lng": -122.4210941,
+                            "formatted_address": "901 Valencia St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt (Valencia St)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Afternoon stakeholder meeting to present a project milestone update and gather feedback.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 90,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Respond to emails and Slack messages that accumulated during the meeting.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 90,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Pack up and drive home, listening to an NPR podcast to unwind.",
+                        "geocode": {
+                            "lat": 37.7632252,
+                            "lng": -122.423084,
+                            "formatted_address": "17th St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF Streets (17th St -> Van Ness Ave -> Bay St)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta and wine for dinner.",
+                        "geocode": {
+                            "lat": 37.8050802,
+                            "lng": -122.4254187,
+                            "formatted_address": "North Point St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Trader Joe's (North Point)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat dinner with her partner, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a new series on HBO Max.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: light reading and preparing her bag for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Sarah, balancing focused project coordination at her Mission coworking space with a relaxing evening at home in North Beach with her partner.",
+                "home_address": "1867 Columbus Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8067925,
+                    "lng": -122.4195657,
+                    "formatted_address": "1867 Columbus Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

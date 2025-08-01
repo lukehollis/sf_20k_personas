@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Isabella Rodriguez",
+    "givenName": "Isabella",
+    "familyName": "Rodriguez",
+    "jobTitle": "Senior Operations Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Isabella Rodriguez, a woman of Panamanian and Chinese heritage, grew up in a bustling household in the Richmond District. Her father, a pragmatic immigrant entrepreneur, ran a small grocery store, while her mother, a former teacher, instilled in Isabella a deep appreciation for education and resilience. Early life was a blend of helping out at the store and excelling in school, navigating a cultural landscape rich with varied traditions and expectations.\n\nIsabella's aptitude for logistics and problem-solving led her to pursue a Bachelor's degree in Business Administration. Her career trajectory has been one of measured ambition, starting with entry-level roles and steadily climbing the corporate ladder in the professional services sector. A significant turning point was her promotion to Senior Operations Manager, a role that leverages her strategic thinking and ability to navigate complex systems.\n\nHer personal life is grounded in strong relationships. A key figure is her younger sister, who remained in the Richmond and with whom Isabella shares a close bond. She also maintains a small, trusted circle of friends, many forged during her college years and early career, who navigate the city's dynamic landscape alongside her. While not married, Isabella values deep connection and enjoys shared experiences, from exploring the city's hidden gems to quiet evenings at home.\n\nIsabella's daily routine is a testament to her organized nature. Her walk to work through the vibrant streets of her neighborhood is a cherished ritual, offering a mindful start to her demanding day. Evenings often involve a home-cooked meal, a good book, or connecting with loved ones.\n\nHer connection to San Francisco runs deep. Having grown up within its diverse fabric, she appreciates its energy, innovation, and cultural richness. She finds particular comfort in her walkable neighborhood, enjoying its local businesses and sense of community. Looking ahead, Isabella aspires to use her expertise to mentor young professionals and perhaps leverage her operational skills for a non-profit organization focused on community development within the city she calls home. Her dreams are not of grand fortune, but of continued growth, meaningful contribution, and a life lived with purpose within the vibrant confines of San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.  The smell of dried mushrooms and the clang of the metal register were the soundtrack to her childhood. One Saturday morning, her father let her weigh ginger on the old scale, showing her how the needle wavered before settling. She felt a quiet pride, a sense of being part of something vital, learning the rhythm of commerce even then. It was a first lesson in tangible contribution. (Childhood)\n\n2.  Walking home from the 38 bus one rainy evening in college, a friend suddenly stopped under a streetlight and shared a vulnerability she'd never expressed before. Isabella listened, offering simple presence. In that moment, the city felt vast and shared, and their friendship deepened into something resilient, teaching her the value of quiet empathy over quick fixes. (Early adulthood)\n\n3.  Receiving the email confirming her Senior Operations Manager promotion. Sitting at her small kitchen table, rereading the words, a wave of quiet satisfaction washed over her. It wasn't a loud triumph, but a deep sense of earned progress, confirming her ability to navigate complexity and validating years of focused effort. (Mid-career)\n\n4.  Sharing a Panamanian sancocho her mother taught her to make with her sister and a few close friends on her small patio. The familiar flavors and laughter against the backdrop of the city lights created a feeling of profound belonging and continuity. It was a moment of grounding, weaving together heritage, family, and chosen community. (Adulthood)\n\n5.  Helping a young colleague navigate a particularly challenging project roadblock. Seeing the light dawn in their eyes as they found a solution, guided by her insights, sparked a clear desire within her. It wasn't about managing tasks, but building capacity in others, a seed planted for her future aspirations of mentorship and community impact. (Mid-career)"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, morning meditation, and a quick check of personal emails.",
+                        "geocode": {
+                            "lat": 37.754332,
+                            "lng": -122.3840948,
+                            "formatted_address": "223 24th St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 223 24th St"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Enjoy freshly brewed coffee and chat about the day ahead with her partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning prep: shower, get dressed, and pack her work bag.",
+                        "geocode": {
+                            "lat": 37.754332,
+                            "lng": -122.3840948,
+                            "formatted_address": "223 24th St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 223 24th St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk to work, listening to an tech industry podcast to catch up on trends.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Walk from Noe Valley to Potrero Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, review overnight system alerts and the daily operations dashboard.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "ZSFG Tech Operations Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead the daily stand-up meeting with her IT operations team to set priorities.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "ZSFG Conference Room 3A"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Strategic planning session for the upcoming Electronic Health Record (EHR) system migration.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "ZSFG Executive Boardroom"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy lunch bowl to eat at her desk while catching up on emails.",
+                        "geocode": {
+                            "lat": 37.7640791,
+                            "lng": -122.4622341,
+                            "formatted_address": "401 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Daily Dose Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Focused work block: Finalizing Q3 operations budget and reviewing service level agreements.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 150,
+                        "location": "ZSFG Tech Operations Center"
+                    },
+                    {
+                        "emoji": "\ud83d\ude91",
+                        "action": "Handle an urgent request from the Emergency Department regarding a network connectivity issue.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "ZSFG Tech Operations Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Walk home, using the time to call and catch up with her sister.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Walk from Potrero Hill to Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for ingredients for tonight's dinner and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7515658,
+                            "lng": -122.4280044,
+                            "formatted_address": "3821 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 15,
+                        "location": "Noe Valley Wine & Spirits"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Evening wind-down yoga class to stretch and de-stress from the day.",
+                        "geocode": {
+                            "lat": 37.7511829,
+                            "lng": -122.4329994,
+                            "formatted_address": "4049 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Yoga Flow Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a delicious dinner and eat with her partner, sharing stories from their day.",
+                        "geocode": {
+                            "lat": 37.754332,
+                            "lng": -122.3840948,
+                            "formatted_address": "223 24th St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - 223 24th St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a new documentary series.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a novel before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.754332,
+                            "lng": -122.3840948,
+                            "formatted_address": "223 24th St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 223 24th St"
+                    }
+                ],
+                "day_overview": "A structured and demanding day for Isabella, balancing high-stakes tech operations at SF General Hospital with a healthy routine of walking, yoga, and quality time with her partner in their Noe Valley neighborhood.",
+                "home_address": "223 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.754332,
+                    "lng": -122.3840948,
+                    "formatted_address": "223 24th St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

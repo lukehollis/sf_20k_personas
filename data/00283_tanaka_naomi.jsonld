@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Naomi Tanaka",
+    "givenName": "Naomi",
+    "familyName": "Tanaka",
+    "jobTitle": "Production Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Naomi Tanaka is a product of two worlds. The daughter of a precise sushi chef and a creative florist who emigrated from Fukuoka, she was raised in the quiet, manicured suburbs of San Mateo. Her childhood was a gentle rhythm of high expectations and unspoken sacrifices, her parents instilling in her a deep appreciation for both meticulous process and natural beauty. This duality led her to UC Santa Cruz, where she eschewed a practical major and dove into a Bachelor's degree in Art History, captivated by the stories objects could tell.\n\nThe reality after graduation was a jarring wake-up call. The Bay Area had little room for art historians who needed to pay rent. A key turning point came during a tense phone call with her father, who gently questioned when her passion would become a profession. Feeling the pressure, Naomi took a temp job as a project coordinator at a burgeoning San Francisco tech startup, recommended by a college friend. To her surprise, she thrived. The skills she\u2019d honed analyzing artistic movements\u2014identifying patterns, understanding timelines, and communicating complex ideas\u2014translated perfectly to managing production schedules. She discovered a knack for being the calm, organized bridge between chaotic creatives and logical engineers.\n\nNow, at 33, Naomi is a successful Production Manager, her career built on a foundation she never planned. Her apartment in the Inner Richmond doubles as her office. Her 0.0-mile commute is a ritualistic morning walk to a Clement Street cafe for a matcha latte, a small act that separates home from work. Days are a flurry of Slack notifications and video calls, orchestrating product launches from her second bedroom.\n\nHer social life is a tight-knit circle of friends from her early tech days. Dating is a landscape of apps she navigates with the efficiency of a project manager, often finding it more work than pleasure. San Francisco is her chosen home, the fog-laced streets of her neighborhood a comfort, and the proximity to Golden Gate Park a necessary escape from screen time. Her dream isn\u2019t to climb higher up the corporate ladder, but to save enough to one day open a small, curated gallery or workshop\u2014a space that finally reunites the two halves of herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, make the bed, and have a glass of water with lemon.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mission District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Quick morning yoga and stretching routine using a YouTube video.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mission District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a smart-casual tech outfit, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mission District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk north on Valencia Street, listening to a product management podcast to get in the zone.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Valencia Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, grab a sparkling water, and review project dashboards to set daily priorities.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 30,
+                        "location": "Anchor Coworking"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead the daily virtual stand-up meeting with the dev and design teams to identify and resolve blockers.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 45,
+                        "location": "Anchor Coworking"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep focus work session: updating project tickets in Jira and building out the next sprint's timeline.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 150,
+                        "location": "Anchor Coworking"
+                    },
+                    {
+                        "emoji": "\ud83e\udd59",
+                        "action": "Meet a friend from another tech company for a quick salad and frozen Greek yogurt.",
+                        "geocode": {
+                            "lat": 37.7765267,
+                            "lng": -122.4249906,
+                            "formatted_address": "517 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Souvla Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Afternoon work block: 1-on-1 calls with individual developers and responding to stakeholder emails.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 150,
+                        "location": "Anchor Coworking"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Pack up, tidy desk, and make a to-do list for tomorrow to ensure a smooth start.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 15,
+                        "location": "Anchor Coworking"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Walk home, switching from a podcast to a curated Spotify playlist to unwind from the workday.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Market Street to Mission Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Drop bag at home, change into workout gear, and grab a quick protein bar.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Mission District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "De-stress with a bouldering session, working on a few tricky V3 problems.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs Climbing and Fitness"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Meet a friend for authentic Mexican tortas and agua frescas to refuel after climbing.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Weekly video call with her parents who live out of state to catch up.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mission District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, scrolling through social media and reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mission District Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Naomi, blending focused work at her coworking space with a long, scenic walk through the city, and capped off with a bouldering session and dinner with a friend in her vibrant Mission neighborhood.",
+                "home_address": "3145 24th St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7522778,
+                    "lng": -122.4150062,
+                    "formatted_address": "3145 24th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1991",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

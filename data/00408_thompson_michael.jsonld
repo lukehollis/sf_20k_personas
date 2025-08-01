@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Michael Thompson",
+    "givenName": "Michael",
+    "familyName": "Thompson",
+    "jobTitle": "Production Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown Resident (indicates geographical location, not an ethnic tribe in this context)"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Michael Thompson\u2019s life is contained within a ten-block radius of his apartment in the Mission District. At 38, his 0.0-mile commute is a testament to the structured, digital world he manages, a stark contrast to his upbringing in Dayton, Ohio. Raised by a pragmatic machinist father and a librarian mother, Michael was a quiet, observant kid who preferred sketching cityscapes to playing sports. He saw cities as complex, living organisms, a fascination that led him to UC Berkeley to study Urban Planning.\n\nHe arrived in the Bay Area full of ideals, ready to design better public spaces. The reality of the post-graduation job market, however, was a brutal turning point. With planning jobs scarce, a desperate Michael took a temp gig as a project coordinator at a burgeoning tech startup. He discovered that his knack for seeing systems and creating order was perfectly suited to managing digital production pipelines. He was pragmatic, like his father, and climbed the ladder steadily, shelving his old dreams for a steady paycheck and career stability.\n\nToday, Michael is a Production Manager, his days dictated by Slack notifications and video calls. His apartment, a clean, minimalist space, is both his office and his sanctuary. The morning starts with a meticulous pour-over coffee routine before he logs on, wrangling developers and content creators across time zones.\n\nThe end of the workday is a release. He trades his desk chair for running shoes, pounding the pavement to Dolores Park, the neighborhood\u2019s vibrant heart. His social life, once tethered to a long-term relationship that ended last year, is now being rebuilt around casual trivia nights at a local bar and weekly dinners with a small group of friends. He knows the best taquerias by name and is a regular at his corner cafe.\n\nThough successful, a quiet restlessness persists. Michael feels detached from the tangible world he once dreamed of shaping. His future aspiration is to bridge his two lives: to find a role in civic tech, using his production management skills to build tools that improve urban life. He yearns to once again feel the solid, satisfying click of contributing not just to a product, but to a place."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check overnight Slack messages and emails for urgent production issues.",
+                        "geocode": {
+                            "lat": 37.8008679,
+                            "lng": -122.4393809,
+                            "formatted_address": "3330 Pierce St # 102, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Marina Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a brisk run along the waterfront for some morning exercise and fresh air.",
+                        "geocode": {
+                            "lat": 37.8036909,
+                            "lng": -122.4685139,
+                            "formatted_address": "Crissy Field Ave, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 45,
+                        "location": "Crissy Field Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.8008679,
+                            "lng": -122.4393809,
+                            "formatted_address": "3330 Pierce St # 102, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Marina Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from the Marina to the Financial District, listening to a tech podcast to catch up on industry news.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Lombard St to FiDi Commute"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle in at desk, grab coffee, and review project dashboards (Jira/Asana) to set daily priorities.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Synergy Tech Solutions Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the daily stand-up meeting with the production team to track progress and resolve blockers.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Synergy Tech Solutions Conference Room 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy lunch bowl to eat back at his desk while catching up on emails.",
+                        "geocode": {
+                            "lat": 37.7908742,
+                            "lng": -122.3975646,
+                            "formatted_address": "30 Fremont St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "Tender Greens"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a cross-functional strategy meeting with Product and Engineering leads to align on the next quarter's roadmap.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Synergy Tech Solutions Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work time: Adjusting production schedules, providing feedback on deliverables, and writing up status reports for leadership.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Synergy Tech Solutions Office"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, navigating the evening rush hour out of downtown.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Financial District to Marina Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly groceries and to pick up a few essentials for dinner.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Marina Safeway"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Unwind from the day, cook a simple dinner, and eat while catching up on the news.",
+                        "geocode": {
+                            "lat": 37.8008679,
+                            "lng": -122.4393809,
+                            "formatted_address": "3330 Pierce St # 102, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Marina Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Weekly phone call with his parents to catch up.",
+                        "geocode": {
+                            "lat": 37.8008679,
+                            "lng": -122.4393809,
+                            "formatted_address": "3330 Pierce St # 102, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Marina Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a series on a streaming service before bed.",
+                        "geocode": {
+                            "lat": 37.8008679,
+                            "lng": -122.4393809,
+                            "formatted_address": "3330 Pierce St # 102, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Marina Apartment"
+                    }
+                ],
+                "day_overview": "A busy day for a tech Production Manager, involving intense project meetings in the Financial District, a traffic-heavy commute by car, and unwinding with errands and a call to family in his Marina neighborhood.",
+                "home_address": "3721 Lombard St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7984793,
+                    "lng": -122.4473617,
+                    "formatted_address": "3721 Lombard St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

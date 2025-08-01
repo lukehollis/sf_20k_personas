@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "James Thompson",
+    "givenName": "James",
+    "familyName": "Thompson",
+    "jobTitle": "Restaurant Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "James Thompson\u2019s life is a testament to the magnetic pull of a city. Raised in the predictable suburbs of Sacramento, his family valued stability and practicality. He was pushed towards a business degree at Sacramento State, a path he dutifully followed for two years. However, weekend trips to San Francisco ignited a dormant artistic sensibility he couldn't ignore. The city\u2019s vibrant, chaotic energy felt more like home than his childhood bedroom ever did.\n\nThe turning point came at 21. After seeing a confrontational performance art piece in the Mission, he dropped out of college, packed a single duffel bag, and moved into a crowded shared apartment in the Haight. He swapped business textbooks for bar towels, taking any job he could find in the city's demanding hospitality industry. He wasn't a great artist, but he discovered he had a genius for orchestrating the creative chaos of others. His natural knack for managing difficult personalities and logistical nightmares saw him rise from bartender to assistant manager and, eventually, to his current role.\n\nNow 41, James manages the sleek, upscale restaurant inside a prominent SoMa art museum. His 0.0-mile commute is a short walk from his minimalist loft, a space that doubles as his sanctuary. His days are a blur of inventory checks, staff scheduling, and smoothing over the egos of both chefs and art patrons. His social life is deeply intertwined with his work; his closest friends are a mix of sommeliers, line cooks, and the emerging artists he meets at gallery openings. A long-term relationship with a sculptor ended amicably a few years ago, leaving him comfortably single but not lonely.\n\nJames\u2019s connection to San Francisco is symbiotic; the city gave him a purpose, and he helps create the refined experiences that define its culture. He dreams of one day opening his own small, intimate space\u2014a supper club where the art on the walls, curated by him, is just as important as the food on the plate. It would be the ultimate expression of his journey: the business acumen he was meant to have, finally serving the artistic passion he discovered."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a strong pour-over coffee, and check local arts and food blogs.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Reviewing overnight sales reports from the cafe and responding to urgent supplier emails.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Begin the energizing walk to work, listening to a hospitality industry podcast.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Church St through the Mission District"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Morning huddle with the kitchen and front-of-house staff, discussing daily specials and event prep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Kape at Kwento Cafe (at Balay Kreative)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Check inventory levels and place daily orders for produce and baked goods with local vendors.",
+                        "geocode": {
+                            "lat": 37.7284681,
+                            "lng": -122.3667719,
+                            "formatted_address": "451 Galvez Ave Administrative Offices Dean, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 60,
+                        "location": "Cafe Storeroom"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Actively manage the floor during the bustling lunch rush, assisting staff and engaging with guests.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Kape at Kwento Cafe Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Take a quick lunch break, eating a chicken adobo rice bowl from the cafe's kitchen.",
+                        "geocode": {
+                            "lat": 37.7952708,
+                            "lng": -122.395987,
+                            "formatted_address": "100 Drumm St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Cafe Staff Break Area"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Handle administrative tasks including weekly staff scheduling and processing invoices.",
+                        "geocode": {
+                            "lat": 37.7830207,
+                            "lng": -122.4059085,
+                            "formatted_address": "863 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Back Office at Balay Kreative"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Meet with the Balay Kreative arts curator to plan the menu for an upcoming gallery opening reception.",
+                        "geocode": {
+                            "lat": 37.7830207,
+                            "lng": -122.4059085,
+                            "formatted_address": "863 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Balay Kreative Meeting Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf06",
+                        "action": "Walk home, taking the Valencia Street route to decompress and enjoy the evening street art.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Valencia Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for some essentials for the week.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Whole Foods Market on 24th St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Meet up with a friend for a post-work cocktail and catch up.",
+                        "geocode": {
+                            "lat": 37.7678909,
+                            "lng": -122.4291776,
+                            "formatted_address": "198 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Churchill"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner while listening to music.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a documentary on a streaming service before bed.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A busy and dynamic day for a restaurant manager at an arts hub, balancing operational duties with creative collaboration, punctuated by long city walks for exercise and reflection.",
+                "home_address": "1300 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7500028,
+                    "lng": -122.4274909,
+                    "formatted_address": "1300 Church St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

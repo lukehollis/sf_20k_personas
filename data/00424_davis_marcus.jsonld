@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Marcus Davis",
+    "givenName": "Marcus",
+    "familyName": "Davis",
+    "jobTitle": "Manufacturing Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Marcus Davis is a product of the American Rust Belt, a reality that shapes his every ambition. Growing up in a quiet suburb of Cleveland, Ohio, he watched his father, a proud automotive factory worker, navigate the slow-motion collapse of the industry that had defined their town. Marcus\u2019s childhood was filled not with video games, but with taking apart broken lawnmowers and radios, driven by a need to understand how tangible things worked\u2014and how they could be made better. This practical curiosity led him to pursue a Bachelor's degree in Mechanical Engineering at Ohio State University, where he excelled in process optimization and robotics.\n\nThe turning point came during his junior year with a coveted summer internship at Aura Labs, a major tech hardware company in San Francisco. The city was a shock to his system\u2014a vibrant, chaotic universe away from the predictable grid of the Midwest. Thrown into a team designing the manufacturing process for a new augmented reality headset, Marcus found his calling. His grounded, practical mindset was a valuable asset in a world of blue-sky thinkers. He returned to Ohio for his final year with a full-time job offer in hand.\n\nNow, at 25, Marcus\u2019s life is a case study in efficiency. He lives in a sleek, minimalist apartment in Dogpatch, a neighborhood whose blend of old industrial warehouses and new tech campuses mirrors his own journey. His 0.0-mile commute is a short walk to the Aura Labs campus, where he spends long hours refining assembly lines, troubleshooting robotic arms, and shaving milliseconds off production times. His social life revolves around his work colleagues, sharing takeout dinners and debating yield rates.\n\nWhile he appreciates San Francisco for the opportunity it represents, he feels more like an occupant than a resident. He\u2019s seen the Golden Gate Bridge once and finds the city's vibrant counter-culture baffling. His dream isn\u2019t to launch a disruptive startup, but to perfect a manufacturing system so elegant and resilient that it becomes the new industry standard\u2014a modern tribute to the factory floor his father once walked. Marcus is a builder in a city of coders, a man focused on the physical creation of the future, still quietly assembling the pieces of his own life."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check phone for notifications, and start the coffee machine.",
+                        "geocode": {
+                            "lat": 37.7597234,
+                            "lng": -122.3877473,
+                            "formatted_address": "958 Illinois St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bedroom/Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38",
+                        "action": "Quick bodyweight workout and stretching session in the living room.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for work, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Bathroom/Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of Greek yogurt and granola while reviewing personal emails.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from Noe Valley to Cow Hollow, listening to a tech podcast to catch up on industry news.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "City Streets & Van Ness Avenue"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, settle in, join the daily engineering stand-up meeting, and respond to urgent emails.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 90,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd0",
+                        "action": "Focused CAD work: Refining the design for a new product enclosure in SolidWorks.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a quick and healthy lunch bowl.",
+                        "geocode": {
+                            "lat": 37.8000397,
+                            "lng": -122.4410062,
+                            "formatted_address": "3258 Scott St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Pluto's on Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Hands-on lab work: Calibrating the Markforged 3D printer and running test prints of new components.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 180,
+                        "location": "AvantSpace Hardware Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute home, dealing with the typical end-of-day San Francisco traffic.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Lombard Street & City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a weekly grocery stock-up before heading home.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "Whole Foods Market on 24th Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Unpack groceries, cook a chicken and vegetable stir-fry, and eat dinner while unwinding.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk to meet a friend for a casual weeknight drink and catch up.",
+                        "geocode": {
+                            "lat": 37.7623472,
+                            "lng": -122.4350194,
+                            "formatted_address": "401 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Twin Peaks Tavern, Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: Tidy up the kitchen, watch an episode of a series on Netflix, and read a few pages of a sci-fi novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room/Bedroom"
+                    }
+                ],
+                "day_overview": "A busy and productive weekday for Marcus, a Manufacturing Engineer. The day involves a cross-town commute, a mix of computer-based design work and hands-on lab prototyping, followed by an evening of errands, home-cooked dinner, and socializing with a friend in his neighborhood.",
+                "home_address": "2243 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7509634,
+                    "lng": -122.4273907,
+                    "formatted_address": "2243 Church St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

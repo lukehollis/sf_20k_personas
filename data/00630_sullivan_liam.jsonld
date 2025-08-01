@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Sullivan",
+    "givenName": "Liam",
+    "familyName": "Sullivan",
+    "jobTitle": "Senior Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Sullivan\u2019s life is a story of finding patterns, first in language and then in the digital ether. Raised in the orderly suburbs of Minneapolis, the son of a pragmatic accountant and a history teacher, Liam was a quiet child fascinated by systems. While his peers played sports, he was diagramming sentences and trying to understand the underlying logic of grammar, a precursor to his fascination with code.\n\nHis intellectual curiosity led him to pursue a Master's in Computational Linguistics at Stanford, a degree that perfectly married his love for the chaotic beauty of human language with the rigid logic of algorithms. The move to California was a shock, but the pull of Silicon Valley was undeniable. He was hired straight out of his program by a rising tech firm, quickly distinguishing himself by developing models that could predict user behavior with uncanny accuracy.\n\nThe key turning point in Liam's life wasn't a promotion, but the company-wide shift to permanent remote work. Suddenly untethered from an office, he chose to stay in San Francisco, drawn to the city's vibrant energy. He settled into a sleek apartment in Hayes Valley, which now serves as both his home and his command center. His 0.0-mile commute gives his days a distinct rhythm: a morning walk to a local cafe for a flat white, long, focused blocks of coding, and a deliberate effort to leave his apartment each evening, either for a run through the Panhandle or dinner with his small, tight-knit group of friends\u2014mostly fellow tech professionals who share his passion for hiking and esoteric board games.\n\nNow 31 and a Senior Data Scientist, Liam feels a growing desire for his work to have a more tangible impact. He dreams of applying his skills to urban planning or climate change modeling, to find the hidden patterns that could solve real-world problems. While he values his curated solitude, he yearns for a deeper personal connection, hoping to find a partner who understands both his analytical mind and his quiet, hopeful heart. San Francisco, for Liam, is no longer just a career destination; it's the complex, challenging dataset he is trying to make his home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, start espresso machine, and listen to a daily tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7420136,
+                            "lng": -122.503543,
+                            "formatted_address": "3494 Taraval St, San Francisco, CA 94122"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Reviewing overnight model runs and checking team Slack channels while eating a quick breakfast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to the office, listening to an audiobook to make the traffic more bearable.",
+                        "geocode": {
+                            "lat": 37.78272260000001,
+                            "lng": -122.4783684,
+                            "formatted_address": "280 19th Ave, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 55,
+                        "location": "Car on 19th Ave & I-280"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab a second coffee, and quickly sync with the team before the daily stand-up meeting.",
+                        "geocode": {
+                            "lat": 37.7844452,
+                            "lng": -122.4049522,
+                            "formatted_address": "814 Mission St 5th floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 20,
+                        "location": "ThoughtWorks, Inc."
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Feature engineering and building a new machine learning model for a client project.",
+                        "geocode": {
+                            "lat": 37.7844452,
+                            "lng": -122.4049522,
+                            "formatted_address": "814 Mission St 5th floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 150,
+                        "location": "Desk at ThoughtWorks"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick lunch to-go and eat at a nearby park to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Sentinel Sandwiches & Yerba Buena Gardens"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Stakeholder meeting to present Q3 data findings and align on next steps for the data pipeline.",
+                        "geocode": {
+                            "lat": 37.7844452,
+                            "lng": -122.4049522,
+                            "formatted_address": "814 Mission St 5th floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "Conference Room 'Ada' at ThoughtWorks"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Paired programming session to mentor a junior data scientist on a complex data visualization library.",
+                        "geocode": {
+                            "lat": 37.7844452,
+                            "lng": -122.4049522,
+                            "formatted_address": "814 Mission St 5th floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 90,
+                        "location": "ThoughtWorks, Inc."
+                    },
+                    {
+                        "emoji": "\ud83d\uddd2\ufe0f",
+                        "action": "Wrap up day's work, push code to repository, and plan tasks for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7844452,
+                            "lng": -122.4049522,
+                            "formatted_address": "814 Mission St 5th floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 25,
+                        "location": "Desk at ThoughtWorks"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Commute home, navigating the evening rush hour out of downtown.",
+                        "geocode": {
+                            "lat": 37.7962244,
+                            "lng": -122.3799173,
+                            "formatted_address": "I-80, San Francisco, CA, USA"
+                        },
+                        "duration": 65,
+                        "location": "Car on I-80 & city streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for fresh produce and essentials for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7528602,
+                            "lng": -122.5035591,
+                            "formatted_address": "3701 Noriega St Unit A, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market, Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "De-stress with a scenic jog along the coast to clear his head after a long day.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Great Highway Path at Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner while video-calling with his partner to catch up on their days.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a new sci-fi series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, reading a non-fiction book before going to sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive day for Liam, a Senior Data Scientist, involving deep-focus work and team collaboration in SoMa, bookended by a long, traffic-heavy car commute from his Outer Sunset home. The evening is dedicated to decompressing with a run along Ocean Beach and a quiet night in.",
+                "home_address": "3494 Taraval St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7420136,
+                    "lng": -122.503543,
+                    "formatted_address": "3494 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sullivan Family"
+    }
+}

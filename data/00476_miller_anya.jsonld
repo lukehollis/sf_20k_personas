@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anya Miller",
+    "givenName": "Anya",
+    "familyName": "Miller",
+    "jobTitle": "Case Manager Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anya Miller\u2019s story is woven into the fabric of the Bay Area\u2019s working-class grit. Raised in Daly City by her Salvadorean mother, a seamstress, and her Anglo-American father, a Muni driver, Anya grew up navigating two cultures and one constant truth: you work hard for what you have. She was the family\u2019s pragmatic anchor, the one who translated documents for relatives and managed household budgets from a young age. Seeking a stable future, she earned an Associate's degree in Business Administration from City College, envisioning a quiet life in an office.\n\nThe true turning point came not in a classroom, but in a hospital room. When her father suffered a debilitating stroke in his late fifties, Anya became his primary advocate and caregiver. She spent years untangling the labyrinth of insurance claims, scheduling specialist appointments, and fighting for adequate care. In the frustration and exhaustion, she discovered her true calling: she was a natural navigator for people lost in the system. The business degree was forgotten; the hands-on experience of caregiving had forged a new path.\n\nToday, at 44, Anya lives a life few San Franciscans see. Her 0.0-mile commute is literal: she resides in a small staff apartment within the Tenderloin supportive housing complex where she works as a Case Manager Assistant. Her days are a blur of compassionate efficiency\u2014checking in on residents, helping them get to medical appointments, sorting out pharmacy issues, and offering a steady, calming presence amidst frequent crises. Her clients, battling everything from chronic illness to addiction, are her community. Her colleagues are her closest friends.\n\nHer personal life is quiet. She calls her widowed mother every evening and meets a co-worker for coffee on Saturdays at a corner cafe, a small ritual of normalcy. Anya\u2019s dreams are not grand; they are grounded. She hopes to one day earn a social work certification to become a full Case Manager. More privately, she yearns for a small, quiet apartment of her own in the Sunset District, a place where she can hear the foghorns and finally separate the woman from the work, creating a sanctuary just for herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, start coffee, and do a 10-minute stretching routine to get the day started.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home on Diamond St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Enjoy coffee and a bowl of yogurt with granola while catching up on the news with her partner.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home on Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack her bag for the day.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk down the hill to the N Judah Muni stop.",
+                        "geocode": {
+                            "lat": 37.76936,
+                            "lng": -122.43356,
+                            "formatted_address": "Duboce St & Noe St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 10,
+                        "location": "Duboce & Noe Station"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Ride the N Judah train a few stops up the hill to Parnassus.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "N Judah Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc2",
+                        "action": "Settle in at her desk, review the daily patient schedule, and prioritize incoming requests.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Parnassus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Handle patient calls, schedule follow-up appointments, and coordinate with nurses.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Parnassus Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy lunch to recharge for the afternoon.",
+                        "geocode": {
+                            "lat": 37.7633464,
+                            "lng": -122.4573282,
+                            "formatted_address": "505 Parnassus Ave #294, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "Moffitt Cafe at UCSF"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Process patient intake forms and ensure medical records are updated accurately.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Parnassus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Attend a weekly case management team huddle to discuss complex cases and departmental updates.",
+                        "geocode": {
+                            "lat": 37.7847222,
+                            "lng": -122.4016667,
+                            "formatted_address": "720 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Finalize notes for the day and prepare a to-do list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Parnassus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Catch the free UCSF employee shuttle from Parnassus down toward the lower campus.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "UCSF Blue Line Shuttle"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh vegetables and chicken for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7606704,
+                            "lng": -122.4365066,
+                            "formatted_address": "4201 18th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mollie Stone's Market on Castro"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner with her partner while talking about their respective days.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home on Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Take a relaxing evening stroll with her partner and their dog.",
+                        "geocode": {
+                            "lat": 37.76955100000001,
+                            "lng": -122.433214,
+                            "formatted_address": "Duboce Park, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 40,
+                        "location": "Duboce Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down by watching an episode of a favorite TV series together.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home on Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Diamond St"
+                    }
+                ],
+                "day_overview": "A busy but structured day for a healthcare professional, balancing demanding patient-related work at UCSF with a community-focused evening of errands and quality time with her partner in their Duboce Triangle neighborhood.",
+                "home_address": "35 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7617819,
+                    "lng": -122.437184,
+                    "formatted_address": "035 Diamond St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Thompson",
+    "givenName": "Sarah",
+    "familyName": "Thompson",
+    "jobTitle": "Management Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Thompson\u2019s life has been an exercise in finding order within chaos, a skill honed not in an MBA program, but through a Master\u2019s in Library and Information Science from UC Berkeley. Raised in Portland, Oregon, by a pragmatic engineer father and a literature-loving mother, Sarah grew up straddling the worlds of logic and narrative. She found comfort in the Dewey Decimal System, seeing it as a beautiful, intricate map for all human knowledge.\n\nHer early career saw her applying this unique perspective not to libraries, but to the burgeoning tech landscape of the late 90s. She became a management consultant, her specialty being the untangling of complex organizational structures and workflows. She was brilliant at it, transforming corporate chaos into elegant, efficient systems. For fifteen years, she was a road warrior for a top-tier firm, a life of airport lounges and hotel rooms that ultimately cost her her marriage and led to a severe burnout at age 38.\n\nThat crisis was her turning point. Sarah left the firm, went independent, and vowed never again to let her work consume her life. Today, she operates from the quiet sanctuary of her Cole Valley flat, her commute a 0.0-mile walk from her bedroom to her meticulously organized home office. Her days are structured and serene. A morning walk through the eucalyptus-scented paths of the Presidio, followed by deep-focus work for a select handful of clients. Evenings are for pilates, a glass of wine with a neighbor, or quietly reading by her bay window as the fog rolls in.\n\nHer connection to San Francisco is now hyperlocal. She knows the baristas at her local cafe by name and has a running tab at the neighborhood bookstore. Having conquered the corporate world, her aspirations are more personal. She dreams of traveling not for business, but for pleasure\u2014to see the ancient libraries of Europe. She\u2019s also begun a passion project: creating a digital archive for a local historical society, finally using her degree for its original purpose. Sarah has found her balance, curating a life as thoughtfully as she once curated corporate strategies."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, meditate, and review daily goals.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 3816 Haight St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew pour-over coffee from Ritual beans and have a light breakfast.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 3816 Haight St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a refreshing morning run through the Panhandle and into Golden Gate Park.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and get dressed in business casual for video calls.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - 3816 Haight St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Commute to work: Settle into the home office, organize workspace, and triage emails.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office - 3816 Haight St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Finalize Q3 strategy presentation deck for a key tech client.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office - 3816 Haight St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to pick up a healthy, pre-ordered salad for lunch.",
+                        "geocode": {
+                            "lat": 37.6172452,
+                            "lng": -122.3814042,
+                            "formatted_address": "173 Airport Access Rd, San Francisco, CA 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Plant Cafe Organic"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead a critical video conference call with a client's executive team.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office - 3816 Haight St"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Draft follow-up summary, delegate action items, and update project management software.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office - 3816 Haight St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Commute home: Log off from work systems and tidy up the home office to create a mental shift.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office - 3816 Haight St"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery run for wine and breakfast items.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd42",
+                        "action": "Walk to meet a close friend for dinner in Cole Valley.",
+                        "geocode": {
+                            "lat": 37.7652402,
+                            "lng": -122.4500965,
+                            "formatted_address": "941 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "Zazie"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Wind down at home listening to a podcast and prepping for the next day.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 3816 Haight St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Read a book before bed.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - 3816 Haight St"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a management consultant in Haight-Ashbury, blending intense client work with local errands, a rejuvenating run in Golden Gate Park, and a relaxing dinner with a friend in nearby Cole Valley.",
+                "home_address": "3816 Haight St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7704508,
+                    "lng": -122.4435675,
+                    "formatted_address": "Haight St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

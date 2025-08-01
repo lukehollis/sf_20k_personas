@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Office Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller, a sturdy 39-year-old, navigates the complexities of modern San Francisco life as an office manager. His roots are firmly planted in the East Bay, a childhood spent in a modest suburban home in Walnut Creek. His parents, a pragmatic bookkeeper and a hardworking electrician, instilled in him a strong sense of responsibility and the value of a steady job. While higher education wasn't heavily emphasized, David found his niche in high school with a natural inclination towards organization and efficiency, skills that would later define his career path.\n\nAfter graduating, David spent a few years working various administrative roles, discovering a knack for keeping things running smoothly. He found his current position in a professional services firm almost by chance, starting as an administrative assistant and working his way up to office manager over a decade. His $75,000 income provides a comfortable, though not extravagant, life in the city.\n\nA significant turning point was relocating to San Francisco in his late twenties. The vibrant energy and diverse culture captivated him, a stark contrast to the suburban quiet of his upbringing. He settled into a rent-controlled studio apartment in the Richmond District, drawn to its relative affordability and proximity to Golden Gate Park. His daily commute on BART is an ingrained ritual, a time for podcasts and observing the urban tapestry unfold.\n\nDavid's personal life is a mix of enduring friendships and quiet solitude. He maintains close ties with a small group of high school friends who also migrated to the city. They share a love for Giants games and exploring local breweries. Romantic relationships have been sporadic; the demanding pace of city life and a degree of introversion have made deep connections challenging. He dreams of owning a small condo someday, escaping the uncertainty of the rental market, and perhaps exploring a creative outlet like woodworking. For now, his days are a predictable rhythm of work, his BART commute, and quiet evenings spent reading or watching documentaries. His connection to San Francisco is multifaceted \u2013 a blend of appreciation for its possibilities and a quiet struggle with its relentless pace. He feels a sense of belonging in the Richmond District, the familiar fog rolling in a comforting constant in a city of perpetual change."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1. The first time he walked across the Golden Gate Bridge with his high school friends, the wind whipping his hair, he felt a thrill he hadn't experienced back in Walnut Creek.  It was a sense of possibility, of stepping into a grander, more exciting world, solidifying his decision to move to the city.\n\n2. Landing the administrative assistant job at the professional services firm after months of applications filled him with quiet relief and pride. It wasn't groundbreaking, but it was stable, a concrete step forward in the city he was learning to love, cementing his focus on a practical career path.\n\n3. The evening he watched the Giants win the World Series at a crowded bar in the Richmond, the roar of the crowd a palpable wave of shared joy. It was a rare moment of feeling truly connected to the city, a sense of belonging beyond his quiet routine.\n\n4. Sharing a cheap pizza with his parents years after moving, explaining the intricacies of rent control and his BART commute. Seeing their quiet understanding, a hint of pride in their eyes, made him feel like he'd carved out his own path, even if it wasn't their initial suburban vision.\n\n5. Standing in a woodworking shop during a weekend class, the smell of sawdust thick in the air, he felt a flicker of something he hadn't expected: quiet contentment in creation. It was a glimpse of a different future, a gentle nudge towards balancing practicality with his quiet desire to make things."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, quick stretch, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (Noe Valley Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make pour-over coffee and toast while listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Noe Valley Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack bag for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Noe Valley Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Commute to work, enjoying the morning buzz on Valencia Street.",
+                        "geocode": {
+                            "lat": 37.7606369,
+                            "lng": -122.4217986,
+                            "formatted_address": "766 Valencia St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "Noe Valley to Mission Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Arrive at work. Tidy the common areas, restock snacks and coffee, and sort the mail.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 60,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Process expense reports and respond to administrative emails.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 120,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Pick up a 'Mission Kale Caesar' salad to go.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Eat lunch on a bench while people-watching.",
+                        "geocode": {
+                            "lat": 37.7602015,
+                            "lng": -122.4267959,
+                            "formatted_address": "Mission Dolores Park, Dolores St &, 19th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Dolores Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Coordinate with IT support to troubleshoot a recurring WiFi issue in a conference room.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 90,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Plan the logistics for next month's new-hire orientation.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 120,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute home, taking a slight detour to enjoy the view.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mission to Noe Valley Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly grocery essentials and dinner ingredients.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Whole Foods Market (24th Street)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dish while unwinding with some music.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Noe Valley Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a local craft beer and catch up.",
+                        "geocode": {
+                            "lat": 37.7678909,
+                            "lng": -122.4291776,
+                            "formatted_address": "198 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Churchill"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a novel to wind down before sleep.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (Noe Valley Apartment)"
+                    }
+                ],
+                "day_overview": "A productive day for David, balancing his office management duties in the Mission with errands and a social evening back in his Noe Valley neighborhood.",
+                "home_address": "3772 24th St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7518702,
+                    "lng": -122.4269047,
+                    "formatted_address": "3772 24th St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

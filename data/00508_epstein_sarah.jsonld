@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Epstein",
+    "givenName": "Sarah",
+    "familyName": "Epstein",
+    "jobTitle": "Restaurant Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Epstein\u2019s life is measured in the distance between her front door and her workplace: zero feet. She lives in a renovated apartment directly above Alba, the upscale North Beach restaurant she manages, a perk that has defined her existence in San Francisco.\n\nRaised in a quiet Chicago suburb by practical-minded parents, Sarah was an outlier, choosing to study Art History. She imagined a life spent in the hushed halls of museums, but graduation led to the harsh reality of unpaid internships and a crushing sense of impracticality. To pay rent, she took a job waiting tables at a high-end bistro and, to her surprise, found her calling. The frantic, coordinated dance of a dinner service, the an-ticipation of a guest's needs, the curation of an experience\u2014it was a different kind of art, one that was immediate and alive.\n\nShe followed a serious boyfriend to San Francisco a decade ago. The relationship eventually dissolved, but Sarah\u2019s love affair with the city\u2019s vibrant, demanding culinary scene had just begun. She worked her way up from server to floor manager, eventually landing the general manager position at Alba. When the owners offered her the newly finished apartment upstairs, she felt she had finally arrived.\n\nAt 40, her days are a seamless blend of personal and professional. Mornings start with coffee and inventory reports on her laptop, overlooking Washington Square Park. Her staff is her family, their triumphs and dramas her own. Evenings are a blur of controlled chaos, solving problems with a calm authority honed over years. Her social life consists of regulars who have become friends and late-night drinks with other industry folk. She is respected and capable, but sometimes, in the quiet after the last table has left, she feels the weight of a life so completely fused to her job. Her dream is no longer about interpreting the old masters; it\u2019s about creating something of her own\u2014a small, intimate wine bar in a quieter neighborhood, a place where the art is in the conversation and the perfect glass of Pinot Noir."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, check emails and news notifications, and brew a strong cup of coffee.",
+                        "geocode": {
+                            "lat": 37.7863319,
+                            "lng": -122.4566361,
+                            "formatted_address": "3756 California St, San Francisco, CA 94118"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Morning stretching and yoga session using a fitness app in the living room.",
+                        "geocode": {
+                            "lat": 37.7863319,
+                            "lng": -122.4566361,
+                            "formatted_address": "3756 California St, San Francisco, CA 94118"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Shower, get dressed in work attire, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7863319,
+                            "lng": -122.4566361,
+                            "formatted_address": "3756 California St, San Francisco, CA 94118"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the 43-Masonic bus south to the UCSF campus.",
+                        "geocode": {
+                            "lat": 37.7817574,
+                            "lng": -122.4479401,
+                            "formatted_address": "43 Masonic Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 35,
+                        "location": "Muni 43-Masonic Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Arrive at the cafe, review sales from the previous day, check inventory levels, and hold a pre-shift huddle with the team.",
+                        "geocode": {
+                            "lat": 37.7631569,
+                            "lng": -122.4582467,
+                            "formatted_address": "513 Parnassus Ave, San Francisco, CA 94143, United States"
+                        },
+                        "duration": 85,
+                        "location": "Parnassus Peak Cafe (Work)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Manage the floor during the intense lunch rush, assisting staff, talking with customers, and troubleshooting kitchen flow.",
+                        "geocode": {
+                            "lat": 37.7631569,
+                            "lng": -122.4582467,
+                            "formatted_address": "513 Parnassus Ave, San Francisco, CA 94143, United States"
+                        },
+                        "duration": 180,
+                        "location": "Parnassus Peak Cafe (Work)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a quick, late lunch break in the staff area, eating a salad from the cafe.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Parnassus Peak Cafe (Staff Area)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative work in the back office: placing orders with suppliers, creating next week's staff schedule, and answering emails.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Parnassus Peak Cafe (Back Office)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Brief the evening shift supervisor, discuss dinner specials, and ensure a smooth operational handover.",
+                        "geocode": {
+                            "lat": 37.7631569,
+                            "lng": -122.4582467,
+                            "formatted_address": "513 Parnassus Ave, San Francisco, CA 94143, United States"
+                        },
+                        "duration": 60,
+                        "location": "Parnassus Peak Cafe (Work)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home, taking the 43-Masonic bus north back toward Laurel Heights.",
+                        "geocode": {
+                            "lat": 37.7817574,
+                            "lng": -122.4479401,
+                            "formatted_address": "43 Masonic Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni 43-Masonic Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up items for dinner.",
+                        "geocode": {
+                            "lat": 37.7864721,
+                            "lng": -122.450843,
+                            "formatted_address": "3445 California St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bryan's Grocery"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner while listening to a podcast to unwind.",
+                        "geocode": {
+                            "lat": 37.7863319,
+                            "lng": -122.4566361,
+                            "formatted_address": "3756 California St, San Francisco, CA 94118"
+                        },
+                        "duration": 50,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, call a friend to catch up, and watch an episode of a show.",
+                        "geocode": {
+                            "lat": 37.7863319,
+                            "lng": -122.4566361,
+                            "formatted_address": "3756 California St, San Francisco, CA 94118"
+                        },
+                        "duration": 90,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a book.",
+                        "geocode": {
+                            "lat": 37.7863319,
+                            "lng": -122.4566361,
+                            "formatted_address": "3756 California St, San Francisco, CA 94118"
+                        },
+                        "duration": 35,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A busy day for a restaurant manager, balancing the lunch rush at a UCSF campus cafe with administrative duties, followed by a quiet evening of errands and relaxation in her Laurel Heights neighborhood.",
+                "home_address": "3756 California St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7863319,
+                    "lng": -122.4566361,
+                    "formatted_address": "3756 California St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Epstein Family"
+    }
+}

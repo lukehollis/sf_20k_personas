@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Marcus Washington",
+    "givenName": "Marcus",
+    "familyName": "Washington",
+    "jobTitle": "Machine Operator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Black or African American"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Marcus Washington\u2019s life is governed by the steady, low hum of machinery. Raised in West Oakland by a single mother who worked two jobs, his childhood was a lesson in practicality. He saw the allure of San Francisco from across the bay, a glittering promise of opportunity that felt both close and impossibly distant. While his friends chased artistic dreams or startup glory, Marcus sought stability. He enrolled at Laney College without a clear path, eventually earning an Associate\u2019s degree in Electromechanical Technology, a field that promised steady, hands-on work.\n\nThe turning point came at 25 when he landed a job as a Machine Operator at a massive data center in San Francisco's Dogpatch neighborhood. The offer included a major perk that sealed the deal: a subsidized, on-site studio apartment. His commute became a 0.0-mile walk across a manicured corporate campus, a world away from the gritty streets of his youth. Now 31, Marcus lives a uniquely insular life. His \u201cneighborhood\u201d is a secure, climate-controlled bubble of glass and steel. He wakes, works, and sleeps within the same hundred-acre footprint, his days dictated by 12-hour shifts monitoring the cooling systems and robotic servers that are the physical heart of the digital world.\n\nSocially, Marcus feels like an observer. He maintains strong ties to his family in Oakland, taking the Caltrain back most weekends for his mother\u2019s cooking and the easy camaraderie of old friends who still see him as just \u201cMarcus,\u201d not a cog in the tech machine. His relationships in the city are fleeting, mostly with a few coworkers who share his strange, on-campus existence. On his days off, he purposefully disconnects, taking the T Third Street light rail into neighborhoods like the Mission or North Beach, absorbing the city\u2019s chaotic energy as an anonymous face in the crowd.\n\nMarcus\u2019s dream is quiet but firm: to save enough money to buy a small duplex back in Oakland. He wants to live in one unit and rent out the other, building a foundation of true independence. He doesn\u2019t aspire to invent the next app; he aspires to own the ground he stands on. For him, San Francisco isn\u2019t a final destination but a strategic, well-paid layover\u2014a place where he powers the dreams of others while patiently building his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake Up & Morning Hygiene",
+                        "geocode": {
+                            "lat": 37.7644829,
+                            "lng": -122.4194553,
+                            "formatted_address": "2027 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - Mission Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare and Eat Breakfast",
+                        "geocode": {
+                            "lat": 37.7644829,
+                            "lng": -122.4194553,
+                            "formatted_address": "2027 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Mission Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf92",
+                        "action": "Pack Bag for the Day",
+                        "geocode": {
+                            "lat": 37.7644829,
+                            "lng": -122.4194553,
+                            "formatted_address": "2027 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Mission Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute to Work via Public Transit",
+                        "geocode": {
+                            "lat": 37.7895433,
+                            "lng": -122.401063,
+                            "formatted_address": "Montgomery St. Station, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "BART - 16th St Mission to Montgomery St Station"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Morning Shift: Run server diagnostics and monitor cooling systems",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Cygnus Data Solutions - Data Center Floor"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a Quick and Healthy Lunch",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt - Yerba Buena Lane"
+                    },
+                    {
+                        "emoji": "\ud83d\udd27",
+                        "action": "Afternoon Shift: Physically swap out faulty hardware based on support tickets",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Cygnus Data Solutions - Hardware Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "End of Day Wrap-Up: Log completed tasks and prepare handover notes",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Cygnus Data Solutions - Technician's Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute Home to the Mission",
+                        "geocode": {
+                            "lat": 37.7651982,
+                            "lng": -122.4175178,
+                            "formatted_address": "16th St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "BART - Montgomery St Station to 16th St Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up Groceries for Dinner",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Evening Run for Exercise and Fresh Air",
+                        "geocode": {
+                            "lat": 37.7602015,
+                            "lng": -122.4267959,
+                            "formatted_address": "Mission Dolores Park, Dolores St &, 19th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mission Dolores Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and Eat Dinner",
+                        "geocode": {
+                            "lat": 37.7644829,
+                            "lng": -122.4194553,
+                            "formatted_address": "2027 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Mission Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind with a Streaming Show",
+                        "geocode": {
+                            "lat": 37.7644829,
+                            "lng": -122.4194553,
+                            "formatted_address": "2027 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Mission Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare for Tomorrow & Bedtime Routine",
+                        "geocode": {
+                            "lat": 37.7644829,
+                            "lng": -122.4194553,
+                            "formatted_address": "2027 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Mission Apartment"
+                    }
+                ],
+                "day_overview": "A structured and productive day for Marcus, balancing his technical, hands-on job in the Financial District with an active evening enjoying the vibrancy of his home neighborhood, the Mission District.",
+                "home_address": "493 16th St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7666663,
+                    "lng": -122.3886276,
+                    "formatted_address": "493 16th St, San Francisco, CA 94158, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Washington Family"
+    }
+}

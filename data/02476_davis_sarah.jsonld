@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Content Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s story is one of quiet reinvention, a journey from the predictable landscapes of suburban Ohio to the foggy, opportunity-rich streets of San Francisco. Raised by a pragmatic accountant father and a part-time librarian mother, her childhood was stable, orderly, and filled with books that promised worlds far grander than her own. This yearning for beauty and narrative led her to pursue a Bachelor\u2019s degree in Art History, a choice her parents deemed impractical but indulged as a youthful passion.\n\nUpon graduating, the reality of a career in the arts was disillusioning. After a series of underpaid gallery assistant jobs, a key turning point arrived during a painful breakup in her late twenties. Seeking a clean break and financial independence, Sarah began freelancing, applying her academic skills of analysis and storytelling to writing marketing copy. She discovered a surprising talent for translating complex technical ideas into clear, engaging content. Following the siren call of the tech boom, she moved to San Francisco a decade ago, landing a junior role at a startup and steadily climbing the ladder to her current position as a Content Manager.\n\nToday, Sarah\u2019s life is centered in her one-bedroom apartment in the Inner Richmond, which doubles as her office. Her zero-mile commute means her days are a structured blend of professional focus and personal ritual. Mornings start with strong coffee from a cafe on Clement Street, followed by hours of Zoom meetings and strategic planning. To break the solitude, she takes a mandatory midday walk through the Presidio or Golden Gate Park, letting the eucalyptus-scented fog clear her head. Her social life is intentional and cherished: a small, tight-knit circle of friends for weekend hikes in Marin, a monthly book club, and quiet dinners.\n\nHer connection to San Francisco is intimate and neighborhood-focused rather than city-wide. She loves the Inner Richmond for its authentic feel, its proximity to nature, and its world-class dim sum. While she is proud of the career she has built, a part of her still yearns for the creative expression she left behind. Her quiet aspiration is to write a novel\u2014not about technology, but about art, history, and the hidden stories of ordinary people. Sarah\u2019s future, she hopes, involves finally bridging the gap between her practical career and her enduring passion."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check phone for urgent Slack messages and news headlines.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Her Apartment on 2nd Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Morning jog along the waterfront to get some fresh air before the day begins.",
+                        "geocode": {
+                            "lat": 37.7706831,
+                            "lng": -122.3895903,
+                            "formatted_address": "Mission Bay, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Mission Bay Waterfront Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready for work, and make a quick coffee.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Her Apartment on 2nd Street"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from Dogpatch to the Financial District, navigating morning traffic.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "The Embarcadero & Surface Streets"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Arrive at the office, settle in, and review the content calendar for the day's priorities.",
+                        "geocode": {
+                            "lat": 37.7704306,
+                            "lng": -122.4131086,
+                            "formatted_address": "1532 Harrison St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "Innovatech HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the daily content team stand-up meeting to sync on article progress and publishing schedules.",
+                        "geocode": {
+                            "lat": 37.78614520000001,
+                            "lng": -122.4092737,
+                            "formatted_address": "Golden Gate Conference Room, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "Innovatech HQ - 'Golden Gate' Conference Room"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Deep work session: Edit two blog post drafts from freelance writers and provide feedback.",
+                        "geocode": {
+                            "lat": 37.7704306,
+                            "lng": -122.4131086,
+                            "formatted_address": "1532 Harrison St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Innovatech HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a quick and healthy lunch to-go.",
+                        "geocode": {
+                            "lat": 37.7913266,
+                            "lng": -122.3963941,
+                            "formatted_address": "300 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "Mendocino Farms"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Strategy meeting with the product marketing team to plan content for a new feature launch.",
+                        "geocode": {
+                            "lat": 37.7704306,
+                            "lng": -122.4131086,
+                            "formatted_address": "1532 Harrison St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Innovatech HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Respond to emails and write a creative brief for an upcoming video project.",
+                        "geocode": {
+                            "lat": 37.7704306,
+                            "lng": -122.4131086,
+                            "formatted_address": "1532 Harrison St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Innovatech HQ"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, listening to a tech news podcast to decompress.",
+                        "geocode": {
+                            "lat": 37.7323739,
+                            "lng": -122.4307687,
+                            "formatted_address": "I-280, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "I-280 North & Surface Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Stop for a de-stressing Vinyasa class after work.",
+                        "geocode": {
+                            "lat": 37.7706831,
+                            "lng": -122.3895903,
+                            "formatted_address": "Mission Bay, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Flow SF - Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery run to pick up items for dinner and tomorrow's breakfast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook and eat dinner while watching a show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Her Apartment on 2nd Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and tidying up the apartment before bed.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Her Apartment on 2nd Street"
+                    }
+                ],
+                "day_overview": "A busy but productive weekday for Sarah, balancing a demanding content management role in the Financial District with a drive-based commute and an evening of fitness and errands in her Dogpatch neighborhood.",
+                "home_address": "2929 2nd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7878834,
+                    "lng": -122.3996558,
+                    "formatted_address": "2nd St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

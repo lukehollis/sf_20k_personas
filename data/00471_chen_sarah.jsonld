@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Chen",
+    "givenName": "Sarah",
+    "familyName": "Chen",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Chen\u2019s world was first shaped by the meticulously planned cul-de-sacs of Cupertino. As the daughter of two pragmatic Taiwanese immigrant engineers, her childhood was a blend of high expectations and the quiet hum of suburban ambition. While her parents saw freeways as conduits for getting to Silicon Valley\u2019s top tech campuses, Sarah saw them as inefficient, isolating arteries. She spent her youth observing patterns\u2014the morning traffic jams on Highway 85, the way her neighborhood emptied out during work hours, the lack of a true community center.\n\nThis fascination with human geography led her to UC Davis for her undergraduate degree, but it was a semester abroad in Copenhagen that served as her epiphany. Experiencing a city built for bicycles and pedestrians, where public spaces thrived with life, ignited a passion. She returned to the Bay Area with a mission, enrolling in UC Berkeley\u2019s Master of Urban Planning program. There, she focused on the intersection of public transit and emerging technologies, believing code could solve the problems concrete had created.\n\nNow 28, Sarah is a transportation planner for a tech company developing autonomous public shuttles. Her 0.0-mile commute is a testament to the future she advocates for. Her days are spent in her quiet Inner Richmond apartment, analyzing GIS data and modeling pedestrian flow for pilot programs. Her world, once defined by sprawling suburbs, is now a hyper-local San Francisco existence. Mornings begin with a run through Golden Gate Park, followed by coffee from a small shop on Clement Street. Evenings are often spent with her long-term partner, Leo, an architect, debating urban design over dim sum or exploring the city\u2019s hidden stairways.\n\nSarah\u2019s connection to San Francisco is both professional and deeply personal. She sees the city as a living laboratory for her ideals. Her dream isn\u2019t just a career promotion; it\u2019s to see her work tangibly reduce car dependency and create more equitable, walkable neighborhoods. She hopes to one day lead a project that transforms a major city corridor, proving that a greener, more connected future is not just a planner\u2019s fantasy but an achievable reality."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, brew coffee, and share breakfast with her partner.",
+                        "geocode": {
+                            "lat": 37.7614518,
+                            "lng": -122.4209817,
+                            "formatted_address": "3469 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment, Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and catch the Muni bus for the cross-town commute.",
+                        "geocode": {
+                            "lat": 37.7861363,
+                            "lng": -122.4059941,
+                            "formatted_address": "30 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 50,
+                        "location": "Muni 30 Stockton Bus Line"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Grab an oat milk latte and a pastry before heading into the office.",
+                        "geocode": {
+                            "lat": 37.797,
+                            "lng": -122.4353333,
+                            "formatted_address": "2191 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 15,
+                        "location": "Union Street Coffee Roastery"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in, review project dashboards, and analyze public transit usage data for a new mobility feature.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udca1",
+                        "action": "Lead a daily stand-up meeting with the Urban Mobility pod to sync on project milestones.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Conference Room 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Pick up a salad bowl and walk over to the park to eat in the sun.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Collaborate with a UX designer on mockups for a new in-app bus tracking interface.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 90,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Focus time: Write a project brief for the upcoming Q3 pedestrian safety initiative.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Quiet Pod at AvantSpace"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Pack up and begin the commute home, listening to a transportation planning podcast.",
+                        "geocode": {
+                            "lat": 37.7861363,
+                            "lng": -122.4059941,
+                            "formatted_address": "30 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 55,
+                        "location": "Muni 30 Stockton Bus Line"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop to pick up fresh produce and pasta for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner with her partner, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7614518,
+                            "lng": -122.4209817,
+                            "formatted_address": "3469 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment, Mission District"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Go for a short evening walk to see the street art.",
+                        "geocode": {
+                            "lat": 37.7629756,
+                            "lng": -122.4205192,
+                            "formatted_address": "46 Clarion Alley, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Clarion Alley Murals"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch an episode of a show, and plan for the next day.",
+                        "geocode": {
+                            "lat": 37.7614518,
+                            "lng": -122.4209817,
+                            "formatted_address": "3469 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment, Mission District"
+                    }
+                ],
+                "day_overview": "A productive workday for a transportation planner, involving a cross-town Muni commute, data-focused tasks at her tech office in Cow Hollow, and a relaxing evening spent cooking and enjoying the vibrant Mission District with her partner.",
+                "home_address": "321 Mission St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7903441,
+                    "lng": -122.3962689,
+                    "formatted_address": "321 Mission St, San Francisco, CA 94105, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Chen Family"
+    }
+}

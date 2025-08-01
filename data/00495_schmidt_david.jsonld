@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Schmidt",
+    "givenName": "David",
+    "familyName": "Schmidt",
+    "jobTitle": "Office Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Schmidt arrived in San Francisco in the late \u201890s, a transplant from suburban Ohio with a freshly printed Bachelor\u2019s in Art History and a romantic notion of a life surrounded by culture. He wasn\u2019t chasing stock options; he was chasing the ghost of the Beat Generation, imagining days spent in museums and evenings in smoky jazz clubs. His family, a practical clan of engineers and accountants, saw his degree as a charming, if useless, affectation.\n\nThe reality of Bay Area rent quickly reshaped his bohemian dreams. David took a temp job as a receptionist at a fledgling dot-com to make ends meet. To his surprise, he thrived in the structured chaos. While the coders and visionaries chased abstract ideas, David found deep satisfaction in creating order: organizing schedules, managing office supplies, and ensuring payroll was processed on time. When the dot-com bubble burst, his practical skills, not his art critiques, made him employable. He became the quiet anchor in a sea of volatile startups, eventually settling into a stable role as an Office Manager.\n\nHis life is now firmly rooted in his Noe Valley apartment, the same one he\u2019s rented for 15 years. The 0.0-mile commute, a permanent shift since the pandemic, has made his world both smaller and more intimate. His days follow a predictable rhythm: a morning walk to a local cafe for an oat latte, hours spent in front of his dual monitors untangling logistical knots for a company whose product he only vaguely understands, and an evening stroll as the fog rolls in.\n\nA long-term relationship ended five years ago, leaving a quiet void he fills with podcasts and meticulously planned solo trips to Muir Woods. He feels like a relic of a previous San Francisco, watching neighbors and storefronts change with each tech boom. His hope for the future is less a grand dream and more a quiet yearning. He fantasizes about taking a sabbatical to finally visit the great museums of Europe\u2014not just to see the art, but to remember the young man who once believed it was all that mattered."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up and check the news, weather, and overnight emails on his phone.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bedroom, Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a strong Peet's coffee and have a simple breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Kitchen, Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack his messenger bag for the day.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home, Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Commute across the city on his Vespa scooter, navigating through traffic from North Beach to the college.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at work, park the scooter, and organize his desk while reviewing the day's meeting schedule and priority list.",
+                        "geocode": {
+                            "lat": 37.7257022,
+                            "lng": -122.4511855,
+                            "formatted_address": "Science Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 20,
+                        "location": "Office, Science Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Process faculty IT support tickets, order office supplies, and answer a stream of administrative emails.",
+                        "geocode": {
+                            "lat": 37.7257022,
+                            "lng": -122.4511855,
+                            "formatted_address": "Science Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 150,
+                        "location": "Office, Science Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk off-campus for a quick lunch, grabbing a falafel wrap to eat at a nearby parklet.",
+                        "geocode": {
+                            "lat": 37.7269341,
+                            "lng": -122.4662835,
+                            "formatted_address": "Ocean Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Golden Pide on Ocean Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Attend a weekly departmental planning meeting to coordinate upcoming student orientation events.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "Conference Room, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udce0",
+                        "action": "Finalize and submit the bi-weekly payroll for student assistants and handle last-minute room booking requests.",
+                        "geocode": {
+                            "lat": 37.7257022,
+                            "lng": -122.4511855,
+                            "formatted_address": "Science Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 110,
+                        "location": "Office, Science Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Ride his Vespa home, taking a slightly different route through the city to avoid the worst of the rush hour traffic.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Stop at a local market to pick up fresh bread, cheese, and a bottle of wine for the evening.",
+                        "geocode": {
+                            "lat": 37.8012182,
+                            "lng": -122.4077994,
+                            "formatted_address": "1541 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "Little Vine, North Beach"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Go for a brisk walk through Washington Square Park to decompress and enjoy the evening air.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and eat a simple dinner at home while listening to a jazz playlist.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kitchen, Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, read a few chapters of a novel, and plan out his tasks for the next day.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Living Room, Grant Ave Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for David, an Office Manager at CCSF, involving a cross-city scooter commute from his North Beach home, managing administrative tasks at the college, and winding down with a walk and a home-cooked meal in his vibrant neighborhood.",
+                "home_address": "1359 Grant Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.7994622,
+                    "lng": -122.4074814,
+                    "formatted_address": "1359 Grant Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Schmidt Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Eleanor Vance",
+    "givenName": "Eleanor",
+    "familyName": "Vance",
+    "jobTitle": "Clinical Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Eleanor Vance has spent her 51 years witnessing the many faces of San Francisco, a city she knows not as a tech hub, but as a complex web of human struggle and resilience. A second-generation Chinese-American, she was raised in the Sunset District by parents who ran a small grocery store. They had arrived from Hong Kong with pragmatic dreams for their daughter: medicine or engineering. Eleanor, however, was always more drawn to the stories of their customers than to calculus.\n\nThis quiet rebellion defined her educational path. After a miserable year in pre-med at UC Berkeley, where she felt disconnected from the human element of healing, she had a profound shift. She switched her major and later earned a Master of Social Work from San Francisco State University, a choice that disappointed her parents but set her on a course she felt was her own.\n\nEleanor began her career in the crucible of SF General Hospital\u2019s emergency department. For two decades, she was the calm presence in the storm, guiding patients and families through trauma, addiction, and acute mental health crises. She saw the city\u2019s rawest wounds daily, and the work, while deeply meaningful, chipped away at her.\n\nThe turning point came not with one dramatic event, but a slow, creeping burnout. Before the pandemic made it common, she proactively sought a change. She transitioned to a telehealth role within a large healthcare network, allowing her to continue her vital work from the sanctuary of her Inner Richmond apartment. Her commute became a walk from her bedroom to her small home office.\n\nToday, Eleanor lives a life of intentional quiet. She is single, having found that her capacity for intense emotional labor is best reserved for her patients. Her social life is a small, tight-knit circle of friends, mostly other healthcare veterans who understand the unspoken weight of their jobs. Her days consist of video sessions with clients, punctuated by long, meditative walks through Golden Gate Park, where the fog-dampened air feels like a balm. Having seen San Francisco change from a city of neighborhoods to a global metropolis, her dream isn't of wealth or status, but of sustainability: to continue offering her expertise and empathy without losing herself in the process."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and meditate, focusing on mindfulness before starting the day.",
+                        "geocode": {
+                            "lat": 37.7984793,
+                            "lng": -122.4473617,
+                            "formatted_address": "3940 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (3940 Lombard St)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and enjoy a light breakfast of yogurt and granola while drinking coffee and reading the news.",
+                        "geocode": {
+                            "lat": 37.7984793,
+                            "lng": -122.4473617,
+                            "formatted_address": "3940 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (3940 Lombard St)"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Shower, get dressed in professional attire, and prepare work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7984793,
+                            "lng": -122.4473617,
+                            "formatted_address": "3940 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (3940 Lombard St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, listening to an NPR podcast to catch up on current events.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Commute via Van Ness Avenue"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office, review case files for the day, and respond to urgent overnight emails.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Dept of Technology Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct a scheduled telehealth counseling session with a city employee.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Private Office at SF Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Complete and file detailed case notes from the morning session.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Dept of Technology Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to Hayes Valley for a quick and healthy lunch to decompress.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Souvla"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a team meeting to discuss the rollout of a new mental wellness resource for city departments.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Conference Room at SF Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Handle an unscheduled crisis intervention call with a city employee in distress.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "Private Office at SF Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd3",
+                        "action": "Finalize all session documentation and create a prioritized to-do list for the next day.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF Dept of Technology Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, listening to a classical music station to transition out of work mode.",
+                        "geocode": {
+                            "lat": 37.8013919,
+                            "lng": -122.4244905,
+                            "formatted_address": "Lombard St & Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 40,
+                        "location": "Commute via Van Ness & Lombard"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Change into workout clothes and go for a refreshing jog to clear her head.",
+                        "geocode": {
+                            "lat": 37.8036909,
+                            "lng": -122.4685139,
+                            "formatted_address": "Crissy Field Ave, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 50,
+                        "location": "Crissy Field Promenade"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Meet a close friend for a casual dinner and catch-up in the neighborhood.",
+                        "geocode": {
+                            "lat": 37.8001278,
+                            "lng": -122.4400528,
+                            "formatted_address": "2231 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Tipsy Pig"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Quick phone call with her adult son who lives out of state to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7984793,
+                            "lng": -122.4473617,
+                            "formatted_address": "3940 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (3940 Lombard St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a new historical fiction novel with a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.7984793,
+                            "lng": -122.4473617,
+                            "formatted_address": "3940 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 65,
+                        "location": "Home (3940 Lombard St)"
+                    }
+                ],
+                "day_overview": "A structured day for Eleanor, balancing demanding client work as a Clinical Social Worker for the city with restorative personal time in her Marina neighborhood, including an evening jog along the waterfront and a casual dinner with a friend.",
+                "home_address": "3940 Lombard St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7984793,
+                    "lng": -122.4473617,
+                    "formatted_address": "3940 Lombard St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1973",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Vance Family"
+    }
+}
