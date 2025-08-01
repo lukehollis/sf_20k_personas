@@ -66,4 +66,10 @@ Comparing distributions in synthetic dataset to the real US Census data.
 <img width="1000" height="600" alt="commute_time_distribution" src="https://github.com/user-attachments/assets/e8dbacd0-8f5c-458c-8ab3-df8ec7acaa83" />
 <img width="1200" height="800" alt="commute_method_distribution" src="https://github.com/user-attachments/assets/cf98477b-f396-4077-8963-207d704bb872" />
 
+### Backstories and Reveries
+
+Each simulated bay area denizen has backstory memories and anecdotal "reveries," poignant specific memories from their past. 
+
+<img width="1000" height="500" alt="narrative_themes_topic_4" src="https://github.com/user-attachments/assets/d3d25adb-b6aa-473d-ade4-7536105876db" />
+<img width="1000" height="500" alt="narrative_themes_topic_5" src="https://github.com/user-attachments/assets/a2900afa-e35e-48ca-87c4-b114edbe55d2" />
 
