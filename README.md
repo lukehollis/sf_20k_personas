@@ -55,6 +55,22 @@ This dataset can be used for various purposes, including:
 
 The `_schema.json` file can be used with any JSON Schema validator to ensure that any new or modified data conforms to the expected structure.
 
+## Citation
+
+If you use this dataset in your research, please cite it as follows:
+
+```bibtex
+@misc{hollis2025sf20kpersonas,
+  author = {Hollis, Luke},
+  title = {SF 20k Personas: 20,000 synthetic human profiles of SF citizens},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/lukehollis/sf_20k_personas}},
+  institution = {MIT City Science SF Lab}
+}
+```
+
 ## Analysis
 
 Comparing distributions in synthetic dataset to the real US Census data.
@@ -72,4 +88,3 @@ Each simulated bay area denizen has backstory memories and anecdotal "reveries,"
 
 <img width="1000" height="500" alt="narrative_themes_topic_4" src="https://github.com/user-attachments/assets/d3d25adb-b6aa-473d-ade4-7536105876db" />
 <img width="1000" height="500" alt="narrative_themes_topic_5" src="https://github.com/user-attachments/assets/a2900afa-e35e-48ca-87c4-b114edbe55d2" />
-
