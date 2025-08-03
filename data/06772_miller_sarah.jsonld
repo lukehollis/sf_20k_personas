@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "School Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Education"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is contained within a few city blocks, a deliberate choice born from a lifetime of seeking connection. Raised in the quiet, predictable suburbs of the Central Valley, Sarah was the observant, empathetic child in a family of reserved pragmatists. While her parents provided stability, they rarely navigated the messy world of feelings, leaving Sarah to develop a keen sensitivity to the unspoken struggles of others. This drive led her to UC Davis for sociology and then, in a life-altering move, to San Francisco for her Master of Social Work at SF State. The city, with its chaotic energy and diverse, overlapping communities, felt like coming home.\n\nUpon graduating, Sarah began her career at a middle school in the Inner Sunset. For over twenty years, she has been a fixture in its hallways, a steady presence for students navigating poverty, trauma, and the turbulent journey of adolescence. A decade ago, she made a pivotal decision: she bought a small condo in a classic Edwardian building directly across the street from the school. Her commute is a 30-second walk, a proximity that has completely fused her personal and professional life. The morning school bell is her alarm clock; the teens she counsels are the same ones she sees at the corner grocery.\n\nThis hyper-local existence has come at a cost. A long-term relationship ended years ago, her partner unable to cope with the porous boundary between Sarah\u2019s work and home life. Her social circle is small but deep, mostly consisting of fellow educators who understand the emotional toll of her profession. Her daily routine involves a morning walk in Golden Gate Park before work, a ritual to find a moment of peace before plunging into the day's crises.\n\nNow, at 46, Sarah\u2019s dreams are not of escape but of deeper impact. She envisions starting a mentorship program connecting stable adults with at-risk youth in her neighborhood. Yet, a quieter hope persists: a two-week trip to a place with no cell service, where the only needs she has to consider are her own, a brief, restorative silence before returning to the community that is both her life\u2019s work and her home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for 10 minutes, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home - 10 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a quick breakfast of Greek yogurt with berries and coffee.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Commute to work by walking to the Judah & 7th Ave stop and taking the N Judah train eastbound.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "N Judah Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc2",
+                        "action": "Settle in at the office, review priority student case files, and check emails.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 45,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Hold two back-to-back individual counseling sessions with students.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 90,
+                        "location": "Social Worker's Office - Miro Studios"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Complete mandatory case notes and make follow-up calls to parents and external service providers.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 75,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a local cafe to pick up a pre-ordered salad bowl and eat outside for a mental break.",
+                        "geocode": {
+                            "lat": 37.7589457,
+                            "lng": -122.4114619,
+                            "formatted_address": "3049 20th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Atlas Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+                        "action": "Facilitate a social skills support group for 8th-grade students.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Miro Studios - Group Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udd98",
+                        "action": "Handle afternoon administrative tasks and respond to an urgent student crisis.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 105,
+                        "location": "Social Worker's Office - Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Commute home, taking the N Judah from the Mission back to the Inner Sunset.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "N Judah Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a de-stressing run to clear her head after a long day.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up items for dinner and lunch tomorrow.",
+                        "geocode": {
+                            "lat": 37.7821992,
+                            "lng": -122.4927823,
+                            "formatted_address": "375 32nd Ave, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 25,
+                        "location": "Andronico's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Have a long check-in call with her aging mother, helping coordinate a doctor's appointment.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple and healthy dinner while listening to a history podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch with a novel and a cup of herbal tea to wind down.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A structured day for a dedicated school social worker, balancing demanding student support work in the Mission with a restorative evening routine of exercise in Golden Gate Park, errands, and a caring call with her mother.",
+                "home_address": "10 Judah St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7624959,
+                    "lng": -122.4621822,
+                    "formatted_address": "10 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

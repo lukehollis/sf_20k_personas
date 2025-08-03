@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Hayes",
+    "givenName": "Liam",
+    "familyName": "Hayes",
+    "jobTitle": "Project Coordinator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Hayes is a product of two Californias. He was raised in Modesto, the son of a mechanic and a teacher\u2019s aide, in a world of sun-baked asphalt and practicality. He escaped to the foggy redwood groves of UC Santa Cruz, where he pursued a Bachelor's degree in History, a subject that felt more like a library card than a career key. After graduation, he felt adrift, returning home for a year to save money while his parents quietly worried about his lack of a concrete plan.\n\nThe turning point came when he moved to San Francisco on a whim with a college friend. Without connections, he took a customer support job at a burgeoning tech startup. It was meant to be temporary, but Liam discovered an unexpected talent: he could see the big picture. He understood how a customer complaint connected to a software bug, which connected to an engineering team\u2019s workload. His history degree had trained him to find the narrative in chaos. He methodically earned a project management certification and transitioned internally, becoming the calm, organizational hub his chaotic colleagues relied on. This career shift coincided with the end of a five-year relationship, a painful split that cemented his identity as a self-sufficient, if somewhat solitary, San Franciscan.\n\nNow 37, Liam\u2019s life is defined by his Inner Sunset apartment, which doubles as his office. His 0.0-mile commute is a walk from his bedroom to his desk, overlooking a foggy street. His days are a disciplined cycle of Slack notifications, video calls, and meticulously updated Gantt charts. To escape the screen, he runs in Golden Gate Park, his sprawling, green backyard. He\u2019s a regular at a local pub for weekly trivia\u2014a comfortable stage for his historical knowledge\u2014and maintains a small, loyal circle of friends.\n\nLiam is content, but a quiet restlessness bubbles beneath the surface. He dreams of a life less structured, wondering if his skills could coordinate something more tangible than software updates. He hopes to find a relationship built on shared quiet moments rather than loud ambitions and, one day, to find a narrative for himself that exists beyond sprint cycles and product roadmaps."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, drink a glass of water, and check overnight notifications.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Morning jog through the neighborhood and Duboce Park to get the blood flowing.",
+                        "geocode": {
+                            "lat": 37.76955100000001,
+                            "lng": -122.433214,
+                            "formatted_address": "Duboce Park, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Duboce Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for the office, and pack bag with essentials.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of avocado toast and coffee while scanning the headlines on TechCrunch.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute to work, weaving through city streets on an electric scooter.",
+                        "geocode": {
+                            "lat": 37.7810654,
+                            "lng": -122.4651874,
+                            "formatted_address": "Geary Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Market St to Geary Blvd Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, grab a coffee from the breakroom, and triage morning emails to set daily priorities.",
+                        "geocode": {
+                            "lat": 37.8099823,
+                            "lng": -122.2640594,
+                            "formatted_address": "1 Kaiser Plaza, Oakland, CA 94612, USA"
+                        },
+                        "duration": 45,
+                        "location": "Kaiser Permanente Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead a daily stand-up meeting with the software development team for the new patient scheduling module.",
+                        "geocode": {
+                            "lat": 37.7847222,
+                            "lng": -122.4016667,
+                            "formatted_address": "720 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kaiser Permanente Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Update project timelines and resource allocation charts in Jira and Confluence.",
+                        "geocode": {
+                            "lat": 37.8099823,
+                            "lng": -122.2640594,
+                            "formatted_address": "1 Kaiser Plaza, Oakland, CA 94612, USA"
+                        },
+                        "duration": 105,
+                        "location": "Kaiser Permanente Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break, grabbing a pastrami on rye to eat at a nearby parklet.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Wise Sons Jewish Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\u2695\ufe0f",
+                        "action": "Attend a virtual stakeholder meeting with the nursing department to gather feedback on a new UI prototype.",
+                        "geocode": {
+                            "lat": 37.8099823,
+                            "lng": -122.2640594,
+                            "formatted_address": "1 Kaiser Plaza, Oakland, CA 94612, USA"
+                        },
+                        "duration": 90,
+                        "location": "Kaiser Permanente Office"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Focus time: Draft a weekly progress report for senior management and resolve outstanding project issues.",
+                        "geocode": {
+                            "lat": 37.8099823,
+                            "lng": -122.2640594,
+                            "formatted_address": "1 Kaiser Plaza, Oakland, CA 94612, USA"
+                        },
+                        "duration": 120,
+                        "location": "Kaiser Permanente Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute home on the electric scooter, taking a slightly more scenic route.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "The Wiggle to Market Street Route"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop to pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.776708,
+                            "lng": -122.4118432,
+                            "formatted_address": "191 8th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "Harvest Urban Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf79",
+                        "action": "Meet up with a close friend for a happy hour cocktail and conversation.",
+                        "geocode": {
+                            "lat": 37.7672597,
+                            "lng": -122.4295904,
+                            "formatted_address": "2124 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Blackbird Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Video call with his parents back east to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat a simple pasta dinner while watching an episode of a new series on HBO Max.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a few chapters of a sci-fi novel and prepping his bag for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive day for Liam, a Health Tech Project Coordinator, involving focused work at the Kaiser Medical Center, a zippy electric scooter commute, and a relaxing evening catching up with a friend in his vibrant Castro neighborhood.",
+                "home_address": "2051 Market St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7681421,
+                    "lng": -122.4276713,
+                    "formatted_address": "2051 Market St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Hayes Family"
+    }
+}

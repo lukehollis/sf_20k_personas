@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Miller",
+    "givenName": "Daniel",
+    "familyName": "Miller",
+    "jobTitle": "Manufacturing Production Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Miller\u2019s life is built on a foundation he once tried to escape. He grew up in a quiet suburb of Detroit, the son of a third-generation factory foreman who held a deep, almost religious belief in American manufacturing. Daniel, however, saw only rust, layoffs, and a future he wanted no part of. He rebelled by pursuing a Bachelor's degree in History, immersing himself in the stories of fallen empires rather than the mechanics of an assembly line.\n\nAfter college, he drifted, working unfulfilling administrative jobs and feeling disconnected from his own story. The turning point came unexpectedly during a recession when the only steady work he could find was a position as a shift supervisor at a small company making specialized robotics components. To his profound surprise, he excelled. The clatter of machinery wasn't noise; it was a rhythm. The logistical puzzles of supply chains and production schedules were more engaging than any historical text. He discovered his father\u2019s blood ran in his veins, but he had a knack for modernizing the process, not just maintaining it.\n\nThis skill became his ticket to San Francisco. A decade ago, a high-end audio equipment startup in the Dogpatch neighborhood needed a production manager who could bridge the gap between their engineers\u2019 ambitious designs and the physical reality of building them. Daniel got the job. He found his niche in a city that celebrated innovation, even in old-world industries.\n\nNow 40, Daniel lives a life of contained precision. His 0.0-mile commute is a walk down two flights of stairs from his industrial loft to the production floor below. His days are a blur of managing his team, solving supply chain crises, and ensuring every single unit meets an obsessive standard of quality. His personal life is quiet; a long-term relationship ended years ago, a casualty of his demanding career. His social circle is a tight-knit group of other Dogpatch locals\u2014a brewer, a furniture maker, and a chef\u2014people who, like him, create tangible things.\n\nDaniel\u2019s connection to San Francisco is rooted in his neighborhood. He sees Dogpatch as a reflection of himself: an industrial past repurposed for a craft-focused, innovative future. His aspiration is to one day buy into the company, proving that making things with your hands still has a vital place in a digital world and, in doing so, finally making peace with the legacy of his father."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Wake up and check overnight production reports from Asian manufacturing partners.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a quick morning run along the waterfront to clear the head.",
+                        "geocode": {
+                            "lat": 37.7632701,
+                            "lng": -122.3873708,
+                            "formatted_address": "Crane Cove Park, 18th street and, Illinois St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Crane Cove Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in tech-casual attire, and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and a simple breakfast of toast and avocado.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute from Dogpatch to the Mission District.",
+                        "geocode": {
+                            "lat": 37.7542442,
+                            "lng": -122.4120853,
+                            "formatted_address": "23rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF Bike Route 23"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the coworking space, set up laptop, and review daily priorities.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 30,
+                        "location": "coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Lead the daily team stand-up via Zoom, followed by a logistics call with a freight forwarder.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 90,
+                        "location": "Private Phone Booth at coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze production yield data and update the master production schedule.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 120,
+                        "location": "Dedicated Desk at coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to grab a carnitas torta for lunch.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": " presentaci\u00f3n",
+                        "action": "Focused work on a presentation for the quarterly business review.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 135,
+                        "location": "Dedicated Desk at coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute back home to Dogpatch.",
+                        "geocode": {
+                            "lat": 37.7420216,
+                            "lng": -122.4280175,
+                            "formatted_address": "30th St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Bike Route 30"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "De-stress with a bouldering session at the local climbing gym.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 75,
+                        "location": "Dogpatch Boulders"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up groceries for dinner and the next few days.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner while listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Final check of emails for urgent factory updates before winding down with a book.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Daniel, balancing focused work on manufacturing logistics at his Mission coworking space with a revitalizing bike commute and an evening of rock climbing and relaxation in his Dogpatch neighborhood.",
+                "home_address": "2798 3rd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7541279,
+                    "lng": -122.3879857,
+                    "formatted_address": "2798 3rd St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

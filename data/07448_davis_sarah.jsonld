@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Personal Caregiver",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s life is measured in the quiet, contained blocks of San Francisco\u2019s Richmond District. Born to a Filipina mother, a pragmatic nurse, and an Irish-American father, a dreamer who worked in logistics at the Port of Oakland, Sarah grew up in Daly City surrounded by the comforting chaos of a large, blended family. She inherited her mother\u2019s sense of duty and her father\u2019s artistic soul, spending her youth filling sketchbooks with fantastical creatures and detailed portraits.\n\nHer path seemed clear when she enrolled at San Francisco State University to study illustration. For two years, she thrived, her world expanding with every art history lecture and charcoal-dusted studio session. The turning point arrived not as a dramatic crash, but as a slow, creeping illness that took hold of her mother. Duty called, louder than any artistic ambition. Sarah left school to become her mother\u2019s full-time caregiver, a role she inhabited for nearly a decade until her mother\u2019s passing.\n\nThe experience redefined her. With years of practical experience but no degree, caregiving became her profession. Today, at 45, Sarah is a live-in caregiver for Arthur, an elderly widower in a meticulously preserved Edwardian home. Her commute is zero miles; her world is often confined to the home's bay windows, which overlook the persistent fog rolling in from Ocean Beach. Her social life is sparse\u2014brief, knowing nods exchanged with other caregivers at the local market, and bi-weekly calls with her brother in Sacramento.\n\nHer connection to San Francisco is intimate yet fragmented. It exists in her cherished solo walks through Golden Gate Park, the feel of a worn book\u2019s spine at Green Apple Books on Clement Street, and the quiet joy of finding the perfect brand of tea for Arthur. In the late hours, after her duties are done, Sarah\u2019s old dream flickers to life. She sits in her small room, a sketchbook open on her lap, drawing the city from memory. Her aspiration isn't grand: she dreams of her own small studio apartment, perhaps in the Sunset, a cat curled on the windowsill, and the simple, profound freedom to finish the art degree she put on hold a lifetime ago."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and get ready for the day. Prepare a quick breakfast of oatmeal and coffee.",
+                        "geocode": {
+                            "lat": 37.7988578,
+                            "lng": -122.4358723,
+                            "formatted_address": "Fillmore St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment on Fillmore St"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Assist her mother with her morning routine, including breakfast, medication, and getting dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7988578,
+                            "lng": -122.4358723,
+                            "formatted_address": "Fillmore St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment on Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the MUNI stop and take the eastbound bus towards downtown.",
+                        "geocode": {
+                            "lat": 37.7793014,
+                            "lng": -122.4163928,
+                            "formatted_address": "5 Fulton St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 25,
+                        "location": "MUNI 5R Fulton Bus"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Arrive at the studio. Greet her client, an elderly artist, and help them get settled in with a cup of tea and review the day's plan.",
+                        "geocode": {
+                            "lat": 37.7830207,
+                            "lng": -122.4059085,
+                            "formatted_address": "863 Mission St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "Balay Kreative Studios"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Provide physical assistance and companionship as her client works on a new textile art piece, ensuring they are comfortable and hydrated.",
+                        "geocode": {
+                            "lat": 37.7830207,
+                            "lng": -122.4059085,
+                            "formatted_address": "863 Mission St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 120,
+                        "location": "Balay Kreative Studios"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a lunch break. Walk over to grab a healthy grain bowl to eat in the sunshine.",
+                        "geocode": {
+                            "lat": 37.7849884,
+                            "lng": -122.4023514,
+                            "formatted_address": "Yerba Buena Gardens, 750 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Yerba Buena Gardens"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Accompany her client for a gentle walk and some fresh air around the gardens, focusing on light mobility.",
+                        "geocode": {
+                            "lat": 37.7849884,
+                            "lng": -122.4023514,
+                            "formatted_address": "Yerba Buena Gardens, 750 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Yerba Buena Gardens"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd3",
+                        "action": "Assist the client with afternoon tasks: tidying the art station, journaling, and having an afternoon snack.",
+                        "geocode": {
+                            "lat": 37.7830207,
+                            "lng": -122.4059085,
+                            "formatted_address": "863 Mission St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 120,
+                        "location": "Balay Kreative Studios"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, riding the MUNI bus back across town and enjoying a podcast.",
+                        "geocode": {
+                            "lat": 37.7793014,
+                            "lng": -122.4163928,
+                            "formatted_address": "5 Fulton St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "MUNI 5R Fulton Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh produce and chicken for dinner.",
+                        "geocode": {
+                            "lat": 37.7748083,
+                            "lng": -122.4374389,
+                            "formatted_address": "550 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bi-Rite Market on Divisadero"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Prepare and share a home-cooked dinner with her mother, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7988578,
+                            "lng": -122.4358723,
+                            "formatted_address": "Fillmore St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Apartment on Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Take a solo evening stroll to decompress, walking around the perimeter of the park and enjoying the view of the city lights.",
+                        "geocode": {
+                            "lat": 37.7763366,
+                            "lng": -122.4346917,
+                            "formatted_address": "Alamo Square Park, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Alamo Square Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down for the night. Help her mother get ready for bed, then watch an episode of a comforting baking show.",
+                        "geocode": {
+                            "lat": 37.7988578,
+                            "lng": -122.4358723,
+                            "formatted_address": "Fillmore St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment on Fillmore St"
+                    }
+                ],
+                "day_overview": "A demanding yet fulfilling day for Sarah, a personal caregiver balancing her client's needs in SoMa with caring for her elderly parent at their home near Alamo Square.",
+                "home_address": "759 Fillmore St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.77661519999999,
+                    "lng": -122.4316159,
+                    "formatted_address": "759 Fillmore St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1979",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

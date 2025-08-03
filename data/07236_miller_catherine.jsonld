@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Catherine Miller",
+    "givenName": "Catherine",
+    "familyName": "Miller",
+    "jobTitle": "Senior Project Manager, Consulting",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Consulting"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Catherine Miller\u2019s life has always been a series of well-executed projects. Raised in a quiet, orderly suburb of Madison, Wisconsin, by an engineering professor father and a librarian mother, she internalized the values of structure, logic, and intellectual rigor from a young age. Her path was clear: excel academically, leave the Midwest, and build a successful life. She did just that, earning her undergraduate degree from UC Berkeley before heading east for a prestigious MBA program.\n\nHer career in management consulting was a natural fit. For twenty years, her life was a blur of airports, client sites, and sleek corporate boardrooms. She thrived on the pressure, skillfully navigating complex organizational changes for Fortune 500 companies. She married a fellow consultant, and for a decade, their lives were parallel tracks of ambition, their relationship managed like any other high-stakes project.\n\nThe turning point wasn't a single event, but a slow, creeping realization brought on by the global shift to remote work. The constant travel ceased, and for the first time, Catherine was grounded in her elegant Noe Valley Victorian. Stripped of the business-class lounges and transient professional identity, the cracks in her personal life became impossible to ignore. The marriage, built on shared ambition and separate itineraries, dissolved quietly.\n\nNow, at 50, Catherine\u2019s life is defined by a 0.0-mile commute from her bedroom to her home office. A Senior Project Manager, she still orchestrates massive corporate projects, but her world has shrunk to the borders of her neighborhood. Her daily routine involves a morning walk to a local cafe for an oat latte, hours of intense Zoom calls, and an evening stroll through the quiet, tree-lined streets. Her social circle is a small, tight-knit group of longtime friends\u2014a lawyer, a chef, a designer\u2014who appreciate her dry wit.\n\nSan Francisco, once just a home base, has become her entire world. She finds comfort in the familiar faces at the farmers' market and the fog rolling over Twin Peaks. While she misses the thrill of her old life, she aspires to something new: meaning. She dreams of pivoting her skills to pro-bono work for local non-profits, trading corporate restructuring for community building, and finally starting a project where the ultimate deadline is her own fulfillment."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditation with the Calm app, and a quick stretch.",
+                        "geocode": {
+                            "lat": 37.7754456,
+                            "lng": -122.4313841,
+                            "formatted_address": "637 Fillmore St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 637 Fillmore St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew coffee with a French press and scan the morning news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Quick phone call to check in on her elderly father in San Diego.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Get ready for work, quick review of daily calendar and priority emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, listening to the 'Pivot' podcast to catch up on tech news.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Car on route to SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at desk, organize daily tasks on Asana, and sync with project lead.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead a virtual client check-in meeting for the new software integration project.",
+                        "geocode": {
+                            "lat": 37.7843318,
+                            "lng": -122.4033663,
+                            "formatted_address": "135 4th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Unity Technologies - Conference Room 'Metreon'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick lunch to-go and eat at her desk while reviewing project scope documents.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Focused work session: updating the project budget and resource allocation spreadsheet.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Unity Technologies - Quiet Work Zone"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "One-on-one mentorship meeting with a junior project manager.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Unity Technologies - Breakout Space"
+                    },
+                    {
+                        "emoji": "\u2709\ufe0f",
+                        "action": "Final email sweep and preparing handover notes for the overnight engineering team.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Drive home from SoMa, dealing with rush hour traffic on Franklin St.",
+                        "geocode": {
+                            "lat": 37.7754224,
+                            "lng": -122.4345097,
+                            "formatted_address": "Alamo Square, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 40,
+                        "location": "Car on route to Alamo Square"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for specialty groceries for dinner.",
+                        "geocode": {
+                            "lat": 37.7748083,
+                            "lng": -122.4374389,
+                            "formatted_address": "550 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bi-Rite Market on Divisadero"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Decompress from the day with a vinyasa flow yoga class.",
+                        "geocode": {
+                            "lat": 37.7719953,
+                            "lng": -122.4368671,
+                            "formatted_address": "286 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Garden SF"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Prepare and eat dinner while listening to a true crime podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and tidying up the living space.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Living Room"
+                    }
+                ],
+                "day_overview": "A demanding day for a senior project manager, balancing high-stakes client work in SoMa with personal wellness and caring for her elderly parents from her Alamo Square home.",
+                "home_address": "637 Fillmore St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7754456,
+                    "lng": -122.4313841,
+                    "formatted_address": "637 Fillmore St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1974",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

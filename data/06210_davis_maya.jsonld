@@ -1,0 +1,212 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maya Davis",
+    "givenName": "Maya",
+    "familyName": "Davis",
+    "jobTitle": "Restaurant Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Hospitality"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maya Davis is a living fusion, a product of her San Francisco Bay Area upbringing. The daughter of a pragmatic Filipina immigrant mother from Cebu and a storytelling Irish-American father from Boston, Maya\u2019s childhood in Alameda was a vibrant mix of lumpia and shepherd's pie, of Catholic tradition and pre-colonial folklore. This blend of cultures sparked an early curiosity about how people build their worlds, leading her to pursue a Bachelor's degree in Cultural Anthropology at UC Santa Cruz.\n\nUpon graduating, Maya faced the harsh reality that a degree in culture didn't easily translate to a paying career. Needing to support herself, she fell back on the familiar rhythm of hospitality she\u2019d absorbed from her family\u2019s constant gatherings, taking a server job at a bustling restaurant in San Francisco\u2019s Hayes Valley. It was supposed to be temporary, but Maya discovered an unexpected talent for the chaotic ballet of a busy restaurant. Her anthropological lens allowed her to see the staff not as cogs, but as a tribe with its own rituals and hierarchies, and customers as people seeking not just food, but connection.\n\nHer sharp intuition and empathy saw her rise quickly from server to lead host, then to assistant manager. The turning point came when the previous manager quit abruptly. Maya stepped in, seamlessly orchestrating service, managing inventory, and boosting staff morale. The owners, impressed, gave her the job permanently. Now 32, she manages \"The Gilded Spoon,\" a chic farm-to-table establishment.\n\nHer life is intrinsically tied to her work; her 0.0-mile commute is a short walk downstairs from the cozy one-bedroom apartment she lives in above the restaurant. Her days are long, bleeding into nights filled with the clatter of plates and the hum of conversation. Her social circle is tight-knit, consisting mainly of her head chef and a few loyal regulars. San Francisco isn\u2019t just her city; this specific block of Hayes Valley is her entire ecosystem. While she\u2019s proud of her success, her ultimate dream is to open her own place\u2014a small, intimate restaurant that finally puts her two halves on one plate, serving the Filipino-Irish comfort food of her youth."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and morning stretches, enjoying the view of Coit Tower from the window.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew coffee and have a quick breakfast with her partner, discussing their plans for the evening.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Short walk to work through the quiet morning streets of North Beach.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "Walk through Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Arrive at the office, settle in, and lead the morning huddle with the regional restaurant operations team.",
+                        "geocode": {
+                            "lat": 37.8072097,
+                            "lng": -122.4093793,
+                            "formatted_address": "100 North Point St, San Francisco, CA 94133, United States"
+                        },
+                        "duration": 75,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Analyze weekly P&L statements and labor cost reports from the various restaurant locations.",
+                        "geocode": {
+                            "lat": 37.8072097,
+                            "lng": -122.4093793,
+                            "formatted_address": "100 North Point St, San Francisco, CA 94133, United States"
+                        },
+                        "duration": 120,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to a classic local deli to grab a sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "On-site quality check at the Ghirardelli Square location to observe service flow and chat with staff.",
+                        "geocode": {
+                            "lat": 37.8059485,
+                            "lng": -122.4229383,
+                            "formatted_address": "900 North Point St F301, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Williams-Sonoma Cafe at Ghirardelli Square"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Work on developing a new training module for seasonal menu items and service standards.",
+                        "geocode": {
+                            "lat": 37.8072097,
+                            "lng": -122.4093793,
+                            "formatted_address": "100 North Point St, San Francisco, CA 94133, United States"
+                        },
+                        "duration": 120,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walk home, stopping at the grocery store to pick up ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.8050802,
+                            "lng": -122.4254187,
+                            "formatted_address": "North Point St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Trader Joe's at Northpoint"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Unwind and decompress from the workday, then begin cooking dinner with her partner.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet up with a couple of friends for a glass of wine at a classic neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 75,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down routine: tidying up, reading a chapter of a book, and getting ready for bed.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Maya, balancing corporate hospitality management with on-site check-ins, followed by errands and a relaxing evening cooking with her partner and meeting friends in her vibrant North Beach neighborhood.",
+                "home_address": "2060 Stockton St, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.804999,
+                    "lng": -122.409978,
+                    "formatted_address": "2060 Stockton St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

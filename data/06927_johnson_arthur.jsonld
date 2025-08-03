@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Arthur Johnson",
+    "givenName": "Arthur",
+    "familyName": "Johnson",
+    "jobTitle": "Facilities Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Building Management"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Arthur Johnson exists as the steady, beating heart of the Nob Hill luxury apartment building he calls home. Raised in a small, working-class town in Ohio, his future once seemed straightforward: follow in his father\u2019s footsteps as a mechanic. He was the first in his family to attend college, enrolling in a state school with vague engineering ambitions, but his academic journey was cut short after three semesters when his father suffered a debilitating stroke. Arthur returned home, trading textbooks for tool belts to support his family, and never looked back.\n\nHe arrived in San Francisco in his late twenties, following a girlfriend who was chasing a tech dream. The relationship dissolved within a year, but Arthur, surprisingly, found his footing. The city\u2019s constant need for skilled, reliable tradespeople meant he was never out of work. He started as a general handyman, his reputation for fixing what others couldn't growing with each job. His big break came when he was hired onto the maintenance staff of his current building. Over a decade, he rose from technician to manager, and when the live-in facilities manager position opened up, he was the only logical choice.\n\nNow, at 49, Arthur\u2019s life is his work. His commute is a 30-second elevator ride from his modest one-bedroom apartment to the basement office. He is a ghost in the machine of 200 lives, knowing who\u2019s having plumbing issues, whose dog barks too much, and which elevator motor has a particular whine before it acts up. His social life is sparse; a quiet divorce years ago taught him that being on-call 24/7 left little room for a partner. His connections are the doormen he shares a nod with, the residents who offer a polite hello, and the bartender at a nearby pub where he watches the Giants play.\n\nArthur feels a quiet pride in his domain, a concrete and steel kingdom he keeps humming. He holds no grand aspirations for wealth, but deep down, he nurtures a dream of saving enough to buy a small house in Sonoma, a place with a yard where the only thing he\u2019d have to fix is his own screen door."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a pot of Peet's Coffee, and read the news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Arthur's Cole Valley Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Morning walk with his partner up to the top of Buena Vista Park for some fresh air and city views.",
+                        "geocode": {
+                            "lat": 37.7703713,
+                            "lng": -122.4431784,
+                            "formatted_address": "Buena Vista Park, Buena Vista &, Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Buena Vista Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Quick breakfast of toast and yogurt while sorting through personal emails before the workday begins.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Commute to the office by walking down the hall and powering on the monitors.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home Office Command Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Virtual morning huddle with the on-site engineering team to review maintenance tickets for the Hartford Building.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Microsoft Teams"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Coordinate with an HVAC vendor via phone and email about a quote for a chiller replacement project.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office Command Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to pick up a 'Cole Valley Turkey' sandwich for a quick and easy lunch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Luke's Local"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Reviewing security access logs and drafting a building-wide communication about upcoming fire alarm testing.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Command Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Conducting a virtual site walk-through with a building engineer via FaceTime to inspect a reported leak in a utility room.",
+                        "geocode": {
+                            "lat": 37.7926995,
+                            "lng": -122.4051783,
+                            "formatted_address": "650 California St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 40,
+                        "location": "Hartford Building (Remote View)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Log off for the day and close the door to the home office, mentally switching from work to home life.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 5,
+                        "location": "Arthur's Cole Valley Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Walk to the local hardware store to pick up a new drain snake and some picture hanging wire.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Cole Hardware"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare and cook a salmon dinner with roasted vegetables alongside his partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Eat dinner and catch up on the day's events with his partner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch watching an episode of a crime drama series.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Living Room"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Facilities Manager living in Cole Valley, balancing remote management of a downtown high-rise with local errands and quality time with his partner.",
+                "home_address": "2386 Clayton St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7589818,
+                    "lng": -122.4463397,
+                    "formatted_address": "2386 Clayton St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Johnson Family"
+    }
+}

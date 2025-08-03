@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Senior Research Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s world has shrunk to the 0.8 square miles of his Cole Valley neighborhood, a life he engineered with the same precision he applies to his code. The son of a pragmatic auto mechanic and a quiet librarian from suburban Ohio, David\u2019s mind was always elsewhere, lost in the logic puzzles and science fiction his mother supplied. He was a gentle anomaly in a town that valued tangible skills over abstract thought.\n\nHis intellect propelled him eastward, earning a Ph.D. in Computational Neuroscience from Carnegie Mellon. There, he explored the boundary between human consciousness and artificial intelligence, a field that felt more like home than Ohio ever did. He was recruited by a major San Francisco tech firm\u2019s secretive R&D division, a perfect fit for his talents. It was also in grad school that he met Clara, a vibrant art historian who balanced his analytical nature. For seven years, she was his bridge to the world outside the lab.\n\nThe turning point was their breakup three years ago. Clara felt she was competing with a ghost in the machine\u2014the all-consuming nature of David\u2019s work. The fracture was clean but deep. In the aftermath, David retreated completely. When his company went fully remote, he saw it not as a temporary measure but as an optimization. His commute became the ten steps from his bed to the standing desk in his living room.\n\nNow, David\u2019s life unfurls in a predictable, comforting loop. Mornings start with a run in Golden Gate Park, followed by hours of deep work modeling neural networks. His social connections are brief and transactional: a nod to the barista at his favorite cafe on Cole Street, a polite hello to his neighbors. He feels a deep, quiet affection for his corner of San Francisco\u2014the fog rolling over Sutro Tower, the familiar faces at the local market. It\u2019s a city he observes more than participates in.\n\nProfessionally, he chases a breakthrough in AI learning models. Personally, he nurses a faint, persistent hope of finding balance. He dreams of one day designing a life where his intellectual passions don\u2019t entirely eclipse the possibility of human connection, of having a reason to travel further than the park at the end of his street."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, make a pourover coffee, and listen to a science news podcast while getting ready.",
+                        "geocode": {
+                            "lat": 37.7719593,
+                            "lng": -122.4142915,
+                            "formatted_address": "1504 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "1504 Folsom St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the MUNI station to begin the commute.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 10,
+                        "location": "Van Ness MUNI Metro Station"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Take the N Judah MUNI train inbound, reading journal articles on a tablet.",
+                        "geocode": {
+                            "lat": 37.7613338,
+                            "lng": -122.4855952,
+                            "formatted_address": "Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "MUNI N Judah Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Arrive at the lab, check on overnight experiments and cell cultures, and plan the day's research protocols.",
+                        "geocode": {
+                            "lat": 37.7627927,
+                            "lng": -122.4580873,
+                            "formatted_address": "San Francisco, CA 94131, USA"
+                        },
+                        "duration": 75,
+                        "location": "UCSF Medical Sciences Building Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c",
+                        "action": "Attend a weekly lab meeting to discuss progress and troubleshoot issues with fellow researchers.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy lunch to go.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ladle & Leaf Soup and Salad Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Conduct a focused data analysis session, processing results from a recent genomics experiment.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "David's Office, UCSF Parnassus"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Mentor a graduate student, reviewing their experimental design and recent findings.",
+                        "geocode": {
+                            "lat": 37.7678917,
+                            "lng": -122.3928915,
+                            "formatted_address": "William J. Rutter Center, 1675 Owens St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Graduate Division Student Lounge"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Take the N Judah MUNI train back towards SoMa, listening to music to decompress.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 35,
+                        "location": "UCSF Parnassus MUNI Station"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Stop for a post-work strength training and cardio session.",
+                        "geocode": {
+                            "lat": 37.7695117,
+                            "lng": -122.406561,
+                            "formatted_address": "1001 Brannan St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up ingredients for dinner and some essentials for the week.",
+                        "geocode": {
+                            "lat": 37.7853239,
+                            "lng": -122.4055518,
+                            "formatted_address": "10 4th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's - 4th & Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner at home while catching up on a phone call with a friend.",
+                        "geocode": {
+                            "lat": 37.7719593,
+                            "lng": -122.4142915,
+                            "formatted_address": "1504 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "1504 Folsom St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a non-fiction book and preparing his bag for the next day.",
+                        "geocode": {
+                            "lat": 37.7719593,
+                            "lng": -122.4142915,
+                            "formatted_address": "1504 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "1504 Folsom St Apartment"
+                    }
+                ],
+                "day_overview": "A typical weekday for a dedicated research scientist, involving focused lab work at UCSF, navigating the city via MUNI, and unwinding with a workout and quiet evening in his SoMa neighborhood.",
+                "home_address": "1504 Folsom St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7719593,
+                    "lng": -122.4142915,
+                    "formatted_address": "1504 Folsom St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

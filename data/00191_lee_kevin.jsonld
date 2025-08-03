@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Lee",
+    "givenName": "Kevin",
+    "familyName": "Lee",
+    "jobTitle": "Logistics Coordinator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Lee, a 27-year-old Logistics Coordinator, grew up in the Sunset District of San Francisco, a neighborhood that always felt like a quiet enclave within the bustling city. His parents, second-generation Chinese Americans, ran a small but steady grocery store, instilling in Kevin a strong work ethic and a pragmatic outlook on life. Sundays were reserved for family dim sum, a ritual that cemented his connection to his cultural heritage and close-knit family.\n\nAcademically, Kevin was a diligent student, excelling in subjects requiring logical thinking and organization. His interest in how things moved \u2013 from the flow of goods in his parents' store to the city's intricate transit system \u2013 led him to a Bachelor's degree in Supply Chain Management at San Francisco State University. While college was a time of focused study, it also brought him into contact with a wider array of perspectives, broadening his understanding of the world beyond the Sunset.\n\nHis first job out of college was as an entry-level logistics assistant. He quickly proved his value through his attention to detail and ability to troubleshoot complex logistical puzzles. Within a few years, he rose to the position of Logistics Coordinator, thriving on the challenge of optimizing routes and managing the flow of goods in a dynamic urban environment. A key turning point was successfully navigating a major port delay, a high-pressure situation that showcased his problem-solving skills under duress.\n\nKevin\u2019s personal life is characterized by a small but loyal circle of friends, many of whom he met in college. They share a love for exploring the city\u2019s diverse culinary scene and escaping to nearby trails for hikes on weekends. He's currently in a committed relationship with Sarah, an architect he met at a neighborhood bookstore. Their shared intellectual curiosity and appreciation for San Francisco's blend of old and new have strengthened their bond.\n\nHis daily routine is a testament to his practical nature. He commutes to his office in the Dogpatch via a familiar 3.5-mile bicycle route, enjoying the physical activity and the city's ever-changing landscape. Evenings are often spent reading, cooking dinner with Sarah, or catching up with family.\n\nLooking ahead, Kevin dreams of further advancing his career, perhaps moving into a management role where he can implement more sustainable logistics practices. He envisions eventually buying a place in San Francisco, a city he loves for its energy, diversity, and inherent sense of opportunity, though the city's notorious housing market remains a significant hurdle. He hopes to contribute to making the city's supply chains more efficient and environmentally conscious, recognizing the role logistics plays in the city's vitality. San Francisco is more than just where he works; it's the familiar backdrop to his life, the source of his opportunities, and the vibrant tapestry he actively participates in weaving."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1. The scent of steaming siu mai and the familiar chatter of his parents and grandparents at the round table. This was the bedrock of his Sundays, a ritual of loud laughter and sharing. It grounded him in his heritage, a comforting anchor in a world that was always changing, a constant reminder of where he came from and the strong family bonds that shaped him.\n\n2. That feeling of solving a seemingly impossible puzzle during the port delay crisis. The pressure was immense, phones ringing non-stop. But seeing the dominoes fall into place, goods finally flowing, brought a surge of accomplishment and confidence. It solidified his belief in his ability to handle pressure and thrive in complex, chaotic situations.\n\n3. That first ride on his bicycle to his office in the Dogpatch. The wind in his hair, the city waking up around him, the feeling of independence and purpose. It became his morning ritual, a time for reflection and connection with the city, a tangible reminder of his progress and the joy in the simple act of movement.\n\n4. The quiet intimacy of cooking dinner with Sarah in their small apartment, the shared laughter over a burnt dish or a perfectly executed recipe. These moments were a gentle counterpoint to the demands of work, solidifying the foundation of their relationship and offering a glimpse into a shared future built on mutual support and simple pleasures.\n\n5. Standing at the top of Twin Peaks on a clear evening, the twinkling lights of the city spread out below. It was a moment of awe and connection, a reminder of the city's vastness and beauty, and a quiet promise to himself to keep working towards a future here, not just for himself, but contributing to its ongoing story."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check phone for overnight notifications and scroll through news headlines.",
+                        "geocode": {
+                            "lat": 37.7988578,
+                            "lng": -122.4358723,
+                            "formatted_address": "Fillmore St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Apartment on Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7988578,
+                            "lng": -122.4358723,
+                            "formatted_address": "Fillmore St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Fillmore St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make and eat a quick breakfast of coffee and avocado toast while listening to a morning podcast.",
+                        "geocode": {
+                            "lat": 37.7988578,
+                            "lng": -122.4358723,
+                            "formatted_address": "Fillmore St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across town, navigating morning traffic on Fell Street and through Golden Gate Park.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at work, respond to urgent emails from artists and shipping carriers, and generate quotes for new shipments.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 90,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Receive a delivery of new canvases and art supplies, check the packing list, and move items into the studio storage.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 60,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to grab a quick and delicious lemongrass steak banh mi for lunch.",
+                        "geocode": {
+                            "lat": 37.7755803,
+                            "lng": -122.4975746,
+                            "formatted_address": "3605 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mr. Banh Mi"
+                    },
+                    {
+                        "emoji": "\ud83d\uddbc\ufe0f",
+                        "action": "Carefully pack a large mixed-media painting into a custom-built crate for an international shipment.",
+                        "geocode": {
+                            "lat": 37.776055,
+                            "lng": -122.419937,
+                            "formatted_address": "77 Van Ness Ave APT 302, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 120,
+                        "location": "CIQ Gallery - Shipping Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Update inventory system with newly received supplies and send out tracking numbers for all outgoing packages.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 75,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Commute home, driving south and east, listening to music to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Make a quick stop to pick up groceries for dinner and the next couple of days.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Trader Joe's"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Hit the gym for a weightlifting session and some cardio to burn off stress.",
+                        "geocode": {
+                            "lat": 37.7637395,
+                            "lng": -122.4334293,
+                            "formatted_address": "2301 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF - Castro"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook and eat dinner at home while catching up on a TV show.",
+                        "geocode": {
+                            "lat": 37.7988578,
+                            "lng": -122.4358723,
+                            "formatted_address": "Fillmore St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Apartment on Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk down the street to meet a friend for a couple of craft beers.",
+                        "geocode": {
+                            "lat": 37.7719042,
+                            "lng": -122.4312295,
+                            "formatted_address": "547 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Toronado Pub"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Wind down at home, tidy up the kitchen, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7988578,
+                            "lng": -122.4358723,
+                            "formatted_address": "Fillmore St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Apartment on Fillmore St"
+                    }
+                ],
+                "day_overview": "A productive day for Kevin, balancing logistical tasks at the art gallery in the Richmond with a necessary grocery run, a solid workout, and a casual beer with a friend in his Lower Haight neighborhood.",
+                "home_address": "437 Fillmore St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7734788,
+                    "lng": -122.4309912,
+                    "formatted_address": "437 Fillmore St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

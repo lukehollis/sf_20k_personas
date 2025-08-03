@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Williams",
+    "givenName": "Sarah",
+    "familyName": "Williams",
+    "jobTitle": "Data Entry Specialist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Cannot be definitively inferred"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Various (data entry roles exist across many sectors)"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Williams\u2019s life has been a study in quiet precision, much like the data she organizes daily. Raised in a small, practical town in the Central Valley, she was the responsible child of a mechanic and a part-time bookkeeper. Her parents valued stability over ambition, a lesson Sarah absorbed early on. She enrolled in a state university with a vague interest in history, but her path was rerouted when her mother fell ill. Sarah left school after her sophomore year to help at home, taking on bookkeeping and administrative tasks to support the family.\n\nThis temporary measure solidified into a career. She discovered a surprising satisfaction in bringing order to chaos, finding a home in the meticulous, predictable world of data entry. She earned an associate's degree in office administration online, a practical credential that opened doors to a series of contract-based, remote positions. For years, she worked from her childhood bedroom, her world shrinking to the size of her monitor.\n\nThe turning point came at 35. Staring at the same walls, she felt a profound disconnect from the life she\u2019d once imagined. A long-dormant dream of living in San Francisco\u2014a city she\u2019d visited once on a school trip and never forgotten\u2014surfaced with an urgent pull. Leveraging her ability to work from anywhere, she meticulously saved, found a small, rent-controlled apartment in the Inner Richmond, and made the move.\n\nNow, at 39, Sarah\u2019s life is contained and self-directed. Her 0.0-mile commute means her workday is a silent dialogue between her keyboard and databases for anonymous tech or healthcare companies. Her apartment, filled with books and orderly stacks of papers, is both her office and her sanctuary. She knows the rhythm of her neighborhood intimately: the morning fog rolling down from Golden Gate Park, the specific chime of the N Judah streetcar, the friendly nod from the owner of her corner bakery. Her social circle is small, limited to a weekly video call with an old friend and pleasantries with neighbors.\n\nAs she approaches 40, a new restlessness is blooming. While she achieved her dream of living in the city, she feels more like an observer than a participant. She aspires to bridge the gap between her orderly digital life and the vibrant, tangible world outside. Sarah daydreams of volunteering at a local historical society or taking a ceramics class\u2014a small, deliberate step toward entering a new kind of data, one filled with texture, history, and human connection."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, start coffee maker, and do a 10-minute stretching routine to get the blood flowing.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in work-appropriate but comfortable clothes, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of Greek yogurt with berries while scanning the morning headlines and checking personal email.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Cycle from Potrero Hill down to the Embarcadero waterfront, enjoying the morning air before arriving at the office.",
+                        "geocode": {
+                            "lat": 37.7655451,
+                            "lng": -122.4117609,
+                            "formatted_address": "16th St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "16th Street Bike Lanes"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at work, grab a complimentary latte and a pastry from a micro-kitchen, and settle in at the workstation.",
+                        "geocode": {
+                            "lat": 37.7362555,
+                            "lng": -122.3903978,
+                            "formatted_address": "4608 3rd St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 15,
+                        "location": "Google SF - 'The Fog Horn' Microkitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Begin the morning's data processing task: cleaning and validating a large set of user survey results for an upcoming product report.",
+                        "geocode": {
+                            "lat": 37.7900161,
+                            "lng": -122.3900146,
+                            "formatted_address": "345 Spear St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 155,
+                        "location": "Google San Francisco - Spear St Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Break for a healthy lunch at one of the campus cafes, chatting with a few colleagues from the operations team.",
+                        "geocode": {
+                            "lat": 37.8589476,
+                            "lng": -122.4781208,
+                            "formatted_address": "100 Spinnaker Dr, Sausalito, CA 94965, USA"
+                        },
+                        "duration": 60,
+                        "location": "Google SF - 'The Spinnaker' Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Attend a brief virtual team check-in to report progress and receive the afternoon's data entry assignment.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Google Meet"
+                    },
+                    {
+                        "emoji": "\u2328\ufe0f",
+                        "action": "Focus on the afternoon task: meticulously entering customer feedback data from scanned forms into the central database.",
+                        "geocode": {
+                            "lat": 37.7900161,
+                            "lng": -122.3900146,
+                            "formatted_address": "345 Spear St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 150,
+                        "location": "Google San Francisco - Spear St Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2640\ufe0f",
+                        "action": "Log off for the day and begin the challenging but rewarding bike commute home, tackling the Potrero Hill climb.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Embarcadero Bike Path"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up fresh produce for dinner and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple but delicious pasta dish while listening to a podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd42",
+                        "action": "Host a friend who lives nearby for dinner and conversation, catching up on the week's events.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Tidy up the kitchen, lay out clothes for the next day, and relax on the couch streaming a new documentary series.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with an evening skincare routine and read a few chapters of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Potrero Hill Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Sarah, balancing focused data entry work at Google with an active bicycle commute and a relaxed evening with a friend in her Potrero Hill neighborhood.",
+                "home_address": "890 16th St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7667113,
+                    "lng": -122.3955352,
+                    "formatted_address": "890 16th St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Some college or Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Williams Family"
+    }
+}

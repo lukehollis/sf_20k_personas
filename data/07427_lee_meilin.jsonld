@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Meilin Lee",
+    "givenName": "Meilin",
+    "familyName": "Lee",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Meilin Lee\u2019s world is measured not in miles, but in the familiar chime of the bell on the shop door below her apartment. Born and raised in the foggy avenues of San Francisco\u2019s Richmond District, she is the only child of immigrants from Hong Kong who poured their life savings into a small variety store. Her childhood was a blend of American cartoons and helping her parents stock shelves, her life contained within the walls of the building they owned: shop on the ground floor, home on the second.\n\nHer parents, while loving, held traditional expectations of success that Meilin felt she could never quite meet. They envisioned a daughter with a prestigious university degree, but Meilin, pragmatic and overwhelmed by the pressure, opted for a more certain path. She attended City College of San Francisco, earning an Associate's degree in Business Administration\u2014a compromise that felt both like a betrayal of their dreams and a sensible way to support the family she loved.\n\nThe true turning point came when her father suffered a minor heart attack when Meilin was 24. The responsibility of running the store fell squarely on her shoulders. She stepped up, managing inventory, suppliers, and a small staff with an efficiency that surprised even her parents. The temporary role slowly became permanent, and she was officially made the store manager.\n\nNow 30, her commute is a simple walk down a flight of stairs. Her days are a routine of opening the shop, greeting elderly neighbors by name, managing receipts, and locking up long after the sun has set. Her social life is small but loyal, consisting of a few high school friends she meets for dim sum on her rare days off. Romantic relationships have been fleeting, often fizzling out when potential partners struggle to understand a life so deeply intertwined with family obligation.\n\nMeilin\u2019s connection to San Francisco is hyperlocal and profound. She knows the rhythm of her neighborhood intimately but rarely ventures beyond it. Her dream is a quiet one: to slowly modernize the store, introducing curated local goods alongside the familiar staples, making it her own. She hopes to one day blend her duty to her family\u2019s legacy with her own quiet ambition, proving that a meaningful life can be built right at home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake Up & Morning Stretch",
+                        "geocode": {
+                            "lat": 37.7541315,
+                            "lng": -122.4368686,
+                            "formatted_address": "504 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 504 Diamond St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, Get Ready, & Eat a Quick Breakfast",
+                        "geocode": {
+                            "lat": 37.7541315,
+                            "lng": -122.4368686,
+                            "formatted_address": "504 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 504 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from Noe Valley to Lower Nob Hill",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Car on SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udd11",
+                        "action": "Open Gift Shop & Morning Prep",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 30,
+                        "location": "UCSF Health Gift Shop"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Morning Shift: Manage Staff and Assist Customers",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 180,
+                        "location": "UCSF Health Gift Shop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch Break",
+                        "geocode": {
+                            "lat": 37.7772491,
+                            "lng": -122.4232444,
+                            "formatted_address": "429 Gough St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "TheCrepeHouse"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Afternoon Admin: Inventory Orders & Scheduling",
+                        "geocode": {
+                            "lat": 37.7865704,
+                            "lng": -122.4078411,
+                            "formatted_address": "190 O'Farrell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 120,
+                        "location": "Gift Shop Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf81",
+                        "action": "Afternoon Shift: Customer Service & Floor Management",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Health Gift Shop"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Close Out Daily Sales & Commute Home",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Car on SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Unwind and Change at Home",
+                        "geocode": {
+                            "lat": 37.7541315,
+                            "lng": -122.4368686,
+                            "formatted_address": "504 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 504 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick Grocery Run for Essentials",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Whole Foods Market, 24th St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Dinner with a Friend",
+                        "geocode": {
+                            "lat": 37.7515463,
+                            "lng": -122.4321476,
+                            "formatted_address": "4000 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "NOVY Restaurant"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax, Watch TV, and Prepare for Tomorrow",
+                        "geocode": {
+                            "lat": 37.7541315,
+                            "lng": -122.4368686,
+                            "formatted_address": "504 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - 504 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Bedtime",
+                        "geocode": {
+                            "lat": 37.7541315,
+                            "lng": -122.4368686,
+                            "formatted_address": "504 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 485,
+                        "location": "Home - 504 Diamond St"
+                    }
+                ],
+                "day_overview": "A busy weekday for Meilin, balancing her responsibilities as a gift shop manager at a hospital with a challenging cross-town commute, before unwinding with errands and a social dinner in her Noe Valley neighborhood.",
+                "home_address": "504 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7541315,
+                    "lng": -122.4368686,
+                    "formatted_address": "504 Diamond St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Lee",
+    "givenName": "Daniel",
+    "familyName": "Lee",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Agnostic"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Lee\u2019s story is one of quiet rebellion and measured reinvention. Raised in Fremont, he was the only son of first-generation Taiwanese immigrants. His father, a stoic software engineer, preached the gospel of Silicon Valley stability, while his mother ran a bustling boba shop, a universe of community and warmth. Daniel grew up straddling these two worlds: the precise logic of code his father discussed at dinner and the chaotic, human patterns he observed helping his mother after school.\n\nThis fascination with human systems led him away from the prescribed path of engineering. He enrolled at UC Davis, choosing to study Sociology, a decision that baffled his father. Daniel loved analyzing the invisible forces that shaped cities and communities, but post-graduation, he found himself with a degree rich in theory but poor in practical job prospects. The turning point came during a listless year working part-time. He discovered that the vast, impersonal datasets companies were collecting told the same human stories he\u2019d studied in textbooks. He took a calculated risk, enrolling in an intensive data analytics boot camp, finally bridging the gap between his passion and a viable career.\n\nNow 31, Daniel lives in a meticulously organized one-bedroom apartment in the Inner Richmond. His 0.0-mile commute from his bedroom to his standing desk is a ritual of efficiency. His life is defined by a comfortable routine: a morning pour-over with beans from a local Clement Street roaster, hours spent wrangling data for a mid-size fintech company, and a mandatory midday walk through the misty corridors of Golden Gate Park. The move to the city three years ago was precipitated by both the job offer and the quiet fizzling of a long-term relationship, marking a definitive break with his suburban past.\n\nHis social life is small but meaningful, centered around a weekly bouldering session with two friends from his boot camp and biannual get-togethers with his college sociology cohort. While he finds satisfaction in his work, a deeper ambition, an echo of his academic roots, is stirring. Daniel dreams of eventually using his data skills for a non-profit or a civic planning department, turning his analytical mind back to the urban patterns that first captivated him\u2014not for profit, but for the tangible improvement of the city he now calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Have a quick breakfast of toast and coffee while chatting with parents about their plans for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from Noe Valley to CCSF, listening to a data science podcast and navigating Portola Drive traffic.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 25,
+                        "location": "Commute to CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at his desk, grab a coffee from the breakroom, and review emails and data requests from college departments.",
+                        "geocode": {
+                            "lat": 37.7257567,
+                            "lng": -122.4502151,
+                            "formatted_address": "Cloud Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 30,
+                        "location": "Institutional Research Office, Cloud Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Deep work session: Writing and running SQL queries to extract student performance data for an upcoming quarterly report.",
+                        "geocode": {
+                            "lat": 37.7257567,
+                            "lng": -122.4502151,
+                            "formatted_address": "Cloud Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 120,
+                        "location": "Institutional Research Office, Cloud Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Team meeting to discuss the progress of the institutional effectiveness dashboard and align on next steps.",
+                        "geocode": {
+                            "lat": 37.7257567,
+                            "lng": -122.4502151,
+                            "formatted_address": "Cloud Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 45,
+                        "location": "Conference Room, Cloud Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Drive off-campus for a solo lunch break, picking up a super burrito to eat in his car while listening to music.",
+                        "geocode": {
+                            "lat": 37.7198838,
+                            "lng": -122.4635843,
+                            "formatted_address": "Ingleside, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Taqueria Guadalajara, Ingleside"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Clean and format the data queried this morning, preparing it for import into Tableau for visualization.",
+                        "geocode": {
+                            "lat": 37.7257567,
+                            "lng": -122.4502151,
+                            "formatted_address": "Cloud Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 120,
+                        "location": "Institutional Research Office, Cloud Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Wrap up work for the day by documenting code, responding to final emails, and planning tasks for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7257567,
+                            "lng": -122.4502151,
+                            "formatted_address": "Cloud Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 30,
+                        "location": "Institutional Research Office, Cloud Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive home from CCSF, enjoying the clearer afternoon traffic on the way back to Noe Valley.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Commute Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Go to the gym for a weightlifting session to decompress after a day of sitting.",
+                        "geocode": {
+                            "lat": 37.75187409999999,
+                            "lng": -122.4276997,
+                            "formatted_address": "3800 24th St #2, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "24 Hour Fitness - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the neighborhood market to pick up fresh bread and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7660322,
+                            "lng": -122.4290198,
+                            "formatted_address": "300 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 15,
+                        "location": "Church Street Groceteria"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Sit down for dinner with his parents, sharing stories from their respective days over a home-cooked meal.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a new sci-fi series on a streaming service before heading to bed.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Noe Valley"
+                    }
+                ],
+                "day_overview": "A structured day for Daniel, balancing his data analysis work at City College with a gym session, local errands, and quality time with his family in their Noe Valley home.",
+                "home_address": "2482 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7419606,
+                    "lng": -122.4332539,
+                    "formatted_address": "2482 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

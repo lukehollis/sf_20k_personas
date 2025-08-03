@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sophia Thompson",
+    "givenName": "Sophia",
+    "familyName": "Thompson",
+    "jobTitle": "Junior Manufacturing Engineer",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sophia Thompson\u2019s life has always been about understanding how things fit together. Growing up in Fresno, her childhood playground was her father\u2019s auto repair shop, a chaotic space filled with the scent of grease and the satisfying click of a socket wrench. While her friends played with dolls, Sophia was taking apart old VCRs and building wobbly go-karts. This innate curiosity for mechanics led her to Cal Poly San Luis Obispo, where she pursued a degree in Mechanical Engineering, thriving in its \u201cLearn by Doing\u201d environment.\n\nA summer internship between her junior and senior years was the decisive turning point. She landed a spot at a small, innovative hardware startup in San Francisco\u2019s Dogpatch neighborhood, a company specializing in custom robotics components. The energy of the city and the challenge of creating tangible, cutting-edge products on a small scale was intoxicating. She fell in love with the process, from digital model to physical prototype. Upon graduation, accepting their full-time offer for a Junior Manufacturing Engineer position was an easy choice.\n\nNow, at 24, Sophia\u2019s life is a model of hyperlocal efficiency. She lives in a modern live-work loft, just a few doors down from the workshop, making her commute a 30-second walk. Her days are spent calibrating CNC machines, refining 3D printing processes, and problem-solving on the assembly line. Her world is contained within the industrial-chic blocks of Dogpatch; she gets coffee at a local roaster, unwinds after work at Dogpatch Boulders climbing gym, and socializes with a tight-knit circle of colleagues and climbing friends.\n\nSophia feels deeply connected not to the iconic, tourist-facing San Francisco, but to its identity as a hub for makers and innovators. She isn\u2019t just living in the city; she\u2019s actively building parts of it. Her dream is to eventually lead her own product design firm, creating beautiful, functional hardware that improves people's lives. For now, she\u2019s content honing her craft, one perfectly manufactured component at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, hydrate, and do a quick 15-minute yoga flow to stretch before the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a smart-casual outfit, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Share a quick breakfast of coffee and avocado toast with her partner before heading out.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the commute, walking through the Mission District while listening to a tech manufacturing podcast.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Valencia Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the coworking space, grab a complimentary cold brew, and settle in at her dedicated desk.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 15,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Participate in the daily virtual stand-up meeting with the engineering team to discuss project progress and blockers.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mindspace Conference Room"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Focused work session: Finalizing CAD models for a new product enclosure and preparing them for 3D printing.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to lunch, picking up a healthy grain bowl to eat outside in a nearby public space.",
+                        "geocode": {
+                            "lat": 37.7885691,
+                            "lng": -122.3988571,
+                            "formatted_address": "555 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 55,
+                        "location": "Mixt at 555 Mission St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon work: Analyzing simulation results for thermal stress on a new component and documenting findings for the senior engineer.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up tasks for the day, respond to final emails, and update her project board in Jira.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 20,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Start the long walk home, calling her parents for a chat while crossing through SoMa.",
+                        "geocode": {
+                            "lat": 37.7616419,
+                            "lng": -122.4149807,
+                            "formatted_address": "Folsom St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Walking North on Folsom Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd55",
+                        "action": "Stop to pick up fresh pasta and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Church Street Produce"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and cook dinner with her partner, catching up on each other's day over a meal.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching an episode of a crime drama series together.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: Skincare routine and reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Noe Valley Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Sophia, a junior manufacturing engineer, featuring a long, invigorating walk through the city for her commute, focused design work at her coworking space, and a relaxing evening at home in Noe Valley with her partner.",
+                "home_address": "3711 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.73976750000001,
+                    "lng": -122.4266477,
+                    "formatted_address": "3711 Church St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

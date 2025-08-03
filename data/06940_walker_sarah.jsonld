@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Walker",
+    "givenName": "Sarah",
+    "familyName": "Walker",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Walker\u2019s life is a testament to finding home in the place you least expect it. Born in Ohio, her early years were a blur of different towns as her family relocated for her father\u2019s construction work. This nomadic childhood instilled in her a deep craving for stability and roots. When she enrolled in a community college in Oregon, she had no clear major, only a vague sense that an education was the next logical step. After three semesters of feeling more adrift than ever, she dropped out.\n\nHer arrival in San Francisco at 22 was an accident, the result of following a short-lived romance. The relationship fizzled within months, but Sarah was captivated by the city's fog-laced streets and fiercely independent neighborhoods. She stayed, taking on a series of retail jobs to get by. It was behind the counter of a small, independent gift shop in the Inner Sunset that she found her calling. She had a natural talent for merchandising and an easy warmth that turned customers into regulars. The original owner, seeing her dedication, trained her, and when he retired a decade ago, he made her the manager, leasing her the small apartment above the store.\n\nNow 45, Sarah\u2019s life is deeply woven into the fabric of her neighborhood. Her zero-mile commute consists of walking down a single flight of stairs. Her days are spent curating artisan goods, chatting with locals who stop by for a card or a quick chat, and functioning as the unofficial neighborhood therapist. Her social life revolves around her community\u2014a weekly dinner with other local shop owners, a book club held at the branch library, and quiet evenings on her fire escape watching the fog roll in over Golden Gate Park.\n\nContent and fulfilled, Sarah has built the rooted life she always wanted. Her dream isn't grand; it's to one day have enough saved to buy the shop and the building outright, securing her place in the community she loves. Her greatest hope is that the neighborhood can retain its unique, local character against the relentless tide of change, allowing her small corner of San Francisco to remain a haven of familiarity and connection."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, start coffee, and check overnight emails and news headlines.",
+                        "geocode": {
+                            "lat": 37.7956519,
+                            "lng": -122.4162838,
+                            "formatted_address": "1281 Pacific Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1281 Pacific Ave)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5a",
+                        "action": "Get ready for the day: shower, dress in smart-casual attire, and pack a lunch.",
+                        "geocode": {
+                            "lat": 37.7956519,
+                            "lng": -122.4162838,
+                            "formatted_address": "1281 Pacific Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (1281 Pacific Ave)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of toast and yogurt while reviewing personal and work calendars.",
+                        "geocode": {
+                            "lat": 37.7956519,
+                            "lng": -122.4162838,
+                            "formatted_address": "1281 Pacific Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (1281 Pacific Ave)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Walk to the bus stop and ride the MUNI 12 Folsom/Pacific line towards SoMa, listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.795755,
+                            "lng": -122.416549,
+                            "formatted_address": "Pacific Ave & Leavenworth St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 40,
+                        "location": "MUNI 12 Bus Stop (Pacific & Leavenworth)"
+                    },
+                    {
+                        "emoji": "\ud83d\udd11",
+                        "action": "Arrive at the store, disarm the alarm, do a walkthrough, and prepare the cash registers for opening.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 25,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Hold a morning huddle with the team to discuss sales goals, new promotions, and staff assignments.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 15,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Work in the back office on inventory orders, employee scheduling, and responding to vendor emails.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Step out for a quick lunch break, grabbing a salad and sandwich to go.",
+                        "geocode": {
+                            "lat": 37.780602,
+                            "lng": -122.3961766,
+                            "formatted_address": "212 Ritch St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 45,
+                        "location": "Darwin Cafe"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Manage the sales floor, assist customers with finding specialized art supplies, and oversee product merchandising.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 180,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Prepare end-of-day sales reports and hand off closing duties to the evening shift leader.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home, taking the 12 Folsom/Pacific bus back up the hill to Nob Hill.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "MUNI 12 Bus (SoMa to Nob Hill)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the neighborhood market to pick up fresh vegetables and chicken for dinner.",
+                        "geocode": {
+                            "lat": 37.7929099,
+                            "lng": -122.4162614,
+                            "formatted_address": "1263 Leavenworth St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Le Beau Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner while listening to music to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7956519,
+                            "lng": -122.4162838,
+                            "formatted_address": "1281 Pacific Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (1281 Pacific Ave)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while watching an episode of a drama series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7956519,
+                            "lng": -122.4162838,
+                            "formatted_address": "1281 Pacific Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (1281 Pacific Ave)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a novel and tidying up the kitchen.",
+                        "geocode": {
+                            "lat": 37.7956519,
+                            "lng": -122.4162838,
+                            "formatted_address": "1281 Pacific Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (1281 Pacific Ave)"
+                    }
+                ],
+                "day_overview": "A busy but structured day for a retail store manager, balancing team leadership and administrative tasks in SoMa, with a commute via public transit from her Nob Hill home and quiet evenings dedicated to personal errands and relaxation.",
+                "home_address": "1281 Pacific Ave, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7956519,
+                    "lng": -122.4162838,
+                    "formatted_address": "1281 Pacific Ave, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1979",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Walker Family"
+    }
+}

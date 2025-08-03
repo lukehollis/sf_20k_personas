@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mark Berman",
+    "givenName": "Mark",
+    "familyName": "Berman",
+    "jobTitle": "Administrative Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mark Berman is a product of a San Francisco that exists more in memory than on maps. Born in the Sunset District to a Muni bus driver and a department store clerk, his childhood was scored by the clang of cable cars and the roar of the Pacific. He was a quiet, observant boy who preferred the ordered shelves of the local library to the chaos of the schoolyard.\n\nHis path seemed set for San Francisco State in the early 90s, studying history with a vague notion of becoming a high school teacher. But life intervened when his mother fell ill. Mark dropped out after two years to work full-time, helping with the mounting medical bills. He traded textbooks for ledgers, finding an entry-level clerical job with the city's Department of Public Works. It was meant to be temporary.\n\nThree decades later, Mark is an Administrative Technician. The \"temporary\" job became a career built on reliability and a deep, institutional knowledge of municipal codes and procedures. He never returned to college; the momentum was lost, and the stability of a city job was too secure to abandon.\n\nMark\u2019s world is a compact, well-ordered universe. His 0.0-mile commute is literal; he lives in a subsidized apartment for city employees in a Civic Center building, just floors away from his office. His daily routine is a familiar loop: wake, work, a lunchtime walk to the Main Library, work, and an evening with a historical documentary. He is a lifelong bachelor whose most enduring relationships are with long-serving colleagues and the cashier at his corner market.\n\nHe is a repository of a forgotten San Francisco, a quiet observer of the city's frenetic reinvention from his window overlooking City Hall. He feels more like a steward of the city's bureaucratic engine than a resident of its vibrant culture. His hopes are modest: a pension that will allow him to stay, to not be priced out of his birthplace. A quiet ambition lingers\u2014to finally finish that history degree online, not for a new career, but to close a chapter left open by duty thirty years ago."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare coffee and a simple breakfast (oatmeal and fruit) for himself and his elderly mother.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Eat breakfast with his mother, help with her morning medication, and chat about her plans for the day.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Dining Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the 10 Townsend Muni bus down Columbus Ave and Potrero Ave.",
+                        "geocode": {
+                            "lat": 37.7948162,
+                            "lng": -122.4078892,
+                            "formatted_address": "Bus Stop, 944 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni Bus Stop - Columbus & Stockton"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at his cubicle, log into the hospital's system, and review pending administrative requests for the day.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "Zuckerberg San Francisco General Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning work: Process patient transfer paperwork, update insurance records, and field calls from various departments.",
+                        "geocode": {
+                            "lat": 37.7239137,
+                            "lng": -122.4516668,
+                            "formatted_address": "Women's Resource Center, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 180,
+                        "location": "Administrative Services Office, SFGH"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to a nearby classic spot to pick up a Cubana torta for lunch.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon work: Organize and file digital documents for an upcoming departmental audit and manage supply requisitions.",
+                        "geocode": {
+                            "lat": 37.7239137,
+                            "lng": -122.4516668,
+                            "formatted_address": "Women's Resource Center, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 210,
+                        "location": "Administrative Services Office, SFGH"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Log off for the day and commute home on the 10 Townsend Muni bus, reading the news on his phone.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at a neighborhood market to pick up fresh bread, cheese, and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7986983,
+                            "lng": -122.4087054,
+                            "formatted_address": "1400 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Little City Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and eat dinner with his mother, catching up on the day and watching the evening news.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a historical documentary together.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Tidy up the apartment, check in on his mother one last time, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A routine weekday for Mark, balancing his administrative duties at SF General Hospital with his caregiver responsibilities for his elderly parent in their North Beach home.",
+                "home_address": "3472 Stockton St, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8079243,
+                    "lng": -122.4107177,
+                    "formatted_address": "3472 Stockton St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1971",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Berman Family"
+    }
+}

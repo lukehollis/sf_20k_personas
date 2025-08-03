@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Thomas Miller",
+    "givenName": "Thomas",
+    "familyName": "Miller",
+    "jobTitle": "Policy Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Unaffiliated"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Thomas Miller\u2019s life is a study in calculated ascent, a journey from the predictable flatlands of suburban Ohio to the foggy peaks of San Francisco\u2019s Nob Hill. Raised by a history teacher and a librarian, his childhood was a stable, middle-class affair filled with books and discussions about civic responsibility. While he valued this foundation, a quiet restlessness simmered within him; he craved a life with higher stakes and a faster tempo than his quiet hometown could offer.\n\nThis drive propelled him to a Master's in Public Policy program on the East Coast. His turning point came during a summer internship in Washington D.C., where he found government work to be a frustrating crawl through bureaucratic molasses. Just as disillusionment set in, a recruiter from a burgeoning San Francisco fintech firm pitched him a compelling alternative: a role as a Policy Analyst, where he could shape financial regulations at the speed of innovation, not legislation. He saw a chance to merge his parents' idealism with his own ambition and took it, moving west with two suitcases and a healthy dose of trepidation.\n\nNow, at 30, his world is contained within the elegant confines of his Nob Hill apartment. His commute is a zero-mile journey from his bedroom to the standing desk in his living room, a sterile space overlooking the city\u2019s dense architecture. His days are a disciplined cycle of data analysis, policy memo drafting, and virtual meetings on Slack. He breaks up the digital haze with intense Peloton rides and meticulously prepared, healthy meals.\n\nSocially, he navigates the isolation of remote work by maintaining a weekly trivia night with a few grad school friends and navigating the transactional world of dating apps. He tells himself his work\u2014analyzing the impact of cryptocurrency regulations or open banking initiatives\u2014is a net good for society. Yet, a nagging question persists: is he truly building a more equitable financial system, or just optimizing the efficiency of a gilded cage? His ultimate dream is to one day leverage his position into a role with genuine public impact, proving to himself, and perhaps the ghosts of his Ohio upbringing, that his ambition has served a purpose greater than his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check overnight market summaries and tech news on phone.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Nob Hill Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee using beans from a local roaster and review The Wall Street Journal.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Nob Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Morning prep: shower, get dressed in business casual attire, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Nob Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to Mid-Market, dealing with the usual congestion on Van Ness Ave.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Driving on San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Settle into dedicated desk, grab complimentary coffee, and map out key policy reports to analyze.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 20,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep Work Block 1: Research and analyze proposed federal regulations impacting digital assets.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 150,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a quick, healthy lunch bowl to eat while catching some sun.",
+                        "geocode": {
+                            "lat": 37.7766667,
+                            "lng": -122.4169444,
+                            "formatted_address": "1355 Market St suite 100, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "THE MARKET on Market"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Deep Work Block 2: Draft a policy brief summarizing findings and potential impacts for stakeholders.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 120,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Virtual conference call with the East Coast team to provide a weekly policy update.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 45,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83c\udf07",
+                        "action": "Pack up and begin the slow evening commute back to Nob Hill.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Driving on San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Unwind from the workday with a strength training session at a nearby gym.",
+                        "geocode": {
+                            "lat": 37.7894789,
+                            "lng": -122.4152569,
+                            "formatted_address": "1094 Bush St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Live Fit Gym - Nob Hill"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk to meet a friend for a casual beer and catch-up.",
+                        "geocode": {
+                            "lat": 37.7912215,
+                            "lng": -122.4171643,
+                            "formatted_address": "1390 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "Wreck Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Prepare a late, simple dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Nob Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a drama series to disconnect from work.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 65,
+                        "location": "Nob Hill Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a policy analyst, balancing deep work on financial regulations at a coworking space with a gym session and a casual social drink in his Nob Hill neighborhood, while navigating San Francisco's notorious traffic.",
+                "home_address": "712 California St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7926516,
+                    "lng": -122.4061007,
+                    "formatted_address": "712 California St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

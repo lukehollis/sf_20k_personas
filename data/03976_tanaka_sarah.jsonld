@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Tanaka",
+    "givenName": "Sarah",
+    "familyName": "Tanaka",
+    "jobTitle": "Restaurant Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Hospitality"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Tanaka\u2019s world is contained within a single block of San Francisco\u2019s Inner Richmond. The faint aroma of dashi and rice vinegar is her alarm clock, seeping up through the floorboards of the small studio apartment she calls home. Born in San Mateo to a second-generation Japanese American family, Sarah\u2019s upbringing was one of quiet suburban expectation. Her father, an architect, and her mother, a dental hygienist, envisioned a stable, traditional path for her: a four-year degree, followed by a respectable career.\n\nSarah tried. She enrolled in a business program at a state college, but the classes felt sterile and disconnected from the world she loved most: her grandfather\u2019s small, beloved restaurant, \"Kaito\u2019s Kitchen.\" It was there, amidst the controlled chaos of the kitchen and the warm hum of happy diners, that she felt truly alive.\n\nThe turning point came during her sophomore year. Her grandfather\u2019s health declined sharply, and the family discussed selling the restaurant he had built over forty years. Unwilling to let his legacy fade, Sarah took a semester off to help manage the transition. That semester never ended. She discovered a natural talent for leadership, a sharp mind for inventory, and a deep, intuitive understanding of hospitality. She officially withdrew from college, a decision that strained her relationship with her parents, and took over as full-time manager.\n\nNow, at 24, her life is a whirlwind of schedules, payroll, and quality control. Her commute is a single flight of stairs. Her social circle consists of her tightly-knit staff and the neighborhood regulars who treat her like family. Late at night, after the last table is cleared, she sits in the quiet dining room, sketching ideas for new menu items or planning community events. She dreams not of escaping, but of evolving\u2014of honoring her grandfather\u2019s tradition while infusing the restaurant with her own modern vision. Sarah\u2019s path was not the one her parents planned, but on this single, vibrant San Francisco block, she has found her purpose and is building a legacy of her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers the cool, plastic feel of the milk crate beneath her small sneakers. At seven years old, she was just tall enough to see over the steel counter if she stood on it. Her grandfather\u2019s hands, smelling of vinegar and salt, moved with a practiced grace, shaping a mound of warm rice. He\u2019d let her press a tiny dab of wasabi onto the fish, a secret task just for her. It wasn\u2019t just a restaurant then; it was a kingdom, and in that moment, she felt like its sole, trusted heir.\n\n2.\nThe phone call with her mother felt like a betrayal. Sarah stood in the cramped restaurant office, the scent of simmering dashi thick in the air, while her mom\u2019s worried voice pushed her to study for a microeconomics final she couldn\u2019t care less about. Looking at the stack of unpaid invoices and her grandfather\u2019s tired, looping signature, she felt a profound clarity. She hung up, her heart pounding with both guilt and purpose. That was the moment she chose this life, the inventory spreadsheets over the textbooks, for good. This happened when she was 19.\n\n3.\nSix months after she took over, during a chaotic Friday night service, she saw her grandfather watching her from his corner table. He looked frail, but his eyes were sharp. After the last customer left, he beckoned her over. Without a word, he unwrapped a cloth bundle to reveal his old yanagiba, the blade worn thin from decades of slicing fish. He placed the knife in her hands. The weight of it was the heaviest, most wonderful thing she had ever felt. It was a transfer of trust, a blessing that silenced all her doubts.\n\n4.\nThe walk-in freezer died on a sweltering July afternoon, a week before a major street festival. Her small staff looked at her, their faces a mask of panic. For a heart-stopping second, so did she. Then, something clicked. She grabbed a clipboard, barking orders for ice runs and delegating calls to rental companies. In the controlled chaos she orchestrated, she saw not a disaster, but a puzzle. By midnight, the crisis was averted. It was the first time she felt not like her grandfather\u2019s substitute, but a true leader. She was 21.\n\n5.\nLast year, she put her first original dish on the menu: Smoked Unagi Risotto. It felt sacrilegious, a departure from her grandfather\u2019s pure Japanese tradition. For an hour, no one ordered it. She sat in the kitchen, her stomach in knots, convinced she\u2019d made a huge mistake. Then Mr. Chen, a regular for thirty years, tried it. He called her over and simply said, \"Kaito would be proud of his granddaughter's spirit.\" They sold out that night. That praise was the permission she needed to finally start building her own legacy."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up to alarm, check work emails and daily sales reports from the previous night on phone.",
+                        "geocode": {
+                            "lat": 37.7943363,
+                            "lng": -122.4252986,
+                            "formatted_address": "1823 Pacific Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Bedroom at 1823 Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Get ready for the day, shower, and put on manager uniform while partner makes coffee.",
+                        "geocode": {
+                            "lat": 37.7943363,
+                            "lng": -122.4252986,
+                            "formatted_address": "1823 Pacific Ave, San Francisco, CA 94123"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Share a quick breakfast of toast and coffee with partner, discussing plans for the evening.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet carpool partner and drive from Pacific Heights to the Inner Sunset, listening to a true-crime podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Carpool Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Arrive at \"The Moffitt Cafe\" on campus, review inventory, and conduct the morning huddle with the opening staff.",
+                        "geocode": {
+                            "lat": 37.7633464,
+                            "lng": -122.4573282,
+                            "formatted_address": "505 Parnassus Ave #294, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 40,
+                        "location": "The Moffitt Cafe at UCSF Parnassus Campus"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Handle morning administrative tasks: place daily orders with food vendors and troubleshoot a faulty espresso machine.",
+                        "geocode": {
+                            "lat": 37.7631044,
+                            "lng": -122.4578806,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "Restaurant Office at 505 Parnassus Ave"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Actively manage the floor during the intense lunch rush, assisting staff and ensuring speedy service for medical students and hospital staff.",
+                        "geocode": {
+                            "lat": 37.7633464,
+                            "lng": -122.4573282,
+                            "formatted_address": "505 Parnassus Ave #294, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 150,
+                        "location": "The Moffitt Cafe"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a quick working lunch, eating a salad at the desk while finalizing the staff schedule for the following week.",
+                        "geocode": {
+                            "lat": 37.7888898,
+                            "lng": -122.3981036,
+                            "formatted_address": "535 Mission St #2028, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Restaurant Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc4b",
+                        "action": "Conduct a final walkthrough and complete a detailed handover to the evening shift manager, outlining any special notes.",
+                        "geocode": {
+                            "lat": 37.7633464,
+                            "lng": -122.4573282,
+                            "formatted_address": "505 Parnassus Ave #294, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Moffitt Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool home with colleague, navigating rush hour traffic on Divisadero St.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Carpool Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for ingredients for dinner and some snacks for the week.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mollie Stone's Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Arrive home, change into comfy clothes, and spend a few minutes decompressing on the couch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat a homemade pasta dinner with her partner, catching up on the day's events.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen & Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the sofa and watch an episode of a new series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a skincare routine and read a chapter of a novel in bed before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Sleep.",
+                        "geocode": {
+                            "lat": 37.7943363,
+                            "lng": -122.4252986,
+                            "formatted_address": "1823 Pacific Ave, San Francisco, CA 94123"
+                        },
+                        "duration": 510,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A busy and structured day for a restaurant manager, balancing demanding operational duties at a UCSF campus cafe with a collaborative carpool commute and relaxing quality time with her partner in their Pacific Heights home.",
+                "home_address": "1823 Pacific Ave, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7943363,
+                    "lng": -122.4252986,
+                    "formatted_address": "1823 Pacific Ave, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

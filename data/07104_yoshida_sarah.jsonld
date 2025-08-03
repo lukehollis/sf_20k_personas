@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Yoshida",
+    "givenName": "Sarah",
+    "familyName": "Yoshida",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Yoshida\u2019s understanding of movement began with stillness. A third-generation Japanese-American, she grew up in the sprawling quiet of a San Jose suburb, a landscape defined by cul-de-sacs and the necessity of a car. Her parents, a pharmacist and an engineer, had built a stable life far from the agricultural toil of their own parents in the Central Valley. For Sarah, life was a series of scheduled car rides, and she developed a fascination with the unseen systems that dictated where people could go, and how easily.\n\nThis fascination guided her to UC Berkeley, where she embraced a car-free life out of necessity. Relying on BART and AC Transit was a revelation. It was here, while pursuing a B.A. in Sociology, that she realized her true calling wasn't just observing society, but shaping its physical pathways. She saw public transit as a societal equalizer, a complex organism of schedules, infrastructure, and human behavior. This conviction led her to a Master's degree in Urban and Regional Planning, equipping her with the technical skills to turn her sociological insights into actionable policy.\n\nNow 37, Sarah is a transportation planner for a city government agency. The irony of her 0.0-mile commute is not lost on her. From her second-floor apartment in the Inner Richmond, she analyzes traffic data and helps design the future of Muni routes\u2014projects that affect millions of daily journeys. Her own routine is hyperlocal. Mornings start with coffee from a cafe on Clement Street, followed by hours immersed in digital maps and policy documents. Her lunch break is often a walk through Golden Gate Park, observing how people navigate its paths.\n\nThough dedicated to her work, Sarah maintains a curated social life with a close circle of friends from grad school, meeting for weekly dim sum or hiking in the Marin Headlands. Her dream is to see the Bay Area connected by a genuinely seamless public transit system, a vision she works toward one project at a time. Privately, she hopes to one day take a sabbatical to study the transit masterpieces of Tokyo and Zurich, not as a tourist, but as a student, always searching for a better way to keep her city moving."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, hydrate, and review daily schedule.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Castro Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Morning stretches and prepare a quick breakfast of oatmeal and coffee.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Castro Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Get dressed and pack work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Castro Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute to work: A long, hilly walk while listening to the 'Talking Headways' transportation planning podcast.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Castro to Marina Urban Trail"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab a sparkling water from the communal kitchen, and organize the day's tasks.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 15,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep Work Session: Analyzing pedestrian traffic data for a 'Slow Streets' proposal in the Sunset District.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco (Focus Desk)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Project Sync: Virtual meeting with SFMTA engineers to discuss feasibility of a new protected bike lane.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 50,
+                        "location": "AvantSpace San Francisco (Phone Booth)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch Break: Meet a friend for a healthy salad on the outdoor patio.",
+                        "geocode": {
+                            "lat": 37.8004202,
+                            "lng": -122.4395019,
+                            "formatted_address": "Chestnut St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn (Chestnut St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Afternoon Work: Draft a report summarizing community feedback from a recent town hall meeting.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 90,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\u2709\ufe0f",
+                        "action": "Respond to emails and stakeholder inquiries before wrapping up the workday.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 45,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Commute Home: Walk back home, calling her parents in the East Bay for a chat along the way.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Marina to Castro Urban Trail"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick Errand: Stop to pick up fresh pasta and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mollie Stone's Markets (24th Street)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat dinner while unwinding with an episode of a documentary series.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 70,
+                        "location": "Home (Castro Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Evening Wind-down: Read a few chapters of a novel and plan tomorrow's outfit.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Castro Apartment)"
+                    }
+                ],
+                "day_overview": "A productive day for Sarah, blending focused work on San Francisco's transportation future with an active, pedestrian-focused commute and a relaxing evening at home in the Castro.",
+                "home_address": "2263 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7435143,
+                    "lng": -122.4331187,
+                    "formatted_address": "2263 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Yoshida Family"
+    }
+}

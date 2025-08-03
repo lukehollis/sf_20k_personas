@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mark Reilly",
+    "givenName": "Mark",
+    "familyName": "Reilly",
+    "jobTitle": "Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mark Reilly\u2019s world is contained within a few vibrant city blocks. Born and raised in the sprawling suburbs of Sacramento, his upbringing was steeped in blue-collar pragmatism. His parents, a mechanic and a school administrator, valued stability and hard work over artistic pursuits, which made Mark\u2019s escape to San Francisco State University feel like a true liberation. He enrolled with a vague interest in art history, captivated by the idea of a life surrounded by beauty and ideas rather than engine grease and spreadsheets.\n\nHis academic journey, however, was cut short. In his second year, a serious illness befell his mother, and Mark returned home to help, taking a \"temporary\" job at a retail chain to contribute to the family\u2019s mounting bills. The immediate responsibility grounded him, and the momentum to return to his studies was lost. When he eventually came back to San Francisco, it was not as a student, but as an assistant manager for a stylish home goods store in Hayes Valley. He discovered a surprising aptitude for the role\u2014a knack for managing inventory, calming difficult customers, and mentoring younger staff.\n\nThe key turning point in his adult life came when the apartment above the store became available. Seizing the opportunity for an impossibly easy commute, he moved in. Now, at 36, his life operates in a tight, predictable loop. He wakes, walks downstairs to unlock the doors, and spends his day as a fixture of the neighborhood. He\u2019s on a first-name basis with the baristas next door and the owners of the gallery across the street. His relationships are wide but shallow; he is a familiar, friendly face who keeps the gears of the neighborhood turning, yet few people know about the old 35mm camera he keeps in his closet.\n\nAt night, after locking up, Mark sometimes wanders the quiet streets, capturing stark, lonely images of the city sleeping. This private hobby is the last vestige of the art student he once was. His dream is to one day have his own photography show, to be known for his vision rather than his sales record. For now, though, he finds a quiet comfort in the stability he has built, even as he feels the walls of his small, convenient world closing in."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check surf report out of habit, and make a strong pour-over coffee.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare a high-energy breakfast (oatmeal with fruit) and get into cycling gear.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Begin the cross-city commute, riding through Golden Gate Park and the Panhandle.",
+                        "geocode": {
+                            "lat": 37.7709972,
+                            "lng": -122.4732435,
+                            "formatted_address": "John F Kennedy Prom, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "JFK Promenade & The Wiggle Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Arrive at the office, use the employee facilities to shower and change into work clothes.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Uber HQ Fitness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Open the internal company store, review daily sales targets, and check inventory levels.",
+                        "geocode": {
+                            "lat": 37.739065,
+                            "lng": -122.467398,
+                            "formatted_address": "157 W Portal Ave Suite #2, San Francisco, CA 94127, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Uber Goods Store (Internal)"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Manage the sales floor, assist Uber employees with purchases, and oversee a small team of associates.",
+                        "geocode": {
+                            "lat": 37.739065,
+                            "lng": -122.467398,
+                            "formatted_address": "157 W Portal Ave Suite #2, San Francisco, CA 94127, USA"
+                        },
+                        "duration": 150,
+                        "location": "The Uber Goods Store (Internal)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk over to the nearby food truck park to grab a burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.7707793,
+                            "lng": -122.3914307,
+                            "formatted_address": "601 Mission Bay Boulevard North, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 60,
+                        "location": "Spark Social SF"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Unpack and process a new shipment of company-branded merchandise in the stockroom.",
+                        "geocode": {
+                            "lat": 37.7945086,
+                            "lng": -122.3986535,
+                            "formatted_address": "201 Clay St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 120,
+                        "location": "Company Store Stockroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Run end-of-day sales reports and prep the store for the morning shift.",
+                        "geocode": {
+                            "lat": 37.739065,
+                            "lng": -122.467398,
+                            "formatted_address": "157 W Portal Ave Suite #2, San Francisco, CA 94127, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Uber Goods Store (Internal)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4",
+                        "action": "Change back into cycling gear and begin the commute home, heading west into the fog.",
+                        "geocode": {
+                            "lat": 37.7669421,
+                            "lng": -122.409195,
+                            "formatted_address": "2300 16th St #285, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 55,
+                        "location": "16th Street & Folsom Bike Lanes"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7528602,
+                            "lng": -122.5035591,
+                            "formatted_address": "3701 Noriega St Unit A, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner while listening to a podcast, then eat and decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk a few blocks to a favorite local dive bar to meet a friend for a pint.",
+                        "geocode": {
+                            "lat": 37.741581,
+                            "lng": -122.505349,
+                            "formatted_address": "3639 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Riptide"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Watch an episode of a series on streaming before winding down for the night.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Outer Sunset)"
+                    }
+                ],
+                "day_overview": "A typical weekday for Mark, an active retail manager who balances a long cross-city bike commute with a structured day at a corporate headquarters and a relaxed evening in his Outer Sunset neighborhood.",
+                "home_address": "2872 Noriega St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7536732,
+                    "lng": -122.4946203,
+                    "formatted_address": "2872 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Reilly Family"
+    }
+}

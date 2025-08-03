@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Project Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s journey to San Francisco began not with a dream of tech, but with a love for literature in the misty suburbs of Portland, Oregon. Raised by a practical accountant father and a nurturing high school teacher mother, Sarah was a bookish child who always had her nose in a novel. They were supportive but slightly bewildered when she chose to major in English Literature at the University of Oregon, worrying about her job prospects.\n\nHer entry into the tech world was accidental. After graduating, she took an administrative assistant role at a small Portland startup simply to pay the bills. There, amidst the chaotic energy of software engineers and designers, she discovered a hidden talent: she could translate their technical jargon into clear, actionable plans and bring order to their creative chaos. This was her turning point. Seeing a new path, she devoured online courses in Agile methodologies and project management, leveraging her communication skills to climb from admin to project coordinator.\n\nSeven years ago, drawn by the industry\u2019s gravitational center, she moved to San Francisco for a project manager position. Today, she lives in a one-bedroom apartment in the Inner Richmond. Her 0.0-mile commute is a ten-step shuffle from bed to her standing desk, a routine solidified by the pandemic that her company has since made permanent. Her days are a blur of Slack notifications, Zoom stand-ups, and meticulously updated Gantt charts.\n\nTo combat the isolation of remote work, Sarah has built a life firmly rooted in her neighborhood. Every morning, she runs through the fog-laced trails of Golden Gate Park, and she religiously gets her afternoon coffee from a small Clement Street caf\u00e9, cherishing the brief, familiar interactions. Her social circle is a tight-knit group of friends from a pottery class and a former colleague, with whom she explores the city's diverse food scene.\n\nThough successful, Sarah yearns for something more tangible than a completed software sprint. She dreams of leading a team that builds tech for social good, and perhaps one day finding a partner to share her quiet, structured life with. Her ultimate aspiration is to buy a small condo in the city, a goal that feels both daunting and deeply necessary to finally put down permanent roots in the place she now calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers the Portland conference room, nine years ago. The engineers were arguing in circles, lost in technical debt and feature creep. On impulse, Sarah walked to the whiteboard and translated their chaotic back-and-forth into a simple, three-phase plan. The sudden, appreciative silence was a jolt of purpose. In that moment, she understood her value wasn't just administrative, but interpretive. It was the first time she felt truly powerful, igniting the ambition that would eventually lead her out of Portland and into a career she never expected.\n\n2.\nHer first full day in San Francisco, seven years ago, was a sensory assault. Standing on the corner of Arguello and Clement, the sheer density of sounds and smells made her want to retreat to her empty apartment. But then, she saw the fog rolling in over the Presidio, swallowing the tips of the cypress trees. It reminded her of home. A profound sense of peace settled over her fear. This wasn't a foreign country; it was just a bigger, louder version of the mist she'd always loved.\n\n3.\nFour years ago, after weeks of creating lopsided failures in her pottery class, a lump of clay finally centered perfectly under her hands. As it rose into a simple, clean-lined bowl, she felt a wave of pure, non-digital accomplishment. Holding the finished piece days later felt more satisfying than any completed software sprint. That quiet success cemented her need for tangible creation and was the moment her classmates started to feel less like strangers and more like the friends who would become her city family.\n\n4.\nDuring a solitary run through Golden Gate Park last winter, she stopped by Stow Lake. The water was perfectly still, mirroring the gray sky and the dark green of Strawberry Hill. All she could hear was her own breathing and the distant cry of a bird. In the profound quiet, she felt a pang of loneliness so sharp it stole her breath, yet it was immediately followed by a sense of belonging to the landscape. It was then she accepted that her life was both quiet and full.\n\n5.\nSix months ago, walking home from her coffee spot, she saw a \"For Sale\" sign on a small condo with a bay window overlooking a quiet street. She stopped, imagining her books on a built-in shelf and her morning light flooding the room. The abstract dream of \"owning a home\" suddenly became a visceral, aching need for *that* specific window, *that* quiet street. The vision transformed her financial goal from a responsible chore into an urgent, deeply personal mission to finally put down permanent roots."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for 10 minutes, and do a quick stretch.",
+                        "geocode": {
+                            "lat": 37.7616636,
+                            "lng": -122.4491434,
+                            "formatted_address": "Ashbury Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Ashbury Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in WFH-appropriate casual wear, and do skincare routine.",
+                        "geocode": {
+                            "lat": 37.7616636,
+                            "lng": -122.4491434,
+                            "formatted_address": "Ashbury Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Ashbury Heights)"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make pour-over coffee using beans from Ritual Coffee Roasters and have a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7616636,
+                            "lng": -122.4491434,
+                            "formatted_address": "Ashbury Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Ashbury Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning commute: bring coffee to the desk, open the laptop, and review the day's calendar and Asana task list.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1",
+                        "action": "Lead the daily stand-up meeting with the engineering team via Slack huddle and Google Meet.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work block: update project timelines, address blocker tickets, and draft a status report for stakeholders.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch Break: Walk down the street to grab a custom salad bowl to-go.",
+                        "geocode": {
+                            "lat": 37.7647278,
+                            "lng": -122.4319646,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Salad Bar SF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Eat lunch at home while catching up on personal messages and scrolling through Instagram.",
+                        "geocode": {
+                            "lat": 37.7616636,
+                            "lng": -122.4491434,
+                            "formatted_address": "Ashbury Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Ashbury Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Afternoon work: Lead a project sync meeting with the product and design teams, followed by 1-on-1s.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc4b",
+                        "action": "Evening commute: Log off, close all work tabs, and tidy the home office space.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Walk to a Vinyasa yoga class to decompress and stretch after a day of sitting.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the corner market for some kombucha and fresh fruit for the next morning.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Meet a friend for dinner and drinks in a nearby neighborhood.",
+                        "geocode": {
+                            "lat": 37.7768993,
+                            "lng": -122.4240297,
+                            "formatted_address": "450 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 120,
+                        "location": "a Mano"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down at home by watching an episode of a show on HBO Max and prepping for the next day.",
+                        "geocode": {
+                            "lat": 37.7616636,
+                            "lng": -122.4491434,
+                            "formatted_address": "Ashbury Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Ashbury Heights)"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Tech Project Manager in the Haight-Ashbury, balanced with a neighborhood yoga class, local errands, and a social dinner in Hayes Valley.",
+                "home_address": "872 Ashbury St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7660793,
+                    "lng": -122.4459497,
+                    "formatted_address": "872 Ashbury St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

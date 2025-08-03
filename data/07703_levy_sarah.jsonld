@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Levy",
+    "givenName": "Sarah",
+    "familyName": "Levy",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Levy\u2019s world is contained within a few vibrant blocks of the Mission District. Raised in the sun-baked predictability of California\u2019s Central Valley by a mechanic father and a bookkeeper mother, she was taught the value of practicality and hard work. Yet, Sarah was a dreamer, constantly sketching in notebooks, and saw San Francisco as an escape. She enrolled at SF State, diving headfirst into a graphic design program, feeling for the first time that her creative impulses had a home.\n\nHowever, the reality of city living was harsher than she\u2019d imagined. The financial strain mounted, and the path from a design degree to a stable career felt abstract and terrifying. After two years, feeling burnt out and lost, she made the difficult decision to drop out, taking what she promised herself was a temporary job at a stylish home goods boutique on Valencia Street to make rent. To her surprise, she thrived. The chaos of retail had a tangible order she could control: merchandising displays, managing inventory, and connecting with customers. Her knack for organization and innate sense of style didn't go unnoticed. She was promoted to assistant manager, and then, at 27, to Store Manager.\n\nThe ultimate turning point came when the apartment above the shop became available. Taking it meant her commute disappeared, but it also cemented her identity. Her life became inextricably linked to the store and the neighborhood. Now 30, Sarah\u2019s days are a familiar rhythm. She wakes to the sounds of the Mission, grabs coffee from the cafe next door where they know her order, and spends her day immersed in the world she has built. Her social life is a small, tight-knit circle of friends, mostly other local workers she shares after-shift drinks with.\n\nWhile proud of her competence and independence, a quiet longing persists. The abandoned sketchbooks in her closet are a silent testament to a different path. Her dream has evolved; it\u2019s no longer about being a graphic designer for some big firm. Instead, she fantasizes about opening her own small shop one day\u2014a space curated with her own aesthetic, featuring local artists she\u2019s discovered, finally merging the practical manager she is with the creative spirit she once was."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, start the coffee maker, and check personal emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Morning jog along the waterfront path with views of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare a quick breakfast smoothie.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute to work via Muni, listening to a true-crime podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni Bus 22 & 38"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the shop, review overnight shift notes, and prep the cash register.",
+                        "geocode": {
+                            "lat": 37.7865704,
+                            "lng": -122.4078411,
+                            "formatted_address": "190 O'Farrell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "Kaiser Permanente Gift Shop"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Manage the morning rush, assisting patients' families and hospital staff with purchases.",
+                        "geocode": {
+                            "lat": 37.7865704,
+                            "lng": -122.4078411,
+                            "formatted_address": "190 O'Farrell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 180,
+                        "location": "Kaiser Permanente Gift Shop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a lunch break, grabbing a quick salad and sandwich to go.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Lemonade on Divisadero St"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Unpack a new shipment of merchandise and update the store's inventory system.",
+                        "geocode": {
+                            "lat": 37.7865704,
+                            "lng": -122.4078411,
+                            "formatted_address": "190 O'Farrell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 120,
+                        "location": "Gift Shop Stockroom"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Conduct a brief check-in with the afternoon staff and create the work schedule for next week.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Gift Shop Manager's Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf2",
+                        "action": "Commute home, reading a book on the Kindle app.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 50,
+                        "location": "Muni Bus 38 & 22"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly grocery shopping before heading home.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 35,
+                        "location": "Marina Safeway"
+                    },
+                    {
+                        "emoji": "\ud83e\udd42",
+                        "action": "Meet a friend for a casual weeknight dinner and drinks.",
+                        "geocode": {
+                            "lat": 37.8006796,
+                            "lng": -122.4364833,
+                            "formatted_address": "2001 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 120,
+                        "location": "The Dorian"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Walk home, chatting with her friend on the phone.",
+                        "geocode": {
+                            "lat": 37.8004202,
+                            "lng": -122.4395019,
+                            "formatted_address": "Chestnut St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Chestnut Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind by watching an episode of a new series and tidying up the living room.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: skincare, pack work bag for tomorrow, and head to bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A busy but balanced day for Sarah, a retail manager living in the Marina. Her day involves a bus commute, managing a hospital gift shop, running errands, and socializing with friends in her vibrant neighborhood.",
+                "home_address": "2155 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8060726,
+                    "lng": -122.4401602,
+                    "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Levy Family"
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Administrative Assistant, City Services",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Spiritual but not religious"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Dog Park Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller wasn't born a city person. Her story began in a quiet Ohio suburb, raised by a practical, working-class family who valued stability above all else. She was the first in her family to go to a state university, dutifully enrolling in a business administration program. That path was cut short two years in when her mother\u2019s illness required her to return home, trading textbooks for caregiving. This early sacrifice instilled in her a deep sense of responsibility that would define her future.\n\nHer arrival in San Francisco wasn\u2019t a planned career move but a leap of faith. In her late twenties, she followed a whirlwind romance west, captivated by a man with dreams as big as the Golden Gate Bridge. The relationship faded within a year, but Sarah, surprisingly, stayed. Stranded but resolute, she had to build a life from scratch. She found a foothold in the city\u2019s bedrock: a stable, secure job as an administrative assistant for a public services department. It wasn\u2019t glamorous, but it was essential, and it offered the security her upbringing taught her to prize.\n\nNow 42, Sarah\u2019s life is a testament to quiet perseverance. She resides in a cozy, rent-controlled apartment in the Inner Richmond, where the fog is a familiar blanket. Her 0.0-mile commute is a modern perk; she works entirely from home, her cat, Jasper, her only officemate. Her days are structured: a morning walk in Golden Gate Park, a focused workday managing schedules and digital paperwork, and evenings spent with a book or tending to her impressive collection of houseplants. Her social circle is small but tight-knit, revolving around a monthly book club and trivia nights at a local pub.\n\nThough content, a quiet ambition still flickers within her. Sarah dreams of finally finishing her bachelor\u2019s degree online\u2014not for a promotion, but for herself. It represents closing a loop, validating the young woman who put her own dreams on hold. She is an integral, unseen part of San Francisco's machinery, a transplant whose roots have unexpectedly and irrevocably taken hold in the city's foggy soil."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, get ready, and listen to the KQED morning news.",
+                        "geocode": {
+                            "lat": 37.78754199999999,
+                            "lng": -122.4040705,
+                            "formatted_address": "720 Market St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment (720 Market St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of yogurt and granola while checking personal email.",
+                        "geocode": {
+                            "lat": 37.78754199999999,
+                            "lng": -122.4040705,
+                            "formatted_address": "720 Market St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen (720 Market St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8f",
+                        "action": "Walk to the bus stop and wait for the 30 Stockton bus.",
+                        "geocode": {
+                            "lat": 37.7859177,
+                            "lng": -122.4057356,
+                            "formatted_address": "Market St & Stockton St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 10,
+                        "location": "Market St & Stockton St Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute to the Marina, reading a novel on her phone.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni Bus 30 Stockton"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning Work Session: Respond to overnight emails and organize departmental meeting notes.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 180,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to grab a sandwich for lunch and eat it at a nearby parklet.",
+                        "geocode": {
+                            "lat": 37.8000926,
+                            "lng": -122.4410224,
+                            "formatted_address": "2299 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Marina Deli & Grill"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Afternoon Work Session: Process public records requests and update city services spreadsheets.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 180,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83c\udf92",
+                        "action": "Pack up work things and walk to the bus stop for the commute home.",
+                        "geocode": {
+                            "lat": 37.8008338,
+                            "lng": -122.436307,
+                            "formatted_address": "Fillmore St & Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 10,
+                        "location": "Chestnut St & Fillmore St Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8d",
+                        "action": "Commute home, listening to a true crime podcast to decompress.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni Bus 30 Stockton"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up items for dinner and lunch tomorrow.",
+                        "geocode": {
+                            "lat": 37.7853239,
+                            "lng": -122.4055518,
+                            "formatted_address": "10 4th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's (4th & Market)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner while catching up with a friend on the phone.",
+                        "geocode": {
+                            "lat": 37.78754199999999,
+                            "lng": -122.4040705,
+                            "formatted_address": "720 Market St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen (720 Market St)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfa",
+                        "action": "Tidy the apartment, prepare lunch for the next day, and lay out clothes.",
+                        "geocode": {
+                            "lat": 37.78754199999999,
+                            "lng": -122.4040705,
+                            "formatted_address": "720 Market St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment (720 Market St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down by watching an episode of a show on a streaming service before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Living Room Couch"
+                    }
+                ],
+                "day_overview": "A typical weekday for Sarah, balancing her city administrative duties in a Marina coworking space with managing her household downtown, relying on public transport to connect the two distinct parts of her SF life.",
+                "home_address": "720 Market St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.78754199999999,
+                    "lng": -122.4040705,
+                    "formatted_address": "720 Market St, San Francisco, CA 94102, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Wong",
+    "givenName": "David",
+    "familyName": "Wong",
+    "jobTitle": "Marketing Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Wong\u2019s story is one of quiet rebellion shaped by the exacting standards of Silicon Valley\u2019s suburbs. Raised in Fremont, he was the only son of a pragmatic hardware engineer who saw a clear, linear path for him: Bellarmine Prep, then Berkeley for computer science, and finally a lucrative job at a top tech firm. David, however, was always more interested in the stories behind the code than the code itself. He dutifully followed the path to UC Berkeley but, in a defiant act of self-discovery, declared a major in Comparative Literature. This created a rift with his father that took years to mend.\n\nAfter graduating, David felt the pressure of his \u201cimpractical\u201d degree. He drifted through freelance content gigs, translating dense technical jargon for startups. It was here he found his niche. A burgeoning fintech company, struggling to explain its complex investment products to a millennial audience, hired him. David discovered he had a unique talent for weaving compelling narratives around financial instruments, turning intimidating concepts into aspirational stories. He rose quickly, his literary skills proving more valuable than any programming language. Now a Marketing Manager, he has achieved the financial success his father always wanted, albeit through an unconventional route.\n\nDavid\u2019s 0.0-mile commute means his life is centered in his meticulously organized Hayes Valley one-bedroom apartment. His days are a blur of Zoom calls and campaign analytics, punctuated by walks to a local cafe for an oat milk latte or a lunchtime stroll through Patricia\u2019s Green. He has a close-knit group of college friends, but their schedules are equally demanding, making weekly catch-ups a rare treat.\n\nThough outwardly successful, David yearns for more. His corporate work, while challenging, feels like a pale imitation of his true passion. His great hope is to finally write the novel he\u2019s been outlining for years\u2014a sprawling, multi-generational story of a Chinese-American family in the Bay Area. He views his current career as the stable foundation that will, one day, allow him to build something truly his own, proving that a life\u2019s most meaningful story isn\u2019t always the one that follows the clearest path."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up and check market news & emails on phone.",
+                        "geocode": {
+                            "lat": 37.7687,
+                            "lng": -122.44697,
+                            "formatted_address": "715 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - 715 Ashbury St."
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed in business casual, and prep for the day.",
+                        "geocode": {
+                            "lat": 37.7687,
+                            "lng": -122.44697,
+                            "formatted_address": "715 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 715 Ashbury St."
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make and eat a quick breakfast of avocado toast and coffee.",
+                        "geocode": {
+                            "lat": 37.7687,
+                            "lng": -122.44697,
+                            "formatted_address": "715 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 715 Ashbury St."
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Walk to the carpool meeting spot and commute to SoMa, listening to a business podcast.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Carpool to SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Morning work block: Lead team sync-up meeting and analyze Q2 campaign performance data.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 180,
+                        "location": "SOMAcentral Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab lunch with a coworker to discuss a new project idea.",
+                        "geocode": {
+                            "lat": 37.78654239999999,
+                            "lng": -122.4019862,
+                            "formatted_address": "690 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Grove - Yerba Buena"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon work block: Brainstorm Q3 marketing strategies and handle a client call.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "SOMAcentral Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final emails and organize tasks for the next day.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "SOMAcentral Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Commute home via carpool, catching up with colleagues.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 50,
+                        "location": "Carpool to Haight-Ashbury"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a de-stressing run to clear his head after work.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh produce and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat dinner with his partner, discussing their days.",
+                        "geocode": {
+                            "lat": 37.7687,
+                            "lng": -122.44697,
+                            "formatted_address": "715 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - 715 Ashbury St."
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a new documentary on HBO Max.",
+                        "geocode": {
+                            "lat": 37.7687,
+                            "lng": -122.44697,
+                            "formatted_address": "715 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - 715 Ashbury St."
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a book and setting his alarm for the next day.",
+                        "geocode": {
+                            "lat": 37.7687,
+                            "lng": -122.44697,
+                            "formatted_address": "715 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 715 Ashbury St."
+                    }
+                ],
+                "day_overview": "A productive workday in SoMa for a finance marketing manager, balanced with an evening run in Golden Gate Park and quality time at his Haight-Ashbury home.",
+                "home_address": "715 Ashbury St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7687,
+                    "lng": -122.44697,
+                    "formatted_address": "715 Ashbury St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Lin",
+    "givenName": "Daniel",
+    "familyName": "Lin",
+    "jobTitle": "Senior Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Lin\u2019s life story is written in two distinct scripts: the analog world of his parents and the digital one he built for himself. The child of Taiwanese immigrants, he grew up in the fog-laced avenues of the Sunset District, his childhood smelling of the pineapple buns and egg tarts from his family\u2019s bustling bakery. His parents, who spoke of hard work in terms of flour-dusted hands and pre-dawn hours, were proud but slightly mystified by their quiet son who preferred the clean logic of books to the controlled chaos of the store.\n\nHis path was a straight line of academic achievement, leading to a graduate degree in Computational Linguistics from Stanford. He was fascinated by the structure of language, the patterns hidden within human communication. This interest, combined with his quantitative talents, made him a perfect fit for the burgeoning tech world. His early career was marked by a fizzled-out startup\u2014a language-learning app that was brilliant in theory but poor in execution. The failure was a key turning point, teaching him a harsh lesson about risk. He pivoted, taking his refined skills in data analysis to a major tech firm where he found stability and success, quickly rising to Senior Data Scientist.\n\nNow 36, Daniel lives a life of curated efficiency in a sleek Hayes Valley condo. With a 0.0-mile commute, his apartment is his office, gym, and sanctuary. His days are a disciplined routine of coffee, code, and solitary walks. A recent breakup has amplified the silence, making him question if he\u2019s optimized his life at the expense of living it. His social connections are a small, tight-knit group from his grad school days, their bond forged over late-night study sessions and shared anxieties.\n\nDaniel\u2019s dream is no longer to build the next unicorn. He yearns for connection, for a way to bridge his abstract, digital work with the tangible world he sees from his window. He fantasizes about using his data skills to help small businesses like his parents'\u2014to find patterns that could help them thrive, not just to increase ad revenue. His greatest aspiration is to feel less like a ghost in his own city and more like the boy who once found joy in the simple, perfect pattern of a warm pineapple bun."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, drink a glass of water, and do a quick 10-minute stretch to get the blood flowing.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Valencia St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and drink a meticulously brewed pour-over coffee while checking tech news on Hacker News.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Valencia St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make a quick breakfast of avocado toast and check personal emails and messages.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Valencia St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, navigating Mission & SoMa traffic, and finding a spot in the office's designated parking garage.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "SoMa Traffic"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Team Stand-up & Planning: Sync with the data science team on project timelines and troubleshoot a data pipeline issue.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep Work Session: Focus on developing and training a new machine learning model for customer sentiment analysis.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 150,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk with a coworker to grab a healthy, quick lunch bowl.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Cross-Functional Meeting: Present initial model findings to the Product and Marketing teams to gather feedback.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 75,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Code Review & Documentation: Review a junior data scientist's code submission and document his own model's parameters.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 90,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Drive home, listening to a podcast about AI ethics to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mission District Traffic"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Go for an evening bouldering session to clear his head and get a full-body workout.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery stop to pick up fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook and eat a simple but satisfying dinner, like salmon with roasted vegetables.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Valencia St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Call his parents on the East Coast to catch up on their week.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Valencia St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a chapter of a science fiction novel.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Valencia St Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Daniel, a Senior Data Scientist, balancing deep analytical work in SoMa with a bouldering session and a home-cooked meal in his Mission District neighborhood.",
+                "home_address": "3337 Valencia St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7455917,
+                    "lng": -122.4199159,
+                    "formatted_address": "3337 Valencia St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

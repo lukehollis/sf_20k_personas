@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Sharma",
+    "givenName": "Sarah",
+    "familyName": "Sharma",
+    "jobTitle": "Policy Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Sharma is a product of Silicon Valley's aspirational promise. The only child of Indian immigrants who settled in Cupertino in the 1990s, she was raised in a world of manicured lawns, top-ranked public schools, and the ambient pressure of technological ambition. Her father, a software engineer, and her mother, a lab technician, instilled in her a profound respect for education and a disciplined work ethic. However, growing up in the shadow of immense wealth, Sarah became acutely aware of the disparities it created, a reality that set her on a different path from her tech-oriented peers.\n\nHer educational journey was a deliberate move toward public service. After completing her undergraduate degree in Political Science at UCLA, she returned to the Bay Area for a Master of Public Policy at UC Berkeley. It was here that her career path crystallized. A pivotal internship with a housing advocacy non-profit in Oakland exposed her to the human cost of policy failure, transforming abstract theories into urgent, real-world problems. This experience solidified her resolve to work within the system to enact change.\n\nNow, as a Policy Analyst for the city government, Sarah\u2019s life is deeply embedded in San Francisco. Her commute is a zero-mile journey from her bed to her desk in her Hayes Valley apartment, a sleek, modern space that doubles as her office. Her days are a cycle of data analysis, policy brief writing, and virtual meetings, fueled by strong coffee from a local cafe on Patricia's Green. She channels her focus into transportation equity and urban planning, dissecting the very systems that govern the city's flow.\n\nHer social life revolves around a tight-knit group of friends from grad school and former colleagues. Weekends are for farmers' markets, hikes in the Marin Headlands, or hosting intimate dinner parties where debates about city politics are as common as discussions about the latest art exhibit. Sarah\u2019s connection to San Francisco is one of both love and critique; she is endlessly charmed by its beauty and culture but remains fiercely dedicated to solving its most intractable problems. Her ultimate dream is not a promotion but to author a piece of legislation that tangibly improves the lives of its residents, leaving her own quiet, indelible mark on the city she calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and do a gentle morning yoga flow.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready for the day, and listen to an NPR news podcast.",
+                        "geocode": {
+                            "lat": 37.7853674,
+                            "lng": -122.4464472,
+                            "formatted_address": "3170 Bush St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "3170 Bush St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and have breakfast (avocado toast) with partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Transition to work mode by tidying desk and organizing daily tasks.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Review public health data dashboards and respond to urgent emails.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1",
+                        "action": "Virtual team huddle on Zoom to align on weekly priorities for SF General's community health initiatives.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Deep work session: Draft a policy brief on improving healthcare access for unhoused populations.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83c\udf71",
+                        "action": "Walk to Japantown to pick up a bento box for lunch.",
+                        "geocode": {
+                            "lat": 37.7852778,
+                            "lng": -122.4311111,
+                            "formatted_address": "1737 Post St #333, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Nijiya Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Eat lunch on a bench and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.79165,
+                            "lng": -122.4275889,
+                            "formatted_address": "Lafayette Park, Gough St &, Washington St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 40,
+                        "location": "Lafayette Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Analyze datasets in R to support findings in the policy brief.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0c",
+                        "action": "Log off work computer and clear the desk to mentally clock out for the day.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\udd75",
+                        "action": "Decompress from the day with a hot yoga class.",
+                        "geocode": {
+                            "lat": 37.7979281,
+                            "lng": -122.4304243,
+                            "formatted_address": "1892 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Flow SF - Union Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6c",
+                        "action": "Stop for fresh produce and ingredients for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7864721,
+                            "lng": -122.450843,
+                            "formatted_address": "3445 California St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bryan's Grocery on California St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook a healthy dinner (e.g., salmon with roasted vegetables) and catch up with partner about their day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a trending show.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a cup of herbal tea and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7853674,
+                            "lng": -122.4464472,
+                            "formatted_address": "3170 Bush St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 40,
+                        "location": "3170 Bush St Apartment"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Sarah, balancing policy analysis for SF General Hospital with a neighborhood walk for lunch, an evening yoga class, and quality time with her partner.",
+                "home_address": "3170 Bush St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7878767,
+                    "lng": -122.4267896,
+                    "formatted_address": "3170 Bush St, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

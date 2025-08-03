@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Dmitri Miller",
+    "givenName": "Dmitri",
+    "familyName": "Miller",
+    "jobTitle": "Director of Data Science",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Dmitri Miller, at 49, embodies the intersection of intellect and adaptability. His story begins in Guangzhou, China, where he was born Li Wei. His parents, both university professors struggling under economic constraints, instilled in him an early reverence for knowledge and resilience.  Seeking greater opportunity, his family immigrated to San Francisco when he was eight. The name change to Dmitri Miller was an act of pragmatic assimilation, a dual heritage embraced.\n\nSan Francisco\u2019s vibrant energy and rigorous education system shaped his youth. Dmitri excelled in mathematics, an innate ability nurtured through hours spent hunched over textbooks. This led him to Stanford University, where he earned both his undergraduate and then a professional degree in the field. The structured logic of numbers provided a comforting counterpoint to the uncertainties of navigating a new country and culture.\n\nHis career trajectory mirrored the rise of data science. He began as an analyst, his sharp mind quickly recognizing patterns and extracting meaning from complex datasets. A pivotal moment came during his early 30s when he spearheaded a project that significantly improved efficiency for his tech company. This success propelled him into leadership roles, culminating in his current position as a Director of Data Science.\n\nDmitri\u2019s personal life is characterized by a quiet intensity. He was married once in his early 30s, a relationship that ended amicably after five years, leaving no children. He maintains a close but somewhat reserved relationship with his aging parents, who still reside in the Sunset District. His social connections are primarily through work and a small group of friends who share his passion for strategic board games and the occasional hike in Marin Headlands. He finds intellectual stimulation in his field and the dynamic landscape of San Francisco.\n\nCurrently, Dmitri\u2019s life follows a comfortable rhythm. His ride-sharing commute across the city allows him moments of detachment before diving into the demands of his high-pressure job. He finds solace in his comfortable Potrero Hill apartment, with its views of the city, a constant reminder of his journey.\n\nHis hopes center on leaving a tangible impact in his field, perhaps contributing to advancements in AI ethics or data privacy. He also quietly dreams of finding deeper personal connection, a partner with whom to share the intellectual and emotional richness of life. San Francisco, with its blend of innovation and tradition, chaotic beauty and ordered systems, feels like the perfect backdrop for the next chapter of Dmitri Miller\u2019s story."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1. He remembers the dizzying height of the Transamerica Pyramid the first time his family walked past it, the sheer scale overwhelming his eight-year-old mind. It sparked a fascination with the city's structure, a hidden order that mirrored his growing interest in mathematics, a comforting anchor in the new chaos.\n\n2. Sitting with his dad at a Golden Gate Giants game in Candlestick Park, the roar of the crowd a visceral wave. His dad, usually reserved, cheered with genuine joy. It was a rare glimpse into his parent's vulnerability and his own growing sense of belonging in this vibrant, noisy city, a feeling he later sought in shared experiences.\n\n3. The quiet intensity of his first successful data analysis project for his company in his early 30s. Seeing the complex numbers reveal a clear pattern and lead to tangible improvement solidified his purpose. It proved his intellectual power had real-world impact, fueling his ambition and shaping his confidence.\n\n4. Saying goodbye to his wife after their divorce, a quiet coffee shop moment. The sadness was profound, a recognition of a future unrealized. It fostered a deeper understanding of emotional complexity and the importance of genuine connection, a quiet presence he still seeks.\n\n5. Standing on a hill in Marin Headlands, looking back at the San Francisco skyline, the fog rolling in like a gentle tide. The vastness of the view, the city lights beginning to twinkle, offered a sense of perspective and peace, a reminder of his journey and the quiet strength he'd found within himself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and do a guided meditation session.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mission District Flat"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Morning walk with his partner to grab coffee.",
+                        "geocode": {
+                            "lat": 37.7511819,
+                            "lng": -122.4383819,
+                            "formatted_address": "4298 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "Philz Coffee - 24th Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Mission District Flat"
+                    },
+                    {
+                        "emoji": "\u27a1\ufe0f",
+                        "action": "Morning 'commute'; setting up the home office workstation for the day.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office - The Data Hub"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Triage overnight emails and Slack messages from the UCSF team.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Office - The Data Hub"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Lead the daily virtual stand-up meeting with the data science team.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office - The Data Hub"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Strategy session with clinical research leads on a new predictive analytics project.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office - The Data Hub"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to get a burrito bowl for lunch and eat it at a nearby park.",
+                        "geocode": {
+                            "lat": 37.7505833,
+                            "lng": -122.405084,
+                            "formatted_address": "Potrero del Sol Park, 2827 Cesar Chavez St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Potrero del Sol Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct virtual 1-on-1 mentorship meetings with senior data scientists.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office - The Data Hub"
+                    },
+                    {
+                        "emoji": "\ud83d\udca1",
+                        "action": "Focused work: Reviewing the architecture for a new ML deployment pipeline.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office - The Data Hub"
+                    },
+                    {
+                        "emoji": "\u2b05\ufe0f",
+                        "action": "Evening 'commute'; logging off and tidying the workspace.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office - The Data Hub"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f",
+                        "action": "Head to the gym for a strength training workout.",
+                        "geocode": {
+                            "lat": 37.78908880000001,
+                            "lng": -122.3969858,
+                            "formatted_address": "425 Mission St Suite 212, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF - Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh produce and fish for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner and catch up on the day with his partner.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Mission District Flat"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a crime drama.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mission District Flat"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a non-fiction book before bed.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Mission District Flat"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Data Science Director, balancing virtual leadership responsibilities with focused technical review, punctuated by a neighborhood walk for lunch in the Mission, a solid gym session, and a relaxing evening cooking and unwinding with his partner.",
+                "home_address": "241 24th St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.754332,
+                    "lng": -122.3840948,
+                    "formatted_address": "241 24th St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

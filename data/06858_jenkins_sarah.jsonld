@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jenkins",
+    "givenName": "Sarah",
+    "familyName": "Jenkins",
+    "jobTitle": "Customer Success Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jenkins\u2019 story is less a straight line and more a series of deliberate turns. Raised in Bend, Oregon, by a high school English teacher and a carpenter, her upbringing was steeped in practicality, books, and the scent of pine. This grounded, nature-filled childhood instilled in her a quiet resilience that would later serve her well in the fast-paced world she chose.\n\nShe attended the University of Oregon, earning a Bachelor's degree in English Literature. While she loved dissecting novels and crafting essays, she graduated with no clear career path. Driven by a desire for a life more dynamic than her hometown could offer, she moved to San Francisco in her early twenties, crashing on a friend\u2019s couch in the Mission. Her first few years were a patchwork of jobs\u2014barista, bookstore clerk, and eventually, an administrative assistant at a fledgling tech startup.\n\nThis last role was her turning point. While the founders were focused on code, Sarah found herself naturally gravitating toward their early clients, patiently walking them through the software and smoothing over issues. She discovered that her humanities degree had given her a unique superpower in the tech world: empathy and clear communication. She transitioned into a formal \"customer happiness\" role, which evolved into her current position as a Customer Success Manager.\n\nNow 38, Sarah lives a life centered in her Hayes Valley apartment. Her 0.0-mile commute means her days are framed not by traffic, but by personal rituals. A morning jog past the Painted Ladies in Alamo Square, followed by coffee and focused work on a stream of Slack messages and Zoom calls. She manages a portfolio of enterprise clients, acting as their advocate and guide\u2014a digital shepherd of sorts.\n\nHer social life consists of a tight-knit group of friends, most from her pre-tech days, and a weekly pottery class that keeps her hands grounded in something tangible. San Francisco is no longer a grand adventure but a comfortable, complex home. Lately, a quiet dream has been taking root: to one day use her savings and business acumen to open a small, curated bookstore-caf\u00e9, perhaps in a quieter corner of the city. A place that feels more like Oregon than Silicon Valley, bringing her journey full circle."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and do a 10-minute guided meditation using a mindfulness app.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (Dolores Street Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee with local beans and scan the morning headlines.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Dolores Street Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Morning jog through and around the park to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7602015,
+                            "lng": -122.4267959,
+                            "formatted_address": "Mission Dolores Park, Dolores St &, 19th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mission Dolores Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Quick shower and getting ready for the workday.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Dolores Street Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into the home office, review daily calendar, and prioritize tasks.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Video call with a new client for their post-onboarding check-in.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focus block: Analyzing customer health scores in Salesforce and preparing notes for upcoming reviews.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to grab a carnitas super burrito and eat it on a park bench.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": " \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u044f",
+                        "action": "Prepare slides and talking points for a key client's Quarterly Business Review (QBR).",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcb0",
+                        "action": "Internal sync call with the sales team to strategize on an upsell opportunity.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude0c",
+                        "action": "Log off from work platforms and tidy up the desk to transition out of work mode.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Walk to the local market to pick up some fresh produce and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf79",
+                        "action": "Meet a friend for dinner and cocktails on the restaurant's patio.",
+                        "geocode": {
+                            "lat": 37.7564917,
+                            "lng": -122.4191194,
+                            "formatted_address": "2534 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Foreign Cinema"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down at home by reading a novel and listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Dolores Street Apartment)"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Sarah, balancing client meetings with focused work, punctuated by a jog in Dolores Park and ending with dinner out with a friend in her Mission neighborhood.",
+                "home_address": "2204 Dolores St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7405634,
+                    "lng": -122.4240891,
+                    "formatted_address": "2204 Dolores St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jenkins Family"
+    }
+}

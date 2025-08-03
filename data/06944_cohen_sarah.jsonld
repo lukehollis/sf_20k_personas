@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Cohen",
+    "givenName": "Sarah",
+    "familyName": "Cohen",
+    "jobTitle": "Senior Policy Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Latino Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government / Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Cohen\u2019s name tells a story of convergence. Raised on the Peninsula by her Mexican-born mother, a vibrant artist, and her Jewish-American father, a history professor, Sarah\u2019s childhood was a rich tapestry of cultures. Her home was filled with the scent of both simmering pozole and baking challah, and dinner conversations toggled between Mexican politics and Jewish philosophy. This dual heritage instilled in her a sharp awareness of social fabrics and the invisible lines that divide and connect communities.\n\nHer intellectual curiosity led her to UC Berkeley for her undergraduate studies, where volunteering at a tenant rights organization ignited a passion for systemic change. Witnessing families navigate complex housing laws convinced her that her path lay in policy. She pursued a Master's in Public Policy, focusing on urban development, and landed an entry-level position with the City of San Francisco shortly after graduating. Over two decades, she has meticulously worked her way up to Senior Policy Analyst, specializing in the city\u2019s most intractable problem: affordable housing.\n\nA divorce five years ago marked a significant turning point, prompting her to leave a shared condo in the Mission for a quiet one-bedroom apartment in the Inner Sunset. The 0.0-mile commute of her now-permanent remote work arrangement has deepened her connection to her immediate surroundings. Her days are structured: a morning walk through Golden Gate Park with a thermos of coffee, followed by hours immersed in data sets and virtual stakeholder meetings. She breaks for lunch at a small Vietnamese cafe on Irving Street, finding comfort in the familiar routine.\n\nSarah\u2019s social life is a close-knit circle of colleagues and old university friends. While she values her independence, she sometimes feels the weight of her solitary work. Her dream is not abstract; it\u2019s to one day walk past a new, thriving apartment complex and know that her research helped lay its foundation. She aspires to see her analytical work translate into tangible shelter, creating the kind of stable, welcoming community for others that she was so fortunate to have herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to the alarm, check overnight work emails, and do a few morning stretches.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee and scan the headlines from the SF Chronicle and Politico.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower, get dressed in smart-casual attire suitable for walking, and pack a work bag.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the energizing walk to the Mission, listening to the 'Ezra Klein Show' podcast.",
+                        "geocode": {
+                            "lat": 37.8009425,
+                            "lng": -122.4052612,
+                            "formatted_address": "Telegraph Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "The San Francisco Hills"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, set up the workstation, and outline a priority list for the day.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 15,
+                        "location": "Doorhaus Coworking Space"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep focus session: Analyze datasets and write the introductory section of a new public transit policy brief.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 120,
+                        "location": "Doorhaus Coworking Space"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf9",
+                        "action": "Participate in a stakeholder video conference call regarding community feedback on a proposed bike lane project.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Doorhaus - Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to get a Mission-style burrito for a quick and satisfying solo lunch break.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 50,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Review and edit a colleague's report, providing feedback and flagging key statistics for the executive summary.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 110,
+                        "location": "Doorhaus Coworking Space"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Finalize tasks, respond to non-urgent emails, and plan the agenda for a meeting the next day.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 30,
+                        "location": "Doorhaus Coworking Space"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commence the walk home, switching from a podcast to a curated playlist to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 80,
+                        "location": "The San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Stop at the neighborhood market to pick up fresh bread, cheese, and a salad for a simple dinner.",
+                        "geocode": {
+                            "lat": 37.8050802,
+                            "lng": -122.4254187,
+                            "formatted_address": "North Point St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Trader Joe's - North Point"
+                    },
+                    {
+                        "emoji": "\ud83d\ude0c",
+                        "action": "Arrive home, change into comfortable clothes, and spend a few minutes tidying up the living space.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a light dinner while catching up with her sister on the phone.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch and read a few chapters of a contemporary fiction novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare for bed: lay out clothes for the next day, wash up, and set the alarm.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A structured day for a policy analyst, balancing demanding analytical work in the Mission with a lengthy, invigorating walk-commute from her North Beach home, and winding down with a quiet evening of reading and socializing.",
+                "home_address": "3635 Powell St, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8084677,
+                    "lng": -122.4125037,
+                    "formatted_address": "3635 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Cohen Family"
+    }
+}

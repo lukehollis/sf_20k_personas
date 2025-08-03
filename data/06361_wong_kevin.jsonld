@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Wong",
+    "givenName": "Kevin",
+    "familyName": "Wong",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Agnostic"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Wong\u2019s story is one of quiet rebellion, a search for balance between filial duty and personal passion. He grew up in the fog-drenched avenues of San Francisco's Sunset District, the only son of immigrants from Hong Kong who poured their life savings and relentless effort into a small neighborhood grocery store. From a young age, Kevin was expected to pursue a stable, prestigious career\u2014doctor, lawyer, engineer\u2014to validate his parents\u2019 sacrifices.\n\nHis educational journey was his first significant deviation. Instead of pre-med or engineering, Kevin enrolled at UC Santa Cruz, captivated by the stories embedded in objects and patterns. He graduated with a Bachelor's degree in Art History, a choice that deeply disappointed his practical-minded parents. The stark reality of San Francisco rent, however, forced a pivot. He discovered a knack for identifying patterns not just in Renaissance paintings, but in vast datasets. A six-month data science bootcamp became his bridge, translating his analytical mind into a marketable skill.\n\nThis career shift was a turning point. He landed a job as a data analyst for a mid-size tech company and, thanks to remote work policies, has a 0.0-mile commute from his one-bedroom apartment in the Inner Richmond. His days follow a steady rhythm: a strong coffee from a local cafe on Clement Street, hours spent wrangling SQL queries and building dashboards, and a midday break for a run through the Presidio or Golden Gate Park.\n\nSocially, Kevin maintains a small, close-knit circle of friends, mostly from his bootcamp cohort, who understand his unconventional path. His relationship with his parents has softened into a respectful, if distant, understanding. They are proud of his financial stability, though they still don't quite grasp what he does.\n\nNow 28, Kevin feels a familiar pull. The stability is welcome, but unfulfilling. His dream is to merge his two worlds: to use his data analysis skills for an organization he truly believes in, perhaps a museum like SFMOMA or a non-profit dedicated to preserving cultural heritage. He aspires to find the narrative within the numbers, proving that his path, though winding, was always leading toward a place where art and data could coexist."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Wake up, shower, and get dressed for the workday.",
+                        "geocode": {
+                            "lat": 37.7641277,
+                            "lng": -122.4641936,
+                            "formatted_address": "Inner Sunset, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (Inner Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Eat a quick breakfast (toast and congee) with parents.",
+                        "geocode": {
+                            "lat": 37.7641277,
+                            "lng": -122.4641936,
+                            "formatted_address": "Inner Sunset, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Inner Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude86",
+                        "action": "Walk to the station and take the N Judah two stops to work.",
+                        "geocode": {
+                            "lat": 37.7654468,
+                            "lng": -122.4527864,
+                            "formatted_address": "Carl St & Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "SFMTA N Judah Line (Irving St to Carl & Stanyan)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, review overnight patient data jobs, and triage emails.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, United States"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Health St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Daily team stand-up to discuss progress on a hospital capacity dashboard.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Health St. Mary's Hospital - Conference Room 3"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Focused work: Writing SQL queries to extract data for a quarterly readmission report.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, United States"
+                        },
+                        "duration": 135,
+                        "location": "UCSF Health St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to Haight St to grab a turkey sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Afternoon work: Building data visualizations in Tableau for the report.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, United States"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Health St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\u2695\ufe0f",
+                        "action": "Meet with a clinical manager to review findings and validate data.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, United States"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Health St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up tasks, organize codebase, and plan for the next day.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, United States"
+                        },
+                        "duration": 25,
+                        "location": "UCSF Health St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Take the N Judah home and stop to pick up produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7641474,
+                            "lng": -122.4711468,
+                            "formatted_address": "1200 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Andronico's Community Markets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a de-stressing run around the east end of the park.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Help cook and sit down for a family dinner.",
+                        "geocode": {
+                            "lat": 37.7641277,
+                            "lng": -122.4641936,
+                            "formatted_address": "Inner Sunset, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Inner Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfae",
+                        "action": "Relax by playing online games with college friends.",
+                        "geocode": {
+                            "lat": 37.7641277,
+                            "lng": -122.4641936,
+                            "formatted_address": "Inner Sunset, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Inner Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, read tech articles, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7641277,
+                            "lng": -122.4641936,
+                            "formatted_address": "Inner Sunset, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Inner Sunset)"
+                    }
+                ],
+                "day_overview": "A typical weekday for a Data Analyst balancing a structured tech role within a healthcare setting, a quick commute via Muni, personal fitness in Golden Gate Park, and family time in his Inner Sunset home.",
+                "home_address": "781 Irving St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7640626,
+                    "lng": -122.4662497,
+                    "formatted_address": "781 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

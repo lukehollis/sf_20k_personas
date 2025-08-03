@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Cohen",
+    "givenName": "Mei",
+    "familyName": "Cohen",
+    "jobTitle": "Director of Operations",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Cohen\u2019s name tells a quintessential San Francisco story. Born and raised in the foggy avenues of the Richmond District, she is the daughter of a pragmatic Shanghai-born pharmacist mother and an intellectual Jewish-American history professor father from Brooklyn. Her childhood was a fusion of cultures: Shabbat dinners followed by weekends helping at her mother\u2019s pharmacy, learning the value of both ancient traditions and meticulous, practical work. She grew up feeling like a native observer of the city\u2019s constant evolution.\n\nHer educational path was driven by a desire for tangible results. She earned a B.A. in Economics from UC Berkeley, graduating just in time to witness the tail end of the dot-com bubble. Her first job as a junior analyst at a startup that spectacularly imploded was a formative experience. It taught her that vision without process was chaos. This realization spurred her to pursue an MBA in Organizational Behavior from UCLA, determined to be the person who built the strong, scalable systems that brilliant but chaotic founders often lacked. Her career has been a steady, deliberate climb through the ranks of project management to her current role as a Director of Operations for a successful enterprise software company.\n\nA key turning point was her divorce at 38. The amicable but painful separation from her college sweetheart led to a period of intense self-reflection. She sold their shared condo in the Mission and bought a meticulously restored Victorian flat in Noe Valley, creating a sanctuary that was entirely her own. Since her company went fully remote, her commute is a ten-step walk to a sunlit home office overlooking her small, curated garden. Her days are a disciplined mix of back-to-back Zoom calls and intense focus blocks, broken up by a mandatory late-afternoon run through the Panhandle.\n\nWhile professionally fulfilled, Mei aspires for a different kind of impact. She quietly mentors young women in tech, helping them navigate corporate structures she knows all too well. Her dream is to eventually transition into angel investing, specifically funding female-founded companies focused on sustainable community solutions\u2014a way to reconcile the tech-driven wealth of the new San Francisco with the community-oriented city she remembers. For Mei, SF is not just a backdrop for her career; it is the complex, ever-changing, and deeply loved protagonist of her own life story."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and 15-minute guided meditation using a mindfulness app.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Apartment on Mission St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Enjoy coffee with her partner while reading the morning news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and get dressed in business casual attire suitable for cycling.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Uphill bike commute from the Mission to the CCSF campus.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mission St & Alemany Blvd Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Settle in at the office, review priority emails, and plan the day's tasks.",
+                        "geocode": {
+                            "lat": 37.7257022,
+                            "lng": -122.4511855,
+                            "formatted_address": "Science Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 35,
+                        "location": "CCSF - Science Hall Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead a strategic meeting on the new student success software implementation.",
+                        "geocode": {
+                            "lat": 37.724438,
+                            "lng": -122.4529414,
+                            "formatted_address": "55 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 90,
+                        "location": "CCSF - MUB 140 Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Quick walk and lunch break with a colleague.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "CCSF - The Diego Rivera Theater Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcb0",
+                        "action": "Focused work block: Finalizing the quarterly departmental budget proposal.",
+                        "geocode": {
+                            "lat": 37.7257022,
+                            "lng": -122.4511855,
+                            "formatted_address": "Science Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 120,
+                        "location": "CCSF - Science Hall Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Conference call with a potential technology vendor for system upgrades.",
+                        "geocode": {
+                            "lat": 37.7257022,
+                            "lng": -122.4511855,
+                            "formatted_address": "Science Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "CCSF - Science Hall Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work for the day, respond to final messages, and organize tomorrow's agenda.",
+                        "geocode": {
+                            "lat": 37.7257022,
+                            "lng": -122.4511855,
+                            "formatted_address": "Science Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 30,
+                        "location": "CCSF - Science Hall Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udca8",
+                        "action": "Downhill bike commute from CCSF back to the Mission District.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Alemany Blvd to Mission St Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Unwind from the day, change clothes, and chat with her partner.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Apartment on Mission St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner with her partner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Eat dinner and catch up on the day's events together.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a novel for her book club and sip a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare for the next day, light tidying, and nightly routine before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A dynamic day for a Director of Operations, balancing high-level strategic meetings at City College with an active bike commute and winding down with her partner in their vibrant Mission District neighborhood.",
+                "home_address": "2780 Mission St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7526163,
+                    "lng": -122.4187912,
+                    "formatted_address": "2780 Mission St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Cohen Family"
+    }
+}

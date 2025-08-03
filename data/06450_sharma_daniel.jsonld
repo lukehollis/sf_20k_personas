@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Sharma",
+    "givenName": "Daniel",
+    "familyName": "Sharma",
+    "jobTitle": "Retail Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Sharma\u2019s life story is etched into the sidewalks of a single San Francisco neighborhood. The only son of Punjabi immigrants who settled in the Sunset District in the 1970s, Daniel grew up surrounded by the scent of his mother\u2019s cooking and the sound of his father\u2019s relentless work ethic. His parents ran a small laundromat, a business of long hours and small margins, and they instilled in Daniel a deep appreciation for stability over ambition. While his peers dreamt of college and careers in the nascent tech boom, Daniel saw value in the tangible, the immediate.\n\nHe bypassed the traditional four-year university path, opting instead for an Associate's degree in Business Administration from City College of San Francisco. It felt practical, a direct route to a steady job. He began his career stocking shelves at a gourmet market and, over two decades, quietly and diligently worked his way up. His promotion to Store Manager a decade ago was less a moment of triumph and more one of quiet satisfaction\u2014the culmination of a lifetime of showing up and doing the work.\n\nA key turning point was his divorce in his early forties. The amicable but painful separation from his college sweetheart left him feeling untethered. He channeled his energy into his work, accepting an offer to move into the small apartment above the Hayes Valley store he managed. This decision cemented his current existence. With a zero-mile commute, his life and work are completely integrated. He is the first to arrive each morning and the last to leave, his daily routine dictated by inventory shipments, employee schedules, and the familiar faces of his regular customers.\n\nDaniel is a neighborhood fixture, known by sight to hundreds but known well by few. His social life consists of polite conversations over the cheese counter and a shared nod with the owner of the cafe next door. He nurses a quiet dream of one day buying the store from its aging owner, securing his small corner of the world. He doesn't crave wealth or fame; he yearns for the deep, grounding peace of ownership and, perhaps, someone to share the quiet evenings with in the apartment upstairs. His connection to San Francisco isn\u2019t one of iconic bridges or cable cars, but of the intricate, everyday life of the block he calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, shower, and do some light morning stretches to ease into the day.",
+                        "geocode": {
+                            "lat": 37.7722646,
+                            "lng": -122.4228825,
+                            "formatted_address": "1723 Market St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 1723 Market St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a strong cup of coffee and read the SF Chronicle online while eating a quick breakfast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Morning video call with his elderly mother to check in and see if she needs anything.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Get dressed for work, selecting a smart-casual outfit suitable for the design studio environment.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, navigating the traffic from Market Street down to the Mission District.",
+                        "geocode": {
+                            "lat": 37.7876162,
+                            "lng": -122.4251676,
+                            "formatted_address": "Gough St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Commute via Gough St & 16th St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, open the studio, review overnight sales data, and create the daily plan for the team.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Miro Studios - Manager's Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Lead the morning team huddle, discussing new inventory, sales targets, and a featured artist.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Miro Studios - Showroom Floor"
+                    },
+                    {
+                        "emoji": "\ud83d\uddbc\ufe0f",
+                        "action": "Walk the floor, assisting staff with high-value clients and ensuring visual merchandising is perfect.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 180,
+                        "location": "Miro Studios - Showroom Floor"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Step out for a quick lunch, picking up a carnitas torta to eat at a nearby parklet.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Unpack a new shipment of ceramics and update the inventory management system.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Miro Studios - Stockroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Conduct end-of-day closing procedures, finalizing sales reports and setting the alarm.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Miro Studios - Manager's Office"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, taking a slightly different route to avoid the worst of the 101-adjacent traffic.",
+                        "geocode": {
+                            "lat": 37.7590916,
+                            "lng": -122.4068599,
+                            "formatted_address": "Potrero Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Commute via Potrero Ave & Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the grocery store to pick up items for dinner and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Whole Foods Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Go for a brisk walk to decompress from the day, listening to a history podcast.",
+                        "geocode": {
+                            "lat": 37.76955100000001,
+                            "lng": -122.433214,
+                            "formatted_address": "Duboce Park, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Duboce Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Prepare and eat a healthy dinner while watching the evening news.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Relax on the couch with a novel and a glass of Cabernet Sauvignon.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Living Room"
+                    }
+                ],
+                "day_overview": "A busy and structured day for Daniel, balancing the demands of managing a high-end design store in the Mission with personal errands, exercise, and a thoughtful check-in with his elderly mother.",
+                "home_address": "1723 Market St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7722646,
+                    "lng": -122.4228825,
+                    "formatted_address": "1723 Market St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1972",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis was not supposed to be a data analyst. Growing up in a quiet college town in Ohio, the daughter of a history professor and a high school English teacher, her world was one of dusty books and passionate debates about literature and art. She followed this path obediently, earning a Bachelor's degree in Art History, imagining a future as a curator, surrounded by the beautiful objects she\u2019d spent her life studying.\n\nThe reality, however, was a series of unpaid internships and a soul-crushing job as an administrative assistant at a small, struggling gallery. It was there, while organizing donor spreadsheets out of sheer boredom, that Sarah discovered an unexpected talent: she could see stories in the data. The patterns of donations, visitor demographics, and event attendance fascinated her more than the art on the walls. This revelation became her turning point. Over the next three years, she devoured online courses in SQL and Python, building a new skill set with the same obsessive focus she once applied to Renaissance painters.\n\nA San Francisco-based fintech company, intrigued by her unconventional background, took a chance on her. They believed her ability to find narratives in abstract information was a unique asset. So, at 28, Sarah moved to a city that felt as electric and complex as the datasets she now navigated daily.\n\nToday, at 35, Sarah lives and works in a cozy one-bedroom apartment in the Inner Richmond. Her 0.0-mile commute means her days are a disciplined routine of coffee from a local Clement Street cafe, followed by hours of intense focus, her world contained within dual monitors. The remote work can be isolating, but it has forced her to be intentional about her connection to the city.\n\nTwice a week, she escapes her digital life at a ceramics studio in the Mission, her hands covered in clay\u2014 a tactile link to the artistic world she left behind. Her friends are a small, close-knit circle from that class. Sarah\u2019s dream is no longer to be a curator in a traditional sense. Instead, she aspires to bridge her two worlds: to one day use her financial stability and data acumen to launch a platform or a physical gallery that uses analytics to identify and support undiscovered, emerging artists. For Sarah, it would be the perfect synthesis of the life she has and the one she once imagined."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate, and journal for 15 minutes.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a morning run through the Panhandle to start the day energized.",
+                        "geocode": {
+                            "lat": 37.7729862,
+                            "lng": -122.4459943,
+                            "formatted_address": "Panhandle, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and get ready for the day while listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Walk to grab a large oat milk latte and a croissant.",
+                        "geocode": {
+                            "lat": 37.768434,
+                            "lng": -122.450758,
+                            "formatted_address": "701 Cole St #703, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "Cole Valley Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into the home office, review emails and plan tasks for the day.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office - Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Run SQL queries to pull quarterly performance data and begin data cleaning.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office - Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Join the daily virtual stand-up meeting with the finance analytics team.",
+                        "geocode": {
+                            "lat": 37.7884637,
+                            "lng": -122.3965434,
+                            "formatted_address": "500 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 15,
+                        "location": "Zoom/Slack"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Step out to pick up a pre-ordered sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7660671,
+                            "lng": -122.449803,
+                            "formatted_address": "856 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Say Cheese"
+                    },
+                    {
+                        "emoji": "\ud83d\udc0d",
+                        "action": "Analyze dataset in Python, identifying key trends and preparing initial findings.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office - Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Build a preliminary data visualization dashboard in Tableau for an upcoming presentation.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office - Cole Valley"
+                    },
+                    {
+                        "emoji": "\u2714\ufe0f",
+                        "action": "Log off work, tidy the desk, and transition out of 'work mode'.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office - Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Quick grocery run to pick up items for dinner and the next day's breakfast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Luke's Local"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a happy hour beer and to catch up.",
+                        "geocode": {
+                            "lat": 37.7678717,
+                            "lng": -122.453083,
+                            "formatted_address": "770 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Kezar Pub"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner at home while listening to music.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bedroom"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Sarah, a Data Analyst in Cole Valley, balancing deep focus on financial data with local errands, a refreshing run in the park, and a casual evening with a friend.",
+                "home_address": "601 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7695285,
+                    "lng": -122.450732,
+                    "formatted_address": "601 Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

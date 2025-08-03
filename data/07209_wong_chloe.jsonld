@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Chloe Wong",
+    "givenName": "Chloe",
+    "familyName": "Wong",
+    "jobTitle": "Assistant Curator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Chloe Wong\u2019s story is woven from two distinct threads of San Francisco: the quiet, fog-laced streets of the Sunset District where she was raised, and the vibrant, pulsing art scene of SoMa where she now lives and works. The only child of first-generation immigrants from Hong Kong, her upbringing was a landscape of high expectations. Her parents, a pharmacist and an accountant, envisioned a stable, lucrative career for her, but Chloe was always drawn to the world of aesthetics, a trait she inherited from her late grandfather, a skilled calligrapher whose ink-stained brushes were her first toys.\n\nHer educational journey was a quiet rebellion. While her parents celebrated her acceptance into UC Berkeley, they were privately wary of her choice to major in Art History. Chloe thrived, immersing herself in theory and critique. A semester abroad in Florence, Italy, was her turning point. Standing before Donatello\u2019s *David*, she wasn\u2019t just observing art; she felt its power to communicate across centuries. This solidified her resolve, leading her directly to a Master's program in Museum Studies at the University of San Francisco. She chose to stay local, feeling an intense loyalty to the city's unique cultural fabric.\n\nNow, at 25, Chloe is an Assistant Curator at a small, contemporary gallery in SoMa. Her 0.0-mile commute is a subject of envy among her friends; she lives in a sleek, minimalist studio apartment in the same building as the gallery. Her days are a blur of artist liaisons, research for upcoming exhibitions, and the meticulous work of cataloging new acquisitions. She has found her niche championing emerging Bay Area artists, particularly those from underrepresented communities. Her social life blends seamlessly with her work, consisting of gallery openings, late-night talks with artists over cheap pho, and a tight-knit circle of friends, mostly from her graduate program.\n\nChloe\u2019s connection to San Francisco is profound, a dialogue between her past and present. She still takes the N Judah train back to the Sunset every Sunday for dim sum with her parents, who are now quietly proud of her sophisticated world. Her dream is to one day curate a major exhibition that explores the intersection of traditional East Asian craft and modern technology in art\u2014a tribute to her grandfather and her city. She aspires not just to be a curator, but a storyteller who uses gallery walls to reflect the complex, ever-changing soul of San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, start a pot of pour-over coffee, and do a 20-minute yoga flow session.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a smart-casual outfit, and pack a tote bag for the day.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Eat a quick breakfast of Greek yogurt with berries while reviewing art world news on Artsy and Artnet.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the ~2.5 mile walk to work, listening to an art history podcast.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "SoMa Streetscape"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Morning sync: Respond to artist emails and meet with the Art Program manager to review the Q3 installation budget.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Google SF - One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab lunch at the employee cafeteria with a colleague from the design team to informally discuss creative collaborations.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Steuart Tower Caf\u00e9 @ Google"
+                    },
+                    {
+                        "emoji": "\ud83d\uddbc\ufe0f",
+                        "action": "Conduct a walk-through of a new installation with the facilities team to check lighting and final placement.",
+                        "geocode": {
+                            "lat": 37.7717388,
+                            "lng": -122.4169322,
+                            "formatted_address": "12th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Google SF Landmark Building - 12th Floor Commons"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Focused work time: Write the didactic wall text for the new piece and research emerging Bay Area photographers.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Google SF - Quiet Work Pod"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk home from the office, listening to a new indie pop playlist to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Embarcadero to Potrero Walkway"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop for ingredients for dinner and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7639852,
+                            "lng": -122.4127726,
+                            "formatted_address": "2111 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market on 17th St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a pasta dinner at home while catching up with her college friend, Maya, who dropped by.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Video call with parents to share updates about the week.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a new biography on artist Ruth Asawa and sketching ideas in a notebook.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Potrero Hill Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Chloe, an Assistant Curator at Google, involving focused work on an upcoming art installation, a long, reflective walk through the city, and a relaxing evening cooking and catching up with a friend in Potrero Hill.",
+                "home_address": "1483 16th St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7659083,
+                    "lng": -122.4014514,
+                    "formatted_address": "1483 16th St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

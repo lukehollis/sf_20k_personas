@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Miller",
+    "givenName": "Ethan",
+    "familyName": "Miller",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ethan Miller\u2019s life is a story of quiet synthesis. Born in Fremont, he was the embodiment of his parents\u2019 union: a pragmatic, second-generation white American father from Ohio, and a first-generation Chinese-American mother who instilled in him a deep respect for both tradition and ambition. His childhood was a blend of Midwestern practicality and the vibrant, unspoken expectations of an immigrant community. While his father taught him to build things and solve problems logically, his mother ensured he excelled academically and never forgot the language and culture of her heritage.\n\nThis duality defined his educational path. Instead of diving headfirst into computer science like many of his Bay Area peers, Ethan pursued a Bachelor's in Economics at UC Davis. He was drawn to the stories hidden within systems and human behavior, not just the code that powered them. The turning point came during a junior year internship at a small marketing firm. Tasked with analyzing customer engagement data, he discovered a passion for unearthing narratives from raw numbers. Data became his language\u2014a way to translate messy, unpredictable human choices into elegant, actionable insights. Upon graduating, he secured a remote position as a Data Analyst for a San Francisco-based fintech company.\n\nNow, Ethan\u2019s world is contained within the walls of his Hayes Valley apartment, his commute a 0.0-mile walk from his bed to his desk. His days are a disciplined routine of coffee from a local cafe, focused work sprints analyzing financial trends, and a late afternoon run through the Panhandle to clear his head. He chose Hayes Valley specifically to combat the isolation of remote work; the neighborhood\u2019s vibrant energy, with its boutiques, beer gardens, and proximity to the symphony, serves as a constant invitation back into the physical world.\n\nHis social life is a small, tight-knit circle of college friends and a few work colleagues he\u2019s met at quarterly in-person events. While professionally successful, Ethan aspires to more than just optimizing algorithms. He dreams of eventually leading a data ethics team, ensuring that the models shaping financial futures are built on principles of fairness and transparency\u2014a perfect fusion of his father\u2019s pragmatism and the human-centric values instilled by his mother. He seeks connection, both in the patterns he finds at work and in the city he intentionally chose to call home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, scroll through newsfeeds and notifications.",
+                        "geocode": {
+                            "lat": 37.7883885,
+                            "lng": -122.4228189,
+                            "formatted_address": "Bush St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Apartment on Bush St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7883885,
+                            "lng": -122.4228189,
+                            "formatted_address": "Bush St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Bush St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make a quick breakfast of avocado toast and coffee.",
+                        "geocode": {
+                            "lat": 37.7883885,
+                            "lng": -122.4228189,
+                            "formatted_address": "Bush St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on Bush St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to Market Street and take the MUNI bus to the Mission.",
+                        "geocode": {
+                            "lat": 37.7876418,
+                            "lng": -122.4034717,
+                            "formatted_address": "Market St & Kearny St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 40,
+                        "location": "MUNI 14R Bus - Market & Kearny Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at coworking space, grab a complimentary coffee, and join a virtual team stand-up meeting.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 30,
+                        "location": "Coworking SF by Lans"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Cleaning and analyzing a new dataset using Python and SQL.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 155,
+                        "location": "Quiet Pod at Coworking SF"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to get a classic Mission-style burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.72118,
+                            "lng": -122.437281,
+                            "formatted_address": "4817 Mission St, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "Taqueria El Farolito"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon-work block: Building a new data visualization dashboard in Tableau.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 150,
+                        "location": "Coworking SF by Lans"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Pack up and begin the commute home from the Mission.",
+                        "geocode": {
+                            "lat": 37.76344280000001,
+                            "lng": -122.4195464,
+                            "formatted_address": "Mission St & 17th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "MUNI 14 Bus - 17th & Mission Stop"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Stop for a post-work weightlifting and cardio session.",
+                        "geocode": {
+                            "lat": 37.7899108,
+                            "lng": -122.4023271,
+                            "formatted_address": "45 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 75,
+                        "location": "24 Hour Fitness - Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd61",
+                        "action": "Pick up some quick and easy takeout dinner on the walk home.",
+                        "geocode": {
+                            "lat": 37.795455,
+                            "lng": -122.408356,
+                            "formatted_address": "1039 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 15,
+                        "location": "Good Mong Kok Bakery, Chinatown"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while watching a streaming series and decompressing from the day.",
+                        "geocode": {
+                            "lat": 37.7883885,
+                            "lng": -122.4228189,
+                            "formatted_address": "Bush St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Apartment on Bush St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax, chat with friends online, and read articles.",
+                        "geocode": {
+                            "lat": 37.7883885,
+                            "lng": -122.4228189,
+                            "formatted_address": "Bush St, San Francisco, CA, USA"
+                        },
+                        "duration": 105,
+                        "location": "Apartment on Bush St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: brush teeth, set alarm, and get to bed.",
+                        "geocode": {
+                            "lat": 37.7883885,
+                            "lng": -122.4228189,
+                            "formatted_address": "Bush St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on Bush St"
+                    }
+                ],
+                "day_overview": "A productive day for a young data analyst, balancing focused work at a Mission coworking space with a downtown fitness routine and enjoying the local food scene of SF's diverse neighborhoods.",
+                "home_address": "407 Bush St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7906152,
+                    "lng": -122.4043901,
+                    "formatted_address": "407 Bush St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

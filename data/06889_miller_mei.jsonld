@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Miller",
+    "givenName": "Mei",
+    "familyName": "Miller",
+    "jobTitle": "Restaurant Owner/Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Food and Beverage"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Miller\u2019s world smells of star anise, ginger, and the faint, clean scent of wok oil that has seeped into the walls of her Richmond District apartment. The 0.0-mile commute is a blessing and a cage; she lives directly above \"The Golden Crane,\" the restaurant her immigrant parents from Guangzhou poured their life savings and boundless hope into fifty years ago. Growing up, Mei's playground was the alley behind the kitchen, her lullabies the rhythmic clatter of cleavers and the distant hum of the N-Judah streetcar.\n\nShe never intended to take over. Mei was the American-born daughter who was supposed to escape the grueling 16-hour days. For two bright years, she did, studying graphic design at San Francisco State University, dreaming of creating sleek logos for tech startups. But a sudden stroke left her father unable to work, and her mother's weary hands couldn't manage the business alone. At 21, Mei dropped out, trading her design software for order pads and her bright future for the familiar, heavy weight of filial duty.\n\nThe \"Miller\" came from David, a kind, quiet librarian who became a regular. He didn\u2019t just love her parents\u2019 wonton soup; he loved Mei\u2019s quiet resilience and the flashes of the artist she kept hidden. Their love was a gentle constant in the chaotic restaurant life. They married and ran The Golden Crane together for fifteen years, his steady calm balancing her fierce dedication. David\u2019s passing from cancer six years ago was a quiet devastation that left Mei truly alone at the helm.\n\nNow, at 53, Mei\u2019s days are a disciplined routine: up at dawn for the market, prepping alongside her small staff, greeting regulars who have become her de facto family, and closing up long after the fog has rolled in. Her connection to San Francisco isn't in its iconic landmarks, but in the familiar faces at her tables and the changing storefronts on her block. Her dream is no longer escape, but survival. She hopes to keep the lights on, to honor the legacy of her parents and her late husband, and to ensure that in a city obsessed with the new, there is still a place for a bowl of soup that tastes like home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up and enjoy a cup of coffee with her partner while looking out at the morning fog.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc3e",
+                        "action": "Morning walk along the sand to clear her head before the workday begins.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Commute from the kitchen to the spare bedroom, officially starting the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Daily check-in call with the on-site assistant manager to review morning sales, staffing levels, and inventory.",
+                        "geocode": {
+                            "lat": 37.7981294,
+                            "lng": -122.4056449,
+                            "formatted_address": "504 Broadway, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Nightingale Cafe (Virtual)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Placing daily orders for produce, dairy, and bread with various local suppliers.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Quick walk to a neighborhood spot to grab lunch and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7623709,
+                            "lng": -122.5016052,
+                            "formatted_address": "4055 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Palm City Wines"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Processing payroll and reviewing invoices to ensure all vendors are paid on time.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Video call with her lead cook to brainstorm and cost out new seasonal menu items.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Final check-in call of the day with the evening shift lead at the cafe.",
+                        "geocode": {
+                            "lat": 37.7981294,
+                            "lng": -122.4056449,
+                            "formatted_address": "504 Broadway, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "The Nightingale Cafe (Virtual)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Log off for the day, shutting the door to her home office to create a clear work/life separation.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walks to the local market to pick up fresh fish and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepares dinner with her partner while they share stories about their respective days.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home on Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a new movie release together.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home on Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Winds down for the night by reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Judah St"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Mei, managing her hospital cafe remotely from the Outer Sunset. The day involves a balance of administrative tasks, supplier coordination, and creative menu planning, capped off with a relaxing evening at home with her partner.",
+                "home_address": "2211 Judah St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7611061,
+                    "lng": -122.4858209,
+                    "formatted_address": "2211 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1971",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

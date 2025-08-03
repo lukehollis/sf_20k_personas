@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Project Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story didn't begin in a garage or a boardroom, but in a quiet Cleveland suburb, where the predictable rhythm of Midwestern life shaped her grounded personality. Raised by a high school history teacher and a dental hygienist, her upbringing was one of practicality and encouragement. She pursued an English Literature degree at Ohio State, a choice born from a love of narrative and structure, though it offered no clear career path.\n\nHer entry into the tech world was accidental. After graduating, she took a job as a marketing coordinator for a small software company in Columbus simply because they were hiring. There, amidst the jargon and code, she discovered a hidden talent for translating the chaotic sprints of engineering into coherent timelines and clear objectives for the rest of the team. She wasn't a coder, but she spoke the language of progress. This realization was her turning point.\n\nLured by opportunity and the promise of a city that celebrated innovation, Sarah made the leap to San Francisco six years ago. She landed an entry-level project coordinator role, quickly proving her worth and climbing the ladder to her current position as a Project Manager.\n\nToday, her \"commute\" is a ten-step walk from her bed to the desk in the corner of her Hayes Valley one-bedroom apartment. Her days are a blur of Slack notifications, video calls, and Gantt charts. To counteract the digital haze, Sarah imposes a strict routine: a morning run through the Panhandle, a midday walk to grab coffee from a local cafe, and evenings spent detethered from her laptop. Her primary connection to San Francisco isn't found in tech meetups, but in the tangible life of her neighborhood and her weekly pottery class in the Mission, where shaping clay provides a welcome, tactile anchor.\n\nSarah's ambition is to become a Director of Program Management, but her deeper dream is to feel truly rooted in the city. She hopes to one day afford a small condo with a view of the fog rolling in, a permanent stake in the transient town she has, against all odds, made her home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check personal emails, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.7993987,
+                            "lng": -122.4475,
+                            "formatted_address": "3967 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment - 3967 Chestnut St"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Brew a pour-over coffee and prepare a quick breakfast of avocado toast.",
+                        "geocode": {
+                            "lat": 37.7993987,
+                            "lng": -122.4475,
+                            "formatted_address": "3967 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen - 3967 Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5a",
+                        "action": "Shower, get dressed in smart casual tech attire, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7993987,
+                            "lng": -122.4475,
+                            "formatted_address": "3967 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment - 3967 Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Cycle to work, enjoying the views along the waterfront.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Embarcadero Bike Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, grab a sparkling water, and join the daily virtual stand-up with the development team.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 75,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Finalize the project scope for the upcoming quarter and update the roadmap in Jira.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 120,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy lunch to eat at a nearby public plaza.",
+                        "geocode": {
+                            "lat": 37.7945018,
+                            "lng": -122.4018229,
+                            "formatted_address": "475 Sansome St Suite 100-s, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 50,
+                        "location": "Mixt - 475 Sansome St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead back-to-back sync meetings with the marketing and design teams to ensure alignment.",
+                        "geocode": {
+                            "lat": 37.7930303,
+                            "lng": -122.4041427,
+                            "formatted_address": "580 California Street Financial District, 12th and 16th Floor, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 90,
+                        "location": "Regus Conference Room - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Respond to Slack messages and emails, clearing out the inbox and preparing follow-ups from meetings.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 110,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Pack up and begin the bike commute home, taking a slightly different route through North Beach.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "FiDi to Marina Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop to pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.8000211,
+                            "lng": -122.4416326,
+                            "formatted_address": "2323 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Marina Supermarket - 2200 Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a de-stressing run with views of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple salmon and roasted vegetable dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7993987,
+                            "lng": -122.4475,
+                            "formatted_address": "3967 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen - 3967 Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch an episode of a trending show, and text with friends to make weekend plans.",
+                        "geocode": {
+                            "lat": 37.7993987,
+                            "lng": -122.4475,
+                            "formatted_address": "3967 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room - 3967 Chestnut St"
+                    }
+                ],
+                "day_overview": "A productive day for a tech Project Manager, featuring an energizing bike commute from the Marina to the Financial District, focused work sessions, and a relaxing evening run along the waterfront before heading home to cook.",
+                "home_address": "3967 Chestnut St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7993987,
+                    "lng": -122.4475,
+                    "formatted_address": "3967 Chestnut St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

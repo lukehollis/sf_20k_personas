@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Senior Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a story of two selves, coexisting in a meticulously organized Hayes Valley apartment. Born and raised in Toledo, Ohio, to a high school history teacher and a nurse, Sarah\u2019s upbringing was steeped in practicality and a deep respect for knowledge. She was a voracious reader, a quiet observer who found solace in the structured world of libraries. This led her to pursue a Master of Library and Information Science, envisioning a life of quiet order, cataloging information and helping others navigate it.\n\nThe turning point came during her first job at a university library. Tasked with managing a departmental budget crisis, she discovered a surprising, thrilling aptitude not just for organizing books, but for analyzing numbers. She found a sharp, cold logic in financial data that was as compelling as any Dewey Decimal System. Weighed down by student loans and feeling a nascent, unexpected ambition, she made a pivot that shocked her family. She completed a grueling post-graduate certificate in financial analysis and, at 28, accepted a junior analyst position in San Francisco, trading Midwestern comfort for the city\u2019s demanding pace.\n\nNow 42 and a Senior Financial Analyst, Sarah works entirely from home. Her commute is the ten steps from her kitchen to the second bedroom she converted into a high-tech office. Her days are a silent ballet of spreadsheets, market reports, and video calls, the global flow of capital contained within the four walls of her apartment. Her connection to San Francisco is hyperlocal; she knows the baristas at her corner coffee shop by name and finds peace walking through Patricia's Green before her workday begins.\n\nHer social life is a small, curated circle, mostly friends from a book club\u2014a quiet nod to the librarian she almost was. While she has achieved the financial security she once craved, a sense of dissonance remains. Sarah\u2019s dream is no longer about climbing the corporate ladder. She aspires to bridge her two worlds, perhaps by moving into impact investing or providing pro-bono financial consulting for libraries and arts non-profits. She hopes to one day make her balance sheet reflect not just profit, but purpose."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, meditate for 10 minutes, and do a quick stretch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk jog through the neighborhood trails of Golden Gate Park.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Shower, get dressed, and have a quick breakfast of coffee and Greek yogurt.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen & Bathroom"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Walk to the designated meeting point and join the carpool for the drive downtown.",
+                        "geocode": {
+                            "lat": 37.5407246,
+                            "lng": -77.4360481,
+                            "formatted_address": "Richmond, VA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Carpool from Richmond to FiDi"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at the office, grab coffee, and review the day\u2019s priorities and market news.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Chime HQ - Her Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep focus session: Analyze Q3 performance data and update financial models.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 150,
+                        "location": "Chime HQ - Her Desk"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Break for lunch, picking up a pre-ordered salad bowl.",
+                        "geocode": {
+                            "lat": 37.7937236,
+                            "lng": -122.3978634,
+                            "formatted_address": "100 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt, California Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a cross-functional meeting with the product team to review project ROI.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Chime HQ - Conference Room 'Embarcadero'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Final work block: Respond to emails and finalize presentation slides for tomorrow's executive review.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 120,
+                        "location": "Chime HQ - Her Desk"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Pack up and meet the carpool for the commute home, listening to a podcast to decompress.",
+                        "geocode": {
+                            "lat": 37.780683,
+                            "lng": -122.4723021,
+                            "formatted_address": "Richmond District, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Carpool from FiDi to Richmond"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for fresh produce and groceries for the next couple of days.",
+                        "geocode": {
+                            "lat": 37.7827054,
+                            "lng": -122.4668356,
+                            "formatted_address": "707 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Richmond New May Wah Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple salmon and roasted vegetable dinner while catching up with a friend on the phone.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Unwind on the couch, watching an episode of a favorite show on streaming.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Prepare lunch for tomorrow, read a few chapters of a novel, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A structured and productive weekday for Sarah, balancing a demanding finance job in FiDi with a restorative routine in her Richmond District home, punctuated by an efficient carpool commute and local errands.",
+                "home_address": "3568 Clement St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7816145,
+                    "lng": -122.4939774,
+                    "formatted_address": "3568 Clement St, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

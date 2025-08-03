@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Raj Patel",
+    "givenName": "Raj",
+    "familyName": "Patel",
+    "jobTitle": "IT Support Specialist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Indian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Raj Patel\u2019s story is one of quiet rebellion against the Bay Area\u2019s deafening tech hype. The son of Gujarati immigrants, he grew up in the fog-laced suburbs of Daly City, where his parents ran a small convenience store. They instilled in him the values of diligence and stability, hoping he\u2019d pursue a prestigious four-year degree and a career as a software engineer. Raj, however, was always more interested in taking things apart than in coding them from scratch. He was the family\u2019s designated tech fixer, a patient troubleshooter from a young age.\n\nAfter a lackluster year at San Francisco State University, feeling lost in large lecture halls, Raj made a pivotal decision. He dropped out and enrolled at City College of San Francisco, earning an Associate's degree in Network Administration. It was a practical choice, a disappointment to his parents, but for Raj, it was an honest one. He thrived with hands-on learning and quickly landed a job as an IT Support Specialist for a mid-sized tech company.\n\nNow 35, Raj embodies the work-from-home reality of modern San Francisco. His commute is a ten-step walk from his bed to his desk in his cozy Inner Richmond apartment. His days are a steady stream of Slack notifications and video calls, troubleshooting VPN issues and password resets for colleagues he\u2019s never met in person. The isolation of remote work is real, but Raj counters it with a disciplined routine. He\u2019s a regular at a local cafe on Clement Street, where the baristas know his order, and he takes long, meditative walks through Golden Gate Park to decompress.\n\nRaj\u2019s social life is small but meaningful, centered around a weekly Dungeons & Dragons game with friends. He finds the dating scene in the city exhausting but remains hopeful. His primary dream isn\u2019t to climb the corporate ladder but to save enough to open a small, niche shop specializing in building custom mechanical keyboards and restoring vintage computers\u2014a tangible, craft-based business. For Raj, San Francisco isn't about the disruptive unicorn startups; it's about finding a quiet, stable corner in a chaotic city and building a life on his own terms."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf05",
+                        "action": "Wake up, brew a strong coffee with a French press, and check overnight emails on his phone.",
+                        "geocode": {
+                            "lat": 37.7643002,
+                            "lng": -122.4362225,
+                            "formatted_address": "3744 16th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen, 16th Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning prep: shower, get dressed for work, and pack his tech bag for the day.",
+                        "geocode": {
+                            "lat": 37.7643002,
+                            "lng": -122.4362225,
+                            "formatted_address": "3744 16th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home, 16th Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, navigating the traffic on Market Street to get from the Castro to Hayes Valley.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Market Street Traffic"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Park the car and walk to the office.",
+                        "geocode": {
+                            "lat": 37.7780185,
+                            "lng": -122.4225467,
+                            "formatted_address": "360 Grove St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 10,
+                        "location": "Performing Arts Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at his desk, grab a complimentary coffee, and triage the overnight IT support tickets from coworking members.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 75,
+                        "location": "Anchor Coworking - Help Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "On-site support: Troubleshoot a persistent Wi-Fi connectivity issue for a startup and then help a new member set up their dual-monitor display.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 90,
+                        "location": "Anchor Coworking - Member Floor"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to Hayes Valley to pick up a Greek salad for lunch and eat outside to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7765267,
+                            "lng": -122.4249906,
+                            "formatted_address": "517 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Souvla, Hayes Valley"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Project work: Research and test new A/V equipment for a planned conference room upgrade.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 120,
+                        "location": "Anchor Coworking - Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "User support: Assist a user who spilled coffee on their keyboard and document the resolution in the ticketing system.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 45,
+                        "location": "Anchor Coworking - Help Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Commute home, walking back to the garage and driving back to the Castro.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Van Ness Avenue Traffic"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Post-work decompression and strength training session at the neighborhood gym.",
+                        "geocode": {
+                            "lat": 37.7637395,
+                            "lng": -122.4334293,
+                            "formatted_address": "2301 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF - Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up dinner ingredients and snacks for the week.",
+                        "geocode": {
+                            "lat": 37.7606704,
+                            "lng": -122.4365066,
+                            "formatted_address": "4201 18th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mollie Stone's Markets, Castro"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a spicy chicken curry while listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7643002,
+                            "lng": -122.4362225,
+                            "formatted_address": "3744 16th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen, 16th Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down by watching an episode of a sci-fi series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7643002,
+                            "lng": -122.4362225,
+                            "formatted_address": "3744 16th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room, 16th Street Apartment"
+                    }
+                ],
+                "day_overview": "A typical weekday for Raj, an IT Support Specialist, balancing a short but traffic-filled commute with a busy day at a coworking space, followed by errands and socializing in his vibrant Castro neighborhood.",
+                "home_address": "3510 16th St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7645324,
+                    "lng": -122.4314914,
+                    "formatted_address": "3510 16th St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Patel Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Wong",
+    "givenName": "Sarah",
+    "familyName": "Wong",
+    "jobTitle": "Production Lead",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Wong\u2019s childhood was steeped in the fog-dampened rhythms of San Francisco\u2019s Sunset District. The daughter of pragmatic Hong Kong immigrants who ran a bustling laundromat on Irving Street, she grew up surrounded by the scent of detergent and the quiet diligence of hard work. Her parents, valuing stability above all, were pleased when she enrolled at San Francisco State University, assuming she would pursue a sensible career.\n\nSarah chose Business Administration, a practical degree that belied a growing, secret passion. It was an elective in modern art history that cracked her world open. She started spending weekends volunteering at small, independent galleries in the Mission, fascinated by the chaotic, brilliant process of bringing an exhibition to life. The turning point was an internship at a scrappy SoMa arts collective. There, she discovered her business acumen wasn't a betrayal of her artistic love, but its greatest asset. She could budget, create timelines, and manage logistics, transforming an artist's abstract vision into a tangible reality.\n\nNow 30, Sarah is a Production Lead for a prominent arts organization. Her 0.0-mile commute is literal: she lives and works in a sprawling Dogpatch loft, a former warehouse space where her living area bleeds into her workspace. Her days are a blur of Zoom calls with international artists, coordinating with fabricators, and troubleshooting on-site installations. Her social life is woven into her profession; her closest friends are the curators, artists, and technicians she collaborates with.\n\nWhile she excels at executing others' concepts, Sarah harbors a desire for her own creative agency. Her deepest aspiration is to launch a city-wide public arts festival that champions underrepresented Bay Area artists, creating large-scale, accessible works that speak to the city\u2019s complex identity. She wants to honor both the quiet grit of her Sunset upbringing and the audacious creativity that now defines her life, proving that in San Francisco, pragmatism and passion can build something beautiful together."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, quick meditation, and listen to a design podcast.",
+                        "geocode": {
+                            "lat": 37.7947482,
+                            "lng": -122.4082413,
+                            "formatted_address": "955 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (955 Stockton St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd5f",
+                        "action": "Shared breakfast of congee and tea with parents.",
+                        "geocode": {
+                            "lat": 37.7947482,
+                            "lng": -122.4082413,
+                            "formatted_address": "955 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (955 Stockton St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Get dressed and ready for the day ahead.",
+                        "geocode": {
+                            "lat": 37.7947482,
+                            "lng": -122.4082413,
+                            "formatted_address": "955 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (955 Stockton St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Commute walk to work, enjoying the morning bustle of North Beach.",
+                        "geocode": {
+                            "lat": 37.8034101,
+                            "lng": -122.4146862,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Walk through Columbus Avenue & Russian Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at coworking space, grab tea, and triage high-priority emails.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 55,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the daily production stand-up meeting for an upcoming gallery opening.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "AvantSpace Conference Room 'The Easel'"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Deep work session: coordinating with fabricators and updating project management software.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Step out to grab a hearty salad for lunch.",
+                        "geocode": {
+                            "lat": 37.8003111,
+                            "lng": -122.4377083,
+                            "formatted_address": "3344 Steiner St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Blue Barn (Union Street)"
+                    },
+                    {
+                        "emoji": "\ud83d\uddbc\ufe0f",
+                        "action": "Afternoon focus: review artist submissions and provide feedback.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 90,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Video call with a client to provide a progress update and review mockups.",
+                        "geocode": {
+                            "lat": 37.75087389999999,
+                            "lng": -122.4162826,
+                            "formatted_address": "1398 S Van Ness Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "AvantSpace Phone Booth"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk home, transitioning from work mode by listening to music.",
+                        "geocode": {
+                            "lat": 37.7944675,
+                            "lng": -122.4048082,
+                            "formatted_address": "Chinatown, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Walk down from Cow Hollow to Chinatown"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6c",
+                        "action": "Pick up fresh produce for the family dinner.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Local Market on Stockton Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Family dinner and lively conversation with parents in Cantonese.",
+                        "geocode": {
+                            "lat": 37.7947482,
+                            "lng": -122.4082413,
+                            "formatted_address": "955 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (955 Stockton St)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddcb",
+                        "action": "Meet a friend from college for a Boba tea and a walk.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Boba Guys (North Beach)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd3",
+                        "action": "Wind down with personal sketching in a notebook and plan tomorrow's outfit.",
+                        "geocode": {
+                            "lat": 37.7947482,
+                            "lng": -122.4082413,
+                            "formatted_address": "955 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (955 Stockton St)"
+                    }
+                ],
+                "day_overview": "A busy and creative day for Sarah, balancing her demanding role as an Arts Production Lead with family life in Chinatown and a personal passion for drawing.",
+                "home_address": "955 Stockton St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7947482,
+                    "lng": -122.4082413,
+                    "formatted_address": "955 Stockton St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

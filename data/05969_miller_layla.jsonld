@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Layla Miller",
+    "givenName": "Layla",
+    "familyName": "Miller",
+    "jobTitle": "Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Layla Miller is a product of two worlds, a quiet fusion of cultures that defined her upbringing in the East Bay suburb of Walnut Creek. Her father, an Iranian immigrant and software engineer, filled their home with the aroma of saffron rice and the lyrical sound of Farsi poetry. Her mother, a pragmatic English-born history teacher, instilled in her a love for dry wit and structured arguments. This blend created in Layla a mind that was both analytical and deeply appreciative of nuance, making her feel perpetually \"other\" in the most interesting of ways.\n\nDrawn to patterns and logic, she pursued an Economics degree at UC Davis, where she excelled. A competitive internship led her directly to a coveted Financial Analyst position in San Francisco\u2019s Financial District. For three years, her life was a predictable rhythm of BART commutes, long hours staring at spreadsheets in a high-rise office, and work-sponsored happy hours. She was successful, but her connection to the city felt superficial, limited to the sterile blocks around her office.\n\nThe key turning point was the mandated shift to remote work. Suddenly, her 0.0-mile commute transformed her life. Freed from the office, Layla\u2019s world shrank from the entire Bay Area to the few vibrant blocks of her Hayes Valley apartment. Her daily routine became deeply local. A morning walk to a favorite cafe for an oat milk latte, a mid-day break in Patricia\u2019s Green, and evenings spent either with a small group of friends or at a nearby yoga studio replaced the corporate grind.\n\nNow 27, Layla finds herself at a crossroads. The financial security she worked for feels stable, yet the digital streams of data she analyzes feel increasingly detached from the tangible world she has grown to love. She knows the names of the local baristas and bookstore owners, relationships that feel more meaningful than any quarterly report. Her dream is beginning to shift from climbing the corporate ladder to finding a way to apply her skills more directly. She fantasizes about opening her own financial advising firm focused on ethical, sustainable investments for people in her own community, bridging the gap between her analytical mind and her growing desire for purpose."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check notifications, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Divisadero St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a refreshing morning jog with views of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual, and do skincare/makeup.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - Divisadero St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a quick breakfast of avocado toast and coffee while listening to a finance podcast.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Divisadero St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet carpool partner for the cross-town commute, catching up on emails on the way.",
+                        "geocode": {
+                            "lat": 37.7999897,
+                            "lng": -122.4428745,
+                            "formatted_address": "Divisadero St & Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 40,
+                        "location": "Carpool Pickup - Corner of Divisadero & Chestnut"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at dedicated desk, organize daily tasks, and begin analyzing Q3 performance data.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 180,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to get a healthy, custom salad bowl for lunch.",
+                        "geocode": {
+                            "lat": 37.7583991,
+                            "lng": -122.4210941,
+                            "formatted_address": "901 Valencia St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt on Valencia St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Join virtual team meetings and continue building financial models for a new client portfolio.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 240,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Pack up and ride home in the carpool, switching from work mode to personal time.",
+                        "geocode": {
+                            "lat": 37.7999897,
+                            "lng": -122.4428745,
+                            "formatted_address": "Divisadero St & Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Carpool Dropoff - Corner of Divisadero & Chestnut"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Drop off work bag at home and head out for an evening hot yoga class to de-stress.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "CorePower Yoga on Union St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Meet a friend for a trendy plant-based dinner and catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7976259,
+                            "lng": -122.4324404,
+                            "formatted_address": "2000 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "Wildseed on Steiner St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Quick phone call with parents to check in.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Divisadero St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind on the couch, watching an episode of a new series on streaming.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Divisadero St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening skincare routine, pack gym bag for the next day, and read a few pages of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Divisadero St Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Layla, balancing focused financial analysis at her Mission coworking space with a healthy and social lifestyle in her home neighborhood of the Marina.",
+                "home_address": "3709 Divisadero St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8039257,
+                    "lng": -122.4439607,
+                    "formatted_address": "3709 Divisadero St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

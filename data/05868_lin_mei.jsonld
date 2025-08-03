@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Lin",
+    "givenName": "Mei",
+    "familyName": "Lin",
+    "jobTitle": "Associate Urban Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Lin\u2019s story is woven into the fabric of San Francisco\u2019s Sunset District, where she was born and raised. The only child of immigrants from Guangzhou, she grew up in the back of her parents\u2019 small, fragrant bakery on Irving Street. Her world was defined by the L Taraval Muni line, the persistent whisper of fog, and the tight-knit community of fellow second-generation kids. She watched firsthand as rents climbed and beloved neighborhood businesses were replaced by trendier, less personal storefronts, an observation that planted a seed of civic-minded curiosity.\n\nThis curiosity propelled her to UC Berkeley for her undergraduate degree in Sociology, where she became fascinated by the systems that shape urban life. It was a visiting lecture on inclusionary zoning that served as her turning point. She realized she didn't want to just study the city; she wanted to help build it. She pursued a Master of Urban Planning at UCLA, focusing on equitable development and public transit. Returning to San Francisco wasn't just a career move; it was a calling. She secured a coveted role as an Associate Planner for the city, a position that felt like coming full circle.\n\nNow 31, Mei lives in a modern, compact apartment in Hayes Valley. Her 0.0-mile commute is a testament to her urbanist ideals; her office at the Planning Department is a short walk from her front door. Her days are a mix of poring over zoning codes, attending community feedback sessions, and conducting site visits. She is single but maintains a close circle of friends\u2014a mix of high school friends and fellow policy wonks\u2014with whom she explores the city\u2019s culinary scene on weekends.\n\nMei is deeply connected to San Francisco, feeling both the pride of a native and the burden of its challenges. She carries the memory of her parents\u2019 bakery, which they sold upon retirement, as a constant reminder of what\u2019s at stake. Her dream isn\u2019t grand but deeply personal: to contribute to policies that allow families like her own to continue calling San Francisco home, ensuring the city retains the soul that raised her."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, quick meditation, and start getting ready for the day.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Brew a pour-over coffee and have a simple breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute to work via the 30-Stockton bus and transfer to the N-Judah Muni Metro line.",
+                        "geocode": {
+                            "lat": 37.7748606,
+                            "lng": -122.4187694,
+                            "formatted_address": "1 Van Ness Ave, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 55,
+                        "location": "SFMTA Public Transit"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in, review project emails, and analyze GIS data for the campus pedestrian flow study.",
+                        "geocode": {
+                            "lat": 37.7619754,
+                            "lng": -122.3910637,
+                            "formatted_address": "654 Minnesota St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF Campus Planning Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a project team meeting to sync up on the Parnassus Heights redevelopment timeline.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk down the hill to grab a chicken salad sandwich for lunch with a colleague.",
+                        "geocode": {
+                            "lat": 37.763954,
+                            "lng": -122.464751,
+                            "formatted_address": "627 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Pluto's, Inner Sunset"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Conduct a site walk to observe and document pedestrian desire lines near the new research building.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 75,
+                        "location": "Parnassus Campus Grounds"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Synthesize site walk photos and notes into a preliminary report for her manager.",
+                        "geocode": {
+                            "lat": 37.7619754,
+                            "lng": -122.3910637,
+                            "formatted_address": "654 Minnesota St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Campus Planning Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home on the N-Judah and 30-Stockton, listening to an urbanism podcast.",
+                        "geocode": {
+                            "lat": 37.7748606,
+                            "lng": -122.4187694,
+                            "formatted_address": "1 Van Ness Ave, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "SFMTA Public Transit"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a refreshing run along the waterfront, enjoying views of the bay.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Embarcadero Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta and pesto for a quick dinner.",
+                        "geocode": {
+                            "lat": 37.8016074,
+                            "lng": -122.4117736,
+                            "formatted_address": "716 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "The Italian Homemade Company, North Beach"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner and eat while watching the local evening news.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet a friend for a glass of wine and to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7994672,
+                            "lng": -122.4083836,
+                            "formatted_address": "565 Green St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Belle Cora, North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a book and plan tomorrow's schedule.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Mei, an urban planner, balancing focused work at the UCSF campus with a cross-town Muni commute, a scenic run, and catching up with a friend in her lively North Beach neighborhood.",
+                "home_address": "2632 Grant Ave, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.80529420000001,
+                    "lng": -122.4085475,
+                    "formatted_address": "2632 Grant Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

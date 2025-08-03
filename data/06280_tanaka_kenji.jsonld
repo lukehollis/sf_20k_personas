@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "Research Assistant",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka\u2019s life is a study in quiet intensity, contained entirely within the repurposed brick and steel of a Dogpatch industrial loft. The son of third-generation Japanese-American parents in Sacramento, he grew up surrounded by the tangible arts of his heritage. His father was a master landscape gardener, shaping nature with patient hands, while his mother taught the delicate art of ikebana. Kenji, however, was always more fascinated by the invisible systems behind the beauty\u2014the logic of growth, the patterns in chaos. This led him to pursue a Bachelor's degree in Cognitive Science at UC Davis, where he excelled at understanding the architecture of the mind.\n\nHis career took a sharp, unconventional turn right before graduation. Instead of applying for corporate jobs, he was headhunted by Dr. Alistair Finch, a reclusive but brilliant pioneer in neuro-computation. Finch was starting a small, self-funded research lab in San Francisco and offered Kenji not just a job as his lead research assistant, but a place to live within the facility. For Kenji, who valued focus above all else, the offer to fully immerse himself in the work was irresistible. That was six years ago.\n\nToday, Kenji\u2019s commute is the fifteen steps from his spartan sleeping pod to his terminal. His life is the project: developing a more intuitive, non-invasive brain-computer interface. His daily routine is a monastic loop of coding, data analysis, and running simulations, broken up by communal meals with Dr. Finch and two other researchers. His connection to San Francisco isn\u2019t through its parks or nightlife, but through the panoramic view of the bay from the lab\u2019s rooftop, and the taste of late-night burritos from a nearby taqueria during crunch time.\n\nWhile deeply fulfilled by the intellectual challenge, a quiet yearning has begun to surface. He sees the vibrant city from his window but rarely participates in it. His hope is that their project will one day break down the barriers between human thought and digital creation. His more personal, private dream is that when it\u2019s finished, he can finally break down his own walls and build a life with a connection as tangible and real as the stone gardens his father once built."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and check notifications.",
+                        "geocode": {
+                            "lat": 37.73976750000001,
+                            "lng": -122.4266477,
+                            "formatted_address": "3115 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 3115 Church St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.73976750000001,
+                            "lng": -122.4266477,
+                            "formatted_address": "3115 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 3115 Church St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make and eat breakfast: pour-over coffee and toast with avocado.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Cycle to work, navigating the Valencia Street bike lanes and Market Street.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "The Wiggle & Valencia Corridor Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, lock up bike, grab water, and review daily priorities.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 25,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Morning Focus Block: Analyze datasets for the Q3 Competitive Landscape report.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 150,
+                        "location": "Workstation - 420 Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to pick up a pre-ordered artisan sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Attend a virtual project sync meeting with the product development team.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 60,
+                        "location": "Workstation / Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Afternoon Task: Compile findings into a presentation draft for senior researchers.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 120,
+                        "location": "Workstation - 420 Montgomery St"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up for the day, clear inbox, and plan tomorrow's key tasks.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 25,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2642\ufe0f",
+                        "action": "Cycle home, taking the slightly more challenging uphill route back to Noe Valley.",
+                        "geocode": {
+                            "lat": 37.7920871,
+                            "lng": -122.395093,
+                            "formatted_address": "Main St & Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 40,
+                        "location": "Market St & Mission St Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Stop to pick up fresh bread and cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Noe Valley Bakery"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cook dinner and share highlights of the day with his partner.",
+                        "geocode": {
+                            "lat": 37.73976750000001,
+                            "lng": -122.4266477,
+                            "formatted_address": "3115 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - 3115 Church St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a new documentary together.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: light reading and preparing for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive day for Kenji, combining focused research work in the Financial District with an active bicycle commute and a relaxing evening at home in Noe Valley with his partner.",
+                "home_address": "3115 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7422243,
+                    "lng": -122.4263674,
+                    "formatted_address": "3115 Church St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Goldberg Family"
+    }
+}

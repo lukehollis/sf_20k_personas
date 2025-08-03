@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Natalia Ivanova",
+    "givenName": "Natalia",
+    "familyName": "Ivanova",
+    "jobTitle": "Research Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Natalia Ivanova is a product of two worlds. Born in Ann Arbor to Russian immigrants who had left St. Petersburg in the 90s, her upbringing was a blend of her father\u2019s rigid engineering logic and her mother\u2019s passion for classic literature. This duality defined her path. While her peers pursued straightforward tech degrees, Natalia was more interested in the human element, earning a Master's in Human-Computer Interaction, a field that allowed her to analyze the intersection of psychology and technology.\n\nDrawn by the industry\u2019s gravity, she moved to San Francisco five years ago for a research analyst position. Initially, the city\u2019s aggressive optimism and relentless networking felt alienating. The turning point was the city-wide lockdown. Forced into a fully remote role, Natalia discovered she thrived in the quiet focus it afforded. Her 0.0-mile commute became permanent, allowing her to build a life on her own terms.\n\nToday, Natalia lives a deliberately curated life from her apartment in the Inner Richmond. Her mornings begin not with a frantic commute, but with a misty run through Golden Gate Park, followed by coffee and a croissant at a favorite neighborhood cafe. Her workday is a series of intense, focused blocks analyzing user data, trying to decode human behavior through clicks and screen time. She doesn't build the products, but she shapes them, advocating for more ethical and intuitive design from within the corporate machine.\n\nHer social life is as intentional as her work. She eschews large parties for a small, tight-knit circle of friends, a weekly rock-climbing session at Dogpatch Boulders, and a book club that dissects dystopian fiction. San Francisco is not a career ladder for her; it's a backdrop. It's the fog rolling over Clement Street, the intellectual hum of a local bookstore, and the quiet satisfaction of finding her own rhythm. Natalia\u2019s dream isn\u2019t to launch a startup, but to write a book on digital ethics\u2014a final synthesis of her parents\u2019 worlds. She hopes to build a future where her deep, analytical work is balanced by equally deep personal connections, proving that a meaningful life in tech can be lived quietly."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, make bed, and brief morning meditation.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Clement Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a refreshing jog through the foggy trails.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get ready, and prepare a quick breakfast of avocado toast and coffee.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Clement Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Begin the workday by logging in to UCSF systems and reviewing the day's research tasks.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Analyze datasets from a recent study using statistical software.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 180,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Lunch break: Walk to a neighborhood spot to pick up a burrito bowl.",
+                        "geocode": {
+                            "lat": 37.7900467,
+                            "lng": -122.4207468,
+                            "formatted_address": "1431 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Little Chihuahua"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Afternoon work: Writing and editing a manuscript for a research publication.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Attend a virtual lab meeting via Zoom to discuss project progress with UCSF colleagues.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\u2709\ufe0f",
+                        "action": "Wrap up work for the day: Respond to final emails and plan tomorrow's analysis.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Log off and transition from work mode by tidying the desk and putting away materials.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Clement Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Walk to a nearby studio for a destressing evening Vinyasa yoga class.",
+                        "geocode": {
+                            "lat": 37.8000757,
+                            "lng": -122.4090104,
+                            "formatted_address": "1548 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 75,
+                        "location": "Glow Yoga & Wellness"
+                    },
+                    {
+                        "emoji": "\ud83c\udf55",
+                        "action": "Meet a friend for pizza and wine at a cozy neighborhood restaurant.",
+                        "geocode": {
+                            "lat": 37.7818464,
+                            "lng": -122.4845121,
+                            "formatted_address": "2339 Clement St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 120,
+                        "location": "Fiorella Clement"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a novel.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Clement Street Apartment"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a research analyst, focused on data analysis and writing. The day is balanced with a morning run in Golden Gate Park, a local yoga class, and a casual dinner with a friend in her Outer Richmond neighborhood.",
+                "home_address": "2113 Clement St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7819512,
+                    "lng": -122.4820095,
+                    "formatted_address": "2113 Clement St, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Ivanova Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Sharma",
+    "givenName": "Sarah",
+    "familyName": "Sharma",
+    "jobTitle": "Management Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Indian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Consulting"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Sharma\u2019s childhood in Fremont was a blueprint of first-generation ambition, drafted by her engineer father and university administrator mother who emigrated from Lucknow, India. They instilled in her the values of academic rigor and financial stability, which she dutifully followed through her economics degree at UC Berkeley. However, a summer volunteering with an education non-profit in college fractured this predetermined path. It ignited a passion for systemic change, leading her to pursue a Master's in Public Policy on the East Coast, much to her parents' gentle confusion.\n\nThe idealism of her graduate degree soon collided with the economic reality of returning to the Bay Area. The non-profit salaries were unsustainable. Management consulting presented a pragmatic compromise: a high-stakes, high-reward environment where she could, in theory, one day consult for public sector clients. She aced the case studies and landed a coveted position at a top-tier firm.\n\nNow, at 27, Sarah\u2019s world is largely confined to her sleek, minimalist apartment in Hayes Valley. Her 0.0-mile commute means her professional life is a series of back-to-back video calls, the glow of her laptop illuminating decks on market optimization and supply chain logistics. To combat the digital isolation, she has forged a deep, tangible connection with her neighborhood. Her days are structured by routine: a pre-dawn jog past the painted ladies at Alamo Square, a mid-morning coffee from the barista at Ritual who knows her order, and an afternoon walk through Patricia\u2019s Green to decompress.\n\nHer social life is intentional and scheduled, a collage of Friday night dinners with a tight-knit group of college friends and dates coordinated through apps that feel more like interviews. She misses the organic, spontaneous connection of pre-pandemic life. Sarah often finds herself staring out her window at the city lights, feeling both at the center of everything and profoundly alone. Her dream is to save enough capital and experience to pivot. She tells herself the grueling hours are an investment\u2014a down payment on a future where she can launch her own social enterprise, finally closing the gap between the world she analyzes on spreadsheets and the one she truly wants to build."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check work emails and news notifications on phone.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (Presidio Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "At-home HIIT workout session using a fitness app.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Presidio Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and get into business casual attire for the office.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Presidio Heights)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Quick breakfast of coffee and Greek yogurt with partner before heading out.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (Presidio Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute to work, listening to an economics podcast and reviewing daily schedule.",
+                        "geocode": {
+                            "lat": 37.7933931,
+                            "lng": -122.3967727,
+                            "formatted_address": "1 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni 1 California Bus"
+                    },
+                    {
+                        "emoji": "\ud83c\udfd9\ufe0f",
+                        "action": "Arrive at the office, grab an oat milk latte to power the morning.",
+                        "geocode": {
+                            "lat": 37.7973773,
+                            "lng": -122.4038434,
+                            "formatted_address": "909 Montgomery St # 105, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Blue Bottle Coffee (One Montgomery)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning deep work: Finalizing a slide deck for a key client presentation.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick salad bowl for lunch and eat at desk while clearing emails.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt (Yerba Buena Lane)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead an internal team meeting to align on project milestones and deliverables.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Central Tower Office Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon focus block: Analyzing client data in Excel and building financial models.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, switching off from work by listening to a true-crime podcast.",
+                        "geocode": {
+                            "lat": 37.7933931,
+                            "lng": -122.3967727,
+                            "formatted_address": "1 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni 1 California Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop at the local market to pick up fresh pasta and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7864721,
+                            "lng": -122.450843,
+                            "formatted_address": "3445 California St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bryan's Grocery (California St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner with partner, sharing stories and highlights from the day.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Presidio Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind on the couch with partner, streaming an episode of a new series.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Presidio Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Prepare for the next day: Pack work bag, lay out clothes, and review tomorrow's calendar.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Presidio Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down routine: Skincare and reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home (Presidio Heights)"
+                    }
+                ],
+                "day_overview": "A demanding but structured weekday for a management consultant, balancing intense client work in the Financial District with a structured home life and partner time in the Presidio Heights neighborhood.",
+                "home_address": "3114 California St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.78762529999999,
+                    "lng": -122.4458742,
+                    "formatted_address": "3114 California St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

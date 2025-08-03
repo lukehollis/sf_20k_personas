@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anastasia Ivanova",
+    "givenName": "Anastasia",
+    "familyName": "Ivanova",
+    "jobTitle": "Management Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anastasia Ivanova, known as Anya to her friends, is a product of two worlds. The first was the quiet, suburban landscape of San Mateo, where her Russian immigrant parents, Dmitri and Yelena, raised her on stories of St. Petersburg and a doctrine of relentless hard work. They had sacrificed everything for a stable life in the Bay Area, and their deepest desire was for Anya to achieve a secure, predictable career. She internalized their ambition, excelling in school, but always felt a quiet pull toward the vibrant, chaotic city she could see shimmering across the bay.\n\nHer educational journey was a strategic compromise. At UC Berkeley, she pursued a Bachelor's in Cognitive Science, fascinated by the intersection of human behavior and systems, while minoring in Business Analytics to satisfy her parents\u2019 practical demands. This dual focus made her a perfect candidate for the tech industry. Upon graduation, she landed a role as a Management Analyst at a prominent SaaS company. The key turning point, however, was her decision to reject a post-grad life at home. She signed a lease on a small but sunny studio in Hayes Valley, a definitive declaration of her independence.\n\nAnya\u2019s professional life began just as the world shifted to remote work, making her 0.0-mile commute a permanent reality. Her apartment became her office, her sanctuary, and sometimes, her cage. Her days follow a distinct rhythm: a morning walk to a local caf\u00e9 for a cortado, hours spent analyzing data and optimizing workflows on her dual monitors, and an evening yoga class or a run through the Panhandle. Her connection to San Francisco is intensely local; she knows the baristas and the bookstore owner by name, finding community within a ten-block radius. Her social life consists of a tight-knit circle of college friends, with whom she shares dinners and laments the transactional nature of SF's dating scene.\n\nBeneath her organized, successful exterior, Anya yearns for more. She dreams of applying her analytical skills to a cause with more human impact, perhaps a nonprofit or a B-Corp. She hopes to one day find a partnership that feels less like a strategic merger and more like a genuine connection. Ultimately, Anya aspires to fully bridge her two worlds\u2014to honor her parents' sacrifices not just with career stability, but by building a life in San Francisco that is truly, meaningfully her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, quick stretch, and check notifications on phone.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make pour-over coffee and toast with avocado while listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5a",
+                        "action": "Shower, get dressed in a smart-casual tech office outfit, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.8056299,
+                            "lng": -122.4086055,
+                            "formatted_address": "2112 Grant Ave, San Francisco, CA 94133"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Walk to meet carpool colleague for the morning commute.",
+                        "geocode": {
+                            "lat": 37.7995573,
+                            "lng": -122.4075312,
+                            "formatted_address": "1371 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 5,
+                        "location": "Corner of Grant & Green"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute, chatting about weekend plans and navigating traffic.",
+                        "geocode": {
+                            "lat": 37.76471859999999,
+                            "lng": -122.4319401,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 35,
+                        "location": "Colleague's Car"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at desk, grab a kombucha from the office tap, and attend the daily team stand-up meeting.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Doorhaus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Deep focus work: analyzing Q3 user engagement data in SQL and creating data visualizations.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 180,
+                        "location": "Her Desk at Doorhaus"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Grab Mission-style burritos with a couple of work friends.",
+                        "geocode": {
+                            "lat": 37.7523323,
+                            "lng": -122.4154976,
+                            "formatted_address": "3161 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Ventana Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udca1",
+                        "action": "Collaborate with a Product Manager on the requirements for a new feature dashboard.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Doorhaus Office - 'Breakout Pod 3'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Finalize a slide deck for Friday's department review and answer emails.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Her Desk at Doorhaus"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Meet carpool for the commute home, listening to music on the way back.",
+                        "geocode": {
+                            "lat": 37.7522508,
+                            "lng": -122.4184625,
+                            "formatted_address": "Mission St & 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 40,
+                        "location": "Carpool Pickup Spot - 24th & Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for fresh pasta and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Molltini's Italian Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner and eat with her partner, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Go for a walk to enjoy the evening air and city lights.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch with partner, watching an episode of their current favorite show.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: skincare, reading a chapter of a book, and setting clothes out for tomorrow.",
+                        "geocode": {
+                            "lat": 37.8056299,
+                            "lng": -122.4086055,
+                            "formatted_address": "2112 Grant Ave, San Francisco, CA 94133"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive day for a tech analyst, blending focused work in the Mission with a carpool commute, and winding down with her partner and evening activities in her North Beach neighborhood.",
+                "home_address": "2112 Grant Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8056299,
+                    "lng": -122.4086055,
+                    "formatted_address": "2112 Grant Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Ivanova Family"
+    }
+}

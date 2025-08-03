@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Olivia Miller",
+    "givenName": "Olivia",
+    "familyName": "Miller",
+    "jobTitle": "Production Assembler",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Olivia Miller\u2019s life is contained within a single, converted warehouse in the Dogpatch neighborhood, a reality born from a sharp pivot away from a life that was never truly hers. Raised in Modesto, the only child of a high school principal and a dental hygienist, Olivia\u2019s path was pre-paved: Modesto Junior College, then a transfer to a state school for a sensible degree in business administration. She tried, diligently attending classes for three semesters, but felt a profound sense of dislocation, as if she were acting out a role written for someone else. The abstract concepts on the whiteboard never connected with her hands-on, practical nature.\n\nThe turning point came not with a bang, but a quiet admission of defeat. She dropped out, disappointing her parents and herself. Adrift, she took a bus to San Francisco to crash with a friend, intending only a week-long escape. That week, she stumbled upon a small, independent company called \"Vexel Audio,\" which designed and hand-built high-end synthesizers and audio equipment. Peering through the workshop window, she saw a world of focused creation\u2014the scent of solder, the precise click of components, the quiet hum of machinery. It was the most compelling thing she had ever seen.\n\nShe walked in and asked for any job they had. The owner, a grizzled engineer named Marcus, saw her earnest curiosity and offered her a trial run assembling circuit boards. Olivia\u2019s aptitude for meticulous, repetitive work was immediate. She learned quickly, her steady hands finding a purpose they never had in a classroom. The job became permanent, and with it came the offer of a small, subsidized live/work loft space on the floor above the workshop, explaining her zero-mile commute.\n\nNow, at 27, Olivia\u2019s world is one of routine and tangible progress. Her days are spent at her workbench, her social life revolving around the small, tight-knit team at Vexel Audio, who have become her found family. Her connection to San Francisco isn't about parks or landmarks; it's about the industrial hum of her neighborhood and the maker community within it. In the evenings, she studies electrical engineering schematics online, dreaming of one day moving from assembly to design. Her ultimate goal is to create her own unique audio module, to add her own sound to the intricate world she has so gratefully built for herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to alarm, scroll through social media for a few minutes before getting out of bed to shower and get dressed for work.",
+                        "geocode": {
+                            "lat": 37.794275,
+                            "lng": -122.432556,
+                            "formatted_address": "Broadway Apartments, 2127 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Broadway Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Have a quick breakfast of coffee and an everything bagel with her mom in their kitchen, chatting about the day's plans.",
+                        "geocode": {
+                            "lat": 37.794275,
+                            "lng": -122.432556,
+                            "formatted_address": "Broadway Apartments, 2127 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "Broadway Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Gear up with a helmet and ride her electric scooter from Russian Hill to Parnassus, navigating morning traffic.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Arrive at the lab, store her scooter and gear, clock in, and put on her cleanroom gown, gloves, and safety glasses.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "UCSF Parnassus - Assembly Lab"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Perform precision assembly of components for a new line of medical diagnostic equipment, following detailed schematics.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 240,
+                        "location": "UCSF Parnassus - Assembly Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a lunch break, walking over with a coworker to grab a quick and healthy salad bowl to eat outside.",
+                        "geocode": {
+                            "lat": 37.763954,
+                            "lng": -122.464751,
+                            "formatted_address": "627 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Pluto's on Parnassus"
+                    },
+                    {
+                        "emoji": "\u2714\ufe0f",
+                        "action": "Return to the lab and switch to quality control, using a microscope to inspect the morning's assembled units for defects.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 210,
+                        "location": "UCSF Parnassus - Assembly Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Clean and tidy her workstation, log her production numbers for the day, and clock out.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "UCSF Parnassus - Assembly Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute home on her electric scooter, enjoying the downhill ride and the afternoon city views.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Drop her bag at home and walk to her neighborhood gym for a strength training session to de-stress from the workday.",
+                        "geocode": {
+                            "lat": 37.7894789,
+                            "lng": -122.4152569,
+                            "formatted_address": "1094 Bush St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Live Fit Gym - Nob Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Help her dad set the table for dinner, then eat a home-cooked meal with her parents while they all share stories from their days.",
+                        "geocode": {
+                            "lat": 37.794275,
+                            "lng": -122.432556,
+                            "formatted_address": "Broadway Apartments, 2127 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 90,
+                        "location": "Broadway Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a new streaming series, and text with friends to make plans for the weekend.",
+                        "geocode": {
+                            "lat": 37.794275,
+                            "lng": -122.432556,
+                            "formatted_address": "Broadway Apartments, 2127 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 75,
+                        "location": "Broadway Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Plug in her scooter to charge overnight, pack her lunch for tomorrow, and do her skincare routine before bed.",
+                        "geocode": {
+                            "lat": 37.794275,
+                            "lng": -122.432556,
+                            "formatted_address": "Broadway Apartments, 2127 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Broadway Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Olivia, an assembler at UCSF. Her day is structured around her manufacturing shift, punctuated by a zippy electric scooter commute across the city, a workout at her local gym, and a relaxing evening at home with her family in Russian Hill.",
+                "home_address": "1561 Broadway, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.795615,
+                    "lng": -122.4226651,
+                    "formatted_address": "1561 Broadway, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

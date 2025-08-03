@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Tanaka",
+    "givenName": "Sarah",
+    "familyName": "Tanaka",
+    "jobTitle": "Senior Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government & Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Tanaka is a third-generation Japanese-American, a *Sansei* whose family story is woven into the very fabric of California. Raised in the sprawling suburbs of San Jose, she developed an early and intense frustration with the region\u2019s car-centric culture. Her childhood was defined by long commutes to see family and the isolating nature of suburban design. This experience planted the seed for her life\u2019s work. Rather than resent the system, she decided she would be one of the people to fix it.\n\nHer educational path was a straight line toward this goal. After an undergraduate degree at UC Berkeley, she pursued a Master's in Urban and Regional Planning at UCLA. Armed with her degree, she was hired by the San Francisco Municipal Transportation Agency (SFMTA) and moved to the city over two decades ago. She started as a junior analyst and, through meticulous work and a deep, empathetic understanding of how people move, steadily climbed the ranks to her current role as a Senior Transportation Planner.\n\nA key turning point in her personal life was the end of a decade-long partnership five years ago. The breakup was amicable but profound, prompting her to recenter her life around her work and a close-knit circle of friends. She poured her energy into her career, becoming a lead planner on a project to expand the city\u2019s bike lane network and improve pedestrian safety in the Tenderloin.\n\nToday, Sarah lives alone in a quiet, book-filled apartment in the Inner Sunset. Her 0.0-mile commute is a recent development, a post-pandemic shift to remote work that has created a strange paradox: she spends her days on screens, meticulously planning multi-billion dollar light-rail extensions and bus rapid transit corridors, yet her physical world has shrunk to her immediate neighborhood. Her mornings begin with a foggy walk through Golden Gate Park, coffee from a local cafe, and then hours of data analysis and virtual meetings. Her connection to San Francisco is now both macro and micro\u2014she shapes the entire city\u2019s future from a desk in her spare bedroom, while her lived experience is that of a hyper-local resident. Her ultimate dream is to one day ride a transit line she helped build from conception to completion, a tangible legacy of a more connected and equitable San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a pot of Philz coffee, and discuss the day's plans with her partner.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf0",
+                        "action": "Read the SF Chronicle online and scan transportation policy journals while eating a light breakfast.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive south through city traffic from Pacific Heights to the Financial District.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "City Streets (Broadway to Embarcadero)"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Park in the monthly reserved spot and walk to the office tower, grabbing a quick tea.",
+                        "geocode": {
+                            "lat": 37.7932577,
+                            "lng": -122.3944272,
+                            "formatted_address": "One Market Plaza, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 15,
+                        "location": "One Market Plaza Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Reviewing a draft environmental impact report for a new protected bike lane on Valencia Street.",
+                        "geocode": {
+                            "lat": 37.7932577,
+                            "lng": -122.3944272,
+                            "formatted_address": "One Market Plaza, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Office at One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead a video conference with SFMTA engineers to coordinate on signal timing adjustments.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 75,
+                        "location": "Conference Room 'Alcatraz' - One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Pick up a 'Save the Kale' salad and eat at her desk while catching up on emails.",
+                        "geocode": {
+                            "lat": 37.7897048,
+                            "lng": -122.3960227,
+                            "formatted_address": "Salesforce Transit Center, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "Mixt (Salesforce Transit Center location)"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Analyze GIS mapping data showing commute patterns for a new transit-oriented housing proposal in the Bayview.",
+                        "geocode": {
+                            "lat": 37.7932577,
+                            "lng": -122.3944272,
+                            "formatted_address": "One Market Plaza, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 150,
+                        "location": "Office at One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Drive home, listening to an urban planning podcast ('The War on Cars') to decompress.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "City Streets (Embarcadero to Pacific Heights)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "A quick stop to pick up a bottle of wine and some fresh pasta for dinner.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mollie Stone's Markets (California St.)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Go for a brisk evening walk with her partner through the neighborhood to unwind.",
+                        "geocode": {
+                            "lat": 37.79165,
+                            "lng": -122.4275889,
+                            "formatted_address": "Lafayette Park, Gough St &, Washington St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 40,
+                        "location": "Lafayette Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and enjoy a homemade meal together, discussing their respective workdays.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Watch the latest episode of a historical drama series together on the couch.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel before bed and setting out clothes for the next day.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Pacific Heights"
+                    }
+                ],
+                "day_overview": "A structured day for a government transportation planner, balancing demanding project work in the Financial District with a traffic-filled commute and a relaxing evening with her partner in Pacific Heights.",
+                "home_address": "1945 Broadway, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7947733,
+                    "lng": -122.4290096,
+                    "formatted_address": "1945 Broadway, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

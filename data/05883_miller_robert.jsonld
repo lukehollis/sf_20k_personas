@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Robert Miller",
+    "givenName": "Robert",
+    "familyName": "Miller",
+    "jobTitle": "Clinical Social Worker",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown Resident"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Robert Miller\u2019s story is woven into the very fabric of San Francisco, a city he has called home for all his fifty-three years. He was born in the Richmond District to first-generation Chinese immigrants, Mei and Lin, who ran a small, perpetually steamy laundromat on Clement Street. His childhood was a mix of the sharp scent of detergent, the drone of Cantonese radio, and the unspoken weight of his parents\u2019 expectations. They envisioned a prestigious, stable future for their only son\u2014a doctor or an engineer, a path paved with financial security they never had.\n\nRobert dutifully enrolled in pre-med at UC Berkeley, but the soulless grind of organic chemistry felt alienating. A volunteer stint at a free clinic in Oakland became his turning point. There, listening to the complex, often heartbreaking stories of patients, he found his calling not in curing bodies, but in mending the unseen wounds of trauma, poverty, and isolation. Announcing his decision to pursue a Master of Social Work was a quiet devastation for his parents, a rift that took years to heal.\n\nHis career as a Clinical Social Worker led him deep into the city's healthcare system, specializing in geriatric and palliative care. He has spent decades navigating the delicate spaces between life and death, helping families face their most difficult moments. The work is emotionally taxing, but it provides a profound sense of purpose that a sterile lab never could.\n\nTen years ago, a critical bout of burnout led him to reshape his life. He transitioned his practice entirely to telehealth, allowing him to work from the quiet sanctuary of his Cole Valley apartment, which he shares with his partner of fifteen years, David, a landscape architect. His 0.0-mile commute has transformed his daily routine. Mornings now begin with a foggy walk through the Panhandle, coffee from the corner caf\u00e9, and time to decompress between virtual patient sessions.\n\nNow, Robert feels a deep, settled connection to his neighborhood. He is a quiet observer of the city\u2019s constant evolution, from the Richmond of his youth to the gentrified enclave he now inhabits. His hopes are no longer grand; he dreams of mentoring new social workers, traveling with David, and finding a sustainable peace in the life he carefully, and defiantly, built for himself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, start the coffee maker, and listen to the morning news on the radio.",
+                        "geocode": {
+                            "lat": 37.7925036,
+                            "lng": -122.405672,
+                            "formatted_address": "658 California St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 658 California St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Mindful stretching session and brief meditation to mentally prepare for a demanding day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack a snack for later in the day.",
+                        "geocode": {
+                            "lat": 37.7925036,
+                            "lng": -122.405672,
+                            "formatted_address": "658 California St, San Francisco, CA 94118"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across town, navigating the morning traffic on Geary Blvd.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Morning Commute"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Arrive at the hospital, park in the employee garage, and mentally review the day's schedule.",
+                        "geocode": {
+                            "lat": 37.785997,
+                            "lng": -122.422302,
+                            "formatted_address": "1101 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "CPMC Van Ness Campus Parking Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Participate in the morning interdisciplinary team meeting to discuss patient cases with doctors and nurses.",
+                        "geocode": {
+                            "lat": 37.785997,
+                            "lng": -122.422302,
+                            "formatted_address": "1101 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "CPMC - Conference Room 3B"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct individual counseling sessions with patients on the oncology floor.",
+                        "geocode": {
+                            "lat": 37.790738,
+                            "lng": -122.4316945,
+                            "formatted_address": "2333 Buchanan St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 120,
+                        "location": "CPMC - Inpatient Rooms"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk a block for a quick and healthy lunch to clear his head.",
+                        "geocode": {
+                            "lat": 37.7878443,
+                            "lng": -122.4408389,
+                            "formatted_address": "2821 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "b. Patisserie"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Facilitate family meetings and coordinate complex discharge plans for several patients.",
+                        "geocode": {
+                            "lat": 37.785997,
+                            "lng": -122.422302,
+                            "formatted_address": "1101 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 105,
+                        "location": "CPMC - Family Consultation Rooms"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Dedicated time to complete detailed patient progress notes and mandatory documentation.",
+                        "geocode": {
+                            "lat": 37.7682937,
+                            "lng": -122.4344995,
+                            "formatted_address": "601 Duboce Ave, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 105,
+                        "location": "Robert's Office at CPMC"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, listening to a history podcast to decompress from work.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Evening Commute"
+                    },
+                    {
+                        "emoji": "\ud83c\udf32",
+                        "action": "Go for a brisk walk through the trails to unwind and enjoy the fresh air.",
+                        "geocode": {
+                            "lat": 37.7923841,
+                            "lng": -122.4810057,
+                            "formatted_address": "Presidio of San Francisco, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Presidio National Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the neighborhood market to pick up fresh produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7862725,
+                            "lng": -122.4529153,
+                            "formatted_address": "3585 California St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Cal-Mart Foods"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare a simple home-cooked meal while listening to jazz music.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Relax on the couch, reading a non-fiction book.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Wind down and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7925036,
+                            "lng": -122.405672,
+                            "formatted_address": "658 California St, San Francisco, CA 94118"
+                        },
+                        "duration": 15,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured and demanding day for a clinical social worker, balancing intensive patient care at a major hospital with personal time for decompression and routine errands in his Richmond District neighborhood.",
+                "home_address": "658 California St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7925036,
+                    "lng": -122.405672,
+                    "formatted_address": "658 California St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1971",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

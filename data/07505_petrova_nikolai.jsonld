@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Nikolai Petrova",
+    "givenName": "Nikolai",
+    "familyName": "Petrova",
+    "jobTitle": "Patient Transporter",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Nikolai Petrova\u2019s life is measured in hallways. Born in the twilight of the Soviet Union, he once studied literature at a provincial college near Rostov-on-Don, dreaming of becoming a teacher. But the world he was preparing for dissolved before he could enter it. The economic chaos of the 90s erased his path, pushing him into a series of aimless, physical jobs that hollowed out his youthful optimism.\n\nHe arrived in San Francisco in 1999, a man already in his early 30s, sponsored by a distant cousin who ran a small bakery in the Richmond District. The city\u2019s vibrancy felt alienating. While others chased tech fortunes, Nikolai sought only stability. After years of stocking shelves and driving delivery vans, a temp agency placed him at UCSF Medical Center as a patient transporter. The job stuck. There, amidst the antiseptic scent and quiet urgency, he found an unexpected purpose.\n\nHis own grand dreams had faded, but he became a ferryman for the hopes and fears of others. He is the calm presence who wheels a nervous new mother to the maternity ward, the steady hand guiding an elderly man to chemotherapy, the silent figure transporting a patient to a surgery they may not survive. He learns entire life stories in the five-minute journey between floors, offering a quiet nod or a simple, \"We're almost there.\" These fleeting, intense connections form the core of his social life.\n\nDivorced for over a decade, Nikolai lives a solitary but not lonely existence. His 0.0-mile commute is a short walk from his small, rent-controlled apartment in the Inner Sunset, a world away from the city\u2019s gloss. His routine is simple: work, a walk through Golden Gate Park, and weekly chess games at a small cafe with a fellow \u00e9migr\u00e9. He doesn\u2019t dream of wealth or recognition anymore. His aspiration is to save enough to retire without being a burden, and perhaps, one day, to stand on a quiet beach and see the ocean, a symbol of the vast, peaceful horizon he has spent his life navigating for others."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get into scrubs for the day.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Makes coffee and eats a quick breakfast of toast and eggs with his partner.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drives to work, dealing with the usual morning traffic on Broadway and down Van Ness Ave.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "San Francisco Roads"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe5",
+                        "action": "Arrives at the hospital, parks in the employee garage, clocks in, and gets the day's patient transport assignments.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "Zuckerberg San Francisco General Hospital"
+                    },
+                    {
+                        "emoji": "\u267f",
+                        "action": "Begins morning rounds, moving patients from their rooms to radiology, physical therapy, and other diagnostic departments.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 225,
+                        "location": "Zuckerberg San Francisco General Hospital"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walks a few blocks to grab a sandwich and a soda for lunch, taking a much-needed break off his feet.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Posh Bagel on Potrero"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Handles the busy afternoon wave of patient transports, focusing primarily on moving discharged patients to the hospital lobby.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 240,
+                        "location": "Zuckerberg San Francisco General Hospital"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Commutes home, taking surface streets through SoMa and Downtown to get back to North Beach.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "San Francisco Roads"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Unwinds from the long day, changing out of scrubs and catching up with his partner about their days.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walks to the local market to pick up fresh pasta, bread, and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.8002626,
+                            "lng": -122.4097032,
+                            "formatted_address": "629 Union St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Giovanni's Italian Specialties"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepares and eats a simple but satisfying pasta dinner with his partner.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Takes a leisurely evening stroll to digest dinner and enjoy the neighborhood atmosphere.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relaxes on the couch watching a history documentary on TV.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Gets ready for bed, setting his alarm for another early start.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A physically demanding but structured day for a hospital patient transporter, balancing a long shift in SoMa with a relaxing evening with his partner in their North Beach home.",
+                "home_address": "1883 Grant Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.804266,
+                    "lng": -122.4085653,
+                    "formatted_address": "1883 Grant Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1971",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Petrova Family"
+    }
+}

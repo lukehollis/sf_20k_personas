@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sophia Rodriguez",
+    "givenName": "Sophia",
+    "familyName": "Rodriguez",
+    "jobTitle": "Marketing Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sophia Rodriguez, a woman of 33 with a quick smile and a sharp eye for trends, came to San Francisco from a small town in Oregon. Her parents, both high school teachers, instilled in her a strong work ethic and a deep appreciation for learning. While her upbringing was comfortable, it was a stark contrast to the bustling, diverse city she would later call home.\n\nHer academic path led her south to California, where she pursued a Bachelor's Degree in Digital Marketing. The rapid evolution of the tech landscape captivated her, and she demonstrated a natural aptitude for understanding consumer behavior in the digital space. Internships during college, particularly one at a small tech startup, solidified her career trajectory.\n\nHer first job out of college was with a marketing agency, where she cut her teeth on various campaigns. A pivotal moment arrived when she was offered a role as a Marketing Manager at a growing information technology firm in San Francisco. The move was both exciting and daunting, leaving behind the familiar for the unknown promises of the city. Ascending to her current income reflects years of dedication, strategic thinking, and continuously adapting to the ever-changing demands of her field.\n\nSan Francisco became her chosen home. She found community in her Potrero Hill neighborhood, appreciating its blend of industrial history and nascent creative energy. Her social circle is a mix of work colleagues and friends made through shared interests, fostered by the city\u2019s vibrant cultural scene. While she navigates the complexities of dating in a fast-paced environment, she values the close bonds she shares with a few trusted friends.\n\nHer days are a rhythm of early wake-ups, the journey on public transportation, and the dynamic world of digital marketing. Evenings often involve exploring new restaurants, attending industry events, or simply unwinding with a book. Despite her professional success, Sophia harbors deeper aspirations. She dreams of one day launching her own niche consulting firm, focusing on sustainable and ethical marketing practices. She also longs for the stability of a committed partnership and the possibility of starting a family in the city she has come to love. San Francisco, with its constant reinvention and opportunities, feels like the perfect backdrop for the next chapter of her ambitious and evolving life."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.  The first time she crested the hill on Market Street, the city sprawling before her like a glittering map, took her breath away. A surge of exhilaration mixed with nervous anticipation washed over her. It solidified her resolve; this was where she belonged, where her future would unfold. This moment, early in her San Francisco journey, cemented her commitment to the city.\n\n2.  Sharing a bottle of wine with her newfound friend, Liam, on Baker Beach as the sun dipped below the Golden Gate, felt like a revelation. Simple connection, laughter echoing against the waves, a sense of belonging after months of feeling like an outsider. It reminded her of the value of genuine friendship in a transient city, reinforcing her need for deep bonds. This was around her first year in the city.\n\n3.  Landing that Marketing Manager role felt like a validation of years of hard work and calculated risks. The email notification, read on her crowded morning commute, brought a tear to her eye amidst the bustle. It built her confidence not just in her skills, but in her ability to navigate a competitive landscape. This marked a significant professional milestone, roughly three years into her career.\n\n4.  Walking through the Presidio on a foggy Saturday morning, completely alone, a profound sense of peace settled over her. The mist softened the edges of the world, allowing her mind to clear and her aspirations to sharpen. It solidified her appreciation for moments of quiet contemplation amidst the city's energy and helped her re-center her goals. This became a regular practice after realizing how draining the city could be, probably two years after moving.\n\n5.  Sitting across from a potential date at a noisy North Beach bar, she felt a pang of longing for something more than casual encounters. The superficiality of the conversation highlighted her desire for a deeper connection, a committed partnership. This realization, felt keenly during numerous dating cycles, strengthened her resolve to be open to finding lasting love. These moments became more frequent in the past couple of years."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2640\ufe0f",
+                        "action": "Wake up, quick stretch, and do a 30-minute guided cycling class on the Peloton.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (Pacific Ave Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a smart-casual tech outfit, and listen to NPR's Up First podcast.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Pacific Ave Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare a quick breakfast of Greek yogurt with berries and make an espresso to go.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Pacific Ave Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Walk to the carpool rendezvous point and commute to Mission Bay, catching up on industry news via social media.",
+                        "geocode": {
+                            "lat": 37.7706831,
+                            "lng": -122.3895903,
+                            "formatted_address": "Mission Bay, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "On the Road (Presidio Heights to Mission Bay)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Settle in at her desk, grab a sparkling water, and triage the morning's emails and Slack messages.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Uber HQ - Marketing Pod"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead the weekly Marketing Sync meeting, reviewing last week's KPIs and setting this week's priorities.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Uber HQ - 'Alcatraz' Conference Room"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Deep work session: Writing the creative brief for the Q4 holiday campaign for Uber Eats.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Uber HQ - Quiet Zone"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a build-your-own salad bowl for lunch with a coworker from the product team.",
+                        "geocode": {
+                            "lat": 37.7696166,
+                            "lng": -122.4037764,
+                            "formatted_address": "at Townsend and Division, 1 Henry Adams St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Grove - Design District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Collaborate with the Data Science team to analyze user segmentation for a new feature push.",
+                        "geocode": {
+                            "lat": 37.7982799,
+                            "lng": -122.3778182,
+                            "formatted_address": "San Francisco \u2013 Oakland Bay Bridge, San Francisco \u2013 Oakland Bay Brg, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Uber HQ - 'Bay Bridge' Huddle Space"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "One-on-one mentorship call with a junior marketing coordinator, reviewing their career goals.",
+                        "geocode": {
+                            "lat": 37.75087389999999,
+                            "lng": -122.4162826,
+                            "formatted_address": "1398 S Van Ness Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Uber HQ - Phone Booth"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Pack up and head to the carpool pickup spot for the commute home, listening to a true-crime podcast.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "On the Road (Mission Bay to Presidio Heights)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Drop bag at home, change, and head out for a Vinyasa flow class to decompress.",
+                        "geocode": {
+                            "lat": 37.7979281,
+                            "lng": -122.4304243,
+                            "formatted_address": "1892 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Flow SF - Union Street"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up ingredients for dinner and a bottle of Sauvignon Blanc.",
+                        "geocode": {
+                            "lat": 37.71729029999999,
+                            "lng": -122.473566,
+                            "formatted_address": "111 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 15,
+                        "location": "Bryan's Fine Foods"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Prepare a simple dinner while on a FaceTime call with her parents.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Pacific Ave Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a couple of episodes of a new show on Netflix.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Pacific Ave Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Wind down by reading a novel, prepping her bag for tomorrow, and setting her alarm.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Pacific Ave Apartment)"
+                    }
+                ],
+                "day_overview": "A busy and productive Tuesday for Sophia, a Marketing Manager at Uber. Her day involves strategic meetings and campaign planning, balanced with a healthy lifestyle that includes a yoga class in her Presidio Heights neighborhood and a call with her family.",
+                "home_address": "3600 Pacific Ave, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.79056200000001,
+                    "lng": -122.4542047,
+                    "formatted_address": "3600 Pacific Ave, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1991",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

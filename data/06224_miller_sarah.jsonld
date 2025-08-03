@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a study in pragmatic reinvention. Raised in a quiet, sensible suburb of Cleveland, Ohio, she was the daughter of a high school teacher and an accountant. Her parents fostered a love for stability and order, which is why they were perplexed when their bright, analytical daughter chose to pursue a Master\u2019s degree in Art History. For Sarah, it was a rebellion of the soul; she was captivated by the stories hidden in brushstrokes and marble, a world far removed from suburban balance sheets.\n\nAfter graduation, the romance of academia quickly soured. A fellowship at a small, underfunded museum paid barely enough to cover rent, and the stark financial reality hit hard. The turning point came during a visit home, watching her father methodically prepare tax returns. She saw a different kind of pattern-recognition, a language of numbers that promised the security she suddenly craved. Leveraging her sharp analytical skills honed by deconstructing Renaissance art, Sarah enrolled in an intensive financial certification program. It was a pivot born not of passion, but of sheer will.\n\nShe moved to San Francisco twelve years ago for a lucrative job offer, leaving behind the Midwest for good. She excelled, finding the world of risk analysis and market forecasting intellectually stimulating in its own right. Today, she lives alone in a meticulously kept apartment in Noe Valley, a sanctuary that has also been her full-time office since her company went remote.\n\nHer days are disciplined. An early-morning run through the quiet streets gives way to hours of intense focus at her ergonomic desk, staring into the digital abyss of spreadsheets. Her social life is small but meaningful, centered around a weekly dinner with two close friends and a book club that discusses literature far more than they discuss their jobs. While she feels a quiet pride in the stable, successful life she has built, a part of her still yearns for the world she left behind. Her dream is no longer to work in a museum, but to one day have the means and knowledge to become a patron, to fund the kind of daring, impractical art she once dedicated her life to studying. It is her private hope for a future where both halves of her life\u2014the artist and the analyst\u2014can finally coexist."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check emails, and have a cup of coffee while reviewing the day's headlines.",
+                        "geocode": {
+                            "lat": 37.733125,
+                            "lng": -122.4343025,
+                            "formatted_address": "3945 Diamond St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (3945 Diamond St)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Morning yoga and stretching session using a guided app to start the day with focus.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Living Room)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and prepare a quick breakfast smoothie.",
+                        "geocode": {
+                            "lat": 37.7415008,
+                            "lng": -122.4355586,
+                            "formatted_address": "3945 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, listening to an economics podcast to catch up on market trends.",
+                        "geocode": {
+                            "lat": 37.7323739,
+                            "lng": -122.4307687,
+                            "formatted_address": "I-280, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Commute via I-280 N"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at the office, organize the day's tasks, and review overnight financial reports for the hospital.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Saint Francis Hospital (Finance Dept. Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Deep work session: Analyze budget variances for the surgical and emergency departments for the Q3 report.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Saint Francis Hospital (Personal Office)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a nearby cafe for a healthy lunch to get away from the desk.",
+                        "geocode": {
+                            "lat": 37.7905176,
+                            "lng": -122.4170789,
+                            "formatted_address": "1030 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Nourish Cafe (Hyde Street)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a planning meeting with department heads to discuss Q4 capital expenditure requests.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Saint Francis Hospital (Conference Room 2A)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Prepare presentation slides for the upcoming monthly financial performance review with the hospital board.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 105,
+                        "location": "UCSF Saint Francis Hospital (Personal Office)"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, navigating evening rush hour traffic while listening to a classical music playlist to unwind.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Commute via Van Ness Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly grocery essentials and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7340945,
+                            "lng": -122.4336886,
+                            "formatted_address": "2815 Diamond St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 30,
+                        "location": "Canyon Market (Chenery Street)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Cook a healthy dinner and eat while catching up on a favorite TV series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Kitchen & Living Room)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a book and a cup of herbal tea before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Bedroom)"
+                    }
+                ],
+                "day_overview": "A structured and productive weekday for Sarah, balancing demanding financial analysis at a hospital with personal time for fitness, local errands, and relaxation in her Glen Park neighborhood.",
+                "home_address": "3945 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7415008,
+                    "lng": -122.4355586,
+                    "formatted_address": "3945 Diamond St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maria Rodriguez",
+    "givenName": "Maria",
+    "familyName": "Rodriguez",
+    "jobTitle": "Project Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Latino Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maria Rodriguez is a product of two San Franciscos. Her story began in the vibrant, mural-lined streets of the Mission District, where the scent of pan dulce and roasting coffee was the constant backdrop to her childhood. Raised by second-generation Mexican-American parents who ran a small corner grocery, Maria learned the values of hard work, community, and the importance of remembering where you came from. The city was in her blood, a heritage passed down through stories of her grandparents' journey to California.\n\nHer educational path led her to San Francisco State University, where she pursued a Bachelor's degree in Communications. She initially envisioned a career in community outreach for a local non-profit. However, a post-graduation internship at a burgeoning startup introduced her to a different world. While hired for marketing, her innate ability to organize chaotic projects and mediate between strong-willed engineers and demanding clients did not go unnoticed. A senior manager saw her potential, mentoring her and guiding her toward a career in project management. This became her turning point\u2014a conscious decision to step into the fast-paced, lucrative world of tech, driven by a desire to provide a comfortable retirement for her hardworking parents.\n\nNow 31, Maria lives in a minimalist apartment in Hayes Valley. Her 0.0-mile commute consists of walking from her bedroom to her desk, where she spends her days navigating Slack channels, leading Zoom meetings, and ensuring digital product launches stay on track. Her life is a study in contrasts. Weekdays are for efficiency and agile sprints; weekends are for reconnecting with her roots, visiting her parents in the Mission, and sharing meals with childhood friends who keep her grounded.\n\nThough successful, Maria feels a pull between her two worlds. Her ultimate dream isn't just to become a director of product, but to leverage her position to create a bridge. She envisions starting a mentorship program that connects tech professionals with young students in neighborhoods like the Mission, demystifying the industry that has reshaped her city and her life. For Maria, her San Francisco story is one of honoring the past she was born into while actively building the future she has chosen."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was eight, her small hands struggling to stack cans of Goya beans into a perfect pyramid. Her father corrected her, his hands calloused but gentle, showing her how to build a stable base. The smell of cardboard and the rhythmic clink of metal filled their small grocery. It wasn't about the beans; it was a lesson in building something sturdy, something that lasts. That quiet moment defined her understanding of work\u2014not as a title, but as the steady, patient effort to create order from chaos.\n\n2.\nAt twenty-two, she remembers the chaotic whiteboard session, engineers shouting over clients. She, the quiet intern, grabbed a marker and mapped the conflicting requests into clear, actionable steps. Afterward, her manager pulled her aside. \"That wasn't marketing,\" he said, smiling. \"That was project management. You're a natural.\" For the first time, she saw a path she never knew existed\u2014a way to translate her innate need for harmony into a career, and maybe, a different kind of life for her parents.\n\n3.\nFor her parents\u2019 30th anniversary, she took them to a restaurant in Hayes Valley with linen tablecloths. When the bill came, she paid without a glance, watching her father's eyes well up with a pride he rarely showed. The long hours and endless sprints felt justified in that single, silent look. But a quiet pang of distance settled in her, too. She had bought them comfort in a world that felt foreign to them, a world she was still learning to call her own.\n\n4.\nLast Sunday, she stood in her mother's kitchen, the scent of masa thick in the air. Her thumbs, so used to flying across a keyboard, felt clumsy pressing out a tortilla. The day before, she had presented a Q3 roadmap to VPs. The whiplash was jarring\u2014from corporate jargon to this simple, tactile act of love. It was a humbling reminder of which world truly nourished her, a necessary anchor that kept her from drifting too far into the digital ether of her life.\n\n5.\nWalking down 24th Street six months ago, she saw a young girl staring at a new, brilliant mural. In a shop window nearby, a hoodie sported a tech logo where the heart should be in an \"I \u2665 SF\" design. A cold dread hit Maria. She saw her two San Franciscos literally facing off. In that instant, her vague desire solidified into a mission. She wouldn\u2019t let that girl see tech as something that replaces her world, but as a door she could one day walk through."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check notifications, and do a quick 20-minute guided meditation.",
+                        "geocode": {
+                            "lat": 37.7861923,
+                            "lng": -122.4400385,
+                            "formatted_address": "Lower Pacific Heights, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Fillmore District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Get ready for the day: shower, skincare routine, and get dressed in business casual.",
+                        "geocode": {
+                            "lat": 37.7861923,
+                            "lng": -122.4400385,
+                            "formatted_address": "Lower Pacific Heights, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 40,
+                        "location": "Fillmore District Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a quick breakfast of Greek yogurt with granola and a Nespresso coffee.",
+                        "geocode": {
+                            "lat": 37.7861923,
+                            "lng": -122.4400385,
+                            "formatted_address": "Lower Pacific Heights, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Fillmore District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from the Fillmore apartment to the Marina office, navigating city traffic on Franklin St.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Personal Vehicle"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office, park the car, grab water, and review the day's calendar and task list.",
+                        "geocode": {
+                            "lat": 37.7246694,
+                            "lng": -122.4809016,
+                            "formatted_address": "San Francisco State University, Parking Garage, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "WSI Employee Parking Garage & Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead the daily stand-up meeting with the engineering team to review project progress and blockers.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "WSI Corporate Office - Conference Room 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work block: update project plans in Asana and respond to stakeholder emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 125,
+                        "location": "WSI Corporate Office - Desk Pod"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a nearby spot to pick up a pre-ordered chicken salad for lunch.",
+                        "geocode": {
+                            "lat": 37.7971726,
+                            "lng": -122.442307,
+                            "formatted_address": "Cow Hollow, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt - Cow Hollow"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon deep work: create a slide deck for the upcoming quarterly business review.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "WSI Corporate Office - Quiet Focus Room"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Final check of emails and Slack messages, set priorities for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "WSI Corporate Office - Desk Pod"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, listening to a tech news podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Personal Vehicle"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop to pick up fresh pasta and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7873389,
+                            "lng": -122.4338278,
+                            "formatted_address": "1911 Fillmore St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "SPQR Fillmore"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk walk around the neighborhood to stretch legs and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.79120899999999,
+                            "lng": -122.4377047,
+                            "formatted_address": "Alta Plaza Park, Jackson St. &, Steiner St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Alta Plaza Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner while catching up with a friend on the phone.",
+                        "geocode": {
+                            "lat": 37.7861923,
+                            "lng": -122.4400385,
+                            "formatted_address": "Lower Pacific Heights, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Fillmore District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind by watching an episode of a drama series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7861923,
+                            "lng": -122.4400385,
+                            "formatted_address": "Lower Pacific Heights, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Fillmore District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare for bed: evening skincare, pack work bag, and read a few pages of a novel.",
+                        "geocode": {
+                            "lat": 37.7861923,
+                            "lng": -122.4400385,
+                            "formatted_address": "Lower Pacific Heights, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Fillmore District Apartment"
+                    }
+                ],
+                "day_overview": "A structured and productive day for a San Francisco tech project manager, balancing focused work meetings with evening errands and relaxation in her Fillmore neighborhood.",
+                "home_address": "1592 Fillmore St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.78419969999999,
+                    "lng": -122.4329136,
+                    "formatted_address": "1592 Fillmore St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

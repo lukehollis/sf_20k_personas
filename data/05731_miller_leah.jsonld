@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Leah Miller",
+    "givenName": "Leah",
+    "familyName": "Miller",
+    "jobTitle": "Certified Nurse Aide",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Leah Miller\u2019s life has been a study in quiet resilience, shaped more by duty than by design. Raised in a working-class suburb of Cleveland, Ohio, she was the first in her family to enroll in college. She attended a local community college, dabbling in English literature, with a vague dream of becoming a writer. That dream was cut short in her second year when her mother received a terminal cancer diagnosis. Leah dropped out to become her full-time caregiver, a grueling two-year period that became her true, albeit informal, education. It was there, in the hushed intimacy of sickbay duties, that she discovered a deep, wearying capacity for empathy and care.\n\nAfter her mother passed, Cleveland felt haunted. Needing a radical change, she followed a friend\u2019s casual suggestion and looked for work in San Francisco. She earned her Certified Nurse Aide (CNA) license and, unable to afford the city's staggering rents, found a solution in her work: a live-in position.\n\nFor the past eight years, Leah's world has been largely confined to a spacious, rent-controlled apartment in the Inner Richmond, where she cares for an elderly woman with advanced dementia. Her 0.0-mile commute means her personal and professional lives are woven together. Her days are a cycle of medication schedules, meal preparation, changing linens, and offering gentle redirection during moments of confusion. Her connection to San Francisco isn't through its vibrant nightlife or tech campuses, but through the foggy view from her patient\u2019s window and the familiar faces at the corner grocer on Clement Street.\n\nHer social life consists of bi-weekly calls with her aging father back in Ohio and brief, supportive conversations with the physical therapist who visits on Tuesdays. In the quiet hours after her patient is asleep, Leah sits with a cup of tea, scrolling through online courses for Licensed Vocational Nurses. Her dream isn't grand; it's a small, private one. She hopes to save enough to one day afford a tiny studio of her own, perhaps in the Sunset, and to finally complete the education she put on hold two decades ago. She longs for a life where she can care for others during the day and return home to a space that is solely hers."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, coffee, and quiet time",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Leah's Home on Taraval"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Help parents with morning meds and breakfast",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Leah's Home on Taraval"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Shower, dress in work scrubs, and pack lunch",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Leah's Home on Taraval"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across the city to work",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sunset Blvd to SoMa Route"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Arrive, park, and set up the on-site wellness station",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Unity Technologies Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Conduct scheduled ergonomic assessments for employees",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Unity Technologies Workstations"
+                    },
+                    {
+                        "emoji": "\ud83e\ude79",
+                        "action": "Restock first aid kits and triage employee health inquiries",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Unity Technologies Office Floors"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break walk to grab a salad",
+                        "geocode": {
+                            "lat": 37.7843318,
+                            "lng": -122.4033663,
+                            "formatted_address": "135 4th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Sweetgreen Metreon"
+                    },
+                    {
+                        "emoji": "\ud83e\udd12",
+                        "action": "Staff the wellness center for drop-in first aid and health questions",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Unity Technologies Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Complete daily logs and prepare for tomorrow's health screenings",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Unity Technologies Wellness Center"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, navigating evening rush hour traffic",
+                        "geocode": {
+                            "lat": 37.7590135,
+                            "lng": -122.4955623,
+                            "formatted_address": "Outer Sunset, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "SoMa to Outer Sunset Route"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for groceries for dinner",
+                        "geocode": {
+                            "lat": 37.7434468,
+                            "lng": -122.4740564,
+                            "formatted_address": "730 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 30,
+                        "location": "Safeway on Taraval Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare and eat dinner with her parents",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Leah's Home on Taraval"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Decompress with a brisk walk along the coast",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch TV",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Leah's Home on Taraval"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine and prepare for bed",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Leah's Home on Taraval"
+                    }
+                ],
+                "day_overview": "A busy day for Leah, balancing her corporate wellness role in SoMa with caring for her parents in the Outer Sunset. The day involves a long cross-city commute, providing on-site health support to tech employees, running errands, and finding a moment of peace at Ocean Beach.",
+                "home_address": "3984 Taraval St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7416693,
+                    "lng": -122.5067588,
+                    "formatted_address": "3984 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

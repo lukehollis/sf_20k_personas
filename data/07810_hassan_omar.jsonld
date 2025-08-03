@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Omar Hassan",
+    "givenName": "Omar",
+    "familyName": "Hassan",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Omar Hassan\u2019s world was once defined by the carefully manicured suburbs of Irvine, a stark contrast to the Cairo his parents left behind. As first-generation Egyptian-Americans, his father, a civil engineer, and his mother, a homemaker, instilled in him a profound respect for stability and tradition. They envisioned a future for him in medicine or law, a secure path paved with their sacrifice. Omar, however, was drawn to the elegant logic of systems and patterns, a fascination that led him away from their prescribed dreams.\n\nHe chose the sun-drenched freedom of UC Santa Barbara, pursuing a Bachelor's degree in Economics. It was a compromise\u2014analytical enough to satisfy his father, but broad enough for him to explore his own interests. A pivotal summer internship at a small fintech company in Santa Monica changed everything. He discovered the thrill of translating raw data into actionable stories, realizing he could build a career not with a stethoscope, but with SQL and Python.\n\nUpon graduating, Omar made his definitive break from Southern California, accepting a Data Analyst position at a burgeoning tech firm in San Francisco. The move was his declaration of independence. He settled into a modern one-bedroom apartment in Hayes Valley, a neighborhood chosen for its walkability and vibrant cafe culture. Since his commute is 0.0 miles, his apartment is both office and sanctuary. His days are a disciplined rhythm of Slack notifications, data queries, and solo walks to Ritual Coffee Roasters for a mid-afternoon cold brew. He knows the names of the local baristas better than most of his remote colleagues.\n\nAt 24, Omar feels a quiet solitude. His social life is a mosaic of occasional meetups with a few college friends and the digital camaraderie of his team\u2019s channels. He yearns for a deeper connection to the city, to build a community that feels as real as the one his parents have in their mosque. His aspiration is to eventually move from analyzing products to shaping them as a Product Manager. More pressingly, he dreams of finding a sense of belonging in a city that promises everything but requires you to build your own world from scratch, one line of code and one cup of coffee at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, check phone briefly, and do a 15-minute guided meditation.",
+                        "geocode": {
+                            "lat": 37.780683,
+                            "lng": -122.4723021,
+                            "formatted_address": "Richmond District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Richmond District Apartment Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a brisk morning jog along the coastal trail for some fresh air and views.",
+                        "geocode": {
+                            "lat": 37.7858035,
+                            "lng": -122.5033753,
+                            "formatted_address": "Lands End Trail, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 45,
+                        "location": "Lands End Trail"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get dressed in comfortable work-from-home clothes, and make breakfast with coffee.",
+                        "geocode": {
+                            "lat": 37.7926665,
+                            "lng": -122.4016756,
+                            "formatted_address": "431 California St, San Francisco, CA 94121"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u27a1\ufe0f",
+                        "action": "Settle into the home office nook, turn on the monitors, and start the workday.",
+                        "geocode": {
+                            "lat": 37.7619557,
+                            "lng": -122.4192343,
+                            "formatted_address": "2199 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home Office Corner"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Morning Work: Run daily data queries on patient admission trends and attend virtual team sync on Slack.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, United States"
+                        },
+                        "duration": 180,
+                        "location": "UCSF Health (Remote Workspace)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Lunch break. Walk down the block to grab a sandwich and eat it outside.",
+                        "geocode": {
+                            "lat": 37.775658,
+                            "lng": -122.4581416,
+                            "formatted_address": "782 Arguello Blvd, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Arguello Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon Work: Deep focus session building a new clinical outcomes dashboard in Tableau.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, United States"
+                        },
+                        "duration": 150,
+                        "location": "UCSF Health (Remote Workspace)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\u2695\ufe0f",
+                        "action": "Virtual Meeting: Present dashboard mock-ups to a department manager at the hospital.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Zoom Conference"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0c",
+                        "action": "Log off work, close the laptop, and officially 'commute' back to the living room.",
+                        "geocode": {
+                            "lat": 37.7619557,
+                            "lng": -122.4192343,
+                            "formatted_address": "2199 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home Office Corner"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Head out for an evening bouldering session to de-stress and work on climbing technique.",
+                        "geocode": {
+                            "lat": 37.804171,
+                            "lng": -122.468189,
+                            "formatted_address": "924 Old Mason St, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 120,
+                        "location": "Movement Presidio Climbing Gym"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet up with a friend for dinner and cocktails in a lively neighborhood.",
+                        "geocode": {
+                            "lat": 37.7744995,
+                            "lng": -122.4374566,
+                            "formatted_address": "528 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Horsefeather on Divisadero"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up a few essentials for the week on the way home.",
+                        "geocode": {
+                            "lat": 37.7827054,
+                            "lng": -122.4668356,
+                            "formatted_address": "707 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Richmond New May Wah Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Call family to check in and chat while putting away groceries.",
+                        "geocode": {
+                            "lat": 37.780683,
+                            "lng": -122.4723021,
+                            "formatted_address": "Richmond District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Richmond District Apartment Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Wind down for the night: read a chapter of a book and set clothes out for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room Couch"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a data analyst, focusing on healthcare metrics, balanced with a scenic morning run, an evening bouldering session, and a social dinner with a friend in the city.",
+                "home_address": "431 California St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7926665,
+                    "lng": -122.4016756,
+                    "formatted_address": "431 California St, San Francisco, CA 94104, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Hassan Family"
+    }
+}

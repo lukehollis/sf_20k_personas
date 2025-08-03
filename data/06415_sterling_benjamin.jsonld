@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Benjamin Sterling",
+    "givenName": "Benjamin",
+    "familyName": "Sterling",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Benjamin Sterling\u2019s life has been an exercise in finding patterns. Raised in a quiet, leafy suburb of Cleveland, Ohio, he was the son of a CPA father and a librarian mother, inheriting a love for both numbers and quiet order. His childhood was a structured world of logic puzzles and meticulously organized LEGO bricks, a stark contrast to the chaotic vibrancy he would later embrace.\n\nHe pursued a Bachelor\u2019s degree in Philosophy, fascinated by formal logic and ethical systems. But upon graduating, he found himself adrift, intellectually fulfilled but professionally unemployable. A series of aimless jobs followed\u2014bookstore clerk, barista\u2014until a friend suggested a free online coding bootcamp. Here, Ben discovered his true calling. The world of data analysis was the perfect synthesis of his philosophical training and his innate desire for structure. He found he could divine stories from spreadsheets and predict outcomes from raw information.\n\nA startup in San Francisco, drawn to his unique background, hired him a decade ago. Ben dove into the city's relentless energy, a world away from Ohio. He lived for the work, thriving in the collaborative, high-stakes environment. His life revolved around the office and a small circle of colleagues who became his de facto family.\n\nA few years ago, a major tech corporation acquired his company, and the scrappy startup culture evaporated. Ben negotiated a fully remote position, a logical move that eliminated his commute but also his primary social hub. Today, he lives a contained existence in a minimalist Hayes Valley apartment. His days are a routine of work, solo walks to Patricia\u2019s Green, and ordering from the same three trusted restaurants.\n\nAt 38, Ben has achieved the stability his parents prized, yet he feels a growing sense of incompleteness. The data he analyzes optimizes ad revenue, not human well-being. He secretly dreams of applying his skills to a cause\u2014urban planning, perhaps, or environmental science. He is a man who built a life on elegant solutions, now confronting the messy, unquantifiable problem of his own fulfillment."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, start a 15-minute guided meditation, and do a quick stretch.",
+                        "geocode": {
+                            "lat": 37.7408194,
+                            "lng": -122.4239975,
+                            "formatted_address": "3469 Dolores St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 3469 Dolores St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Grind beans from Ritual Coffee Roasters and brew a pour-over while listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.7408194,
+                            "lng": -122.4239975,
+                            "formatted_address": "3469 Dolores St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 3469 Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a casual tech outfit, and pack work essentials.",
+                        "geocode": {
+                            "lat": 37.7408194,
+                            "lng": -122.4239975,
+                            "formatted_address": "3469 Dolores St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 3469 Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute to work, enjoying the morning buzz along Valencia Street's dedicated bike lanes.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Valencia Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Arrive at the office, settle in, and review overnight data pipeline performance on company dashboards.",
+                        "geocode": {
+                            "lat": 37.7647226,
+                            "lng": -122.4194778,
+                            "formatted_address": "2017 Mission St #301, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Sama Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Attend the daily data team stand-up meeting to sync on project statuses and daily priorities.",
+                        "geocode": {
+                            "lat": 37.7647226,
+                            "lng": -122.4194778,
+                            "formatted_address": "2017 Mission St #301, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Sama Office - Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to get a classic Mission-style super burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 50,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon deep work: Code a Python script to automate a weekly report and perform ad-hoc analysis for the product team.",
+                        "geocode": {
+                            "lat": 37.7647226,
+                            "lng": -122.4194778,
+                            "formatted_address": "2017 Mission St #301, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 180,
+                        "location": "Sama Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final tasks, push code to GitHub, and plan out the next day's work.",
+                        "geocode": {
+                            "lat": 37.7647226,
+                            "lng": -122.4194778,
+                            "formatted_address": "2017 Mission St #301, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Sama Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Bike home with a quick detour to grab fresh produce and bread for dinner.",
+                        "geocode": {
+                            "lat": 37.761345,
+                            "lng": -122.424711,
+                            "formatted_address": "3639 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 40,
+                        "location": "Bi-Rite Market on 18th"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7\u200d\u2642\ufe0f",
+                        "action": "Unwind with a challenging bouldering session to de-stress and get some exercise.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs Climbing & Fitness"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Cook a simple, healthy dinner of salmon and roasted vegetables while listening to music.",
+                        "geocode": {
+                            "lat": 37.7408194,
+                            "lng": -122.4239975,
+                            "formatted_address": "3469 Dolores St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 3469 Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a compelling documentary series.",
+                        "geocode": {
+                            "lat": 37.7408194,
+                            "lng": -122.4239975,
+                            "formatted_address": "3469 Dolores St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 55,
+                        "location": "Home - 3469 Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a science fiction novel before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7408194,
+                            "lng": -122.4239975,
+                            "formatted_address": "3469 Dolores St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 3469 Dolores St"
+                    }
+                ],
+                "day_overview": "A productive day for a Mission-based data analyst, balancing focused work with an active, local SF lifestyle, including a bike commute, a stop at a classic taqueria, and an evening bouldering session.",
+                "home_address": "3469 Dolores St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7408194,
+                    "lng": -122.4239975,
+                    "formatted_address": "3469 Dolores St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sterling Family"
+    }
+}

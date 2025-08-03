@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Thompson",
+    "givenName": "Sarah",
+    "familyName": "Thompson",
+    "jobTitle": "Management Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Consulting"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Thompson was a product of the aspirational Midwest suburbs, raised in a quiet, leafy neighborhood outside Chicago by an architect father and a law professor mother. From them, she inherited a blueprint for success: work ethic, intellectual rigor, and the unshakable belief that a well-executed plan yields a well-lived life. After earning an economics degree from Northwestern, she took a demanding analyst job in Chicago, but the lure of the West Coast tech boom and a desire to pivot to strategy led her to pursue an MBA at UC Berkeley\u2019s Haas School of Business. This was her great migration, trading snow for fog and cornfields for coastlines.\n\nUpon graduating, Sarah was recruited into a top-tier management consulting firm. Her life is now headquartered in a gleaming Hayes Valley condo, an altar of efficiency where her commute is a mere ten steps from her bedroom to her standing desk. Her days are a blur of client calls, complex data models, and PowerPoint decks, dissecting other companies' problems with surgical precision. The 80-hour work weeks were the primary reason her last serious relationship dissolved two years ago; her ex-partner, a musician, couldn't reconcile his life of creative flow with her world of billable hours and deliverables. That breakup was a turning point, solidifying her career as her primary focus, a fortress against personal vulnerability.\n\nNow, at 34, Sarah\u2019s routine is disciplined. A 6 AM run through the Panhandle is followed by strong coffee from a local roaster before she logs on. Evenings are for a yoga class or a networking dinner. She loves the convenience of San Francisco\u2014the world-class food, the proximity to nature\u2014but sometimes feels like a highly compensated visitor rather than a true resident. While the next logical step is making partner at her firm, a quieter dream has begun to surface. It\u2019s a vague, un-optimized vision of a life with less structure and more soul\u2014perhaps using her skills to help a local nonprofit, or opening a small, curated bookstore. For now, it\u2019s just a whisper, a bug in the code of her meticulously planned life."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf05",
+                        "action": "Wake up & quick morning run on the beach to catch the early morning fog before the crowds.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Ocean Beach Path"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get ready for the day, and share a quick coffee and breakfast with her partner.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 2300 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute across the city, listening to an industry podcast like 'HBR IdeaCast' to prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Lincoln Way to Financial District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, grab a kombucha from the micro-kitchen, and enter a deep work session to analyze client data.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 150,
+                        "location": "Google - One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Internal project team sync-up to review progress on a key presentation and delegate tasks.",
+                        "geocode": {
+                            "lat": 37.7967868,
+                            "lng": -122.3932987,
+                            "formatted_address": "Ferry Building, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Conference Room 'Ferry Building', Google SF"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick lunch from the office cafe and eat at her desk to prep for an upcoming client call.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Google Cafe - 'The Steershead'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Lead a high-stakes video conference with a key client, presenting the team's initial findings and fielding questions.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 75,
+                        "location": "Focus Booth, Google - One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Post-call slide deck refinement and sending a follow-up summary email to all stakeholders.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Google - One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83c\udfce\ufe0f",
+                        "action": "Drive home, navigating the heavy evening traffic out of downtown. Decompresses by listening to an audiobook.",
+                        "geocode": {
+                            "lat": 37.7505246,
+                            "lng": -122.4761024,
+                            "formatted_address": "19th Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Fell St to 19th Ave"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Stop for a restorative yoga session to unwind from the stressful workday.",
+                        "geocode": {
+                            "lat": 37.7621163,
+                            "lng": -122.506292,
+                            "formatted_address": "4501 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Yoga Beach SF"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Cook a healthy dinner with her partner, discussing their respective days and making weekend plans.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - 2300 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind on the couch, watching an episode of a limited series on HBO Max together.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: pack work bag, review tomorrow's calendar, and read a few chapters of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A demanding and highly structured day for a Management Consultant, balancing intense client work at Google's downtown office with the long, car-based commute from the Outer Sunset, and winding down with yoga and quality time with her partner at home.",
+                "home_address": "2300 Judah St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7614784,
+                    "lng": -122.486924,
+                    "formatted_address": "2300 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

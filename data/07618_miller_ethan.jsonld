@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Miller",
+    "givenName": "Ethan",
+    "familyName": "Miller",
+    "jobTitle": "Medical Assistant",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ethan Miller\u2019s life didn\u2019t begin with a grand plan. Raised in Modesto, he was the quiet son of a pragmatic hardware store owner and a part-time dental hygienist. His upbringing was stable but lacked a certain warmth; life was about practicality, not passion. After high school, feeling adrift, he enrolled in the local community college and drifted through a General Studies associate's degree, a credential that felt more like a placeholder than a path.\n\nThe turning point came not in a classroom, but in a sterile hospital room. His grandmother, his closest childhood confidant, suffered a stroke. During her long recovery, Ethan was a constant presence. He watched the medical staff, observing the profound difference between a nurse who was just doing a job and one who offered a kind word or a gentle touch. In those quiet moments, helping his grandmother with a sip of water or just sitting with her, Ethan found a sense of purpose that had eluded him his entire life.\n\nInspired, he enrolled in a Medical Assistant certification program. Upon completion, he sought not just a job, but a complete change. San Francisco represented a world away from the familiar heat of the Central Valley. He found a unique opportunity: a live-in Medical Assistant position at a small, private residential care facility in the Outer Richmond.\n\nNow, at 29, Ethan\u2019s commute is a walk down a single flight of stairs. His life is woven into the fabric of the facility. His days are a rhythm of taking vitals, administering medication, and providing companionship to the dozen elderly residents who are now his neighbors. His social circle is small but deep, consisting of a few co-workers and the residents themselves, with whom he shares quiet dinners. He finds his San Francisco not in bustling downtown bars, but in foggy morning walks through Golden Gate Park and the peaceful, residential quiet of his neighborhood. He feels more connected here, in this life of service, than he ever did in his hometown. His dream is to go back to school, this time with clear intention, to become a Registered Nurse and continue his work on a deeper level."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, drink a glass of water, and get dressed for a morning walk.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "North Beach Apartment Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Take a brisk walk with his partner around the neighborhood, ending at the park.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready, and grab a quick coffee from the kitchen.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Commute to work by settling into the home office space and logging into the EMR system.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Begin the workday by triaging patient portal messages and processing prescription refill requests.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Handle remote care coordination, scheduling telehealth appointments and virtual follow-ups for several physicians.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Step out for a lunch break to pick up classic Italian sandwiches.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd1",
+                        "action": "Afternoon work session focused on managing insurance pre-authorizations and preparing digital patient charts.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Finalize the workday by sending out appointment reminders and closing open patient tickets.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Commute 'home' by logging off all systems and tidying the desk to reclaim the living space.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walk to the local grocery store to pick up ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.8054852,
+                            "lng": -122.4137755,
+                            "formatted_address": "401 Bay St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Trader Joe's on Bay Street"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cook dinner with his partner, trying a new pasta recipe they found.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Apartment Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Eat dinner and catch up on the day's events with his partner.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83c\udfac",
+                        "action": "Relax on the couch and watch a new episode of a favorite sci-fi series.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, read a few chapters of a novel, and set an alarm for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bedroom"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Telehealth Medical Assistant in North Beach, balancing patient care administration with local errands, a refreshing walk, and quality time with his partner in the evening.",
+                "home_address": "2765 Powell St, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8084677,
+                    "lng": -122.4125037,
+                    "formatted_address": "2765 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

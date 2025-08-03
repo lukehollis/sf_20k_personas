@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Senior Management Consultant",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Consulting"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s childhood in the manicured suburbs of Chicago was a study in predictable comfort. Raised by an engineer father and a librarian mother, his world was built on logic, structure, and the quiet rustle of turning pages. He dutifully earned a Bachelor's in Economics from the University of Illinois, a practical choice that pleased his parents. But a rebellious, intellectual curiosity led him to a Master\u2019s degree that he rarely mentions in corporate settings: English Literature. It was an act of personal defiance, a passion he believed he\u2019d have to quarantine from his professional life.\n\nThe pragmatist won out. In the late 1990s, David was drawn to San Francisco by the magnetic pull of the dot-com boom. He discovered his niche in management consulting, where his unique blend of analytical rigor and literary storytelling made him uncannily effective. He could deconstruct a company\u2019s failing business model and then craft a compelling narrative to sell the solution to the board. His career ascended rapidly, but the relentless pace and a short-lived, high-stress marriage in his early thirties served as a crucible. He realized financial success was hollow without personal autonomy.\n\nThat realization was his key turning point. A decade ago, David leveraged his senior position to negotiate a fully remote role, long before it was commonplace. He now lives and works from his meticulously organized Edwardian flat in Cole Valley. His 0.0-mile commute affords him a deliberate, controlled lifestyle. Mornings begin not with a rush to a BART station, but with a foggy walk to Golden Gate Park, followed by strong coffee at his desk overlooking the quiet street. His social life is small and curated, consisting of a few long-time friends who prefer dinners with deep conversation over loud bars.\n\nNow at 48, David feels the pull of his other life. The stacks of consulting reports feel insubstantial compared to the novels on his shelves. His aspiration is no longer a bigger title or a larger bonus, but an exit strategy. He dreams of taking an early retirement within the next five years to finally write the novel he\u2019s been outlining in his head for decades\u2014a story far removed from profit margins and synergy, rooted instead in the complex, messy humanity he once studied so passionately."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check overnight emails and financial news on phone.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Pacific Heights Residence"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Prepare a pour-over coffee using beans from Sightglass and review daily agenda.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Pacific Heights Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4",
+                        "action": "Quick workout session on the Peloton bike and shower.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Gym"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, listening to the 'Pivot' podcast for tech and business news.",
+                        "geocode": {
+                            "lat": 37.7876162,
+                            "lng": -122.4251676,
+                            "formatted_address": "Gough St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Commute via Gough St."
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into private office, organize tasks, and begin deep work on a client strategy deck.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 120,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Lead a virtual project status meeting with an East Coast client.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 60,
+                        "location": "Bookable Meeting Room at Anchor Coworking"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a quick, healthy lunch: a chicken salad bowl.",
+                        "geocode": {
+                            "lat": 37.7765267,
+                            "lng": -122.4249906,
+                            "formatted_address": "517 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Souvla Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Analyze client data and build financial models for a merger analysis.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 150,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Final client check-in call for the day to review progress and next steps.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 45,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83c\udf06",
+                        "action": "Drive home, navigating the evening traffic on Van Ness.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Commute via Van Ness Ave."
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up specialty groceries for the week.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mollie Stone's Markets on California St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet a former colleague for dinner and drinks to network and catch up.",
+                        "geocode": {
+                            "lat": 37.7873389,
+                            "lng": -122.4338278,
+                            "formatted_address": "1911 Fillmore St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 120,
+                        "location": "SPQR on Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind at home by reading a few chapters of a historical non-fiction book.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Pacific Heights Residence"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Review calendar for the next day and set out clothes before bed.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Pacific Heights Residence"
+                    }
+                ],
+                "day_overview": "A high-intensity day for a senior consultant, balancing client demands with personal wellness and a sophisticated social life in San Francisco.",
+                "home_address": "3542 Pacific Ave, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7908036,
+                    "lng": -122.4533447,
+                    "formatted_address": "3542 Pacific Ave, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

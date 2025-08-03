@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ryan Singh",
+    "givenName": "Ryan",
+    "familyName": "Singh",
+    "jobTitle": "Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ryan Singh\u2019s world is contained within a single city block in the Richmond District. Born and raised in the two-bedroom apartment above his family\u2019s corner market, the scent of cardboard, cleaning supplies, and his mother\u2019s chai has been the constant backdrop of his life. His Punjabi immigrant parents, who bought the store in the late 80s, instilled in him the values of hard work and familial duty. Ryan\u2019s childhood was a blend of American cartoons and stocking shelves, of playing street hockey and translating for elderly customers.\n\nHe was supposed to be the one who got out. With a passion for visual arts, he enrolled at San Francisco State University to study graphic design, a world away from inventory logs and lottery tickets. For two years, he thrived, sketching in Golden Gate Park and dreaming of a life in a downtown design firm. The turning point came swiftly and without warning: his father had a major heart attack. Dropping out of college wasn\u2019t a decision so much as an inevitability. He returned to the store, his creative ambitions packed away with his textbooks.\n\nNow, at 36, Ryan is the store manager. His father passed away five years ago, and Ryan runs the business with a quiet, practiced efficiency his dad would have admired. His commute is the 14 steps from his apartment door to the shop floor. He\u2019s a neighborhood fixture, knowing which families need milk on Tuesday and which local character will be in for a cheap bottle of wine on Friday. These relationships are his social life\u2014a series of friendly, transactional encounters that fill his days but leave his evenings feeling hollow.\n\nRyan\u2019s hopes are now more modest. The ghost of his half-finished degree sometimes haunts him, but his dream is no longer a flashy design career. He fantasizes about simple things: taking a real vacation, maybe to see the mountains in India his parents described. He hopes to find a partner who understands that his life is tethered to this legacy. Late at night, after locking the register, he sometimes sits in the quiet apartment, sketching logos for the store on receipt paper\u2014a small, private act of merging the life he has with the one he almost did."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home in the Castro"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Have a quick breakfast of toast and coffee while checking morning news with his parents.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from the Castro to SoMa, dealing with morning traffic on Division St.",
+                        "geocode": {
+                            "lat": 37.7893087,
+                            "lng": -122.3925971,
+                            "formatted_address": "San Francisco, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Roadways"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Arrive at work, open the store, and lead a morning huddle with the sales and tech support team to discuss daily goals.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 60,
+                        "location": "TechInSF Consulting"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Review previous day's sales reports and check current inventory levels in the back office.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "TechInSF Back Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Grab a quick banh mi sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7863714,
+                            "lng": -122.3953302,
+                            "formatted_address": "555 Folsom St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Dragon Eats"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Handle customer service issues on the floor and assist the sales team during the afternoon rush.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "TechInSF Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Work on the weekly staff schedule and place new product orders.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "TechInSF Back Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Commute home, taking surface streets like Folsom and 17th to avoid highway congestion.",
+                        "geocode": {
+                            "lat": 37.7893087,
+                            "lng": -122.3925971,
+                            "formatted_address": "San Francisco, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF Roadways"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta and sauce for dinner.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a brisk power walk to clear his head after a long day.",
+                        "geocode": {
+                            "lat": 37.7602015,
+                            "lng": -122.4267959,
+                            "formatted_address": "Mission Dolores Park, Dolores St &, 19th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Dolores Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Help cook and eat dinner with his parents, catching up on their day.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home in the Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a new episode of a sci-fi series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A busy day for Ryan, a retail store manager, involving managing team operations in SoMa, navigating the city's traffic, and winding down with family and personal time in his Castro neighborhood.",
+                "home_address": "776 18th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7630823,
+                    "lng": -122.3905819,
+                    "formatted_address": "776 18th St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Singh Family"
+    }
+}

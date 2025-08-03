@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Registered Nurse",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s world is confined to the elegant, quiet rooms of a Pacific Heights mansion, making her daily commute nonexistent. Raised in a small logging town in rural Oregon, Sarah\u2019s upbringing was practical and grounded. Her father worked long, hard hours in the timber industry, and her mother was a home health aide, whose stories of caring for the elderly instilled in Sarah a deep sense of empathy and purpose from a young age.\n\nDriven by this early inspiration, she pursued a Bachelor of Science in Nursing from Oregon Health & Science University. Her first decade as an RN was spent in the chaotic, high-stakes environment of a Portland emergency room. While she thrived on the adrenaline and the tangible impact of her work, the relentless pace and emotional toll led to severe burnout. The turning point came after a particularly grueling week when she realized she was losing the compassion that had drawn her to nursing in the first place.\n\nSeeking a dramatic change, she answered an ad for a private, live-in nurse in San Francisco. For the past eight years, she has been the sole caregiver for Eleanor Vance, a sharp-witted but frail matriarch of a wealthy family. Sarah\u2019s life is a disciplined rhythm of medication schedules, meal preparation, and quiet companionship. Her connection to San Francisco is intimate yet detached; she knows the fog patterns over the Bay from her patient's window and the precise slope of the streets she walks on her afternoons off, but feels like an outsider in the opulent neighborhood. Her social circle is small, mostly consisting of a few other nurses she connects with on rare weekends.\n\nThough she is devoted to Eleanor, Sarah dreams of reclaiming her own space. Her hope is to one day buy a small, simple cottage in a quiet coastal town like Pescadero, where the rhythm of her life is dictated by the tides instead of a medical chart. She yearns for the simple peace of her own garden, a testament to a life spent nurturing others, and now, finally, herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers being twelve, her mother home late, smelling of antiseptic and coffee. Her mother described not a procedure, but how she\u2019d held Mr. Henderson\u2019s hand as he spoke about his late wife. It wasn\u2019t about medicine; it was about presence. In that moment, Sarah understood that the most profound care was simply bearing witness to another\u2019s life. It was the quiet, steadying truth that guided her to nursing, a compass she now struggles to find.\n\n2.\nIt was her tenth year in the Portland ER. A teenager, pale from a minor fracture, timidly asked for another blanket. Sarah felt a flash of pure irritation, a desire to say, \"We\u2019re busy.\" The thought horrified her. She\u2019d built her life on empathy, and in that sterile, chaotic room, she saw it had eroded into sheer mechanical function. That flicker of annoyance was the alarm bell; she knew she had to leave before the best part of her was gone for good.\n\n3.\nHer first night in San Francisco, eight years ago, was defined by the silence. After a decade of ER alarms and shouts, the quiet of the Vance mansion was a physical weight. She stood at the guest room window, watching the fog swallow the bridge, feeling utterly separate from the city below and the opulent house around her. She wasn't a resident; she was a caretaker inhabiting a space, a ghost in someone else\u2019s life. The loneliness of it settled deep in her bones.\n\n4.\nA year into her service, while helping Eleanor with her medication, the old woman had quipped, \"So many pills. I\u2019m becoming more mineral than woman.\" Sarah\u2019s professional mask cracked, and she let out a real, uninhibited laugh. Eleanor\u2019s eyes twinkled with a shared understanding. In that moment, the patient-caregiver dynamic dissolved into a quiet friendship between two women confined by circumstance. It was the anchor that kept her from drifting away entirely in the silent house.\n\n5.\nIt was on an afternoon off three years ago, walking down a steep, foggy street in the Inner Sunset. She passed a tiny house with a riot of lavender and sea thrift thriving in a small patch of earth. It wasn't grand, but it was fiercely alive and personal. A profound yearning hit her\u2014not for a mansion, but for *that*. For soil under her own fingernails. The dream of a Pescadero cottage wasn't just an escape anymore; it became a tangible plan, a promise to herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up and do a guided meditation session using a mindfulness app.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Morning jog along the waterfront for some fresh air and exercise before the workday begins.",
+                        "geocode": {
+                            "lat": 37.7632701,
+                            "lng": -122.3873708,
+                            "formatted_address": "Crane Cove Park, 18th street and, Illinois St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 45,
+                        "location": "Crane Cove Park"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make coffee and a healthy breakfast of greek yogurt and berries while listening to a news podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Commute to the home office. Settle in, review the day's schedule, and log into the hospital's secure network.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Begin morning telehealth appointments, conducting virtual patient assessments and providing medical advice.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 210,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a local cafe to pick up a pre-ordered salad and an iced tea for a refreshing lunch break away from the screen.",
+                        "geocode": {
+                            "lat": 37.7577332,
+                            "lng": -122.3899849,
+                            "formatted_address": "845 22nd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 50,
+                        "location": "Piccino Coffee Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Afternoon work block focused on updating patient charts in the EHR, coordinating care with specialists, and attending a virtual team meeting.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 210,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Log off from work and transition from the work space, officially ending the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7\u200d\u2640\ufe0f",
+                        "action": "Head out for a bouldering session to de-stress and get a full-body workout.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Dogpatch Boulders"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up ingredients for dinner and some household essentials.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Prepare a simple salmon and roasted vegetable dinner while having a video call with her parents.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a couple of episodes of a new series.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: tidying up the kitchen, prepping for the next day, and reading a few chapters of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for a telehealth nurse, blending focused work from her Dogpatch apartment with local fitness activities, errands, and a relaxing evening.",
+                "home_address": "1864 3rd St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.76579,
+                    "lng": -122.3891194,
+                    "formatted_address": "1864 3rd St, San Francisco, CA 94158, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

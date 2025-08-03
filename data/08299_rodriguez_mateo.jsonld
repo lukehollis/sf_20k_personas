@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mateo Rodriguez",
+    "givenName": "Mateo",
+    "familyName": "Rodriguez",
+    "jobTitle": "Financial Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Latino Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mateo Rodriguez\u2019s life is a story of two Californias. Raised in Fresno, he was the son of Mexican immigrants who taught him the value of hard work through their long days in the agricultural fields and fruit canneries. His childhood was filled with the scent of dust and tomatoes, and the quiet understanding that his path was to be different. A gifted student with a natural aptitude for numbers, he saw economics not as an abstract subject, but as the invisible architecture shaping his family\u2019s struggles and opportunities.\n\nHe attended UC Davis, earning a Bachelor's degree in Economics. It was a world away from Fresno, but still grounded and accessible. Upon graduation, a prestigious financial firm in San Francisco offered him a position as a financial analyst. For Mateo, moving to the city was the culmination of his parents' dreams\u2014a tangible symbol of success. He traded the Central Valley\u2019s open sky for the concrete canyons of the Financial District.\n\nThe major turning point in his career and life was the pandemic-era shift to remote work. His commute, once a bustling BART ride, vanished to zero. Now, he lives and works in a modern, minimalist apartment in the Mission District, a neighborhood choice that keeps him tethered to his heritage, albeit a gentrified version of it. His day is a disciplined routine: an early morning run along the Embarcadero, followed by hours spent in front of multiple monitors, translating global market chaos into neat spreadsheets and predictive models. He is a digital ghost in the financial machine, his colleagues known primarily as names on Slack and faces on Zoom.\n\nSocially, he feels a step behind. Weekends are for reconnecting with college friends or forcing himself out to new bars and restaurants, an effort to build the organic community his remote work life denies him. At 29, Mateo has the financial security he always strived for, but he\u2019s beginning to question its value. His aspirations are shifting from accumulating wealth to finding meaning. He dreams of eventually using his financial acumen to help empower small, Latino-owned businesses, to build a bridge between the world of high finance and the community that raised him. He wants to feel less like a resident who can afford San Francisco and more like someone who truly belongs to it."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Wake up and go for a morning run along the waterfront.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get dressed, and make a quick breakfast and coffee.",
+                        "geocode": {
+                            "lat": 37.7990106,
+                            "lng": -122.4430532,
+                            "formatted_address": "2514 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 2514 Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udda5\ufe0f",
+                        "action": "Commute to work by setting up the home office, checking the calendar, and reviewing urgent emails.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office - Lombard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Analyzing quarterly budget submissions from various UCSF departments.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office - Lombard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Participate in a virtual team meeting via Zoom to discuss financial forecasting for the next fiscal year.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office - Lombard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break: Walk to pick up a healthy salad to eat back at home.",
+                        "geocode": {
+                            "lat": 37.8004202,
+                            "lng": -122.4395019,
+                            "formatted_address": "Chestnut St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn (Chestnut St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon work: Building a financial model to evaluate the viability of a new research grant.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office - Lombard St Apartment"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work for the day by responding to final emails and creating a to-do list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Office - Lombard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Commute 'home' by logging off, closing the laptop, and tidying the workspace.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office - Lombard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Head out for an afternoon strength training session at the local gym.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF - Marina"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.8000211,
+                            "lng": -122.4416326,
+                            "formatted_address": "2323 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Marina Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Cook a healthy dinner at home, like salmon with roasted vegetables.",
+                        "geocode": {
+                            "lat": 37.7990106,
+                            "lng": -122.4430532,
+                            "formatted_address": "2514 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 2514 Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while watching a new episode of a favorite show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7990106,
+                            "lng": -122.4430532,
+                            "formatted_address": "2514 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 2514 Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and listening to a finance podcast.",
+                        "geocode": {
+                            "lat": 37.7990106,
+                            "lng": -122.4430532,
+                            "formatted_address": "2514 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - 2514 Lombard St"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Mateo, balancing financial analysis for UCSF with a healthy and social lifestyle in his Marina neighborhood, including a morning run, a workout, and preparing a home-cooked meal.",
+                "home_address": "2514 Lombard St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7990106,
+                    "lng": -122.4430532,
+                    "formatted_address": "2514 Lombard St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Content Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s story is etched into the fog-laced streets of San Francisco\u2019s Inner Richmond. Raised in a quiet, predictable Ohio suburb by a teacher and an accountant, David always felt a pull toward something more chaotic and creative. He pursued this feeling through a Bachelor\u2019s degree in English Literature, consuming novels and poetry while his parents quietly wished he\u2019d chosen business.\n\nIn 1999, at age 25, he was lured by the siren song of the dot-com boom. With a suitcase and a head full of literary theory, he landed in San Francisco, sharing a cramped apartment in the Haight. He found his footing not as a coder, but as a \"translator\"\u2014a technical writer who could make complex software understandable. He weathered the subsequent crash by freelancing, learning resilience as companies folded overnight. This era cemented his career path: he had a knack for shaping words and strategy, which naturally evolved into content management.\n\nThe key turning point in his personal life was his marriage in his early thirties and subsequent divorce a decade later. The split was amicable but hollowing, leaving him with a beautifully restored Edwardian apartment and a profound sense of solitude. It was during this period he fully embraced his Inner Richmond neighborhood, finding comfort in its quiet residential feel, a world away from the downtown tech scene.\n\nToday, David\u2019s life is one of routine and contentment. His 0.0-mile commute takes him from his bedroom to a small home office overlooking a patch of green_space. His mornings start with strong coffee and a walk through Golden Gate Park before he logs on to manage a remote team for a mid-sized SaaS company. Socially, he keeps a tight circle: a bi-weekly poker night with friends from his early SF days and a nodding acquaintance with the owner of his local pub.\n\nThough financially secure, David\u2019s dream isn\u2019t professional advancement. It\u2019s personal. Tucked away in a cloud drive is the half-finished screenplay he\u2019s been chipping away at for years\u2014a gritty noir set in the very San Francisco he first fell in love with. He aspires not to move up, but to finish it, to create one lasting story that is entirely his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check personal emails, and do a quick 10-minute stretch.",
+                        "geocode": {
+                            "lat": 37.795656,
+                            "lng": -122.4468841,
+                            "formatted_address": "3933 Union St, San Francisco, CA 94123"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a brisk run along the waterfront, enjoying the view of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 40,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for work, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.795656,
+                            "lng": -122.4468841,
+                            "formatted_address": "3933 Union St, San Francisco, CA 94123"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Eat a quick breakfast of yogurt and granola while listening to an industry podcast.",
+                        "geocode": {
+                            "lat": 37.795656,
+                            "lng": -122.4468841,
+                            "formatted_address": "3933 Union St, San Francisco, CA 94123"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, navigating through Pacific Heights and listening to the news on the radio.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Cross-Town Traffic"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into his office, review daily tasks on Asana, and respond to urgent emails.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Health St. Mary's Hospital Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead a virtual team meeting to finalize the content calendar for the upcoming month.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF St. Mary's Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy lunch to go and eat at his desk while catching up on non-urgent messages.",
+                        "geocode": {
+                            "lat": 37.8000397,
+                            "lng": -122.4410062,
+                            "formatted_address": "3258 Scott St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 50,
+                        "location": "Pluto's Fresh Food"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Focused work session: write and edit articles for the hospital's public-facing health blog.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Health St. Mary's Hospital Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "One-on-one meeting with a direct report to provide feedback and discuss career growth.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "UCSF Health St. Mary's Hospital Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute home, taking Arguello Blvd to avoid the worst of the Presidio Pkwy traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Cross-Town Traffic"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly grocery shopping to restock the fridge and pantry.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 40,
+                        "location": "Safeway on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Unwind at home, put away groceries, and change into casual clothes.",
+                        "geocode": {
+                            "lat": 37.795656,
+                            "lng": -122.4468841,
+                            "formatted_address": "3933 Union St, San Francisco, CA 94123"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a casual dinner and a beer at a local gastropub.",
+                        "geocode": {
+                            "lat": 37.8001278,
+                            "lng": -122.4400528,
+                            "formatted_address": "2231 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Tipsy Pig"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch and read a few chapters of a non-fiction book.",
+                        "geocode": {
+                            "lat": 37.795656,
+                            "lng": -122.4468841,
+                            "formatted_address": "3933 Union St, San Francisco, CA 94123"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare for the next day, set out work clothes, and head to bed.",
+                        "geocode": {
+                            "lat": 37.795656,
+                            "lng": -122.4468841,
+                            "formatted_address": "3933 Union St, San Francisco, CA 94123"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive day for a Content Manager, blending focused work at UCSF St. Mary's with an active lifestyle, including a scenic morning run in the Marina and a social evening in his neighborhood.",
+                "home_address": "3933 Union St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.795656,
+                    "lng": -122.4468841,
+                    "formatted_address": "3933 Union St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1974",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

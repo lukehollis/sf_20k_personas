@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Wong",
+    "givenName": "Sarah",
+    "familyName": "Wong",
+    "jobTitle": "Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Wong is a product of San Francisco, born and raised in the fog-laced avenues of the Richmond District. The daughter of industrious immigrants from Hong Kong who ran a bustling bakery on Clement Street, Sarah\u2019s childhood was a mix of Cantonese tradition and American ambition. She absorbed her parents\u2019 relentless work ethic, but where they saw security in flour and sugar, she saw it in numbers and systems.\n\nHer academic path was initially driven by idealism. At UC Berkeley, she pursued a Master's in Urban Planning, dreaming of designing equitable, beautiful cities. The 2008 financial crisis, however, was a sharp turning point. Watching her parents\u2019 business struggle and friends lose their jobs, Sarah grew pragmatic. The abstract beauty of urban design felt like a luxury; finance felt like a shield. She pivoted, applying her analytical mind to the concrete world of financial markets, quickly landing a role as an analyst after graduation.\n\nNow 42, Sarah lives in a modern condo in Hayes Valley, a world away from her childhood neighborhood. Her 0.0-mile commute is a testament to the city\u2019s tech-fueled evolution; her workday is a quiet hum of spreadsheets, video calls, and market data from her home office overlooking a serene courtyard. The demanding job has brought her significant financial security, allowing her to support her retired parents and live comfortably. Her social life is a small, curated circle of old college friends, with whom she shares dinners and occasional weekend trips to wine country.\n\nDespite her success, a quiet longing for her old passion remains. On weekends, she wanders through different neighborhoods, not as a resident, but with the critical eye of an urban planner, sketching ideas in a notebook. Her dream is no longer to design cities from scratch, but to leverage her financial acumen to fund community-focused projects\u2014affordable housing initiatives or public space revitalization. Sarah Wong, the pragmatic analyst, hopes to one day merge her two selves, using the security she built to finally realize the idealistic dreams of her youth."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, meditate for 10 minutes, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat breakfast: Greek yogurt with berries and a coffee from her espresso machine while scanning the morning news.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and commute to work on the Muni 7 Haight/Noriega line, listening to a finance podcast.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbc",
+                        "action": "Settle in at her desk, grab a tea from the breakroom, and review the day's priorities and urgent emails.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Office at UCSF Health St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Analyzing the Q4 financial performance reports for several hospital departments.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "Office at UCSF Health St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a brisk walk for lunch, picking up a salad and sandwich to go.",
+                        "geocode": {
+                            "lat": 37.76219,
+                            "lng": -122.4631335,
+                            "formatted_address": "1401 6th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Golden Bear Trading Company"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Attend a virtual budget meeting with clinical department heads to discuss next year's capital expenditure requests.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Office at UCSF Health St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Finalize a presentation for hospital leadership on cost-saving initiatives and respond to final emails for the day.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "Office at UCSF Health St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home, walking from the hospital to the bus stop and taking the Muni 7 back to the Mission.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni Bus"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop for a quick grocery run to pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.76922570000001,
+                            "lng": -122.4148782,
+                            "formatted_address": "1745 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Rainbow Grocery Cooperative"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Unwind and de-stress at an evening vinyasa flow class.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Cook a healthy dinner at home while on a video call with her parents.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, reading a new novel before preparing for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for a hospital financial analyst, balancing focused work at UCSF with a healthy, active lifestyle in her Mission District neighborhood, using public transit for her commute.",
+                "home_address": "1813 Folsom St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7682337,
+                    "lng": -122.4156154,
+                    "formatted_address": "1813 Folsom St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

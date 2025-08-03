@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Loan Processor",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s San Francisco life began as a quiet rebellion against the predictable rhythm of her Modesto upbringing. Raised in a loving, working-class family that valued stability above all, she felt a gentle but persistent pull toward the coast. While her parents envisioned a life for her close to home, Sarah yearned for the anonymity and cultural vibrancy she imagined in the city.\n\nAfter high school, she took a practical route, earning an Associate's degree in Business Administration from a local community college. It was a pragmatic choice, designed to get her into the workforce quickly. Her first job was as an administrative assistant at a mortgage firm in the East Bay. She was diligent and meticulous, and her knack for details saw her promoted to a junior loan processor position. The long BART commute was grueling, but it was her ticket to a new life.\n\nThe key turning point was the pandemic. As her company transitioned to remote work, Sarah\u2019s position became permanently work-from-home. This allowed her to finally move into San Francisco proper, settling into a small but bright apartment in the Inner Richmond. The 0.0-mile commute was a dream, but it also transformed her relationship with the city. Her world shrank to the blocks around her home.\n\nNow 32, Sarah\u2019s days follow a structured pattern. She starts with a foggy walk through Golden Gate Park, grabbing a coffee before logging in at 8:30 AM sharp. Her work is a cascade of digital files, interest rate calculations, and verification calls\u2014a precise, demanding job that suits her methodical nature. Socially, she relies on a small circle of friends for a weekly trivia night and occasional dinners. A long-term relationship fizzled out during lockdown, leaving her feeling both independent and somewhat isolated.\n\nSarah\u2019s connection to San Francisco is intimate yet distant. She loves the city\u2019s energy from her window but rarely dives into its chaotic heart. Her dream isn\u2019t to climb the corporate ladder, but to break her routine. She fantasizes about taking a pottery class, learning Italian, and one day swapping her loan documents for a passport full of stamps. She seeks a life measured less by files processed and more by genuine, spontaneous connection to the world just outside her door."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get ready for the work day.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment on Balboa"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of toast and avocado while drinking coffee and checking the news.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, listening to a daily news podcast to catch up on current events.",
+                        "geocode": {
+                            "lat": 37.7473461,
+                            "lng": -122.4947458,
+                            "formatted_address": "Sunset Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Personal Car on Sunset Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, review email inbox, and organize the loan application queue for the day.",
+                        "geocode": {
+                            "lat": 37.7211729,
+                            "lng": -122.4765701,
+                            "formatted_address": "Administration Building 354, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 195,
+                        "location": "SFSU Administration Building"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick lunch and take a walk to clear the head before the afternoon session.",
+                        "geocode": {
+                            "lat": 37.7225174,
+                            "lng": -122.4787258,
+                            "formatted_address": "1650 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Cesar Chavez Student Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Process afternoon loan files, making follow-up calls to applicants to verify information.",
+                        "geocode": {
+                            "lat": 37.7211729,
+                            "lng": -122.4765701,
+                            "formatted_address": "Administration Building 354, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 150,
+                        "location": "SFSU Administration Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a brief virtual team meeting to discuss weekly processing goals and challenges.",
+                        "geocode": {
+                            "lat": 37.7211729,
+                            "lng": -122.4765701,
+                            "formatted_address": "Administration Building 354, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "SFSU Administration Building"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, navigating the evening traffic on 19th Avenue.",
+                        "geocode": {
+                            "lat": 37.7505246,
+                            "lng": -122.4761024,
+                            "formatted_address": "19th Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Personal Car on 19th Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up ingredients for dinner and weekly staples.",
+                        "geocode": {
+                            "lat": 37.7725138,
+                            "lng": -122.5094765,
+                            "formatted_address": "850 La Playa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 30,
+                        "location": "Safeway on La Playa St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a de-stressing run to unwind from the day.",
+                        "geocode": {
+                            "lat": 37.770435,
+                            "lng": -122.5093786,
+                            "formatted_address": "1691 John F Kennedy Dr, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park Dutch Windmill Loop"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner and eat while catching up with a friend over the phone.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a couple of episodes of a favorite show.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down routine: tidy up, prepare for the next day, and read a book before bed.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Balboa"
+                    }
+                ],
+                "day_overview": "A structured and productive day for a loan processor, balancing focused desk work at SFSU with an active evening routine in the Outer Richmond, including a run in Golden Gate Park and preparing a home-cooked meal.",
+                "home_address": "3029 Balboa St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.775815,
+                    "lng": -122.4914803,
+                    "formatted_address": "3029 Balboa St, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

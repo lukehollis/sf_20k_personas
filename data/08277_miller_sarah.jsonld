@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Project Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller wasn't a product of Silicon Valley, but of Sacramento's quiet, sun-baked suburbs. She pursued a Bachelor's in Art History, a degree fueled by a genuine passion for Renaissance portraiture and a quiet rebellion against her parents\u2019 pragmatism. She imagined a life curating exhibits, not managing software sprints.\n\nThe magnetic, fog-laced pull of late-90s San Francisco proved irresistible. She arrived with artistic ambitions, only to watch them collide with the harsh reality of the dot-com bust. With rent to pay and her art-world dreams on hold, she took a temp job as an administrative assistant at a surviving tech company. There, amidst the chaos of restructuring, a manager noticed her uncanny ability to organize engineers and translate creative ideas into actionable timelines. This accidental discovery launched her career; she was a natural project coordinator, thriving on process and order.\n\nNow 46, Sarah\u2019s life is centered in her meticulously organized Inner Richmond apartment, the hub of her 0.0-mile commute. The pandemic solidified her remote status, and she\u2019s embraced the change. Her mornings begin not with a crowded MUNI ride, but with a strong coffee and a walk through the misty avenues of her neighborhood, often looping through Golden Gate Park before her first video call.\n\nA key turning point was her divorce eight years ago. It was an amicable split from a man who wanted to leave the city, a move Sarah couldn\u2019t make. The experience solidified her independence and her deep attachment to San Francisco. Her social life is small but meaningful, consisting of a few friends who, like her, have weathered the city\u2019s booms and busts.\n\nSarah has seen the city she loves morph and gentrify, and she holds a fierce, protective affection for its authentic corners. Her aspirations are no longer about climbing the corporate ladder. Instead, she dreams of weaving her original passion back into her life. Her quiet hope is to eventually transition her project management skills to a non-profit, perhaps helping to coordinate events at the de Young Museum\u2014finally bridging the gap between her practical career and the world of art she once longed for."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, 10 minutes of mindfulness meditation, and check the day's weather.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat breakfast: coffee from a local roaster, avocado toast, and fresh fruit.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire suitable for biking, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute to work, enjoying the morning air through the Panhandle and Presidio.",
+                        "geocode": {
+                            "lat": 37.7729862,
+                            "lng": -122.4459943,
+                            "formatted_address": "Panhandle, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF Bike Route: Panhandle to Cow Hollow"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Settle in at her dedicated desk, grab a second coffee, and review project dashboards for urgent updates.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 30,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead the daily virtual stand-up meeting with the engineering team to track progress and identify blockers.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "AvantSpace Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep focus work: updating project timelines in Asana and drafting a status report for stakeholders.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 150,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to pick up a pre-ordered 'Foghorn' salad for a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.8003111,
+                            "lng": -122.4377083,
+                            "formatted_address": "3344 Steiner St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 15,
+                        "location": "Blue Barn - Cow Hollow"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Eat lunch on a bench with a view of the water and bridge, taking a true mental break from work.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Afternoon tasks: Follow-up emails, one-on-one with a junior designer, and preparing the agenda for tomorrow's planning session.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 180,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2640\ufe0f",
+                        "action": "Bike commute home, taking a slightly different, scenic route back towards Cole Valley.",
+                        "geocode": {
+                            "lat": 37.7971726,
+                            "lng": -122.442307,
+                            "formatted_address": "Cow Hollow, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Bike Route: Cow Hollow to Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh produce and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Cole Valley Harvest"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38",
+                        "action": "Attend a Vinyasa Flow class to de-stress and stretch after a day at the desk.",
+                        "geocode": {
+                            "lat": 37.7249233,
+                            "lng": -122.46248,
+                            "formatted_address": "385 Ashton Ave, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Flow SF - Ocean"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple but satisfying dinner, such as salmon with roasted vegetables, while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the evening by reading a new novel and enjoying a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Living Room"
+                    }
+                ],
+                "day_overview": "A productive day for a tech project coordinator, balanced with a scenic bike commute through the city, an al fresco lunch, and an evening of yoga and relaxation in her Cole Valley neighborhood.",
+                "home_address": "975 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7649346,
+                    "lng": -122.4501098,
+                    "formatted_address": "975 Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

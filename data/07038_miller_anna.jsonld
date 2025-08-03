@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anna Miller",
+    "givenName": "Anna",
+    "familyName": "Miller",
+    "jobTitle": "Marketing Director",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anna Miller\u2019s story began not amidst the fog and innovation of San Francisco, but under the wide, practical skies of Ohio. Raised by a teacher and an accountant, her childhood was stable, predictable, and miles away from the life she would build. A voracious reader, she confounded her parents by pursuing an MA in English Literature, a degree they deemed charmingly impractical. She saw it as the study of the ultimate human technology: the story.\n\nShe arrived in San Francisco in the late 1990s, drawn by a romantic, literary allure rather than the burgeoning tech scene. Her first years were spent working for a struggling independent publisher, a life rich in words but poor in finances. The key turning point came with the first dot-com bust. As she watched companies built on flimsy code and grand promises evaporate, she noticed that the ones which survived had a compelling narrative. It was a revelation. She realized her expertise in storytelling was not obsolete but essential. Anna pivoted, taking entry-level marketing jobs at tech startups, teaching herself the language of analytics and consumer funnels, and translating complex technology into human desire.\n\nHer career ascended rapidly through the subsequent tech booms. She married an engineer, and for a decade they lived the quintessential dual-tech-career life of long hours and high-stakes projects. The marriage eventually dissolved amicably, a casualty of divergent paths rather than animosity. Now, at 52, Anna is the Marketing Director for a successful software firm, her position secure enough that her commute is a ten-step journey from her kitchen to her sunlit home office in the Inner Sunset.\n\nHer days are a study in controlled peace. She starts with a walk through the fog in Golden Gate Park before dialing into global meetings. Evenings are for a tight-knit circle of friends\u2014other women who have navigated the industry's choppy waters\u2014or quiet nights reading. San Francisco is no longer a place of ambition, but of belonging. Her dream is no longer the next promotion, but to use her experience to mentor younger women in tech. She hopes to one day step back and finally write the novel she set aside three decades ago, proving to her younger self, and perhaps her parents' ghosts, that the story was the point all along."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for 10 minutes, and review headlines from TechCrunch and the SF Chronicle on a tablet with a cup of black coffee.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning skincare routine, get dressed in smart business casual, and prepare a quick breakfast of Greek yogurt and berries.",
+                        "geocode": {
+                            "lat": 37.7962044,
+                            "lng": -122.4125231,
+                            "formatted_address": "1047 Pacific Ave, San Francisco, CA 94115"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the designated pickup spot to meet her carpool colleague for the drive downtown.",
+                        "geocode": {
+                            "lat": 37.7952544,
+                            "lng": -122.4199642,
+                            "formatted_address": "Pacific Ave & Larkin St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 10,
+                        "location": "Corner of Pacific Ave & Larkin St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Morning carpool commute, discussing an upcoming industry conference and listening to the Pivot podcast.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Commute to Financial District"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle in at her dedicated desk, grab an oat milk latte from the communal kitchen, and triage her inbox and Slack messages.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 30,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead a Q4 campaign strategy session with her marketing team to finalize KPIs and budget allocation.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mindspace Conference Room 'The Cable Car'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a healthy, quick lunch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Proper Food"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focused work block: review creative assets for a new ad campaign and refine a presentation for the executive team.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct a virtual 1-on-1 with her Senior Content Manager to discuss career growth and project progress.",
+                        "geocode": {
+                            "lat": 37.75087389999999,
+                            "lng": -122.4162826,
+                            "formatted_address": "1398 S Van Ness Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mindspace Phone Booth"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final tasks, organize to-do list for the next day, and pack up to meet carpool.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 30,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Evening carpool commute home, chatting about non-work topics to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Commute to Nob Hill"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38",
+                        "action": "Attend a Vinyasa flow yoga class to de-stress and stretch after a day at the desk.",
+                        "geocode": {
+                            "lat": 37.79832409999999,
+                            "lng": -122.4271696,
+                            "formatted_address": "1694 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Pad Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta, a bottle of Chianti, and arugula for dinner.",
+                        "geocode": {
+                            "lat": 37.7929099,
+                            "lng": -122.4162614,
+                            "formatted_address": "1263 Leavenworth St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Le Beau Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Daily check-in call with her elderly father to see how his day was and confirm his doctor's appointment for next week.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare dinner while listening to a classical music playlist, eat at her dining table, and unwind.",
+                        "geocode": {
+                            "lat": 37.7962044,
+                            "lng": -122.4125231,
+                            "formatted_address": "1047 Pacific Ave, San Francisco, CA 94115"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch and read the latest selection for her monthly book club.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Living Room"
+                    }
+                ],
+                "day_overview": "A productive day for a tech marketing director, balancing strategic leadership at a FiDi coworking space with personal wellness, including a yoga session in her Nob Hill neighborhood and a daily call with her elderly father.",
+                "home_address": "1047 Pacific Ave, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7962044,
+                    "lng": -122.4125231,
+                    "formatted_address": "1047 Pacific Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1972",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

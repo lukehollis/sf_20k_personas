@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Chang",
+    "givenName": "Mei",
+    "familyName": "Chang",
+    "jobTitle": "Logistics Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Chang\u2019s childhood was steeped in the cool, persistent fog of San Francisco\u2019s Sunset District. The daughter of immigrants who ran a small, beloved neighborhood bakery, her life was structured by the scent of warm bread and the unyielding rhythm of hard work. Her parents, practical and loving, envisioned a stable future for her, built on the sacrifices they\u2019d made. For Mei, however, stability felt like a cage. Her true escape was found on school trips to the de Young Museum, where the vibrant chaos of a painting spoke a language more native to her than the cautious pragmatism of home.\n\nThis quiet rebellion led her to pursue a Bachelor's degree in Art History at SF State, a choice she framed to her parents as \u201cstudying culture\u201d but knew was an indulgence. The four years were a vibrant awakening, but graduation brought a harsh reality. Faced with student debt and the unspoken weight of her parents' expectations, the path of a curator or academic seemed impossibly fragile. In a decisive turning point, she buckled down, earned a project management certificate, and leveraged her meticulous nature into a logistics role at a downtown financial firm.\n\nNow 30, Mei is a Logistics Coordinator, a title that feels both precise and hollow. Her 0.0-mile commute is to a standing desk in the corner of her minimalist Hayes Valley apartment. Her days are a blur of spreadsheets, shipping manifests, and coordinating timelines for assets she never sees\u2014a digital fortress of her own making. Her routine is impeccable: a morning latte from a local artisan roaster, a focused eight hours of work, and an evening run through the Panhandle. She maintains a small, loyal circle of college friends, but often feels disconnected, observing the vibrant city from behind her screen.\n\nMei\u2019s connection to San Francisco is a tale of two cities: the familiar, familial Sunset she visits on weekends, and the chic, impersonal Hayes Valley she inhabits. Her dream is no longer a grand career, but a quiet integration. She dreams of saving enough to take a sabbatical, to finally visit the Uffizi Gallery, or even just to have the mental space to start an art criticism blog. Mei Chang\u2019s future is an unwritten canvas, waiting for her to find the courage to pick up the brush again."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, check notifications, and do a 15-minute guided meditation.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mei's Apartment Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Morning jog through the neighborhood hills to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7134767,
+                            "lng": -122.4327755,
+                            "formatted_address": "1398 Geneva Ave, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 35,
+                        "location": "Douglass Park & Playground"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get dressed into comfortable work-from-home attire, and make coffee and toast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Mei's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into home office; log into VPN, Slack, and logistics software to start the workday.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Daily team video sync to review overnight shipment alerts and prioritize tasks.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\ude9b",
+                        "action": "Coordinate with international freight forwarders via email and phone to resolve a customs hold-up.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 135,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Step out for a quick lunch, picking up a burrito bowl to go.",
+                        "geocode": {
+                            "lat": 37.7900467,
+                            "lng": -122.4207468,
+                            "formatted_address": "1431 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Little Chihuahua"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon focus block: Update shipment tracking database and analyze carrier delivery times.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 180,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Finalize shipping plans for the next day and send out a summary email to the team.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\uded1",
+                        "action": "Log off from all systems and tidy up the workspace to mentally disconnect from work.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Decompress from the day with a reformer pilates class.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "bodyFi Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for groceries for dinner and the next few days.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Whole Foods Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Prepare dinner while on a video call with family.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mei's Apartment Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while watching a new documentary series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Mei's Apartment Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night: skincare routine, tidying up, and reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Mei's Apartment"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Logistics Coordinator in Noe Valley, balancing detailed work tasks with local exercise, errands, and virtual socializing before a relaxing evening.",
+                "home_address": "1704 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7531542,
+                    "lng": -122.40658,
+                    "formatted_address": "1704 24th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Chang Family"
+    }
+}

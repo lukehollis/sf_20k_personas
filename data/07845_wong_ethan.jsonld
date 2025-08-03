@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Wong",
+    "givenName": "Ethan",
+    "familyName": "Wong",
+    "jobTitle": "Patient Transporter",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ethan Wong\u2019s world is a ten-block radius in the Inner Sunset, perpetually cloaked in a soft blanket of fog. Born and raised in the Richmond District, Ethan is a product of a San Francisco that feels both distant and immediate. His parents, immigrants from Hong Kong, ran a small, bustling laundromat where the scent of warm cotton and the rhythmic chime of the door defined his childhood. They instilled in him a quiet diligence, hoping he would pursue a career far from the grueling hours of a family business.\n\nHe began that path at San Francisco State University, tentatively studying graphic design. His future felt abstract and full of artistic potential until his sophomore year when his mother was diagnosed with a rapidly progressing form of cancer. College became an unaffordable luxury and a distant priority. Ethan dropped out, spending his days and nights at the UCSF Medical Center on Parnassus, navigating the confusing maze of corridors and appointments. It was there, watching the steady, calming presence of the patient transporters, that he found an unexpected direction.\n\nAfter his mother passed, Ethan, adrift and needing stable work, applied for the very job he had come to respect. Now, two decades later, he is a veteran transporter. His work is a physically demanding, emotionally delicate ballet of moving people at their most vulnerable. He has mastered the art of a gentle lift, a reassuring word, and the silent empathy that fills the space in a hospital elevator.\n\nHis 0.0-mile commute is from a small, rent-controlled studio apartment just a block from the hospital. His life is a routine of shifts, punctuated by solitary walks in Golden Gate Park or grabbing pho on Irving Street. His colleagues\u2014fellow transporters, nurses, and techs\u2014are his true family, bonded by shared stress and gallows humor. He has no grand dreams of wealth or fame. Instead, he hopes to one day finish his degree online, perhaps in sociology, not for a new career but for himself. His deeper aspiration remains unchanged each day: to be a small point of comfort and dignity in the overwhelming machinery of healing and loss, a quiet constant in his ever-changing city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, hit snooze once, then check the surf cam for Ocean Beach while having a glass of water.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Bedroom)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get into scrubs, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Bathroom)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Make coffee and a high-protein breakfast of eggs and toast with his partner before they both head to work.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Kitchen)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, listening to a sports podcast to catch up on the latest Warriors news.",
+                        "geocode": {
+                            "lat": 37.7652008,
+                            "lng": -122.484127,
+                            "formatted_address": "Lincoln Way, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Driving on Lincoln Way"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Navigate the employee garage, find a spot, and walk into the hospital to clock in.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "UCSF Millberry Union Garage"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe5",
+                        "action": "Begin the morning shift: review the transport queue, grab a wheelchair, and start moving patients from their rooms to radiology and physical therapy.",
+                        "geocode": {
+                            "lat": 37.7633464,
+                            "lng": -122.4573282,
+                            "formatted_address": "505 Parnassus Ave #294, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 240,
+                        "location": "UCSF Moffitt/Long Hospital"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Grab a quick and filling lunch bowl from the hospital cafeteria to eat outside for some fresh air.",
+                        "geocode": {
+                            "lat": 37.7633464,
+                            "lng": -122.4573282,
+                            "formatted_address": "505 Parnassus Ave #294, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "Moffitt Cafe, UCSF"
+                    },
+                    {
+                        "emoji": "\u267f",
+                        "action": "Afternoon shift: handle a steady flow of patient discharges and inter-departmental transfers, offering a calm presence to anxious patients.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 225,
+                        "location": "UCSF Parnassus Campus"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Clock out, debrief with a coworker, and begin the short commute home.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Driving on Parnassus Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Arrive home, change out of scrubs, and decompress on the couch for a few minutes.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Living Room)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walk over to the local grocery store to pick up fresh produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7528602,
+                            "lng": -122.5035591,
+                            "formatted_address": "3701 Noriega St Unit A, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "Gus's Community Market (Noriega St)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cook dinner together with his partner, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Kitchen)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Go for a relaxing walk along the Great Highway with his partner, watching the sunset over the ocean.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Settle in to watch a new episode of a favorite sci-fi show on streaming.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Living Room)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Get ready for bed, lay out scrubs for the next day, and read a few pages of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Bedroom)"
+                    }
+                ],
+                "day_overview": "A physically demanding but structured day for Ethan, a patient transporter at UCSF. The day is balanced with a short commute, focused work, and relaxing evening activities with his partner in their Outer Sunset neighborhood.",
+                "home_address": "3228 Judah St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7609857,
+                    "lng": -122.4968784,
+                    "formatted_address": "3228 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Juan Rodriguez",
+    "givenName": "Juan",
+    "familyName": "Rodriguez",
+    "jobTitle": "Line Cook",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Food Service"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Juan Rodriguez\u2019s life is a story told in the rhythm of a chopping knife and the sizzle of oil in a hot pan. Born in a small village outside Oaxaca, Mexico, he grew up surrounded by the rich, complex flavors of his mother\u2019s cooking. His family worked a small plot of land, and while his formal schooling ended with the equivalent of a high school diploma, his true education came from the earth and the kitchen. The fields, however, offered little future, and at 19, with a quiet determination to support his parents and younger sister, he made the arduous journey north.\n\nHe landed in San Francisco, starting, like many, at the bottom rung: a dishwasher in a bustling Italian restaurant in North Beach. For two years, he learned English from the orders shouted across the kitchen and studied the line cooks with an intense focus. A turning point came when a sous chef, seeing his relentless work ethic, gave him a chance on the prep station. Juan seized it. He proved to be fast, precise, and intuitive, his hands already possessing a deep-seated culinary intelligence. He moved from restaurant to restaurant, each move a step up, eventually mastering the high-pressure dance of a line cook at a trendy Mission District eatery.\n\nToday, Juan\u2019s world is contained within a few city blocks. His commute is zero miles; he lives in a small, spartan single room above the very restaurant where he works. His day begins with the faint smells of prep drifting up from the kitchen below and ends late at night, climbing the stairs, exhausted but satisfied. His co-workers\u2014a mix of fellow immigrants from El Salvador, Guatemala, and the Philippines\u2014are his de facto family. They share post-shift beers, complain about demanding customers, and cover for each other when life intervenes. His connection to his family in Oaxaca is a nightly ritual of WhatsApp calls, his earnings helping to pay for his sister\u2019s university education.\n\nJuan\u2019s dream is to one day trade his station on the line for a place of his own\u2014a small, no-frills taqueria serving the authentic Oaxacan food of his childhood. Every perfectly seared piece of meat, every dollar saved, is a step toward that goal. His San Francisco isn't the Golden Gate Bridge or cable cars; it's the vibrant, gritty soul of the Mission, a neighborhood he nourishes as one of its unseen but essential engines."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, hit snooze once, then make strong coffee and check texts/news.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Clement St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of yogurt and granola while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home on Clement St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Get dressed for the day, grabbing uniform and work essentials.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home on Clement St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Begin the long commute, navigating traffic down Masonic Ave to the freeway.",
+                        "geocode": {
+                            "lat": 37.7136775,
+                            "lng": -122.4421698,
+                            "formatted_address": "Cross St, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 50,
+                        "location": "SF Cross-City Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Arrive at work, clock in, change into uniform, and greet the team.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 15,
+                        "location": "The Byte Kitchen @ SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2a",
+                        "action": "Begin morning 'mise en place' \u2014 chopping vegetables, preparing sauces, and setting up the line for lunch service.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "The Byte Kitchen @ SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83d\udd25",
+                        "action": "Work the intense lunch rush, firing and plating dozens of grain bowls and sandwiches for the tech workers.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "The Byte Kitchen @ SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Take a short, late lunch break, eating the staff 'family meal' in the back of house.",
+                        "geocode": {
+                            "lat": 37.5670756,
+                            "lng": -122.3248422,
+                            "formatted_address": "5 S Ellsworth Ave, San Mateo, CA 94401, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Byte Kitchen Staff Area"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Break down the station, deep clean all surfaces, and begin prep work for the following day's service.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "The Byte Kitchen @ SOMAcentral"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Clock out, change out of uniform, and start the slow drive home during rush hour.",
+                        "geocode": {
+                            "lat": 37.780683,
+                            "lng": -122.4723021,
+                            "formatted_address": "Richmond District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "SoMa to Richmond Crawl"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7a",
+                        "action": "Stop for a quick post-work beer to decompress with other service industry folks.",
+                        "geocode": {
+                            "lat": 37.7828495,
+                            "lng": -122.4640645,
+                            "formatted_address": "441 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Bitter End"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh produce and some tortillas for dinner.",
+                        "geocode": {
+                            "lat": 37.7827054,
+                            "lng": -122.4668356,
+                            "formatted_address": "707 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Richmond New May Wah Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Cook a simple dinner of tacos while listening to music.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home on Clement St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner on the couch while watching a basketball game.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home on Clement St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wind down, maybe do some light stretching for his back, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home on Clement St"
+                    }
+                ],
+                "day_overview": "A physically demanding day for a line cook, balancing a long cross-city commute from the Outer Richmond to a fast-paced SoMa kitchen with evening activities focused on decompression and personal errands.",
+                "home_address": "3307 Clement St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7813893,
+                    "lng": -122.4946659,
+                    "formatted_address": "3307 Clement St, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

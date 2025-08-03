@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "Quality Control Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka is a product of San Francisco\u2019s fog-laced, working-class avenues, a world away from the gleaming tech campus he would one day serve. A third-generation Japanese-American, he was raised in the Sunset District by a stoic auto-mechanic father and a warm, pragmatic mother who worked as a teacher\u2019s aide. From his father, Kenji inherited a quiet intensity and an appreciation for well-oiled machinery; from his mother, a patient eye for overlooked details. His childhood was marked by the hum of his father\u2019s garage and the salty air rolling in from Ocean Beach.\n\nHis path into tech was unconventional. Foregoing a direct route into computer science, Kenji pursued a Bachelor's in Industrial Design at SF State. He was fascinated by the intersection of form and function but grew frustrated by the subjectivity of pure aesthetics. During a post-college internship at a design firm, he found himself more engaged in debugging their new app's user interface than in creating mockups. He discovered a deep, satisfying thrill in identifying flaws, finding inconsistencies, and pushing a product toward perfection. This was his turning point; he pivoted, earning certifications and meticulously building a career as a Quality Control Engineer.\n\nNow 37, Kenji\u2019s life is a study in controlled precision. The pandemic permanently shifted his job to a remote position, shrinking his world to his meticulously organized Inner Richmond apartment. His 0.0-mile commute consists of walking from his bedroom to his standing desk. His days are structured: pour-over coffee at 7 a.m., a focused work block, and a mandatory midday walk through Golden Gate Park to clear his head. Socially, he maintains a tight-knit circle of college friends, preferring a well-crafted dinner over a crowded bar.\n\nKenji\u2019s connection to San Francisco is deep and residential, rooted in the neighborhood rhythms he\u2019s known his whole life. He is a regular at the Clement Street noodle shops and knows the best time to find parking near the park. His core aspiration isn't to climb the corporate ladder, but to complete the restoration of a 1972 Datsun 240Z\u2014a project that honors his father\u2019s craft while satisfying his own obsession with flawless execution. For Kenji, happiness lies not in disruption, but in achieving a quiet, perfect order."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for 10 minutes using a mindfulness app, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mission District Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare a quick breakfast of avocado toast and coffee while catching up on tech news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mission District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the BART station, enjoying the morning murals in the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Streets of the Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Take the BART train from 24th St Mission Station to Montgomery St Station.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "BART Train"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, grab a sparkling water from the kitchen, and review the overnight automated test results and new bug reports.",
+                        "geocode": {
+                            "lat": 37.7880704,
+                            "lng": -122.4461381,
+                            "formatted_address": "3237 Sacramento St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Unity Technologies SF Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1",
+                        "action": "Participate in the daily team stand-up meeting, discussing testing progress and current blockers for the new rendering pipeline.",
+                        "geocode": {
+                            "lat": 37.7880704,
+                            "lng": -122.4461381,
+                            "formatted_address": "3237 Sacramento St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Unity Technologies SF Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Manual regression testing on a new build, meticulously documenting any new issues found in Jira.",
+                        "geocode": {
+                            "lat": 37.7880704,
+                            "lng": -122.4461381,
+                            "formatted_address": "3237 Sacramento St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 150,
+                        "location": "Unity Technologies SF Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy grain bowl for lunch with a coworker.",
+                        "geocode": {
+                            "lat": 37.7903812,
+                            "lng": -122.4020921,
+                            "formatted_address": "116 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "Proper Food on New Montgomery"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Collaborate with a software developer to debug a persistent physics engine glitch identified in the morning.",
+                        "geocode": {
+                            "lat": 37.7880704,
+                            "lng": -122.4461381,
+                            "formatted_address": "3237 Sacramento St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 120,
+                        "location": "Unity Technologies SF Office"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Write and submit a final QA sign-off report for a feature update scheduled for release.",
+                        "geocode": {
+                            "lat": 37.7880704,
+                            "lng": -122.4461381,
+                            "formatted_address": "3237 Sacramento St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 70,
+                        "location": "Unity Technologies SF Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute home, taking the BART train from Montgomery back to 24th St Mission.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "BART Train"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Head out for an evening bouldering session to de-stress and get some exercise.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs Climbing Gym"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Pick up a carne asada super burrito on the way home for an easy and classic dinner.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83c\udfae",
+                        "action": "Eat dinner while playing the latest indie game release on his PC to unwind.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mission District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Have a video call with his parents to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mission District Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a sci-fi novel before bed.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mission District Apartment"
+                    }
+                ],
+                "day_overview": "A focused day for a tech professional, balancing demanding quality control tasks with a physically engaging hobby and staying connected with family, all while navigating the city via public transport.",
+                "home_address": "97 24th St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7524484,
+                    "lng": -122.4152039,
+                    "formatted_address": "24th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

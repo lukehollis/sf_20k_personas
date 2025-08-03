@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Director of Merchandising",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a study in curated contrasts, much like the digital storefronts she now directs. Raised in a quiet Portland suburb by an engineer father and a librarian mother, her childhood was filled with books and a deep appreciation for structured beauty. This led her not to code, but to art, culminating in a Master of Fine Arts in Museum Studies. Her dream was to curate exhibits at a world-class institution, a dream that brought her to San Francisco in the late 1990s with aspirations of working at the de Young or SFMOMA.\n\nThe reality of a competitive, low-paying arts scene was a harsh turning point. Facing student loans, she took a \"temporary\" job at a fledgling e-commerce startup, organizing product listings. It was there she had her epiphany: a digital storefront was just a different kind of gallery, and user experience was a form of storytelling. She applied her academic principles of curation and narrative to the burgeoning tech world, and her career took off. She navigated the dot-com bust, proved her value, and steadily climbed the ladder, her unique background making her a sought-after leader in a field dominated by MBAs.\n\nNow 46, Sarah lives a deliberately grounded life in a meticulously kept Cole Valley apartment that doubles as her office. Her 0.0-mile commute allows for a routine she treasures: a morning coffee from Reverie Cafe, a walk up to Tank Hill to watch the fog burn off the city, followed by a day of back-to-back video calls. Her home is her sanctuary, filled with art from local makers and an impressive collection of houseplants. Her social life is small but deep, centered on a handful of friends\u2014a mix of tech veterans and artists\u2014with whom she shares dinners and hikes in the Marin Headlands.\n\nHaving achieved professional success, Sarah\u2019s aspirations have shifted. She feels the pull of her original passion and dreams of a future where she can bridge her two worlds\u2014perhaps consulting for museums on digital strategy or mentoring young women from arts backgrounds to find their place in tech. She loves the city that forged her career but remains deeply connected to the version of San Francisco that exists beyond the screen, in the quiet streets of her neighborhood and the wild nature just over the bridge."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Morning meditation and journaling to set intentions for the day.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Brannan St)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Enjoying a freshly brewed coffee with her partner while catching up on the morning news.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Brannan St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Showering and getting dressed in 'smart casual' tech attire for the day.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Brannan St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Commuting to work via bicycle, taking the scenic route north along the waterfront.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "The Embarcadero Bike Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arriving at the co-working space, setting up her workstation, and reviewing the day's priorities.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "AvantSpace Cow Hollow"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Leading the daily virtual standup with the merchandising team to align on priorities for the new product launch.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "AvantSpace Conference Room 'The Fog'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Deep work session analyzing Q3 sales data and drafting the initial Q4 product placement strategy.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 105,
+                        "location": "AvantSpace Focus Booth"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walking to pick up a 'Marina Greens' salad and eating at a parklet to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.8004202,
+                            "lng": -122.4395019,
+                            "formatted_address": "Chestnut St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn (Chestnut St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Joining a video sync with the Marketing and Engineering leads to finalize the Q4 promotional calendar.",
+                        "geocode": {
+                            "lat": 37.75087389999999,
+                            "lng": -122.4162826,
+                            "formatted_address": "1398 S Van Ness Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "AvantSpace Phone Booth"
+                    },
+                    {
+                        "emoji": "\ud83c\udf93",
+                        "action": "1-on-1 virtual mentoring session with a junior merchandiser on career development.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "AvantSpace Cow Hollow"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd1",
+                        "action": "Final work block to finalize a presentation for the weekly executive business review and clear her inbox.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "AvantSpace Cow Hollow"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4",
+                        "action": "Commuting home via bicycle, enjoying the late afternoon sun.",
+                        "geocode": {
+                            "lat": 37.7420216,
+                            "lng": -122.4280175,
+                            "formatted_address": "30th St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF Bike Route 30"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stopping for fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market (Potrero Hill)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cooking a salmon and roasted vegetable dinner with her partner while discussing their days.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home (Brannan St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Enjoying dinner and a glass of Sonoma Chardonnay with her partner at the dining table.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Brannan St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Curling up on the couch to stream an episode of a new crime drama.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Brannan St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Winding down by reading a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Brannan St)"
+                    }
+                ],
+                "day_overview": "A productive and active day for Sarah, blending a demanding tech leadership role at a Cow Hollow co-working space with a scenic bike commute from her Dogpatch home, and ending with quality time cooking and relaxing with her partner.",
+                "home_address": "2865 Brannan St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7801007,
+                    "lng": -122.3943276,
+                    "formatted_address": "Brannan St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

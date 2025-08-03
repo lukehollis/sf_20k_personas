@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Thompson",
+    "givenName": "Sarah",
+    "familyName": "Thompson",
+    "jobTitle": "Case Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Social Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Thompson\u2019s path to social work began not in a classroom, but in the quiet, tense hallways of her childhood home in suburban Sacramento. Growing up, she was the anchor in a family rocked by her older brother\u2019s struggle with addiction. While her parents navigated a maze of denial and confusion, Sarah became an unwilling expert in de-escalation, crisis management, and the deep-seated empathy born from witnessing a loved one\u2019s pain. This experience became the invisible curriculum of her youth.\n\nShe sought formal understanding at UC Santa Cruz, earning a Bachelor's degree in Sociology. The coastal redwood campus was a world away from Sacramento's suburbs, and it was there she found language for the systemic issues she had only understood on a personal level. After graduating, San Francisco was a natural next step\u2014a city of immense wealth and desperate poverty, where she felt she could make a difference. She started with an entry-level position at a non-profit, learning the city\u2019s complex web of services from the ground up.\n\nThe turning point was her promotion to Case Manager. Now 29, Sarah operates with a quiet resilience. Her 0.0-mile commute is a testament to her integration into her neighborhood, the Inner Richmond. Her rent-controlled apartment doubles as her office, its bay window looking out over the community she serves. Her days are a blend of remote work\u2014navigating bureaucratic phone trees and filling out digital paperwork\u2014and walking to meet her clients for coffee on Clement Street or a check-in at a nearby shelter. She helps them access housing, healthcare, and employment, acting as their advocate and guide through systems designed to be overwhelming.\n\nHer social life consists of a small, tight-knit group of friends, mostly fellow social workers who understand the emotional toll of the job. They share cheap pho and stories of small victories. Sarah doesn\u2019t dream of a high-rise condo; she dreams of policy changes that would make her job obsolete. She envisions a future where she can move from direct aid to advocacy, helping to build the supportive structures her brother never had. For now, she remains the city's essential connective tissue, a dedicated, often invisible, force holding a small piece of San Francisco together."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, 10-minute meditation, and journal to mentally prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Get ready for the day: shower, dress, and pack a bag for the gym later.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a quick breakfast of avocado toast and coffee while listening to a news podcast.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the designated carpool meeting point to meet her commuting group.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 10,
+                        "location": "Washington Square Park Corner"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Morning commute in the carpool, reviewing personal emails and chatting with the driver.",
+                        "geocode": {
+                            "lat": 37.7706831,
+                            "lng": -122.3895903,
+                            "formatted_address": "Mission Bay, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Driving from North Beach to Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, grab a tea, and review the case queue for any urgent overnight incidents.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, United States"
+                        },
+                        "duration": 45,
+                        "location": "Uber Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Team sync meeting to discuss difficult cases and share updates on policy changes.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Uber HQ - 'The Bridge' Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Focused work block: investigating and documenting user-reported safety incidents.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, United States"
+                        },
+                        "duration": 165,
+                        "location": "Uber Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break with colleagues at the subsidized cafeteria, followed by a short walk outside.",
+                        "geocode": {
+                            "lat": 37.7763673,
+                            "lng": -122.4261191,
+                            "formatted_address": "550 Laguna St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Commons Cafeteria at Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Afternoon work session, including follow-up calls and correspondence on active cases.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, United States"
+                        },
+                        "duration": 180,
+                        "location": "Uber Headquarters"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up for the day, finalizing case notes and preparing a to-do list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, United States"
+                        },
+                        "duration": 30,
+                        "location": "Uber Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet the carpool and commute home, listening to a true crime podcast to unwind.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Driving from Mission Bay to North Beach"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Stop for a de-stressing Vinyasa yoga class to separate the work day from the evening.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "CorePower Yoga - North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up a few fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.8061932,
+                            "lng": -122.4130575,
+                            "formatted_address": "320 Bay St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Trader Joe's at Northpoint Centre"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Prepare and eat a simple, healthy dinner while watching a new episode of a favorite series.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\u2728",
+                        "action": "Tidy up the apartment, lay out clothes for the next day, and pack lunch.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a book and avoiding screens before bed.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A structured and busy weekday for Sarah, balancing a demanding role as a Case Manager at Uber with personal wellness. Her day begins with a grounding morning routine in her North Beach apartment, followed by a carpool commute to Mission Bay, and ends with a decompressing yoga session and quiet time at home.",
+                "home_address": "2793 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.8007819,
+                    "lng": -122.4109746,
+                    "formatted_address": "2793 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

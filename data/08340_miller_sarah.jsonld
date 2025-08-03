@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Administrative Assistant (Startup)",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is one of quiet consistency, a stark contrast to the chaotic ambition of the tech startup she supports from her Inner Richmond apartment. Raised in Fresno, the only child of a high school teacher and a mechanic, Sarah grew up with an appreciation for practicality and the value of a hard day's work. She was drawn to art, filling sketchbooks with charcoal drawings, but a year of graphic design at a community college felt like a forced march toward commercializing something she held sacred. She dropped out, seeking a life less prescribed.\n\nIn her early twenties, she followed a friend to San Francisco, instantly falling for the city\u2019s foggy, romantic fatalism. She found she had a knack for bringing order to chaos, a skill that translated perfectly into administrative work. For two decades, she has been the stable anchor in a sea of ever-shifting startups, organizing schedules and managing offices for founders with grand, fleeting visions. Her current work-from-home role is a welcome evolution, eliminating the commute and giving her back precious hours.\n\nA key turning point was the end of a serious relationship in her early thirties. The breakup was painful but ultimately clarifying, cementing a deep-seated self-reliance. She stopped waiting for her life to begin and started building it for herself, securing the rent-controlled apartment she still calls home. Her social circle is small and loyal, comprised of friends who, like her, have weathered the city\u2019s many booms and busts.\n\nHer days follow a comfortable rhythm: a morning walk with her rescue dog in Golden Gate Park, a focused workday punctuated by the chime of Slack notifications, and evenings spent at a community pottery studio. It is there, with her hands covered in clay, that Sarah feels most herself. She\u2019s not gunning for a promotion or dreaming of a corner office. Her quiet aspiration is to one day have her own stall at the Clement Street Farmers Market, selling her ceramic mugs and bowls\u2014a small, tangible legacy in the city that shaped her."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Wake up, brew coffee, and get teenager ready for school while making a quick breakfast of toast and eggs.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment on Valencia St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the Church & Duboce Muni station to catch the train to work.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Valencia Street Sidewalks"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Ride the N Judah Muni Metro train, listening to a podcast to tune out the morning rush.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "N Judah Muni Metro Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, settle in at the desk, triage the main email inbox, and update the department head's calendar.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Take notes and track action items during the weekly department sync meeting.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Conference Room 3A"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk down the hill to grab a Mediterranean chicken salad for lunch with a coworker.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Mediteran\u00e9e on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Process expense reports and coordinate logistics for an upcoming lab event.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Send out a daily summary, organize desktop files, and create a to-do list for the next day.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 25,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Commute home on the N Judah, reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "N Judah Muni Metro Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta, bread, and produce for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.761345,
+                            "lng": -122.424711,
+                            "formatted_address": "3639 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bi-Rite Market on 18th Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner with her teenager, catching up on the highlights and challenges of their day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf66",
+                        "action": "Take a relaxing evening stroll to get some ice cream and enjoy the neighborhood atmosphere.",
+                        "geocode": {
+                            "lat": 37.76159,
+                            "lng": -122.425717,
+                            "formatted_address": "3692 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Dolores Park & Bi-Rite Creamery"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Wind down by watching a show on Netflix, tidying up the living room, and prepping bag for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A busy but balanced day for a tech administrative assistant, juggling work responsibilities at UCSF with parenting duties and personal time in the vibrant Mission District.",
+                "home_address": "695 Valencia St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.761846,
+                    "lng": -122.4213515,
+                    "formatted_address": "695 Valencia St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

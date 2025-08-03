@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anya Sharma",
+    "givenName": "Anya",
+    "familyName": "Sharma",
+    "jobTitle": "Project Manager, Environmental Consulting",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Environmental Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anya Sharma\u2019s life began not in San Francisco, but in the sprawling suburbs of Fremont, the daughter of pragmatic software engineers who had immigrated from Mumbai. Her childhood was a comfortable blend of Indian tradition at home and Bay Area ambition at school. The seed for her future was planted not in a classroom, but during a family trip to Yosemite when she was ten. Staring up at the granite cliffs, a profound sense of awe and protective responsibility washed over her, a feeling that would later define her career.\n\nWhile her parents hoped she\u2019d follow them into tech, Anya pursued her passion at UC Berkeley, earning a Master's in Environmental Policy. Her early career was filled with idealistic fervor at a small non-profit, but she grew frustrated with the slow pace of change. A key turning point came when she realized she could make a greater impact from within the system. This led her to consulting, where she now manages large-scale environmental compliance projects for corporate clients\u2014a compromise that sometimes weighs on her conscience.\n\nAt forty, Anya\u2019s life is centered in her Inner Richmond apartment. Her 0.0-mile commute means her days start not with traffic, but with a brisk walk through the foggy tendrils of Golden Gate Park, coffee in hand. Her apartment, filled with plants and books on sustainable agriculture, is her sanctuary and office. Although single, she is far from lonely. Her social life revolves around a tight-knit circle of friends from her Berkeley days, a chosen family that meets for weekly potlucks and hiking excursions in Marin.\n\nAnya loves the quiet, neighborhood feel of the Inner Richmond, its proximity to nature, and the authentic dim sum on Clement Street. San Francisco is the only place that feels like a true synthesis of her values: progressive, diverse, and intimately connected to the natural world. Her ultimate dream is to leverage her project management skills to start a community-based urban farming initiative, transforming neglected city lots into green, productive spaces. It\u2019s a vision that would finally close the gap between her pragmatic career and the idealistic girl who once stood in awe of Yosemite."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, 15-minute guided meditation, and stretching.",
+                        "geocode": {
+                            "lat": 37.765701,
+                            "lng": -122.4045626,
+                            "formatted_address": "1793 16th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1793 16th St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a healthy breakfast of greek yogurt and berries while listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.765701,
+                            "lng": -122.4045626,
+                            "formatted_address": "1793 16th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1793 16th St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed in business casual attire, and pack work bag for the day.",
+                        "geocode": {
+                            "lat": 37.765701,
+                            "lng": -122.4045626,
+                            "formatted_address": "1793 16th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (1793 16th St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet carpool at the designated corner and commute through city traffic.",
+                        "geocode": {
+                            "lat": 37.78820899999999,
+                            "lng": -122.4168462,
+                            "formatted_address": "Lower Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Carpool Vehicle (Mission to Lower Nob Hill)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at work, grab a coffee, and have a morning sync-up with the hospital's facilities team about the new waste reduction initiative.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Health Saint Francis Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused desk time: Analyzing energy consumption data and drafting a quarterly sustainability progress report.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Anya's On-site Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk off-site for a quick and healthy lunch to clear her head.",
+                        "geocode": {
+                            "lat": 37.7905176,
+                            "lng": -122.4170789,
+                            "formatted_address": "1030 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Nourish Cafe"
+                    },
+                    {
+                        "emoji": "\u267b\ufe0f",
+                        "action": "Conduct a site walk-through of the hospital's hazardous materials disposal area to ensure compliance.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 75,
+                        "location": "UCSF Hospital Service Wings"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead a video conference call with external auditors regarding the hospital's environmental certifications.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Anya's On-site Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Wrap up final emails for the day and meet the carpool for the commute home.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Carpool Vehicle (Lower Nob Hill to Mission)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Unwind from the day with a Vinyasa flow yoga class.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Prepare a simple home-cooked dinner, like a quinoa bowl with roasted vegetables.",
+                        "geocode": {
+                            "lat": 37.765701,
+                            "lng": -122.4045626,
+                            "formatted_address": "1793 16th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (1793 16th St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, catch up with a friend on the phone, and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.765701,
+                            "lng": -122.4045626,
+                            "formatted_address": "1793 16th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (1793 16th St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening wind-down routine: tidy up the kitchen, prep coffee for the morning, and skincare.",
+                        "geocode": {
+                            "lat": 37.765701,
+                            "lng": -122.4045626,
+                            "formatted_address": "1793 16th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (1793 16th St)"
+                    }
+                ],
+                "day_overview": "A productive day for Anya, managing environmental projects at a hospital, followed by an evening of wellness and relaxation in her Mission District neighborhood.",
+                "home_address": "1793 16th St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.765701,
+                    "lng": -122.4045626,
+                    "formatted_address": "1793 16th St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

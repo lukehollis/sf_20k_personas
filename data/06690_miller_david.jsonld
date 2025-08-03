@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Principal Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s world is a curated space of logic and predictable patterns, a stark contrast to his origins in a sprawling, cookie-cutter suburb outside Columbus, Ohio. Raised by a pragmatic accountant father and a high school science teacher mother, David\u2019s childhood was a stable, unremarkable landscape of Midwestern comfort. He excelled in math and science, finding a quiet beauty in the elegant certainty of a solved equation, a stark difference from the messy ambiguities of adolescent social life.\n\nHis intellectual curiosity led him not to computer science, but to the more esoteric field of Computational Neuroscience for his graduate work at Stanford. He was fascinated by the brain's data processing, seeking to model the very architecture of thought. It was there, immersed in the Bay Area\u2019s gravitational pull of innovation, that he had his turning point. A summer internship showed him that the complex modeling he applied to neural networks could predict consumer behavior with staggering accuracy. The siren song of real-world application\u2014and a six-figure salary far exceeding any academic post\u2014was too powerful to ignore. He left his PhD program with a master's degree and never looked back.\n\nNow 35, David is a Principal Data Scientist for a major tech firm, a master of machine learning models. His life unfolds within the quiet, tree-lined streets of Cole Valley. With a 0.0-mile commute, his apartment is both office and sanctuary. Mornings begin with a pour-over coffee, its ritualistic precision a comfort, followed by hours of intense focus, his world compressed into lines of Python and data visualizations. His primary escape is a midday run through the verdant trails of Golden Gate Park, just blocks away.\n\nA long-term relationship ended three years ago, a casualty of his all-consuming work focus. Now, his social connections are structured and purposeful, much like his code. He finds community not in bars, but at Dogpatch Boulders, where the analytical challenge of a climbing problem provides a physical and mental release alongside goal-oriented peers.\n\nDespite his professional success, David feels a growing dissonance. The algorithms he perfects feel increasingly trivial, designed to optimize ad clicks or user engagement for fleeting digital products. He dreams of applying his skills to something tangible and lasting\u2014modeling climate change data or building predictive models for neurological disease, reconnecting with the foundational \"why\" that first drew him to science. His future aspiration isn't a promotion, but a pivot: to find a problem worthy of the elegant solutions he knows he can build."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, 10-minute meditation session using a mindfulness app, and check overnight data model training results on phone.",
+                        "geocode": {
+                            "lat": 37.7771706,
+                            "lng": -122.4699033,
+                            "formatted_address": "1024 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "David's Bedroom, 1024 Balboa St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee with beans from a local roaster and make a quick breakfast of avocado toast and a hard-boiled egg.",
+                        "geocode": {
+                            "lat": 37.7771706,
+                            "lng": -122.4699033,
+                            "formatted_address": "1024 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Kitchen, 1024 Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Review personal emails, check the weather, and get into cycling gear. Double-check tire pressure and lights.",
+                        "geocode": {
+                            "lat": 37.7771706,
+                            "lng": -122.4699033,
+                            "formatted_address": "1024 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office & Entryway, 1024 Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5",
+                        "action": "Cycle from the Richmond to the Financial District, taking the scenic and hilly route through the Presidio for a morning workout.",
+                        "geocode": {
+                            "lat": 37.8021445,
+                            "lng": -122.4585086,
+                            "formatted_address": "Presidio Promenade Trail, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 35,
+                        "location": "Presidio Promenade Bike Trail"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at work, park bike in the building's secure bike room, and quickly change. Grab a water and head to the desk.",
+                        "geocode": {
+                            "lat": 37.7934163,
+                            "lng": -122.4052491,
+                            "formatted_address": "725 Sacramento St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 15,
+                        "location": "The Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the data science team's daily stand-up meeting, reviewing progress on current sprints and unblocking junior scientists.",
+                        "geocode": {
+                            "lat": 37.7934163,
+                            "lng": -122.4052491,
+                            "formatted_address": "725 Sacramento St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 30,
+                        "location": "Team Pod 'Cassiopeia', The Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: Architecting a new recommendation engine and running exploratory data analysis in a Jupyter notebook.",
+                        "geocode": {
+                            "lat": 37.7934163,
+                            "lng": -122.4052491,
+                            "formatted_address": "725 Sacramento St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 135,
+                        "location": "David's Desk, The Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to pick up a pre-ordered healthy lunch. Eat at a nearby public open space while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7932762,
+                            "lng": -122.4007398,
+                            "formatted_address": "350 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 50,
+                        "location": "Proper Food on Kearny St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Meet with the product management team to sync on Q3 roadmap goals and present findings from a recent A/B test.",
+                        "geocode": {
+                            "lat": 37.7934163,
+                            "lng": -122.4052491,
+                            "formatted_address": "725 Sacramento St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "Conference Room 'Turing', The Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udca1",
+                        "action": "Afternoon focus block: Code review for a colleague's pull request and documenting the data pipeline for the new model.",
+                        "geocode": {
+                            "lat": 37.7934163,
+                            "lng": -122.4052491,
+                            "formatted_address": "725 Sacramento St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 105,
+                        "location": "Quiet Corner, The Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83c\udf06",
+                        "action": "Pack up, change back into cycling gear, and begin the commute home with a quick detour.",
+                        "geocode": {
+                            "lat": 37.7934163,
+                            "lng": -122.4052491,
+                            "formatted_address": "725 Sacramento St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 10,
+                        "location": "The Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Ride home, stopping to pick up a new book he's been wanting to read.",
+                        "geocode": {
+                            "lat": 37.765344,
+                            "lng": -122.4666064,
+                            "formatted_address": "1231 9th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Green Apple Books on the Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and decompress from the day and the long ride. Put on some music.",
+                        "geocode": {
+                            "lat": 37.7771706,
+                            "lng": -122.4699033,
+                            "formatted_address": "1024 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bathroom, 1024 Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare a simple but satisfying dinner, such as pan-seared salmon with roasted vegetables, while listening to the news.",
+                        "geocode": {
+                            "lat": 37.7771706,
+                            "lng": -122.4699033,
+                            "formatted_address": "1024 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kitchen, 1024 Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, reading the new book and sipping a cup of herbal tea before bed.",
+                        "geocode": {
+                            "lat": 37.7771706,
+                            "lng": -122.4699033,
+                            "formatted_address": "1024 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 75,
+                        "location": "Living Room, 1024 Balboa St"
+                    }
+                ],
+                "day_overview": "A productive day for a Principal Data Scientist, balancing deep technical work with team collaboration, punctuated by a vigorous bike commute across San Francisco and a relaxing evening in the Richmond District.",
+                "home_address": "1024 Balboa St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7771706,
+                    "lng": -122.4699033,
+                    "formatted_address": "1024 Balboa St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Johnson",
+    "givenName": "Daniel",
+    "familyName": "Johnson",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Johnson\u2019s story began not with the fog of San Francisco, but with the humid summers of suburban Ohio. The son of a steadfast civil engineer and a compassionate high school English teacher, his upbringing was a stable, predictable bedrock of Midwestern values. He excelled in school, but quietly bristled against the prescribed path of practicality. In a subtle act of rebellion, he chose to major in Philosophy at Ohio State, immersing himself in logic, ethics, and existentialism, much to his father\u2019s gentle bewilderment.\n\nThe turning point came at 22, armed with a degree that was rich in theory but poor in immediate prospects. After months of underemployment at a local bookstore, Daniel realized his philosophical training in structured thinking could be applied elsewhere. He taught himself Python and SQL through online courses, discovering an unexpected passion for finding elegant patterns within chaotic seas of data. This new direction culminated in a data science bootcamp and, inevitably, a job offer from a burgeoning San Francisco tech firm.\n\nNow 30, Daniel lives and works from a one-bedroom apartment in Nob Hill. His 0.0-mile commute means the line between his living room and his office is a perpetually blurry one. His days are a disciplined cycle: a morning run through Huntington Park, strong black coffee, and then hours logged into Slack and data dashboards, wrestling with user behavior metrics. He\u2019s successful, respected by his remote colleagues, but a sense of digital isolation often creeps in after he logs off.\n\nTo combat this, he has cultivated small, tangible rituals: a weekly trivia night with a few work friends at a bar in Russian Hill, and Saturday mornings spent at the Ferry Building Farmer's Market, a sensory contrast to his screen-based career. His social life is a collection of these curated outings and the ephemeral connections of dating apps, which have yet to yield a lasting relationship. Daniel feels the pull of his philosophical roots, aspiring to one day use his analytical skills for a nonprofit or a cause with more human impact. He hopes to build a life in San Francisco that\u2019s as rich in genuine community and purpose as it is in professional achievement."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe remembers the silence on the phone after telling his father he\u2019d chosen Philosophy. It was late summer, just before leaving for Ohio State at 18. The silence wasn\u2019t angry, just heavy with a bewildered disappointment. In that moment, a cocktail of defiance and terror flooded him. It wasn\u2019t an act of rebellion so much as a declaration of self. That quiet standoff cemented his quiet resolve to find his own definition of a well-lived life, even if he didn\u2019t yet know what that looked like.\n\n***\n\n2.\nAt 22, surrounded by unsold books in his quiet Ohio hometown, he watched the green text of his first successful Python script scroll across the monitor. It was 2 a.m. After weeks of tutorials, he had built something that worked. It wasn't just code; it was a surge of pure creation, a feeling of control he hadn't realized he craved. This was the moment structured logic became a tangible tool, revealing a path out of his existential drift and pointing him directly toward the West Coast.\n\n***\n\n3.\nStanding in the empty Nob Hill apartment at 24, the scent of fresh paint mixing with the salty air from an open window, he watched the fog swallow the top of the Transamerica Pyramid. Awe mingled with a profound solitude. He\u2019d done it\u2014he was here. But the sheer scale of the city and the silence of his new home made his success feel incredibly lonely. That first night, San Francisco was both a promise he\u2019d fulfilled and a dare to build a life from scratch.\n\n***\n\n4.\nIt was a Saturday morning, a year after his move. He took his first juicy bite of a farmer's market peach, the sun warming his face by the Ferry Building. After a week of staring at dashboards, the vibrant, messy reality of the fruit was a shock to his system. It felt like a rebellion against the tyranny of the screen. The taste was so real it was grounding. From then on, the market became his non-negotiable anchor, a weekly pilgrimage for sensory connection.\n\n***\n\n5.\nLast year, at the Russian Hill bar, the final trivia question was about Plato\u2019s Cave. Daniel answered without thinking. His friends, all engineers and PMs, erupted in a cheer, slapping his back. For a brief second, his \u201cimpractical\u201d past and his tech present weren\u2019t separate. The ten-dollar bar credit felt like a trophy. It wasn\u2019t a major victory, but it was a warm, sudden flash of genuine belonging, a feeling he found himself chasing ever since."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\udd71",
+                        "action": "Wake up, check overnight data pipeline alerts on phone, and scroll through news headlines.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and have a quick breakfast of yogurt and granola with his partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Shower, get dressed for the day, and pack a bag with his laptop and workout clothes.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Bathroom"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across the city, navigating traffic on Divisadero St while listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Cross-Town Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into his dedicated desk, review Slack messages, and organize his daily tasks in Jira.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 30,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Writing and optimizing complex SQL queries for a new user engagement dashboard.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy lunch bowl to-go, eating it back at his desk to catch up on emails.",
+                        "geocode": {
+                            "lat": 37.8069514,
+                            "lng": -122.4393511,
+                            "formatted_address": "Marina Green Dr, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Greens Eatery"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Virtual sync meeting with the product and engineering teams to review Q3 data requirements.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 60,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon focus block: Building data visualizations in Tableau and adding insights to a shared presentation deck.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Pack up and begin the drive home, listening to an indie rock playlist to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Cross-Town Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh pasta and vegetables for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a quick jog to clear his head after a day of sitting.",
+                        "geocode": {
+                            "lat": 37.7597049,
+                            "lng": -122.4281437,
+                            "formatted_address": "Dolores Park West Pathway, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "Dolores Park Loop"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a fresh pesto pasta dinner with his partner while catching up on their days.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Eat dinner together and relax on the couch, talking about weekend plans.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Watch the latest episode of a popular sci-fi series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night: tidying up, brushing teeth, and reading a few pages of a book.",
+                        "geocode": {
+                            "lat": 37.7574992,
+                            "lng": -122.4283433,
+                            "formatted_address": "838 Church St, San Francisco, CA 94114"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A typical weekday for a data analyst, involving a cross-town drive, focused work at a coworking space, and a relaxing evening cooking and unwinding with his partner in their Noe Valley neighborhood.",
+                "home_address": "838 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7574992,
+                    "lng": -122.4283433,
+                    "formatted_address": "838 Church St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Johnson Family"
+    }
+}

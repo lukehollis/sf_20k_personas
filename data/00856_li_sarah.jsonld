@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Li",
+    "givenName": "Sarah",
+    "familyName": "Li",
+    "jobTitle": "Dog Walker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Li was raised in Fremont on the promise of the Silicon Valley dream, a vision meticulously planned by her immigrant parents. They had sacrificed everything to give her a foothold in America, and that foothold was meant to be a keyboard. Sarah was bright and dutiful, excelling in math and science, and eventually fulfilled their hopes by earning a Bachelor\u2019s degree in Computer Science from UC Davis. She was recruited straight out of college into a promising software engineering role at a fast-growing SoMa startup.\n\nThe dream, however, quickly soured into a nightmare of burnout. The endless lines of code, the 14-hour days fueled by catered lunches and kombucha on tap, felt like a gilded cage. The turning point came during a late-night debugging session; staring at a screen, she felt a profound sense of dislocation. The next day, she resigned. Her parents were devastated, viewing it as a catastrophic failure.\n\nTo clear her head and make rent, Sarah started walking a neighbor\u2019s dog. Then another. She discovered a quiet joy in the simplicity of the task: the fresh air, the tangible companionship, the city seen at a slower pace. She realized she hadn\u2019t failed; she had just been on the wrong path. Leaning into her unique background, she branded herself as the dog walker *for* the tech world. She built a sleek, minimalist website for booking and targeted her services to her former colleagues, people who understood her language but lacked her newfound freedom.\n\nNow, Sarah\u2019s world is a ten-block radius of her Hayes Valley apartment, making her commute a literal 0.0 miles. Her days are a carefully managed ballet of leashes and lockboxes. She starts with Winston the Corgi, whose owner is a VP of Product, then retrieves Mochi the Shiba Inu from a UX designer\u2019s loft. She\u2019s a human API for canine logistics, a trusted fixture in the lives of people too busy coding the future to walk their own dogs. Though her relationship with her parents remains strained, they are slowly beginning to see her independent success. Sarah\u2019s dream is no longer about stock options; it\u2019s about eventually opening a boutique dog daycare, a true community hub. She has found her niche, not in writing code, but in caring for the creatures who offer unconditional love to those who do."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers the weight of the circuit board her father placed in her ten-year-old hands. It was scavenged from an old computer, intricate and alien. \u201cThis is the future, Sarah,\u201d he\u2019d said, his voice thick with hope, the smell of oolong tea hanging in their Fremont kitchen. It wasn\u2019t a suggestion; it was a map. That tangible piece of technology became the symbol of her duty, a promise she carried for years, shaping her choices long before she understood what they meant for her own happiness.\n\n2.\nThe memory is bleached by fluorescent light: 3 AM at the SoMa startup. Staring at a recursive loop that wouldn't break, she saw her own life reflected on the dark monitor\u2014an endless, repeating cycle of meaningless tasks. The free kombucha tasted like vinegar in her stomach. It was a moment of terrifying clarity. The person in that ergonomic chair, the one with the impressive title and stock options, was a complete stranger. The profound emptiness she felt was the bug she couldn't fix, because the error wasn't in the code; it was in her.\n\n3.\nHer first walk was with Barnaby, a clumsy Golden Retriever from down the hall. As they rounded the corner onto Octavia Boulevard, the afternoon sun warmed her face. Sarah stopped, realizing it was the first time in months she\u2019d felt the sun without being on her way to or from an office. Barnaby nudged her hand, his leash a simple, solid connection to the real world. In the quiet dignity of that moment, watching a dog just *be*, she felt a sense of peace that no successful code compile had ever given her.\n\n4.\nThe phone call home was suffocating. After she explained she\u2019d quit, her mother\u2019s silence was a physical weight on the line. Then came the questions, whispered in Mandarin, each one a prick of shame. \u201cBut all our sacrifice? For you to walk dogs?\u201d She felt herself shrink, becoming the child who had failed the only test that ever mattered. Hanging up, tears streaming down her face, she also felt a tiny, defiant spark. It was the first decision she had ever made that was entirely her own.\n\n5.\nThe email notification chimed on a Tuesday morning. It was her first booking through the website she built herself\u2014a sleek, clean interface that was a ghost of her old life. The client was a Senior VP from a company two blocks over. His note was simple: \"Love the site. You get it. Can you take Winston tomorrow?\" Reading that, Sarah felt a surge of pride that eclipsed any performance bonus she'd ever received. It was validation. She hadn't thrown her past away; she had repurposed it. She was the API."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew coffee, and chat with partner about the day ahead.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home: Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf92",
+                        "action": "Morning prep: check client schedule on the Rover app and pack the dog walking bag with leashes, treats, and water.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office: Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc15",
+                        "action": "Pick up Winston, a friendly Golden Retriever, for his morning constitutional.",
+                        "geocode": {
+                            "lat": 37.7667082,
+                            "lng": -122.4503935,
+                            "formatted_address": "Frederick St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "Client's Home on Frederick Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Leisurely walk with Winston through the neighborhood and a bit of the park.",
+                        "geocode": {
+                            "lat": 37.7710298,
+                            "lng": -122.4539223,
+                            "formatted_address": "Stanyan St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Stanyan Edge of Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udc3e",
+                        "action": "Meet up with Luna the Frenchie and Gizmo the Terrier for a small group adventure.",
+                        "geocode": {
+                            "lat": 37.7763366,
+                            "lng": -122.4346917,
+                            "formatted_address": "Alamo Square Park, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Alamo Square Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy power bowl for lunch.",
+                        "geocode": {
+                            "lat": 37.7641277,
+                            "lng": -122.4641936,
+                            "formatted_address": "Inner Sunset, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Plant Cafe Organic, Inner Sunset"
+                    },
+                    {
+                        "emoji": "\ud83d\udca8",
+                        "action": "Pick up Bear, an energetic Australian Shepherd, for an active afternoon session.",
+                        "geocode": {
+                            "lat": 37.7692486,
+                            "lng": -122.4468258,
+                            "formatted_address": "Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "Client's Home on Ashbury Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udfbe",
+                        "action": "High-energy fetch and playtime with Bear at the dedicated dog run.",
+                        "geocode": {
+                            "lat": 37.771041,
+                            "lng": -122.4993131,
+                            "formatted_address": "Golden Gate Park Dog Training Area, 6335 Fulton St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 90,
+                        "location": "Golden Gate Park Dog Training Area"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Finish the last walk and head back to the apartment.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Walking through Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Unwind from the day, clean equipment, and sort mail.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home: Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walk with partner to pick up fresh pasta and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7650139,
+                            "lng": -122.4496722,
+                            "formatted_address": "960 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Luke's Local on Cole Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a delicious pesto pasta dinner together with partner.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home: Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a comforting TV show, and chat.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home: Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: skincare, tidying up, and getting ready for bed.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home: Cole Valley Apartment"
+                    }
+                ],
+                "day_overview": "A physically active day for Sarah, a dog walker based in Cole Valley. Her schedule is a mix of solo and group dog walks in nearby parks, a quick lunch break in the Haight, running local errands, and a fun trivia night out with her partner and friends.",
+                "home_address": "3807 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7676755,
+                    "lng": -122.4503599,
+                    "formatted_address": "Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Li Family"
+    }
+}

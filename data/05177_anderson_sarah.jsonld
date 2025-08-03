@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Anderson",
+    "givenName": "Sarah",
+    "familyName": "Anderson",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Anderson\u2019s story is one of pragmatic reinvention. Raised in a quiet, tree-lined suburb of Portland, Oregon, she was the daughter of a high school English teacher and a carpenter. Her childhood was filled with books and the scent of sawdust, instilling in her both a love for narrative and an appreciation for well-built things. She naturally gravitated towards literature, earning a Bachelor of Arts in English from the University of Oregon, dreaming of a life in publishing or academia.\n\nThe reality after graduation was a series of underpaid internships and barista jobs. While she loved discussing Faulkner, she also needed to pay rent. The turning point came during a conversation with a friend who had just completed a data analytics bootcamp and landed a lucrative job. Intrigued, Sarah realized that data analysis wasn't just about numbers; it was about finding the story within them\u2014a modern form of literary criticism, but with spreadsheets instead of sonnets.\n\nDriven by a newfound purpose, she enrolled in an intensive six-month online bootcamp. She attacked the curriculum with the same fervor she once applied to dissecting poetry, discovering a surprising talent for seeing patterns and building logical models. Upon completion, she landed a remote position as a Data Analyst for a San Francisco-based tech company.\n\nNow 28, Sarah lives in a cozy one-bedroom apartment in the Inner Richmond. With a zero-mile commute, her days are self-structured. They begin with a foggy walk to a local bakery on Clement Street, followed by hours spent transforming raw data into coherent insights from her standing desk. San Francisco, for her, is less about its chaotic nightlife and more about its proximity to Golden Gate Park and the intellectual energy that hums beneath the surface. Her social circle consists mainly of other bootcamp alumni who understand her career pivot.\n\nHer dream is to eventually bridge her two worlds, perhaps by leading a data team at a company like Spotify or a digital publisher, using analytics to understand how people connect with stories. For now, she finds satisfaction in the clean logic of her work, a stable and well-built life she constructed for herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers being nine, curled on a stool in her mother's workshop, the air thick with cedar dust. Her father was reading *The Hobbit* aloud, his voice a steady rhythm against the hum of a distant sander. In that moment, the smell of wood shavings and the magic of Middle-earth became one. It wasn\u2019t just a story; it was a structure, solid and real. It taught her that the best narratives have a sturdy framework, a foundation she would later seek in her own life.\n\n2.\nAt 23, she was explaining Faulkner\u2019s narrative complexity to a coworker when she knocked over a tray of lattes. The sticky mess spreading across the cafe floor felt like a perfect metaphor for her life: intellectual dreams drowning in the reality of a minimum-wage job. The sharp smell of burnt espresso wasn't just humiliating; it was a catalyst. It was the moment she knew she had to build something more stable, even if it meant leaving the world of pure literature behind.\n\n3.\nShe was 25, sitting in a dim bar, when her friend sketched a customer journey chart on a cocktail napkin. \"See?\" her friend said, \"It's a story. Here's the inciting incident, the climax...\" For Sarah, it was a thunderclap of recognition. The lines and points weren't just data; they were a plot, a narrative hidden in plain sight. This was the key she needed, the permission to pivot without abandoning her love for stories\u2014she would just learn a new language to read them in.\n\n4.\nThree months into her new remote job, at age 27, she stared at a messy dataset that had stumped her team. Late one night, she saw it: a subtle pattern, clean as a line of iambic pentameter. She built the model, and the chaos resolved into a clear, simple story. Running the query felt like an enormous weight clicking into place. It wasn't just relief; it was a profound sense of competence. She had built this, and it worked. The satisfaction was more tangible than any literary prize.\n\n5.\nOne foggy Tuesday morning last year, she took her coffee to Golden Gate Park. The eucalyptus trees were grey smudges in the mist, the silence broken only by a distant foghorn. She wasn't rushing to a party or a networking event; she was just\u2026 there. She had her stable job, her quiet apartment, and this beauty at her doorstep. It was the moment San Francisco stopped being a city on a map and became her home\u2014a life carefully constructed, stable and serene."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Wake up, check phone, and make a pour-over coffee while listening to a news podcast.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Quick morning yoga session using a YouTube video to stretch and get energized for the day.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a smart-casual tech outfit, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 35,
+                        "location": "Apartment on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Walk to the Judah & 32nd Ave stop and take the N Judah Muni train inbound to Parnassus.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "N Judah Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning focus session: Run SQL queries to clean a newly acquired clinical trial dataset.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Parnassus Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Daily team stand-up meeting to discuss project progress and analytical roadblocks.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 30,
+                        "location": "UCSF Conference Room 4B"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy grain bowl for lunch with a coworker.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Med Plate Eatery"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon work block: Build and refine a data visualization dashboard in Tableau for a research presentation.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF Parnassus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Respond to final emails and prepare a to-do list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 30,
+                        "location": "UCSF Parnassus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Commute home, riding the N Judah outbound while listening to a true crime podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "N Judah Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Change into workout clothes and go for a refreshing run along the path next to the Great Highway.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop to pick up fresh produce and a carton of oat milk for the week.",
+                        "geocode": {
+                            "lat": 37.7509187,
+                            "lng": -122.4956153,
+                            "formatted_address": "1994 37th Ave, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 20,
+                        "location": "Sunset Mercantile"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Meet a friend for ramen and catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Maruyama Ramen"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Unwind at home by watching an episode of a new series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Apartment on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: Drink herbal tea, read a few chapters of a novel, and set an alarm for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bedroom"
+                    }
+                ],
+                "day_overview": "A productive day for a UCSF data analyst, balancing focused work with the coastal charm and local spots of her Outer Sunset neighborhood.",
+                "home_address": "3167 Irving St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7627294,
+                    "lng": -122.4919718,
+                    "formatted_address": "3167 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Anderson Family"
+    }
+}

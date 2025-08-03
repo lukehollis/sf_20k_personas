@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ivan Khaki",
+    "givenName": "Ivan",
+    "familyName": "Khaki",
+    "jobTitle": "Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ivan Khaki\u2019s name is a testament to his parents\u2019 American dream: assimilation into something neutral, reliable, and safe. Fleeing post-Soviet instability, Anya and Dmitri Khakimov landed in Daly City, shortening their name and pouring their anxieties into their only son. For them, success was a predictable formula: discipline, STEM, and financial security. Ivan, quiet and observant, absorbed their fears and ambitions, excelling in the structured world of mathematics and logic.\n\nHis first act of rebellion was subtle. At UC Berkeley, instead of pure computer science, he chose a graduate program in Computational Linguistics. It was a compromise\u2014marrying the elegant chaos of human language with the rigid order of code. Here, he met Clara, an art history major who became his personal chaotic variable. She introduced him to the Mission\u2019s vibrant murals, hole-in-the-wall taquerias, and the messy, unpredictable beauty of a life lived without algorithms. Their passionate relationship ended when Ivan\u2019s ingrained need for predictable outcomes clashed with her spontaneity. The breakup was a critical failure in his personal data model, and he retreated.\n\nNow, Ivan lives a life of calculated precision. As a data scientist for a SoMa tech giant, he works from his minimalist Hayes Valley apartment, his commute a flat 0.0 miles. His days are a closed loop: coffee, code, a delivered Sweetgreen salad, a solitary run along the Embarcadero, more code. He reduces the messy complexities of human behavior into clean data points, building predictive models for a world he no longer actively participates in. San Francisco is not a home but a backdrop seen through his floor-to-ceiling window\u2014a collection of traffic patterns, weather data, and consumer trends.\n\nHe has the security his parents craved, yet feels a profound disconnect. Deep down, Ivan yearns to break his own programming. He dreams of quitting, of buying a one-way ticket to somewhere unstructured, of finding a connection that can\u2019t be quantified. For now, he remains trapped in the perfect, sterile algorithm of his own making, hoping one day to find a variable that will finally force a system error."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, hydrate, and do a quick meditation to start the day.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bedroom - Pacific Heights Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a refreshing morning jog to get the blood flowing.",
+                        "geocode": {
+                            "lat": 37.79165,
+                            "lng": -122.4275889,
+                            "formatted_address": "Lafayette Park, Gough St &, Washington St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 40,
+                        "location": "Lafayette Park"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Shower, get dressed, and make a quick breakfast with coffee.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Kitchen - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into the home office, check Slack messages and plan the day's tasks.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Querying and cleaning patient demographic data for a new predictive model.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Join the daily virtual stand-up meeting with the UCSF data science team.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83e\udd16",
+                        "action": "Continue with model development, focusing on feature engineering.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to Polk Street to grab a specialty sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.79518059999999,
+                            "lng": -122.42185,
+                            "formatted_address": "2001 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Cheese Plus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon focus: Train the initial version of the machine learning model and analyze its performance.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work for the day, pushing code to the repository and summarizing progress for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7\u200d\u2640\ufe0f",
+                        "action": "Travel to the climbing gym for an evening bouldering session.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "Dogpatch Boulders"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Share a meal and catch up on the day with his family.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Room - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a new episode of a sci-fi series.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room - Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a non-fiction book and preparing for the next day.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Bedroom - Pacific Heights Home"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a data scientist, balancing deep analytical work for UCSF Health with local errands, an energizing bouldering session, and relaxing family time in his Pacific Heights home.",
+                "home_address": "1740 Pacific Ave, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7949852,
+                    "lng": -122.4240961,
+                    "formatted_address": "1740 Pacific Ave, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Khaki Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Tan",
+    "givenName": "Kevin",
+    "familyName": "Tan",
+    "jobTitle": "Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Tan\u2019s life is a story of quiet ambition, rooted in the work ethic of his immigrant parents. Raised in the fog-drenched landscape of Daly City, he was the only child of a Filipino mother who worked as a nurse and a Chinese father who ran a small auto-body shop. Their days were long, their talk was practical, and their love was expressed through providing stability. They encouraged Kevin to find a dependable trade, viewing a four-year university degree as an expensive and uncertain luxury.\n\nHeeding their advice, Kevin enrolled at City College, earning an Associate's degree in Business Administration. It felt generic, but it was practical. To pay for his expenses, he took a part-time job at a retail store in Stonestown Galleria. To his surprise, he discovered a natural talent for it. He wasn't just folding shirts; he was organizing chaos, connecting with customers, and understanding the subtle rhythm of inventory and sales. He had a knack for making people feel seen and heard, a skill his soft-spoken parents had unintentionally taught him.\n\nHis career grew organically from there. He was promoted to shift lead, then assistant manager. The key turning point came when his company offered him a store manager position for a new boutique in Hayes Valley. The offer included a subsidized studio apartment directly above the shop. For Kevin, who was tired of the long MUNI rides, it was a dream. He moved into the city at 28, and his world shrank to a perfect, walkable four-block radius.\n\nNow 33, Kevin\u2019s life is defined by this proximity. His 0.0-mile commute means his work and home lives are deeply intertwined. His day starts with a coffee from the cafe on the corner, where the barista knows his order. He spends his days managing staff, curating displays, and chatting with neighborhood regulars. After locking up, he\u2019s home in thirty seconds. His social life is hyperlocal; drinks with friends at a nearby beer garden, a solo dinner at the ramen shop downstairs, or dates with people he meets in the neighborhood.\n\nHis dream is a quiet evolution of his parents\u2019 own. He\u2019s diligently saving money, not for a house in the suburbs, but to one day open his own small lifestyle shop, perhaps in the very same neighborhood. He envisions a place that reflects his own curated, calm aesthetic\u2014a small, perfect world he has built for himself, right in the heart of San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake Up & Hydrate: Alarm goes off. Sits up, drinks a glass of water, and checks news headlines and personal notifications on his phone.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Home Fitness: Quick bodyweight workout (push-ups, squats, planks) and stretching session in his living room overlooking the neighborhood.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower & Prepare for Work: Showers, gets dressed in his store manager attire, and packs his messenger bag for the day.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Breakfast & Coffee: Prepares a quick breakfast of toast with avocado and makes a strong pour-over coffee while checking the MuniNext app.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8d",
+                        "action": "Commute to Work: Walks to the Stockton & Union bus stop, takes the 30 Stockton bus to Powell Station, then transfers to the M Ocean View light rail to Balboa Park.",
+                        "geocode": {
+                            "lat": 37.7484703,
+                            "lng": -122.3907006,
+                            "formatted_address": "1301 Cesar Chavez St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 60,
+                        "location": "SF Muni System"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Morning Store Prep: Arrives at the bookstore, opens up, checks the previous day's sales figures, and leads a quick huddle with the morning staff to set daily goals.",
+                        "geocode": {
+                            "lat": 37.7240468,
+                            "lng": -122.4514019,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "CCSF Bookstore"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbc",
+                        "action": "Managing the Floor: Spends time on the sales floor assisting students, troubleshooting register issues, and ensuring merchandise is properly stocked and displayed.",
+                        "geocode": {
+                            "lat": 37.7240468,
+                            "lng": -122.4514019,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 180,
+                        "location": "CCSF Bookstore - Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Lunch Break: Walks off-campus to a local favorite for a carnitas burrito, taking a mental break from work.",
+                        "geocode": {
+                            "lat": 37.7604861,
+                            "lng": -122.4194111,
+                            "formatted_address": "2288 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Taqueria Cancun"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Afternoon Administrative Work: In his small office, he processes inventory paperwork for a new apparel shipment and works on the employee schedule for the following week.",
+                        "geocode": {
+                            "lat": 37.7240468,
+                            "lng": -122.4514019,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 225,
+                        "location": "CCSF Bookstore - Manager's Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute Home: Closes out the registers, locks up the store, and begins the reverse commute on the K Ingleside train, transferring to the 45 Union bus.",
+                        "geocode": {
+                            "lat": 37.7484703,
+                            "lng": -122.3907006,
+                            "formatted_address": "1301 Cesar Chavez St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 65,
+                        "location": "SF Muni System"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Grocery Run: Hops off the bus and stops at the neighborhood grocery store to pick up ingredients for dinner and some snacks.",
+                        "geocode": {
+                            "lat": 37.7790496,
+                            "lng": -122.4188532,
+                            "formatted_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 25,
+                        "location": "Coit Market & Deli"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and Eat Dinner: Unwinds by cooking a stir-fry with the fresh groceries while listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet Friend for a Drink: Walks a few blocks to meet up with a friend for a beer and conversation at a historic neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Evening Wind-Down: Relaxes on the couch watching a movie on a streaming service before getting ready for bed.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Grant Ave Apartment"
+                    }
+                ],
+                "day_overview": "A busy weekday for a retail manager, involving a long cross-city public transit commute, managing a college bookstore, and balancing evening errands with social time in his vibrant North Beach neighborhood.",
+                "home_address": "3627 Grant Ave, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.80511509999999,
+                    "lng": -122.4085112,
+                    "formatted_address": "3627 Grant Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1991",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tan Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Omar Khan",
+    "givenName": "Omar",
+    "familyName": "Khan",
+    "jobTitle": "Retail Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Omar Khan is a permanent fixture of his Tenderloin block, as integral to the landscape as the faded murals and the bay windows of the surrounding apartment buildings. His life began not far from where he lives now, born to Pakistani immigrants who arrived in San Francisco in the early 1980s. His parents poured their life savings and relentless labor into opening Khan\u2019s Market, a small corner store selling everything from milk and Fritos to specialty spices and phone cards. Omar\u2019s childhood smelled of cardamom and cleaning supplies, and his playground was the store\u2019s narrow aisles.\n\nHe was meant to be the one who escaped. His parents pushed him toward education, a path away from the grueling 14-hour days they endured. Omar dutifully enrolled at City College of San Francisco, vaguely pursuing a business degree. But the classroom felt sterile compared to the vibrant, chaotic ecosystem of the store. He was a natural manager, possessing a quiet authority and an uncanny memory for his customers' lives and preferences. When his father\u2019s health began to fail in his early twenties, Omar\u2019s choice was made for him. He left college without a degree and took his place behind the counter, a decision that caused a rift with his father that only healed with time.\n\nNow at forty, Omar manages the store and lives in the small two-bedroom apartment directly above it\u2014the source of his zero-mile commute. His life is a steady rhythm of pre-dawn stocking, serving the morning coffee rush, chatting with elderly residents, and shooing away loiterers. He\u2019s a quiet anchor in the neighborhood\u2019s turbulent sea. His social life exists in fragments over the counter; a past long-term relationship crumbled under the weight of his commitment to the family business.\n\nOmar has watched the city transform from his storefront window. He\u2019s seen tech booms, busts, and the ever-widening gap between the city\u2019s rich and poor. While he carries a quiet pride in upholding his family's legacy, a flicker of the 'what-if' remains. He dreams not of wealth, but of freedom\u2014the simple luxury of taking a two-week vacation, of visiting the coast of Spain he\u2019s only seen in magazines. For now, he finds solace in his role, the unofficial mayor of his corner, knowing the stories behind the faces that pass by his door each day."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Wake up, shower, and get ready for the day. Brew a strong coffee with beans from a local roaster while checking the news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7854312,
+                            "lng": -122.3966083,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Apartment on 2nd St, SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Gear up for the commute: put on a helmet, riding jacket, and gloves before heading down to the street.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Garage/Street Parking"
+                    },
+                    {
+                        "emoji": "\ud83d\udca8",
+                        "action": "Commute across the city on a Vespa scooter, navigating through SoMa and heading west via Fell St to avoid the worst of the traffic.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udd11",
+                        "action": "Arrive at work. Handle opening procedures for the store: disarm security, turn on lights and registers, and have a quick huddle with the morning staff.",
+                        "geocode": {
+                            "lat": 37.7765787,
+                            "lng": -122.4503016,
+                            "formatted_address": "University Center, 2130 Fulton St 1st Floor, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "USF Bookstore"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative tasks in the back office. Respond to emails, review previous day's sales data, and adjust staffing schedules.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Store Manager's Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Manage the sales floor during the student morning rush. Assist customers, restock high-traffic items, and provide on-the-spot coaching to employees.",
+                        "geocode": {
+                            "lat": 37.7765787,
+                            "lng": -122.4503016,
+                            "formatted_address": "University Center, 2130 Fulton St 1st Floor, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "USF Bookstore Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Walk off-campus for a proper lunch break, grabbing a table for some acclaimed carnitas and an agua fresca.",
+                        "geocode": {
+                            "lat": 37.7732851,
+                            "lng": -122.4389738,
+                            "formatted_address": "306 Broderick St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Nopalito"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Meet with a representative from a merchandise vendor to review a new line of university-branded apparel.",
+                        "geocode": {
+                            "lat": 37.7765787,
+                            "lng": -122.4503016,
+                            "formatted_address": "University Center, 2130 Fulton St 1st Floor, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "USF Bookstore Meeting Space"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Work with staff in the stockroom to receive and process a large shipment of textbooks for the upcoming term.",
+                        "geocode": {
+                            "lat": 37.7765787,
+                            "lng": -122.4503016,
+                            "formatted_address": "University Center, 2130 Fulton St 1st Floor, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "USF Bookstore Stockroom"
+                    },
+                    {
+                        "emoji": "\ud83c\udf07",
+                        "action": "Ride the scooter back home, taking a scenic route along the Panhandle and down Oak Street as the evening commute begins.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Change into gym clothes and walk a few blocks for a vigorous strength training and cardio session to de-stress from the day.",
+                        "geocode": {
+                            "lat": 37.7695117,
+                            "lng": -122.406561,
+                            "formatted_address": "1001 Brannan St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 85,
+                        "location": "Fitness SF - SoMa"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop by the local market on the way home from the gym to pick up fresh fish and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner of pan-seared salmon and asparagus while listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7854312,
+                            "lng": -122.3966083,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Apartment on 2nd St, SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch a new show on a streaming service, and scroll through social media before bed.",
+                        "geocode": {
+                            "lat": 37.7854312,
+                            "lng": -122.3966083,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Apartment on 2nd St, SoMa"
+                    }
+                ],
+                "day_overview": "A productive day for a retail manager, balancing on-campus work responsibilities with a post-work gym session and a home-cooked meal in his SoMa apartment.",
+                "home_address": "621 2nd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7815588,
+                    "lng": -122.3917141,
+                    "formatted_address": "621 2nd St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Khan Family"
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Medical Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Agnostic"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life story isn't one of grand design, but of quiet necessity. Raised in a series of rented homes across California's Central Valley by a single mother working two jobs, stability was a luxury she never knew. Formal education was often interrupted by moves and the need to contribute to the household, and she left high school with a GED and a practiced resilience. For years, she drifted through low-wage service jobs, feeling the pull of a bigger world but lacking the resources to reach it.\n\nThe turning point came at 28. An acquaintance mentioned an urgent, unconventional job: a live-in caregiver for an elderly, medically complex man in San Francisco. It wasn't a formal medical position, but it offered a room, a steady wage, and a door out of her stagnant life. She took it. For the past eight years, Sarah\u2019s world has been contained within a meticulously restored Victorian in Pacific Heights. Her 0.0-mile commute is the walk from her small bedroom in the back to the main quarters of her patient, Mr. Henderson.\n\nHer title of \"Medical Assistant\" is one she earned through experience, not schooling. She manages a complex regimen of medications, monitors vitals, coordinates with visiting nurses, and provides constant companionship. Her days are a structured routine of meals, appointments, and quiet hours reading aloud. Her connection to San Francisco is primarily visual\u2014the stunning view of the Bay from Mr. Henderson\u2019s window, the scent of jasmine on her short walks to the corner market. She feels more like a keeper of a beautiful museum than a resident of the vibrant city outside.\n\nHer social life is minimal, consisting of long phone calls with her sister and brief, friendly exchanges with the pharmacy tech. Sarah\u2019s dream is not extravagant. She is diligently saving money and studying online to earn an official Medical Assistant certification. Her ultimate goal is a small, simple apartment of her own, perhaps in the foggy quiet of the Outer Richmond. She longs for a life where her commute is longer than zero miles, and where she can finally be a participant in the city she has observed from a distance for so long."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers the cracked linoleum of her Modesto kitchen floor, the phone feeling heavy and hot in her hand eight years ago. The acquaintance had described the job\u2014a city she couldn't afford, a role she wasn't qualified for. But staring at a stack of overdue bills, she felt a different kind of fear: the dread of staying still. In that moment, choosing the terrifying unknown felt less like courage and more like finally getting to breathe. It was the first door she had ever truly opened for herself.\n\n2.\nHer first day, the housekeeper led her into Mr. Henderson\u2019s room. Past the dark wood and medical equipment, the bay window framed a perfect, impossible view: the Golden Gate Bridge shrouded in a wisp of fog. The sheer beauty felt like a wall, separating her from the world it represented. It was magnificent and untouchable, and she knew instantly her job was to be a guardian of this view, not a resident of the city it overlooked. This quiet awe cemented her place as an observer.\n\n3.\nThree a.m., six months in. Mr. Henderson's breathing was a frantic, shallow whistle. Pure panic seized her throat, but seeing the fear in his eyes, something else took over. She calmly elevated his head, checked his oxygen, and spoke in low, steady tones until the paramedics arrived. Afterward, he simply squeezed her hand, a flicker of profound gratitude in his tired eyes. That night, she stopped feeling like an imposter. She had earned her place not with a diploma, but with a steady hand in the dark.\n\n4.\nLast October, during Fleet Week. The Blue Angels thundered past the window, the roar shaking the century-old glass. From her vantage point, she saw crowds gathered on rooftops and along the Marina, their cheers lost to the wind. For a moment, the city felt like a massive party she hadn't been invited to. The sight of so much shared, public joy created a profound and sudden loneliness. It was a stark reminder that she was watching San Francisco\u2019s life, not yet living her own.\n\n5.\nAbout a year ago, picking up a prescription, the young pharmacy tech mentioned he was finishing his certification online. \u201cIt\u2019s manageable,\u201d he\u2019d said with a casual shrug. The simple comment struck her with the force of a revelation. It wasn't an impossible dream reserved for other people; it was a series of modules, a set of exams, a concrete path. Walking back up the hill, the vague notion of \"someday\" sharpened into a tangible plan. That evening, she enrolled in her first course."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, 10-minute stretching and meditation session.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed into scrubs, and do a quick makeup routine.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a smoothie and strong coffee while listening to a news podcast.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Commute to work on the e-bike, cutting through the Duboce Triangle and Lower Pac Heights.",
+                        "geocode": {
+                            "lat": 37.8098999,
+                            "lng": -122.4977005,
+                            "formatted_address": "Golden Gate, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Golden Gate Greenway"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Arrive at the clinic, change shoes, review the day's patient schedule, and prep exam rooms.",
+                        "geocode": {
+                            "lat": 37.7966651,
+                            "lng": -122.2753067,
+                            "formatted_address": "420 3rd St #110, Oakland, CA 94607, USA"
+                        },
+                        "duration": 30,
+                        "location": "Marina Wellness Clinic"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Morning patient block: taking vitals, updating electronic health records (EHR), and assisting with minor procedures.",
+                        "geocode": {
+                            "lat": 37.7966651,
+                            "lng": -122.2753067,
+                            "formatted_address": "420 3rd St #110, Oakland, CA 94607, USA"
+                        },
+                        "duration": 180,
+                        "location": "Marina Wellness Clinic"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy salad bowl for lunch from a nearby favorite spot.",
+                        "geocode": {
+                            "lat": 37.797521,
+                            "lng": -122.4223179,
+                            "formatted_address": "2237 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Blue Barn on Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon work: Calling patients with lab results, sterilizing instruments, and scheduling follow-up appointments.",
+                        "geocode": {
+                            "lat": 37.7966651,
+                            "lng": -122.2753067,
+                            "formatted_address": "420 3rd St #110, Oakland, CA 94607, USA"
+                        },
+                        "duration": 180,
+                        "location": "Marina Wellness Clinic"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "E-bike commute home, taking a slightly different route to run an errand.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Valencia Street Bike Lanes"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh produce and a bottle of wine for the week.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Noe Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Meet up with a friend for a casual weeknight dinner and catch-up.",
+                        "geocode": {
+                            "lat": 37.7828996,
+                            "lng": -122.4078583,
+                            "formatted_address": "8 Mint Plaza, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Burma Love"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Tidy up the apartment, watch an episode of a comforting TV show.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel before going to sleep.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley Apartment"
+                    }
+                ],
+                "day_overview": "A busy day for Sarah as a Medical Assistant, commuting by e-bike from Noe Valley to Cow Hollow. The day is a balance of demanding patient care, practical errands, and a relaxing social dinner with a friend in the Mission.",
+                "home_address": "2001 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7516093,
+                    "lng": -122.4276084,
+                    "formatted_address": "2001 24th St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

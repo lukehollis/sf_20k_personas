@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Dmitri Ivanov",
+    "givenName": "Dmitri",
+    "familyName": "Ivanov",
+    "jobTitle": "Restaurant Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Hospitality"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Dmitri Ivanov\u2019s world is contained within a few blocks of North Beach. His commute is a simple walk down a flight of creaky stairs from his small apartment to the bustling Italian restaurant he manages. He arrived in San Francisco from St. Petersburg as a teenager, a quiet boy overwhelmed by the city\u2019s cacophony. His parents, a seamstress and a cab driver, settled in the Richmond District and pushed him towards a stable future, enrolling him in a business program at San Francisco State University.\n\nDmitri lasted three semesters. He found no passion in spreadsheets and marketing theory. The real education was happening during his nights and weekends, working as a busboy at \u201cVesuvio\u2019s Trattoria.\u201d He gravitated toward the controlled chaos of the kitchen, the rhythm of service, and the familial bond of the staff. The turning point came when he dropped out of college to accept a full-time server position, a decision that strained his relationship with his parents but felt like the first truly authentic choice he had ever made.\n\nOver two decades, Dmitri worked his way up\u2014from server to bartender, then to assistant manager, and finally to the manager who now holds the keys. His life is woven into the restaurant\u2019s fabric. His social circle consists of his loyal staff, the produce vendor he greets at 7 a.m., and the neighborhood regulars who have watched him grow up. Past romantic relationships have fizzled, unable to compete with the 80-hour workweeks and his unwavering dedication.\n\nNow 42, Dmitri\u2019s routine is set. He wakes to the sounds of delivery trucks, shares an espresso with the chef while reviewing inventory, and ends his night long after the last customer has left, sharing a quiet drink at the bar with his closing bartender. His dream is no longer just to run the restaurant, but to own it. The current owner is nearing retirement, and Dmitri is meticulously saving every dollar, hoping to one day put his own name\u2014Ivanov\u2014on the establishment that gave him not just a career, but a home and an identity in the city that once felt so alien."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check phone for any urgent overnight messages from the restaurant staff.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Bedroom on Castro St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a strong pot of coffee and have a simple breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen on Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Go for a brisk walk around the neighborhood to get some fresh air and mentally prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley Neighborhood Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udda5\ufe0f",
+                        "action": "Settle into the home office, review daily priorities, and check the CCSF culinary department's shared calendar.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office on Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Process previous day's sales reports, respond to staff emails, and approve payroll timesheets.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office on Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Handle vendor relations: place weekly inventory orders with food suppliers and resolve a billing discrepancy via phone call.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office on Castro St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk out to grab a pastrami sandwich and a coffee for lunch, taking a short break from the screen.",
+                        "geocode": {
+                            "lat": 37.7513666,
+                            "lng": -122.4304651,
+                            "formatted_address": "3933 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Noe Bagel"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf9",
+                        "action": "Participate in a Zoom call with the CCSF events team to coordinate staffing and menu for an upcoming faculty dinner.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office on Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Draft the next week's staff schedule, factoring in time-off requests and expected student traffic.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office on Castro St"
+                    },
+                    {
+                        "emoji": "\u2714\ufe0f",
+                        "action": "Log off from work systems, clean up the home office space, and make a to-do list for tomorrow's on-site tasks.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office on Castro St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Change into workout clothes and go for a strenuous run up to and around Twin Peaks to decompress.",
+                        "geocode": {
+                            "lat": 37.7946998,
+                            "lng": -122.4689742,
+                            "formatted_address": "Park Trail, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 60,
+                        "location": "Twin Peaks Park Trail"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local grocery store on the way home to pick up essentials for the week.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Whole Foods Market (24th Street)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Meet up with a friend for dinner and catch up over tacos and margaritas in the Mission.",
+                        "geocode": {
+                            "lat": 37.7609776,
+                            "lng": -122.4213695,
+                            "formatted_address": "741 Valencia St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Tacolicious (Valencia St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind at home by watching an episode of a crime drama on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room on Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a novel before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Bedroom on Castro St"
+                    }
+                ],
+                "day_overview": "A productive work-from-home administrative day for Dmitri, balancing management tasks for the City College restaurant with personal errands and social time in his vibrant Noe Valley neighborhood.",
+                "home_address": "3815 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7433168,
+                    "lng": -122.4333334,
+                    "formatted_address": "3815 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Ivanov Family"
+    }
+}

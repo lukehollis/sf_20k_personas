@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Restaurant Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Hospitality"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller was raised in the quiet, predictable suburbs of Sacramento, the daughter of a high school history teacher and a dental hygienist. Her family prized stability and the well-trodden path of a state college degree followed by a sensible career. Sarah dutifully enrolled at SF State, vaguely intending to major in communications, but found the abstract world of academia paled in comparison to the vibrant, immediate reality of her part-time job waiting tables at a bustling trattoria in North Beach. It was there, amidst the clatter of plates and the symphony of orders, that she found her true calling.\n\nAfter two years, she made the pivotal decision to drop out of college, a move that caused quiet friction with her parents. She poured her energy into the restaurant world, quickly moving from server to shift lead, her natural talent for orchestrating nightly chaos and managing diverse personalities becoming obvious. Her career was forged in the demanding fires of San Francisco's hospitality scene. The COVID-19 pandemic was her crucible; as a newly minted manager, she navigated shutdowns, staff furloughs, and the chaotic pivot to takeout, solidifying her reputation as a resilient and indispensable leader.\n\nToday, at 40, Sarah\u2019s life is intrinsically woven into the fabric of \"The Clementine Bistro,\" the Hayes Valley restaurant she manages. Her 0.0-mile commute is a testament to this fact; she lives in a small apartment directly above the restaurant. Her days begin with the smell of baking bread from the kitchen below and often end long after the last table has been cleared. Her social life is a constellation of staff who have become her found family, loyal regulars who greet her by name, and other industry veterans she meets for late-night drinks.\n\nWhile proud of the life she\u2019s built, Sarah harbors a persistent dream. She feels the pull of ownership, the desire to see her own vision come to life. Her aspiration is to one day transform a neglected neighborhood spot into \"Miller's,\" a place built on the principles of good food, warm community, and fair treatment for its staff\u2014a true testament to the life she has so passionately crafted for herself in the city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\udd71",
+                        "action": "Wake up, check work emails and overnight sales reports on phone.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Her Apartment on 3rd St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning hygiene routine: shower and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Her Apartment on 3rd St"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make coffee and a light breakfast. Listen to an industry podcast like 'The Restaurant Boss'.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Her Apartment on 3rd St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Long walk to work, listening to a true-crime podcast to zone out before the hectic day.",
+                        "geocode": {
+                            "lat": 37.76049829999999,
+                            "lng": -122.3886835,
+                            "formatted_address": "Dogpatch, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 60,
+                        "location": "Bayview-Dogpatch-SoMa Green Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Arrive at the restaurant. Review reservations, daily specials with the chef, and inspect the dining room setup.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 105,
+                        "location": "The SoMa Plate"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Manage the floor during the busy lunch rush, assisting staff and ensuring guest satisfaction.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "The SoMa Plate"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a quick, late lunch break with a staff meal in the back office.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "The SoMa Plate (Back Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative duties: placing produce and wine orders, adjusting staff schedules, and answering emails.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "The SoMa Plate (Back Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Hold a pre-dinner service meeting with the evening crew to review specials and VIP guest notes.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The SoMa Plate"
+                    },
+                    {
+                        "emoji": "\ud83c\udf07",
+                        "action": "Walk home, using the time to decompress and listen to calming music as the sun sets.",
+                        "geocode": {
+                            "lat": 37.7277164,
+                            "lng": -122.3931774,
+                            "formatted_address": "Bayview, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 60,
+                        "location": "SoMa to Bayview Walking Path"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop to pick up some fresh vegetables and a bottle of wine for the week.",
+                        "geocode": {
+                            "lat": 37.7336798,
+                            "lng": -122.3908752,
+                            "formatted_address": "4919 3rd St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bayview Community Grocers"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a simple dinner while catching up on the local news.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Her Apartment on 3rd St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Weekly phone call with her parents to catch up on their week and share news.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Her Apartment on 3rd St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a new episode of a favorite show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Her Apartment on 3rd St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Wind down for the night: skincare routine and tidying up for the morning.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Her Apartment on 3rd St"
+                    }
+                ],
+                "day_overview": "A long and busy day for a restaurant manager, balancing demanding work hours in SoMa with a significant walking commute from her Bayview home, and winding down with personal errands and a call to her parents.",
+                "home_address": "3438 3rd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7765935,
+                    "lng": -122.3900525,
+                    "formatted_address": "3438 3rd St, San Francisco, CA 94158, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

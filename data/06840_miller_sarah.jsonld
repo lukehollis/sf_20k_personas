@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Urban Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story began not amidst the fog and hills of San Francisco, but under the wide, flat skies of suburban Ohio. Raised by a pragmatic accountant father and a kind-hearted elementary school teacher mother, her childhood was stable, predictable, and devoid of the artistic chaos she secretly craved. She found her escape in art history books and long walks, mentally redesigning the strip malls and cul-de-sacs of her youth into vibrant, walkable communities.\n\nHer university years were a quiet rebellion, culminating in a Master's degree in Urban Planning. It was a compromise, a way to professionalize her passion. The true turning point was a post-graduate fellowship in Berlin. There, amidst the repurposed factories and murals scaling the remnants of the Wall, she saw her future: a career that didn't just build cities, but infused them with soul. She realized a city\u2019s greatness wasn\u2019t just in its grid, but in its graffiti, its sculptures, its public squares buzzing with life.\n\nDrawn by its reputation as a haven for dreamers and its complex urban tapestry, Sarah moved to San Francisco a decade ago. She found her niche as an independent consultant, a crucial liaison between city developers, community boards, and local artists. Her work is to ensure that as the city evolves, its cultural identity isn't erased. She champions murals on new high-rises, lobbies for affordable studio spaces in gentrifying areas, and helps design parks that tell a neighborhood's story.\n\nSarah lives and works from a spacious, light-filled loft in SOMA, the 0.0-mile commute a testament to her integrated lifestyle. Her days are a mix of solitary work\u2014drafting proposals and digital mock-ups\u2014and deep community engagement, walking the streets she is helping to shape. Her social circle is a reflection of her work: architects, muralists, and activists she meets at community meetings and gallery openings. Her great dream is to spearhead the \"SoMa Art Ramble,\" a permanent, funded project that would transform alleys and underpasses into a sprawling outdoor gallery, a testament to the idea that a city's heart is, and always should be, its art."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, make pour-over coffee, and listen to an urbanism podcast.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Mission St."
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Quick breakfast of yogurt and granola while reviewing the day's calendar and priorities.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on Mission St."
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Get dressed and ready for the day.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Apartment on Mission St."
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from the Mission to SoMa, navigating morning traffic on 13th St, and park in the monthly spot.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Commute to SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office, grab more coffee, and begin deep work on GIS maps for a new cultural district proposal.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "SOMAcentral Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Lunch with a colleague at a nearby food truck park to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7707793,
+                            "lng": -122.3914307,
+                            "formatted_address": "601 Mission Bay Boulevard North, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 60,
+                        "location": "SPARK Social SF"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Travel to and conduct a site visit to scout potential locations for a new mural series.",
+                        "geocode": {
+                            "lat": 37.7630606,
+                            "lng": -122.4195098,
+                            "formatted_address": "Clarion Alley, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Clarion Alley, Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Return to the office to debrief on the site visit, respond to emails, and plan tomorrow's tasks.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 75,
+                        "location": "SOMAcentral Office"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Battle evening rush hour traffic driving from SoMa back home to the Mission.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Commute to Mission District"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a cathartic run to the top of the hill for sunset views over the city.",
+                        "geocode": {
+                            "lat": 37.7430272,
+                            "lng": -122.4136408,
+                            "formatted_address": "Bernal Heights Park, Bernal Heights Blvd, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 50,
+                        "location": "Bernal Heights Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop for fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a healthy dinner while catching up with a friend on the phone.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Apartment on Mission St."
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Wind down by sketching public space concepts in a personal notebook.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on Mission St."
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a novel before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Apartment on Mission St."
+                    }
+                ],
+                "day_overview": "A productive day for an urban planner, balancing focused design work at her SoMa office, a site visit for a public art project, and a restorative evening of exercise and creative pursuits in her Mission neighborhood.",
+                "home_address": "3345 Mission St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7433187,
+                    "lng": -122.4211463,
+                    "formatted_address": "3345 Mission St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

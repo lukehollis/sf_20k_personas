@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Evans",
+    "givenName": "Sarah",
+    "familyName": "Evans",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Evans\u2019s world used to be the neatly gridded suburbs of Cleveland, Ohio, a place of predictable seasons and clear-cut expectations. Raised by a high school history teacher and a dental hygienist, her upbringing was stable, loving, and encouraged a practical path. Sarah, however, was always more interested in the \"why\" behind human systems than the systems themselves. This led her to pursue a Bachelor's degree in Sociology at Ohio State, where she became fascinated with societal patterns and group behaviors.\n\nThe turning point came during a senior-year internship with a housing non-profit. Tasked with organizing years of messy donor records, she discovered a profound satisfaction in cleaning the data and using a simple spreadsheet to reveal trends in giving. She realized the stories hidden within numbers were just as powerful as those in textbooks. This epiphany sparked a new direction. After graduation, while working a dull administrative job, she poured her evenings into online certifications for SQL, Python, and data visualization tools, effectively building a bridge from sociology to technology.\n\nDrawn by the industry's epicenter, Sarah moved to San Francisco three years ago, landing a job as a data analyst for a mid-sized software company. Her life is now largely contained within her one-bedroom apartment in the Inner Richmond. With a 0.0-mile commute, her daily routine is a disciplined cycle: a morning walk to a Clement Street cafe for an oat milk latte, eight hours spent wrangling datasets and building dashboards for her remote team, and an evening run through the foggy trails of Golden Gate Park.\n\nHer connection to San Francisco is intimate yet narrow\u2014defined by the park, her local grocer, and the view of the Sutro Tower from her window. While she has a small circle of friends, mostly fellow tech transplants met through a coding bootcamp, she finds the city\u2019s bustling social scene overwhelming. The intricate code of human connection often feels more complex than any dataset she has been assigned.\n\nSarah's aspiration is to eventually bridge her two passions. She dreams of leaving the corporate world to apply her analytical skills to urban policy or-social justice, using data to advocate for the very communities she once studied in theory. For now, she finds meaning in the elegant logic of a clean dataset, a quiet run in the park, and the promise of a future where her work might one day reshape the city she now calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, meditation with the Calm app, and get workout clothes on.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment, SoMa"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Quick jog along the waterfront with views of the Bay Bridge.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "The Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for work, and pack gym bag for later.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment, SoMa"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make avocado toast and coffee while listening to 'The Daily' podcast.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment, SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the Muni to work.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Muni Bus 8 - Bayshore"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, check emails, and run weekly performance query scripts.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 180,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy grain bowl for lunch with a coworker.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen SoMa"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a project sync meeting to discuss user engagement metrics.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 45,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: building data visualizations in Tableau for the upcoming quarterly review.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 150,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Pack up and commute home on the bus, scrolling through Instagram.",
+                        "geocode": {
+                            "lat": 37.7907088,
+                            "lng": -122.3902304,
+                            "formatted_address": "12 Folsom St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 20,
+                        "location": "Muni Bus 12 - Folsom/Pacific"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7\u200d\u2640\ufe0f",
+                        "action": "Decompress with an after-work climbing session.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Dogpatch Boulders"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Meet up with a friend for fresh pasta and conversation.",
+                        "geocode": {
+                            "lat": 37.7768993,
+                            "lng": -122.4240297,
+                            "formatted_address": "450 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 120,
+                        "location": "a Mano"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down by journaling and watching an episode of a show on HBO Max.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment, SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prep for bed and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment, SoMa"
+                    }
+                ],
+                "day_overview": "A productive day for a SoMa-based data analyst, involving focused work, a quick Muni commute, an after-work bouldering session for exercise, and a social dinner with a friend in Hayes Valley.",
+                "home_address": "723 3rd St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7786568,
+                    "lng": -122.3921597,
+                    "formatted_address": "723 3rd St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Evans Family"
+    }
+}

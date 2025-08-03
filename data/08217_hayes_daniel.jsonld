@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Hayes",
+    "givenName": "Daniel",
+    "familyName": "Hayes",
+    "jobTitle": "Case Manager, Non-Profit Services",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Social Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Hayes\u2019s commute is the shortest in San Francisco: a few steps down a hallway. He lives and works in the same supportive housing complex in SoMa, a world away from his Walnut Creek upbringing. Raised by an accountant father and a teacher mother, Daniel was steered toward a life of stability. He obliged, earning a Bachelor's degree in Economics from UC Davis and landing a respectable analyst job in a FiDi high-rise by his mid-twenties.\n\nThe turning point was not a single event, but a slow, heartbreaking slide. His younger sister, Sarah, battled a severe opioid addiction, cycling through rehabs, hospitals, and periods of homelessness. As Daniel tried to navigate the labyrinthine social services system on her behalf, he was struck by its frustrating gaps and the profound compassion of the few case workers who truly cared. The sterile world of spreadsheets felt increasingly meaningless compared to the raw, human struggle he witnessed firsthand.\n\nAt 32, he quit his job. The decision fractured his marriage, which had already grown strained under the weight of his sister\u2019s crisis. He started over, taking a low-paying intake position at a non-profit. For years, he worked his way up, his lived experience with the system\u2019s failings becoming his greatest asset.\n\nNow 48, Daniel is a Senior Case Manager. His life is woven into the fabric of the building he manages. His small apartment is spartan, but his real home is the community. His daily routine consists of morning check-ins with residents, frantic calls to secure benefits, mediating disputes, and celebrating small victories\u2014a resident\u2019s 90-day sobriety chip, a successful job interview. His social life is a close-knit circle of fellow service providers who share the same dark humor and weary empathy.\n\nHis dreams are no longer for a corner office, but for his clients: stable housing, sustained recovery, a reconnection with family. For himself, he hopes for quiet evenings without a crisis call and the continued strength to see the person, not just the problem. Daniel Hayes found his purpose not by climbing a corporate ladder, but by descending to the ground floor and choosing to stay."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for a few minutes to center before the day.",
+                        "geocode": {
+                            "lat": 37.7774856,
+                            "lng": -122.4996397,
+                            "formatted_address": "Outer Richmond, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Outer Richmond Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew coffee and have a simple breakfast while catching up on local news.",
+                        "geocode": {
+                            "lat": 37.7774856,
+                            "lng": -122.4996397,
+                            "formatted_address": "Outer Richmond, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Outer Richmond Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7774856,
+                            "lng": -122.4996397,
+                            "formatted_address": "Outer Richmond, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Outer Richmond Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and start the long commute downtown, listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7880172,
+                            "lng": -122.4032542,
+                            "formatted_address": "38 Geary St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 55,
+                        "location": "38R Geary Rapid Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc2",
+                        "action": "Arrive at the office, settle in, and review the day's case files and urgent emails.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 60,
+                        "location": "SOMAcentral Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Intensive block of client calls and coordinating with other social service agencies.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "SOMAcentral Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to get a sandwich, eat at a nearby parklet to decompress from the morning.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Conduct a scheduled in-person meeting with a client to update their service plan.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 75,
+                        "location": "SOMAcentral Office"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Complete and file detailed case notes and send follow-up communications.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 105,
+                        "location": "SOMAcentral Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Pack up and begin the commute home during rush hour.",
+                        "geocode": {
+                            "lat": 37.7880172,
+                            "lng": -122.4032542,
+                            "formatted_address": "38 Geary St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "38R Geary Rapid Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Go for a brisk walk to clear his head after a stressful day.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up groceries for the next couple of days.",
+                        "geocode": {
+                            "lat": 37.7823468,
+                            "lng": -122.4652117,
+                            "formatted_address": "350 7th Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Smart & Final"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Make a daily check-in call to his elderly mother.",
+                        "geocode": {
+                            "lat": 37.7774856,
+                            "lng": -122.4996397,
+                            "formatted_address": "Outer Richmond, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Outer Richmond Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Cook dinner, eat, and wind down by reading a novel.",
+                        "geocode": {
+                            "lat": 37.7774856,
+                            "lng": -122.4996397,
+                            "formatted_address": "Outer Richmond, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 95,
+                        "location": "Home - Outer Richmond Apartment"
+                    }
+                ],
+                "day_overview": "A demanding day for a non-profit case manager, balancing client needs in SoMa with a long Muni commute and a quiet, decompression-focused evening in the Outer Richmond.",
+                "home_address": "3942 Geary Blvd, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.78139729999999,
+                    "lng": -122.4618585,
+                    "formatted_address": "3942 Geary Blvd, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "AnyaSharma Family"
+    }
+}

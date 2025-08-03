@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Restaurant Server",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts & Entertainment Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts, Entertainment, and Recreation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s identity has always felt like a collage. A child of a Maltese father and a Lebanese mother, she grew up in a quiet Sacramento suburb where \"Other\" was the only box that ever made sense. Her parents, grounded by immigrant pragmatism, valued stability, but Sarah was drawn to the abstract, the beautiful, the stories held within a brushstroke or a sculpted form. San Francisco, glittering across the bay, was her whispered promise of a different life.\n\nAt 19, she moved to the city to study Art History at SF State. The coursework was intoxicating, but the reality of city living was expensive. When her father\u2019s business struggled, the financial support dried up. Sarah took what she thought was a temporary job serving tables to stay afloat. College became a luxury she could no longer afford, and she dropped out one credit shy of her associate's degree, a fact that stings to this day.\n\nThe turning point was landing a server position at a sophisticated restaurant inside an arts venue in Hayes Valley. It wasn't the curatorial career she\u2019d dreamed of, but it kept her in the orbit of the arts. Here, serving wasn't just a job; it became a craft. She learned to read patrons, anticipate needs, and discuss the nuances of the pre-theater menu with the same passion she once reserved for Renaissance art.\n\nNow 44, Sarah\u2019s world is a compact, walkable universe. Her 0.0-mile commute is from her small rent-controlled studio apartment to the restaurant downstairs. Her life is a curated routine: morning coffee from the corner caf\u00e9, a walk through Patricia\u2019s Green, and prepping for the evening rush. Her social life is woven from industry friendships\u2014the bartender who knows her story, the chef she has fiercely intelligent debates with. She\u2019s a fixture, a familiar face in a neighborhood that feels more like a village.\n\nHer grand dreams have quieted into gentle hopes. She saves tips in a jar labeled \u201cMalta,\u201d aspiring to one day walk the streets of her father\u2019s hometown. She finds fulfillment in small moments: the genuine \"thank you\" from a happy table, the muffled sound of a jazz trio warming up filtering through the walls, and the quiet pride in having built a life, entirely on her own terms, in the city that once felt like a distant dream."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, check phone, and brew a strong pot of coffee.",
+                        "geocode": {
+                            "lat": 37.7491027,
+                            "lng": -122.4363949,
+                            "formatted_address": "1026 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Gentle yoga and stretching in the living room to prepare for a day on her feet.",
+                        "geocode": {
+                            "lat": 37.7491027,
+                            "lng": -122.4363949,
+                            "formatted_address": "1026 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed into work-ready clothes (black pants, comfortable shoes).",
+                        "geocode": {
+                            "lat": 37.7491027,
+                            "lng": -122.4363949,
+                            "formatted_address": "1026 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of yogurt and granola while packing a work bag.",
+                        "geocode": {
+                            "lat": 37.7491027,
+                            "lng": -122.4363949,
+                            "formatted_address": "1026 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, navigating city traffic from Noe Valley to Anza Vista.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Clock in, attend the pre-shift huddle, and complete opening sidework like stocking stations.",
+                        "geocode": {
+                            "lat": 37.7874485,
+                            "lng": -122.4077161,
+                            "formatted_address": "Geary St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Geary Street Bistro"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Serve the busy lunch rush of hospital staff, patients, and visitors.",
+                        "geocode": {
+                            "lat": 37.7874485,
+                            "lng": -122.4077161,
+                            "formatted_address": "Geary St, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "The Geary Street Bistro"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a quick, staggered lunch break in the back with a staff meal.",
+                        "geocode": {
+                            "lat": 37.7810654,
+                            "lng": -122.4651874,
+                            "formatted_address": "Geary Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Geary Street Bistro - Staff Area"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Serve the afternoon crowd and handle closing sidework as the restaurant quiets down.",
+                        "geocode": {
+                            "lat": 37.7874485,
+                            "lng": -122.4077161,
+                            "formatted_address": "Geary St, San Francisco, CA, USA"
+                        },
+                        "duration": 210,
+                        "location": "The Geary Street Bistro"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Commute home, dealing with the start of evening rush hour traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for essential groceries for the next couple of days.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Noe Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Change into comfortable clothes, put feet up, and prepare a simple dinner.",
+                        "geocode": {
+                            "lat": 37.7491027,
+                            "lng": -122.4363949,
+                            "formatted_address": "1026 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 55,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk to a neighborhood pub to meet a friend and unwind over a drink.",
+                        "geocode": {
+                            "lat": 37.7518112,
+                            "lng": -122.4283501,
+                            "formatted_address": "3838 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Dubliner"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch a show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7491027,
+                            "lng": -122.4363949,
+                            "formatted_address": "1026 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Get ready for bed and lay out clothes for the next day's shift.",
+                        "geocode": {
+                            "lat": 37.7491027,
+                            "lng": -122.4363949,
+                            "formatted_address": "1026 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A busy day for Sarah, a restaurant server, balancing a physically demanding shift at a cafe near the medical center with errands and social decompression in her Noe Valley neighborhood.",
+                "home_address": "1026 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7491027,
+                    "lng": -122.4363949,
+                    "formatted_address": "1026 Diamond St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

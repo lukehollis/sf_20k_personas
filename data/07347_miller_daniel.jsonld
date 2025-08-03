@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Miller",
+    "givenName": "Daniel",
+    "familyName": "Miller",
+    "jobTitle": "IT Systems Administrator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Miller\u2019s story began not in San Francisco, but in a Korean orphanage, a place he knows only from faded paperwork. Adopted at eleven months old by a loving, Caucasian couple from Fresno, he was a Miller through and through, yet a quiet sense of displacement trailed him through the sprawling suburbs of his youth. He found solace not in playground politics, but in the logical, ordered world of early computers, spending his teens building machines and exploring nascent online communities.\n\nThis escape into the digital realm belied a search for bigger answers. He pursued a Bachelor's in Philosophy at UC Davis, wrestling with questions of identity and existence. But philosophy didn\u2019t pay the bills. A campus job in the IT department revealed a natural, marketable talent for untangling complex systems. Pragmatism won out. He shelved his philosophical texts and followed the well-trodden path to the Bay Area tech scene.\n\nThe key turning point was landing a stable IT Systems Administrator role just before the massive shift to remote work. Daniel, an introvert by nature, found the transition seamless. His 0.0-mile commute meant his life became contained within his rent-controlled one-bedroom apartment in the Inner Richmond. His days are a quiet ritual: coffee from a local roaster, the low hum of his server rack, and the rhythmic clicking of his keyboard. Work is a puzzle he enjoys solving, a buffer against the chaotic world outside.\n\nHis connection to San Francisco is one of quiet observation. He\u2019s not a nightlife regular but finds peace in solitary walks through Golden Gate Park and enjoys the authenticity of the dim sum parlors on Clement Street. His social circle is small, consisting of a few old college friends and a tight-knit online gaming guild.\n\nNow, at 38, with his career secure, the old philosophical questions are resurfacing. He dreams not of climbing the corporate ladder, but of integration. He has recently started a beginner\u2019s Korean language class online, a tentative first step toward connecting the Daniel his parents raised with the heritage he never knew. His future aspiration is simple yet profound: to one day visit Seoul, not as a tourist, but as someone finally exploring the other half of his own story."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, start the coffee machine, and check news headlines and personal notifications on phone.",
+                        "geocode": {
+                            "lat": 37.7582044,
+                            "lng": -122.444682,
+                            "formatted_address": "1689 Clayton St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home \u2013 1689 Clayton St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack a bag with essentials for the day.",
+                        "geocode": {
+                            "lat": 37.7582044,
+                            "lng": -122.444682,
+                            "formatted_address": "1689 Clayton St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home \u2013 1689 Clayton St"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute to work on an electric scooter, navigating through The Panhandle and down Fell Street.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, settle in, and perform the morning systems check: review server dashboards, check overnight automated reports, and scan for critical alerts.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "San Francisco Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Daily IT operations stand-up meeting to discuss priorities, ongoing projects, and any blocking issues.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Dept. of Tech Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd1",
+                        "action": "Work on a planned server virtualization project, configuring new virtual machines and documenting the process.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 135,
+                        "location": "San Francisco Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83e\udd59",
+                        "action": "Walk over to Hayes Valley for a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.7765267,
+                            "lng": -122.4249906,
+                            "formatted_address": "517 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Souvla Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udf9f\ufe0f",
+                        "action": "Address user-submitted support tickets, remotely assisting city employees with software and access issues.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "San Francisco Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\udea8",
+                        "action": "Troubleshoot an unexpected VPN connectivity issue affecting remote workers, collaborating with the network team to resolve it.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "San Francisco Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute home on the electric scooter, taking the 'Wiggle' bike route to manage the uphill climb back to Cole Valley.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "City Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Change into running gear for a refreshing jog to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta and a few ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7660671,
+                            "lng": -122.449803,
+                            "formatted_address": "856 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "Say Cheese SF"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and eat dinner while listening to an IT security podcast.",
+                        "geocode": {
+                            "lat": 37.7582044,
+                            "lng": -122.444682,
+                            "formatted_address": "1689 Clayton St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home \u2013 1689 Clayton St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfae",
+                        "action": "Relax on the couch by playing a strategy game on his PC and chatting with online friends.",
+                        "geocode": {
+                            "lat": 37.7582044,
+                            "lng": -122.444682,
+                            "formatted_address": "1689 Clayton St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home \u2013 1689 Clayton St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Wind down for the night: tidy the kitchen, do some light reading, and set an alarm for the next day.",
+                        "geocode": {
+                            "lat": 37.7582044,
+                            "lng": -122.444682,
+                            "formatted_address": "1689 Clayton St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home \u2013 1689 Clayton St"
+                    }
+                ],
+                "day_overview": "A structured day for a government IT Systems Administrator, balancing routine system checks and project work with an unexpected network issue. The evening focuses on personal wellness with a run in Golden Gate Park and unwinding at his Cole Valley home.",
+                "home_address": "1689 Clayton St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7589962,
+                    "lng": -122.4466668,
+                    "formatted_address": "1689 Clayton St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

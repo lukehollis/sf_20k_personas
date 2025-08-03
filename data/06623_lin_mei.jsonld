@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Lin",
+    "givenName": "Mei",
+    "familyName": "Lin",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Lin\u2019s life is measured in the familiar steps between her apartment and the shop below. Born and raised in the vibrant, dense heart of San Francisco's Chinatown, her childhood was a symphony of mahjong tiles clicking, the sizzle of woks, and the constant hum of Cantonese spoken on the street. Her parents, immigrants from Guangdong, poured their life savings and seemingly endless hours into \"Golden Way Imports,\" a small store selling everything from porcelain tea sets to medicinal herbs. Mei was their bridge to the new world\u2014their translator, their after-school cashier, their American-born hope.\n\nShe yearned for a life beyond the shop's four walls. Enrolling at San Francisco State University, she briefly tasted independence, delving into art history classes that felt a world away from inventory counts. However, two years in, her father suffered a major stroke. The choice was never presented as one, but as a simple, unspoken fact: she was needed. Mei left college, the dream of a different life packed away like a treasured, but unused, heirloom. She stepped fully into running the family store, her filial duty a heavy but familiar coat.\n\nNow, at 45, Mei is the undeniable pillar of Golden Way Imports. She lives in the same rent-controlled apartment above the shop where she grew up, her commute a single flight of stairs. Her days are a practiced rhythm: unlocking the gate at 9 AM, bargaining with suppliers, sharing neighborhood gossip with her elderly regulars, and patiently explaining the difference between various oolongs to tourists. Her social life is woven into the fabric of the community; a quick dim sum lunch with other shop owners, a wave to Mrs. Chen across the street. A long-term relationship ended years ago, unable to compete with the demands of the store.\n\nWhile she has accepted her path, a quiet dream flickers. Mei hopes to one day digitize her parents' business, creating an online presence that can sustain it for another generation. More personally, she fantasizes about taking a real vacation\u2014not just a day off\u2014to see the art she once studied, perhaps in Paris or Rome. For now, she remains the loyal daughter and steadfast manager, the keeper of her family\u2019s legacy, her own aspirations a gentle undercurrent beneath the bustling surface of Chinatown."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, make coffee, and check the morning news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Quick jog along the waterfront to catch the morning air and see the bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and eat a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the bus stop on Chestnut Street to catch the express bus downtown.",
+                        "geocode": {
+                            "lat": 37.7975642,
+                            "lng": -122.4307288,
+                            "formatted_address": "1901 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 10,
+                        "location": "Chestnut St & Fillmore St Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute on the Muni 30 Stockton bus, listening to a tech news podcast to stay current.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni Bus 30"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, disarm the alarm, turn on the lights, and review the repair queue before the team arrives.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 15,
+                        "location": "TechInSF Consulting"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead the morning team huddle, assign new tickets, and manage the first wave of customer appointments.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 180,
+                        "location": "TechInSF Consulting"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Step out for a quick lunch, grabbing a poke bowl to eat at a nearby parklet.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "SoMa StrEATS"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Conduct inventory counts for key components and place orders with suppliers.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "TechInSF Consulting"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Handle escalated customer issues and prepare the daily sales and performance report for corporate.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "TechInSF Consulting"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, switching from the podcast to a relaxing classical music playlist to de-stress.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 50,
+                        "location": "Muni Bus 30"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up fresh vegetables and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Marina Superette"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Prepare and eat a simple, healthy dinner while catching up on personal mail.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Video call with her sister who lives out of state to catch up on family news.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind by watching an episode of a favorite historical drama on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prepare for the next day by laying out her work outfit and packing her bag before reading a few pages of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for a retail manager, balancing demanding work in SoMa with a decompression routine in her Marina neighborhood, using her public transit commute as personal time.",
+                "home_address": "2524 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8060726,
+                    "lng": -122.4401602,
+                    "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1979",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

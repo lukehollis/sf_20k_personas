@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Michael Miller",
+    "givenName": "Michael",
+    "familyName": "Miller",
+    "jobTitle": "Orderly ",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Michael Miller\u2019s story is one of quiet consistency, forged far from the city he now calls home. He grew up in a small, rust-belt town in Ohio, the son of a factory worker and a diner waitress. School was a place he endured, not excelled; the drone of classroom lectures never held his attention like the intricate workings of a car engine or the quiet drama of the lives he observed from his mother\u2019s diner. He graduated high school with a diploma that felt more like a parole slip, and with no clear path forward, he left.\n\nFor a decade, Michael drifted. He worked as a line cook in Chicago, a roadie for a struggling band in Austin, and a handyman in Phoenix. These were years of learning about people, not subjects. He arrived in San Francisco at 29, drawn by a vague promise of reinvention. The city\u2019s energy was intoxicating but its cost of living was crushing. After months of sleeping on couches and in his car, he saw an ad for an orderly at St. Jude\u2019s Long-Term Care Facility, an older, sprawling complex in the Inner Richmond. The job was tough, the pay was modest, but it came with a lifeline: a small, subsidized studio apartment on the hospital grounds.\n\nThat was twelve years ago. Michael\u2019s life found its rhythm. His 0.0-mile commute is a short walk across a manicured lawn, from his spartan apartment to the fourth-floor ward. He has become a fixture at St. Jude's, known for his gentle strength and unflappable calm. He doesn\u2019t offer false cheer, but a quiet, dignified presence that brings comfort to patients in their most vulnerable moments. His key relationships are with his coworkers\u2014a tight-knit group who communicate in nods and shorthand\u2014and the transient community of patients he serves.\n\nHis connection to San Francisco is observant rather than participatory. On his days off, he walks for hours through Golden Gate Park or sits at Ocean Beach, watching the fog consume the horizon. He\u2019s an anchor in a city of perpetual motion. His dream isn\u2019t grand; he hopes to one day save enough for a small plot of land somewhere quiet, maybe back in the Midwest, where he can have a garden. But for now, he finds purpose in the contained world of St. Jude\u2019s, a steady presence in the final chapters of other people\u2019s stories."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Wake up, shower, make strong coffee, and eat a quick breakfast of toast and yogurt.",
+                        "geocode": {
+                            "lat": 37.7685825,
+                            "lng": -122.4156399,
+                            "formatted_address": "1795 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment (1795 Folsom St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf92",
+                        "action": "Pack a lunch and work bag, making sure to have comfortable, supportive shoes.",
+                        "geocode": {
+                            "lat": 37.7685825,
+                            "lng": -122.4156399,
+                            "formatted_address": "1795 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment (1795 Folsom St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from the Mission to the USF campus, dealing with morning traffic on Oak Street.",
+                        "geocode": {
+                            "lat": 37.7742823,
+                            "lng": -122.4359741,
+                            "formatted_address": "Fell St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "On the Road (Oak St/Fell St corridor)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe5",
+                        "action": "Change into scrubs in the staff locker room, clock in, and review the patient transport schedule.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "USF Health Staff Locker Room"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\u2695\ufe0f",
+                        "action": "Morning shift: Transport patients to various departments (radiology, physical therapy) and assist nursing staff.",
+                        "geocode": {
+                            "lat": 37.7732553,
+                            "lng": -122.4534692,
+                            "formatted_address": "2250 Hayes St 3rd floor, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 240,
+                        "location": "USF Medical Center Floors"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Eat a packed lunch and scroll through his phone in the staff breakroom to decompress.",
+                        "geocode": {
+                            "lat": 37.7732553,
+                            "lng": -122.4534692,
+                            "formatted_address": "2250 Hayes St 3rd floor, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "USF Medical Center Staff Breakroom"
+                    },
+                    {
+                        "emoji": "\u267f",
+                        "action": "Afternoon shift: Assist with patient discharges, clean and prep beds, and transport lab specimens.",
+                        "geocode": {
+                            "lat": 37.7732553,
+                            "lng": -122.4534692,
+                            "formatted_address": "2250 Hayes St 3rd floor, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 240,
+                        "location": "USF Medical Center Patient Wings"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Clock out, change out of scrubs, and walk to the staff parking garage to begin the commute home.",
+                        "geocode": {
+                            "lat": 37.7766854,
+                            "lng": -122.454597,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "Koret Health and Recreation Center Garage"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home from USF, navigating heavy afternoon traffic through the Panhandle and Hayes Valley.",
+                        "geocode": {
+                            "lat": 37.7768461,
+                            "lng": -122.4382526,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "On the Road (Panhandle / Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walk to the local market to pick up ingredients for dinner and a few household essentials.",
+                        "geocode": {
+                            "lat": 37.7639852,
+                            "lng": -122.4127726,
+                            "formatted_address": "2111 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Gus's Community Market (Harrison St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook and eat a simple dinner of chicken and vegetables while watching the local news.",
+                        "geocode": {
+                            "lat": 37.7685825,
+                            "lng": -122.4156399,
+                            "formatted_address": "1795 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment (1795 Folsom St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk to meet a friend for a beer and conversation at a casual neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.77002299999999,
+                            "lng": -122.4221172,
+                            "formatted_address": "199 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Zeitgeist"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind-down routine: clean the kitchen, prep the coffee machine, and watch a show on Netflix.",
+                        "geocode": {
+                            "lat": 37.7685825,
+                            "lng": -122.4156399,
+                            "formatted_address": "1795 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment (1795 Folsom St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Set alarm for the next shift, turn off the lights, and go to sleep.",
+                        "geocode": {
+                            "lat": 37.7685825,
+                            "lng": -122.4156399,
+                            "formatted_address": "1795 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 480,
+                        "location": "Home Apartment (1795 Folsom St)"
+                    }
+                ],
+                "day_overview": "A physically demanding workday as a hospital orderly, bookended by a stressful city commute and unwinding with a friend in his Mission District neighborhood.",
+                "home_address": "1795 Folsom St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7685825,
+                    "lng": -122.4156399,
+                    "formatted_address": "1795 Folsom St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

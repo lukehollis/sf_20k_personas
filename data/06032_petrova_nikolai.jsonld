@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Nikolai Petrova",
+    "givenName": "Nikolai",
+    "familyName": "Petrova",
+    "jobTitle": "Data Architect",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Nikolai Petrova\u2019s world has always been one of quiet order, a stark contrast to the chaos of his early years. Born in St. Petersburg to two literature professors, his childhood was upended when his family emigrated to the United States in the early 1990s, settling in a quiet university town in the Midwest. A shy, observant boy caught between two languages and cultures, Nikolai found solace not on the playground, but in the hushed, logical aisles of the public library. It was a space where information had a place, and everything made sense.\n\nThis love for structured knowledge led him to pursue a Master of Library and Information Science (MLIS). His initial dream was to become an academic archivist, a guardian of physical history. The turning point came during a post-graduate project digitizing fragile university archives. Nikolai discovered a profound talent not just for preserving information, but for structuring it in the digital realm. He saw the future wasn\u2019t just in the books, but in the systems that would contain a world\u2019s worth of data. Teaching himself programming languages and database theory, he pivoted, trading the dusty archive for the burgeoning world of tech.\n\nNow, Nikolai is a sought-after Data Architect, living and working from his meticulously organized apartment in the Inner Richmond. His 0.0-mile commute is a deliberate choice, allowing him to control his environment. His days are a cascade of abstract logic\u2014designing massive, elegant data pipelines for a downtown tech giant without ever stepping foot in the office.\n\nHis connection to San Francisco is one of quiet appreciation. He loves the fog rolling over Clement Street and the proximity to Golden Gate Park for his pensive morning walks. His social life is small but meaningful, consisting of a few friends from a local book club and the occasional visit to a Russian bakery for a taste of his past.\n\nNikolai's life is a study in duality. By day, he builds ephemeral castles of code in the cloud. By night and on weekends, he works with his hands, meticulously restoring antique books he finds at estate sales\u2014a tangible, analog craft that grounds him. His ultimate dream isn't a C-suite position, but to one day open a small, specialized bookbindery, a physical legacy to balance his digital one."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check sleep data, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7532913,
+                            "lng": -122.4018139,
+                            "formatted_address": "2200 24th St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "2200 24th Street Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee and share a quick breakfast with his partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Begin the commute, walking north while listening to a data engineering podcast.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Valencia Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab a sparkling water, and sync up with the team on daily priorities.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 15,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep Work Session: Architecting a new event-driven data pipeline for user analytics.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Personal Desk at Unity"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Architecture Review Meeting: Present a new data warehousing strategy to engineering leads.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Unity Conference Room 'Sierpinski'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy grain bowl to-go and eat lunch outside.",
+                        "geocode": {
+                            "lat": 37.7849884,
+                            "lng": -122.4023514,
+                            "formatted_address": "Yerba Buena Gardens, 750 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Yerba Buena Gardens"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Mentoring Session: Pair programming with a junior data scientist to optimize a complex SQL query.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Breakout Pod at Unity"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Focus Time: Address code reviews, respond to technical Slack threads, and plan tomorrow's tasks.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Personal Desk at Unity"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, switching from podcast to an audiobook for the walk.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mission Street Path"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh pasta and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Arrive home, greet his partner, and unwind together over a glass of wine while discussing their days.",
+                        "geocode": {
+                            "lat": 37.7532913,
+                            "lng": -122.4018139,
+                            "formatted_address": "2200 24th St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 40,
+                        "location": "2200 24th Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner together, preparing a homemade pesto pasta dish.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Post-dinner relaxation: Read a chapter of a hard sci-fi novel on the couch.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: Tidy up, prepare for bed, and set out clothes for the next day.",
+                        "geocode": {
+                            "lat": 37.7532913,
+                            "lng": -122.4018139,
+                            "formatted_address": "2200 24th St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 25,
+                        "location": "2200 24th Street Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a Data Architect, balancing deep technical work with collaborative meetings. The day is bookended by a long, meditative walk through the city, and winds down with quality time and cooking at home with his partner in the Mission.",
+                "home_address": "2200 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7532913,
+                    "lng": -122.4018139,
+                    "formatted_address": "2200 24th St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Petrova Family"
+    }
+}

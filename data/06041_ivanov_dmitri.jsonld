@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Dmitri Ivanov",
+    "givenName": "Dmitri",
+    "familyName": "Ivanov",
+    "jobTitle": "Quantitative Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Dmitri Ivanov is a man built from equations. Born in Sacramento to Soviet \u00e9migr\u00e9s who fled the collapsing USSR, his childhood was a quiet study in discipline and expectation. His father, a stoic mechanic, and his mother, a tirelessly optimistic house cleaner, saw education as the only true currency. For them, Dmitri\u2019s intellectual gifts were a ticket out of a life of physical toil. He absorbed this pressure, channeling it into a fierce academic focus.\n\nHe excelled, earning a scholarship to UC Berkeley for physics before pursuing a doctorate in Computational Physics at Cornell. Dmitri loved the elegant purity of theoretical models, but the slow, poorly-funded world of academia grew stale. During his final year, a recruiter from a Chicago hedge fund showed him a different kind of puzzle: the market. It was chaotic, irrational, yet mappable with the right algorithms. The staggering compensation was merely a bonus. This was his turning point\u2014trading the pursuit of universal truths for the mastery of financial systems.\n\nAfter a grueling decade in Chicago, Dmitri accepted a position at a San Francisco-based firm, drawn by the promise of a more tech-forward culture and the illusion of a better lifestyle. He now lives in a minimalist Hayes Valley condo he purchased with cash. His 0.0-mile commute is a testament to his life\u2019s containment; his world is the space between his three-monitor desk setup and his Peloton. His days are a rigid routine: up at 4:30 a.m. for the market open, an intense eight-hour session of coding and analysis, a solitary lunch, and an afternoon run through the neatly gridded streets of his neighborhood.\n\nSocially, Dmitri is adrift. A long-term relationship crumbled under the weight of his work, and his friendships are few and transactional. He appreciates San Francisco as a concept\u2014the dramatic fog, the world-class restaurants he orders from, the sheer concentration of capital and intellect. Yet, he remains an observer, not a participant. He tells himself he is working toward absolute financial freedom, but lately, a quiet question echoes in the silence after the markets close: once he solves for *x*, what will the answer mean?"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Wake up, check overnight financial market data on phone, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7614518,
+                            "lng": -122.4209817,
+                            "formatted_address": "3469 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment, Mission District"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare a quick breakfast and coffee while listening to a data science podcast.",
+                        "geocode": {
+                            "lat": 37.7614518,
+                            "lng": -122.4209817,
+                            "formatted_address": "3469 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment, Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\ude86",
+                        "action": "Walk to 16th St Mission Station, take BART to Embarcadero, and walk to the office.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "BART (16th St Mission to Embarcadero)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at desk, review model performance, and attend the daily team stand-up meeting.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Chime HQ, 101 California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: algorithm development and backtesting for a new risk model.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 180,
+                        "location": "Chime HQ, 101 California St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick 'Not So Fried' Chicken Sandwich to eat while reading a research paper.",
+                        "geocode": {
+                            "lat": 37.7927841,
+                            "lng": -122.4023581,
+                            "formatted_address": "465 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 50,
+                        "location": "Mendocino Farms, Financial District"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Afternoon work: Collaborate with data engineers on a new data pipeline for model inputs.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 90,
+                        "location": "Chime HQ, 101 California St"
+                    },
+                    {
+                        "emoji": "\u2328\ufe0f",
+                        "action": "Final work block: Code review for a teammate and preparing a summary of model results.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 150,
+                        "location": "Chime HQ, 101 California St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute home, walking to Embarcadero and taking BART back to the Mission.",
+                        "geocode": {
+                            "lat": 37.7653618,
+                            "lng": -122.4195684,
+                            "formatted_address": "16th St Mission, Qa, 2000 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "BART (Embarcadero to 16th St Mission)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7\u200d\u2642\ufe0f",
+                        "action": "Head to the gym for a bouldering session to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs Climbing & Fitness"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Pick up a carne asada burrito from a favorite local spot on the walk home.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner and relax on the couch watching a tech documentary.",
+                        "geocode": {
+                            "lat": 37.7614518,
+                            "lng": -122.4209817,
+                            "formatted_address": "3469 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment, Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a hard sci-fi novel and prepping for the next day.",
+                        "geocode": {
+                            "lat": 37.7614518,
+                            "lng": -122.4209817,
+                            "formatted_address": "3469 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment, Mission District"
+                    }
+                ],
+                "day_overview": "A data-intensive workday for a finance professional in FiDi, balanced with a physical de-stress session and a relaxed evening enjoying the vibrant food scene of his home in the Mission District.",
+                "home_address": "29 16th St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7669962,
+                    "lng": -122.3879043,
+                    "formatted_address": "29 16th St, San Francisco, CA 94158, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Ivanov Family"
+    }
+}

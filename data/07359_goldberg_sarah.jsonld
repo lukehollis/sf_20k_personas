@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Goldberg",
+    "givenName": "Sarah",
+    "familyName": "Goldberg",
+    "jobTitle": "Restaurant Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Food Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Goldberg\u2019s life is measured in reservation times and inventory sheets. Raised in the quiet, tree-lined suburbs of San Rafael, she was the daughter of a pragmatic accountant and a high school teacher who held a deep appreciation for literature. They envisioned a stable, academic path for her, a vision Sarah initially shared. She enrolled at San Francisco State University, intending to major in English, but the city itself proved to be a far more compelling classroom than any lecture hall.\n\nTo support her studies, she took a job as a server at a bustling Italian restaurant in North Beach. There, amidst the clatter of plates and the rhythmic chaos of the kitchen, she found a sense of purpose that had eluded her in academia. The immediate feedback, the tangible results of a perfectly executed service, and the camaraderie of the staff were intoxicating. The turning point came during a brutal finals week when she realized she was more passionate about managing a double-booked Saturday night than writing her paper on modernist poetry. She didn\u2019t drop out in failure, but rather walked away, choosing a different career path.\n\nShe poured her ambition into the restaurant world, working her way up from server to bartender, then shift lead, and finally, manager. Her current role at a trendy, farm-to-table spot in Hayes Valley is all-consuming, a fact underscored by her 0.0-mile commute. She lives in a small studio apartment directly above the restaurant, a space provided by the owners. Her life is a closed loop: she wakes to the smell of baking bread, spends her days navigating staffing issues and demanding patrons, and often ends her nights sharing a drink with the chefs after closing.\n\nHer staff has become her surrogate family, and the neighborhood regulars her closest connections. While she is proud of the life she\u2019s built, at 31, a quiet yearning for separation has begun to grow. She dreams of one day opening her own small wine bar, a place with less pressure and more soul. More than that, she fantasizes about a life not dictated by the rhythm of the dinner rush\u2014a life with a real commute, a dog, and a front door that doesn't lead directly back to her job. Her apartment is both her sanctuary and her gilded cage, and she\u2019s starting to wonder how to find the key."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check phone for any urgent staff messages, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7514018,
+                            "lng": -122.4343584,
+                            "formatted_address": "1266 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1266 Castro St)"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Morning coffee and a quick breakfast of toast and avocado with her partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Kitchen)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from the Castro to SoMa, listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF Streets & Freeway"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Arrive at work, check inventory levels from last night, and review the day's reservations.",
+                        "geocode": {
+                            "lat": 37.7994351,
+                            "lng": -122.4009668,
+                            "formatted_address": "850 Battery St STE 1, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Canvas Eatery at Arc"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Hold the pre-lunch huddle with servers and kitchen staff to discuss specials and VIPs.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Canvas Eatery at Arc (Dining Room)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Manage the floor during the lunch rush, seating guests and troubleshooting any issues.",
+                        "geocode": {
+                            "lat": 37.7994351,
+                            "lng": -122.4009668,
+                            "formatted_address": "850 Battery St STE 1, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 150,
+                        "location": "Canvas Eatery at Arc"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Eat a quick 'family meal' with the back-of-house staff for lunch.",
+                        "geocode": {
+                            "lat": 37.7735999,
+                            "lng": -122.4110378,
+                            "formatted_address": "325 9th St Floor 3, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Canvas Eatery at Arc (Staff Area)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative work: place produce and wine orders, respond to emails, and adjust staffing.",
+                        "geocode": {
+                            "lat": 37.7735999,
+                            "lng": -122.4110378,
+                            "formatted_address": "325 9th St Floor 3, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Canvas Eatery at Arc (Back Office)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Oversee the dining room setup and staff briefing for the dinner service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Canvas Eatery at Arc (Dining Room)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Orchestrate the peak dinner service, touching tables and assisting the host stand.",
+                        "geocode": {
+                            "lat": 37.7994351,
+                            "lng": -122.4009668,
+                            "formatted_address": "850 Battery St STE 1, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 240,
+                        "location": "Canvas Eatery at Arc"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfe",
+                        "action": "Handle end-of-night accounting, cash out the servers, and write the daily report.",
+                        "geocode": {
+                            "lat": 37.7735999,
+                            "lng": -122.4110378,
+                            "formatted_address": "325 9th St Floor 3, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Canvas Eatery at Arc (Back Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, listening to a true crime podcast to decompress from the long day.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop at Golden Produce on the way home to grab a few fresh items for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7681986,
+                            "lng": -122.4292219,
+                            "formatted_address": "172 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 15,
+                        "location": "Golden Produce"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Unwind on the couch and catch up with her partner about their respective days.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Living Room)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: shower, skincare, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Bathroom)"
+                    }
+                ],
+                "day_overview": "A long and demanding workday for Sarah, balancing the fast-paced environment of managing a SoMa restaurant with quiet moments at her Castro home with her partner.",
+                "home_address": "1266 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7514018,
+                    "lng": -122.4343584,
+                    "formatted_address": "1266 Castro St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Goldberg Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Thomas O'Connell",
+    "givenName": "Thomas",
+    "familyName": "O'Connell",
+    "jobTitle": "Senior IT Specialist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Thomas O\u2019Connell was a product of Chicago\u2019s South Side, born to an Irish-American family where practicality was prized above passion. His father was a union electrician, his mother a homemaker, and their world was one of tangible skills and steady paychecks. Thomas, however, was drawn to the past, and to his parents\u2019 quiet bewilderment, he pursued a Bachelor's degree in History at the University of Illinois. He graduated in the early 90s, armed with a deep knowledge of the Byzantine Empire but facing a barren job market.\n\nThe first major turning point came during the nascent dot-com boom. Seeing friends with no degrees landing lucrative jobs building websites, Thomas made a pragmatic pivot. He poured his energy into A+ and networking certifications, teaching himself the logic of systems and servers. He started on a help desk, a humbling shift from academic pursuits, but he was a quick study. He clawed his way up through the late 90s, his historian\u2019s mind good at seeing patterns in complex systems.\n\nHe arrived in San Francisco in 2003, recruited by a stable, post-bust tech firm. The city was a shock of color and energy compared to Chicago. He settled into a small apartment in Noe Valley, a neighborhood that felt grounded amidst the city\u2019s frenetic pace. A brief, ill-fated marriage in his late thirties ended amicably, a casualty of long hours and divergent life goals. Since then, he has remained single, finding comfort in a quiet, ordered life.\n\nNow 52, Thomas is a Senior IT Specialist who works entirely from his cozy Noe Valley condo. His 0.0-mile commute affords him a ritualistic routine: coffee from the local cafe, a focused workday managing remote servers, and an afternoon walk through the familiar streets, always ending with a nod to the familiar faces at the corner market. He has a few close friends from work and a sister he calls weekly in Chicago.\n\nThomas feels like a tenured resident of San Francisco, having watched it morph through several tech cycles. He appreciates its beauty but has grown weary of the constant disruption. His dream is no longer a promotion but an exit strategy. In five years, he hopes to sell his condo, buy a small house in coastal Oregon, and finally have the time to read the history books that have gathered dust on his shelves, his career having come full circle to grant him the peace his education first promised."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, start the drip coffee maker, and look over the day's headlines on a tablet.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment (369 Pine St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Go for a brisk morning walk to clear his head, walking down to the waterfront to grab a pastry.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Acrobat Cafe at the Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Settle into the home office, check system monitoring dashboards for any overnight alerts from Kaiser's servers.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office (369 Pine St)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Daily IT Infrastructure Stand-Up Meeting via Zoom with the Kaiser Permanente team to discuss project status and blockers.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office (369 Pine St)"
+                    },
+                    {
+                        "emoji": "\u2601\ufe0f",
+                        "action": "Focused work on a major server virtualization project, scripting new environment setups.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office (369 Pine St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Step out to grab a classic SF sandwich for lunch, eating at a nearby public plaza to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83d\udea8",
+                        "action": "Handle an urgent escalation ticket regarding a database performance issue affecting patient records.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office (369 Pine St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf93",
+                        "action": "Virtual mentoring session with a junior IT specialist, walking them through network diagnostic tools.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office (369 Pine St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Complete administrative tasks: update project documentation, respond to non-urgent emails, and plan tomorrow's tasks.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office (369 Pine St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc4b",
+                        "action": "Log off from work systems, close the laptop, and officially end the workday.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office (369 Pine St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Change into workout clothes and go for a run to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7897395,
+                            "lng": -122.3961656,
+                            "formatted_address": "Salesforce Park, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 75,
+                        "location": "Run loop around Salesforce Park"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Shower and get ready for the evening.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment (369 Pine St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd43",
+                        "action": "Meet a former colleague for an early dinner and drinks to catch up.",
+                        "geocode": {
+                            "lat": 37.7934352,
+                            "lng": -122.3994491,
+                            "formatted_address": "240 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 120,
+                        "location": "Tadich Grill"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk home, unwind by listening to a history podcast and tidying up the kitchen.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment (369 Pine St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Read a few chapters of a novel before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7917219,
+                            "lng": -122.40202,
+                            "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment (369 Pine St)"
+                    }
+                ],
+                "day_overview": "A structured day for a seasoned IT professional, balancing the demands of remote work for a major hospital with personal time for fitness and socializing in the heart of San Francisco.",
+                "home_address": "369 Pine St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7917219,
+                    "lng": -122.40202,
+                    "formatted_address": "369 Pine St, San Francisco, CA 94104, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1972",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "O'Connell Family"
+    }
+}

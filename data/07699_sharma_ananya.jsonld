@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ananya Sharma",
+    "givenName": "Ananya",
+    "familyName": "Sharma",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ananya Sharma is a product of two worlds. Born and raised in Fremont, she was surrounded by the quiet ambition of Silicon Valley's suburbs. Her parents, immigrants from Jaipur, India, provided a home rich with the scent of cardamom and the expectation of excellence. Her father, a meticulous software engineer, encouraged her analytical mind, while her mother filled their home with art and stories, nurturing a less quantifiable creativity within her. This duality defined Ananya's path; she was drawn to the logic of numbers but fascinated by the human stories they told.\n\nHer educational journey led her to UC Berkeley, where she sidestepped a traditional computer science track for a Bachelor's in Cognitive Science. She was less interested in building the machine and more captivated by understanding the user. This became her niche. After graduating, she landed a role at a promising startup, honing her ability to translate raw data into compelling narratives about user behavior. Three years ago, a major tech firm in San Francisco recruited her, and she made the move into the city proper.\n\nA key turning point was the shift to fully remote work during the pandemic. Initially isolating, it forced Ananya to deliberately construct her life outside of an office. She chose an apartment in Hayes Valley, drawn to its central location and vibrant mix of boutiques, cafes, and proximity to the arts district. Her 0.0-mile commute means her mornings now begin with yoga overlooking Patricia's Green, not a crowded MUNI.\n\nHer daily routine is a blend of intense focus and planned leisure. From her sun-drenched desk, she wrangles datasets and builds predictive models. After logging off, she reconnects with her tight-knit circle of friends for rock climbing at Dogpatch Boulders or exploring new restaurants in the Mission. Though single, she values these deep friendships as the pillars of her life in a transient city.\n\nAnanya loves San Francisco for its acceptance of focused ambition and quirky individualism. Her dream is to eventually lead a data ethics team, ensuring that technology remains human-centric. She also harbors a personal goal to take a six-month sabbatical to travel through India, not just to see family, but to connect with the artistic heritage her mother instilled in her, finally weaving the two halves of her world into a single, vibrant tapestry."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, morning stretches, and a 10-minute meditation session.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (2764 2nd St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (2764 2nd St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Enjoy a quick breakfast of toast and masala chai with parents.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (2764 2nd St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the Muni stop and take the T Third Street line towards work.",
+                        "geocode": {
+                            "lat": 37.7794208,
+                            "lng": -122.390136,
+                            "formatted_address": "2nd & King, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 20,
+                        "location": "Muni Metro T Line (2nd & King to 7th & Folsom)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab a coffee from the kitchen, and review daily priorities.",
+                        "geocode": {
+                            "lat": 37.7740771,
+                            "lng": -122.4042889,
+                            "formatted_address": "521 7th St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Workstream Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Run SQL queries to pull engagement data for the latest feature launch.",
+                        "geocode": {
+                            "lat": 37.7740771,
+                            "lng": -122.4042889,
+                            "formatted_address": "521 7th St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 90,
+                        "location": "Workstream Office (521 7th St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend the data team's daily stand-up meeting to sync on project progress.",
+                        "geocode": {
+                            "lat": 37.7740771,
+                            "lng": -122.4042889,
+                            "formatted_address": "521 7th St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Workstream Conference Room 'The Matrix'"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Lunch break with a colleague to grab a rice bowl.",
+                        "geocode": {
+                            "lat": 37.7470161,
+                            "lng": -122.418717,
+                            "formatted_address": "3139 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "HRD Coffee Shop"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work: Develop a new user retention dashboard in Tableau.",
+                        "geocode": {
+                            "lat": 37.7740771,
+                            "lng": -122.4042889,
+                            "formatted_address": "521 7th St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 120,
+                        "location": "Workstream Office (521 7th St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Collaborate with a Product Manager to interpret A/B test results.",
+                        "geocode": {
+                            "lat": 37.7740771,
+                            "lng": -122.4042889,
+                            "formatted_address": "521 7th St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "Workstream Breakout Area"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up daily tasks, respond to final emails, and plan for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7740771,
+                            "lng": -122.4042889,
+                            "formatted_address": "521 7th St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Workstream Office (521 7th St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Take the Muni bus home, listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7907088,
+                            "lng": -122.3902304,
+                            "formatted_address": "12 Folsom St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 20,
+                        "location": "Muni Bus 12-Folsom/Pacific"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Unwind and de-stress at a hot yoga class.",
+                        "geocode": {
+                            "lat": 37.7776282,
+                            "lng": -122.4101423,
+                            "formatted_address": "1122 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Ritual Hot Yoga SoMa"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5b",
+                        "action": "Help cook and eat a home-cooked dinner with her family.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (2764 2nd St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a show on Netflix with her parents.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (2764 2nd St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prepare for the next day, read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home (2764 2nd St)"
+                    }
+                ],
+                "day_overview": "A productive day for Ananya, balancing focused data analysis tasks at her SoMa tech job with family time and a relaxing yoga session to unwind.",
+                "home_address": "2764 2nd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7878834,
+                    "lng": -122.3996558,
+                    "formatted_address": "2nd St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

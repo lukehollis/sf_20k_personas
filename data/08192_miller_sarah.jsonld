@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Projects Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is contained within the foggy, intimate borders of Cole Valley. Raised in a quiet suburb of Portland, Oregon, by a high school history teacher and a dental hygienist, her upbringing was stable, predictable, and green. She pursued a Bachelor's degree in History at the University of Oregon, fascinated by how past events created the complex systems of the present\u2014a skill that would prove unexpectedly useful.\n\nShe moved to San Francisco at 23, not for a job, but for a boyfriend and the city\u2019s magnetic pull. The relationship didn't last, but Sarah\u2019s love for the city\u2019s vibrant, chaotic energy did. For years, she drifted through service industry jobs, feeling the city\u2019s pricey squeeze. Her turning point came through a temp agency that placed her as a receptionist at a small software startup. Her supervisors quickly noticed her knack for untangling scheduling conflicts and creating order from chaos. She learned the language of sprints, backlogs, and deliverables on the fly, transitioning from greeting visitors to managing project timelines.\n\nNow 31 and a Projects Coordinator, Sarah\u2019s commute is the ten steps from her bed to her desk. Her bay window looks out onto Kezar Stadium, and her day is a digital hum of Slack notifications and video calls connecting her to a team spread across the globe. The remote work lifestyle has turned her focus inward, toward her immediate surroundings. Her daily routine is punctuated by a morning walk to her favorite caf\u00e9 for a cortado, a lunchtime run in Golden Gate Park, and evening online yoga classes.\n\nHer social life is deliberate. A tight-knit circle of friends, formed through a book club that now functions more as a weekly support group, is her anchor. While she\u2019s technically part of the vast tech machine, she feels more connected to the owner of the corner market and the other regulars at her local pub. San Francisco, for her, isn't about the downtown hustle but the specific community she\u2019s carved out. She dreams of one day leading a project for a non-profit tech company and, perhaps more dauntingly, owning a small condo in the neighborhood she now truly calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check overnight notifications, and drink a glass of lemon water.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Morning yoga and stretching session using a fitness app.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, skincare routine, and get dressed for the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make a quick breakfast of avocado toast and coffee while packing a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and commute to the office on the Muni 49 bus while listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7735989,
+                            "lng": -122.4184767,
+                            "formatted_address": "49 Van Ness Ave, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "Muni 49 - Van Ness/Mission Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, grab coffee, and respond to urgent emails before the daily team stand-up.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 60,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead a project sync meeting to align on sprint goals and address blocker issues.",
+                        "geocode": {
+                            "lat": 37.8098999,
+                            "lng": -122.4977005,
+                            "formatted_address": "Golden Gate, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "WSI Conference Room 'Golden Gate'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk with a coworker to grab a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.8004202,
+                            "lng": -122.4395019,
+                            "formatted_address": "Chestnut St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn - Chestnut Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Focused work block: update project timelines, prepare reports, and coordinate with cross-functional teams.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 150,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Commute home, stopping for a few grocery essentials on the way.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mollie Stone's Markets"
+                    },
+                    {
+                        "emoji": "\ud83d\udd25",
+                        "action": "Meet a friend for a post-work hot yoga class.",
+                        "geocode": {
+                            "lat": 37.79756,
+                            "lng": -122.4341,
+                            "formatted_address": "2909 Webster St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "CorePower Yoga - Union Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Grab casual dinner and drinks with friend after the workout session.",
+                        "geocode": {
+                            "lat": 37.8004003,
+                            "lng": -122.4405457,
+                            "formatted_address": "2250 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "Tacolicious - Chestnut Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind at home by watching an episode of a trending show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prepare for bed: evening skincare routine, pack gym bag for the next day, and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A productive workday for a tech Projects Coordinator, balanced with a social fitness class and dinner in the Marina, utilizing San Francisco's public transit for commutes.",
+                "home_address": "2399 Pine St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7877566,
+                    "lng": -122.4353155,
+                    "formatted_address": "2399 Pine St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

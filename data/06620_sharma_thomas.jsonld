@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Thomas Sharma",
+    "givenName": "Thomas",
+    "familyName": "Sharma",
+    "jobTitle": "Process Improvement Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Spiritual but not religious"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Craft Beer Enthusiasts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Thomas Sharma\u2019s life has been a quiet pursuit of optimization. Raised in the orderly suburbs of Fremont, he was the son of a pragmatic software engineer father and a meticulous librarian mother. His childhood was a comfortable loop of school, soccer practice, and family dinners where conversations often revolved around finding the most logical solution to any given problem. This environment nurtured in him an innate appreciation for systems that worked flawlessly.\n\nHe chose to study Industrial Engineering at UC Davis, a degree that felt like a natural extension of his personality. It wasn't a passion for a specific product, but a fascination with the elegance of a well-oiled process. After graduation, his key turning point came during a brief, chaotic stint at a \"move fast and break things\" startup. While his colleagues thrived on the adrenaline, Thomas was perpetually frustrated by the preventable errors and wasted effort. He realized his calling wasn't in creation, but in perfection. He left to become a Process Improvement Engineer, finding deep satisfaction in untangling corporate knots and making complex systems run smoothly.\n\nNow 31, Thomas lives in a modern one-bedroom apartment in Hayes Valley. His 0.0-mile commute means his home is his command center. His days are structured by self-imposed rituals: a pour-over coffee at 7:30 AM, a morning walk through Patricia's Green before logging on, and a hard stop at 5:00 PM for a bouldering session at a nearby gym. His social life mirrors his professional one: a small, efficient circle of trusted friends from college and his climbing group. A recent amicable breakup left him analyzing the relationship's inefficiencies, a habit he knows is both a strength and a weakness.\n\nThomas\u2019s connection to San Francisco isn't about its rebellious spirit, but about the city as a collection of high-quality components for an ideal life. He loves the access to world-class food, niche hobbies, and walkable neighborhoods. His ultimate dream is to apply his professional skills to his personal life\u2014to build a life of seamless harmony, with a partner who appreciates his structured nature and a future where every piece fits just right. For Thomas, happiness isn't a destination; it's a perfectly optimized state of being."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, quick stretch, and check the morning fog report.",
+                        "geocode": {
+                            "lat": 37.7551954,
+                            "lng": -122.4695167,
+                            "formatted_address": "537 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Bedroom (537 Noriega St)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew pour-over coffee and make oatmeal for breakfast with his partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Get dressed and pack work bag with laptop and notebooks.",
+                        "geocode": {
+                            "lat": 37.7551954,
+                            "lng": -122.4695167,
+                            "formatted_address": "537 Noriega St, San Francisco, CA 94122"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute across town from the Sunset to Potrero Hill.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Cross-Town Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at his desk, review patient flow data from the previous day.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "ZSFG Process Improvement Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Shadow the patient discharge process on a medical-surgical floor to identify bottlenecks.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "ZSFG Hospital Ward 4B"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Grab a quick banh mi for lunch with a colleague.",
+                        "geocode": {
+                            "lat": 37.7831271,
+                            "lng": -122.4173619,
+                            "formatted_address": "560 Larkin St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 50,
+                        "location": "Saigon Sandwich (Mission)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Analyze shadowing notes and map the current-state discharge workflow using Lucidchart.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "ZSFG Process Improvement Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead a brainstorming session with a team of nurses and unit clerks to discuss potential improvements.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "ZSFG Conference Room 3A"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Carpool home, listening to a podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7590135,
+                            "lng": -122.4955623,
+                            "formatted_address": "Outer Sunset, San Francisco, CA, USA"
+                        },
+                        "duration": 65,
+                        "location": "Potrero to Outer Sunset Commute"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Change into running gear for a refreshing jog along the Great Highway.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach Promenade"
+                    },
+                    {
+                        "emoji": "\ud83e\uddc0",
+                        "action": "Pick up fresh bread and cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.7528086,
+                            "lng": -122.5056001,
+                            "formatted_address": "3901 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 15,
+                        "location": "The Pizza Place on Noriega"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner with his partner, discussing their days.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen & Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching an episode of a new sci-fi series together.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, reading a book and planning tomorrow's tasks.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive day for a Process Improvement Engineer, focusing on optimizing hospital workflows, balanced with a refreshing run by Ocean Beach and quality time with his partner in their Outer Sunset home.",
+                "home_address": "537 Noriega St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7551954,
+                    "lng": -122.4695167,
+                    "formatted_address": "537 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

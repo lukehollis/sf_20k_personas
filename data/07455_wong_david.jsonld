@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Wong",
+    "givenName": "David",
+    "familyName": "Wong",
+    "jobTitle": "Clinical Social Worker",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Wong\u2019s world is contained within a quiet, second-floor apartment in the Inner Richmond, where the scent of brewing green tea often mingles with the damp fog rolling in from the Pacific. His commute is a simple walk from the kitchen to his small home office, a 0.0-mile journey that suits his contemplative nature.\n\nBorn and raised just a few blocks away, David is the son of first-generation immigrants from Hong Kong. His parents ran a small grocery store on Clement Street, instilling in him a formidable work ethic and the expectation that he would pursue a more prestigious, lucrative career. They dreamed of him becoming an engineer. David, however, was a quiet observer, more interested in the unspoken anxieties he saw in his own family and community\u2014the stoic burdens carried without complaint. He watched his own mother struggle with a deep, unnamed sadness after his grandfather passed, a grief that was never acknowledged or treated.\n\nThis silent suffering became the catalyst for his professional life. He attended UC Berkeley for his undergraduate studies but defied his parents\u2019 wishes by pursuing a Master of Social Work at San Francisco State University. It was a decision that caused a rift, one that took years to mend. David began his career in a bustling community clinic, but the burnout was immense. The transition to a telehealth role within a major healthcare system a few years ago was a revelation.\n\nNow 47, David specializes in geriatric and cross-cultural counseling. His days are a structured rhythm of back-to-back video sessions, providing a calm, empathetic ear to elderly clients navigating loneliness, or to younger generations of Asian Americans grappling with the same cultural pressures he once faced. His personal life is similarly understated. A long-term relationship ended amicably five years ago, and he has since found contentment in solitude. His social connections are deep but few: a weekly dim sum lunch with two childhood friends and regular calls with his now-supportive, aging parents.\n\nDavid\u2019s dream isn\u2019t grand; it\u2019s centered on impact. He hopes to one day launch a small, community-funded support group specifically for older Asian men, creating a space for them to speak the language of emotion he was never taught as a child. For now, he finds fulfillment in his quiet work, his morning walks through Golden Gate Park, and his deep, unwavering connection to the San Francisco neighborhood that shaped him."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and practice mindfulness meditation to center himself before the day.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee and eat a quick breakfast while scanning the morning news.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed, and prepare his work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the Muni downtown to his office.",
+                        "geocode": {
+                            "lat": 37.7487621,
+                            "lng": -122.4045423,
+                            "formatted_address": "Bayshore Blvd, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni 8 Bayshore Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Arrive at the clinic, review client files and the day's schedule.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SoMa Community Behavioral Health Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct morning therapy sessions with two individual clients.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "SoMa Community Behavioral Health Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a full hour away from the office, picking up a salad and sandwich to decompress.",
+                        "geocode": {
+                            "lat": 37.780602,
+                            "lng": -122.3961766,
+                            "formatted_address": "212 Ritch St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 60,
+                        "location": "Darwin Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Attend a clinical team meeting to discuss complex cases and treatment plans.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "SoMa Community Behavioral Health Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Facilitate a group therapy session and complete subsequent administrative tasks and case notes.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "SoMa Community Behavioral Health Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Take the bus back home, listening to a podcast to disconnect from work.",
+                        "geocode": {
+                            "lat": 37.7861363,
+                            "lng": -122.4059941,
+                            "formatted_address": "30 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 35,
+                        "location": "Muni 30 Stockton Bus"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Go for a brisk walk to clear his head after a long day of emotionally demanding work.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local deli to pick up fresh pasta, bread, and cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple but satisfying dinner and eat while watching the local news.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a drink and conversation at a classic neighborhood bar.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel before heading to bed.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for David, a clinical social worker, balancing demanding client work in SoMa with a restorative routine in his North Beach neighborhood, including a mindful walk, local errands, and a social meet-up.",
+                "home_address": "1652 Stockton St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.8010729,
+                    "lng": -122.409141,
+                    "formatted_address": "1652 Stockton St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

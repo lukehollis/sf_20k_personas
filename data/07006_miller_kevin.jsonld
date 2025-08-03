@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Miller",
+    "givenName": "Kevin",
+    "familyName": "Miller",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Miller\u2019s world is a tidy, 700-square-foot rectangle in the Inner Richmond. His 0.0-mile commute from his bed to his standing desk is a testament to the life he\u2019s carefully constructed since moving to San Francisco a decade ago.\n\nBorn and raised in a quiet suburb of Cincinnati, Ohio, Kevin was the son of a pragmatic accountant father and a nurturing librarian mother. They instilled in him a love for order and stories, which manifested in an unexpected way. He rebelled gently, eschewing a business degree for a Bachelor's in History, fascinated by the patterns and narratives of the past. After graduation, he found that a history degree didn\u2019t pay the bills. He spent three years drifting through unfulfilling administrative jobs in Chicago, feeling increasingly lost.\n\nThe turning point came at a drab marketing firm where he was tasked with organizing years of customer survey data. He discovered a knack for it, finding the hidden stories within the spreadsheets more compelling than any history textbook. This was a new kind of archaeology. He promptly enrolled in online data science courses, teaching himself SQL and Python at night. In 2013, a San Francisco startup took a chance on the history major with a passion for data, and he never looked back.\n\nNow at 39, Kevin is a senior data analyst for a major tech company. His life is one of disciplined routine: a morning run in Golden Gate Park, pour-over coffee from a local cafe, and eight hours logged in from his apartment overlooking Geary Boulevard. His social life is small but tight-knit, consisting of a weekly Dungeons & Dragons game with other tech transplants and the occasional hike in Marin. A long-term relationship ended two years ago, and he has since found a quiet comfort in his solitude.\n\nHis connection to San Francisco is one of an appreciative observer. He loves the fog rolling over the avenues and the city\u2019s endless culinary options, but he often feels detached from its frantic energy. His dream isn't to climb the corporate ladder, but to save enough to finally write that book\u2014a data-driven historical analysis of trade routes\u2014and perhaps find a connection that pulls him out of his comfortable routine and back into the story of the city itself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, start coffee brewing, and do a 15-minute guided meditation with a mindfulness app.",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3301 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a quick, healthy breakfast of Greek yogurt with berries and walnuts while scanning the morning news.",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3301 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed in a business casual outfit, and pack a bag with essentials for the day.",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3301 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Begin the long morning walk to work, listening to a data science podcast like 'Data Skeptic'.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Panhandle-to-FiDi Commute Path"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Grab a large black coffee to-go before heading into the office.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Philz Coffee"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, review overnight data batch jobs, and run SQL queries to analyze customer engagement metrics.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 180,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to pick up a pre-ordered salad and eat it outside at a nearby public open space.",
+                        "geocode": {
+                            "lat": 37.7903917,
+                            "lng": -122.4037873,
+                            "formatted_address": "240 Kearny St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt on Kearny"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Join a virtual team meeting to discuss data visualization mockups for an upcoming quarterly business review.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 90,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Focus on deep-work: cleaning a large dataset in Python and documenting the process for future use.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 120,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Start the walk home, switching from podcasts to a chillwave playlist to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "FiDi-to-Haight Decompression Walk"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop in for some groceries for dinner, picking up fresh produce and a local sourdough loaf.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner while on a video call with his parents, catching up on their week.",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3301 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udfb8",
+                        "action": "Relax on the couch and practice a few songs on his acoustic guitar.",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3301 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a chapter of a non-fiction book and planning his outfit for the next day.",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3301 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured day for a data analyst, balanced by a long, meditative walking commute through San Francisco and a relaxed evening at home in the Haight-Ashbury neighborhood.",
+                "home_address": "3301 Haight St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.769184,
+                    "lng": -122.4535654,
+                    "formatted_address": "3301 Haight St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

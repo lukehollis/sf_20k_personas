@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Garcia",
+    "givenName": "David",
+    "familyName": "Garcia",
+    "jobTitle": "Warehouse Supervisor",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Latino Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Logistics and Supply Chain"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Garcia is a man molded by the foggy, working-class streets of San Francisco\u2019s Mission District. Born to Mexican immigrants, his childhood was a symphony of his mother\u2019s sewing machine humming late into the night and the scent of sawdust from his father\u2019s handyman jobs. They instilled in him a simple, powerful ethos: work hard, be dependable, and take care of your family. This principle became the bedrock of his life.\n\nHis educational journey began with promise at City College of San Francisco, where he dabbled in business courses, vaguely picturing an office job. That path was cut short when his father fell from a ladder, a serious injury that ended his working life. At 20, David dropped out of college and took the first full-time job he could find with decent pay: a loader at a logistics warehouse in the Dogpatch neighborhood. He never looked back.\n\nThe warehouse became his university. He learned the rhythm of inventory, the language of shipping manifests, and the art of managing people. He was reliable and sharp, and his ascent was steady: from the floor, to forklift operator, to shift lead, and finally, to his current role as Warehouse Supervisor. For David, his career isn't just a job; it's a testament to his ability to build a life of stability through sheer competence and grit.\n\nDavid's life is contained within a few square blocks. His 0.0-mile commute is literal; he lives in a small, company-owned apartment loft directly above the warehouse office, a perk for essential management. His daily routine is predictable: awake before dawn, he walks the silent warehouse floor, coffee in hand, planning the day before the first trucks arrive. His social life is small and tight-knit\u2014beers with his crew at a nearby dive bar after a long week, and Sunday dinners with his aging mother, who still lives in his childhood Mission flat. A long-term relationship ended years ago, a quiet casualty of his demanding schedule and devotion to his work.\n\nAt 46, David watches the new, gleaming version of San Francisco rise around his industrial enclave. His dream isn\u2019t grand; it\u2019s grounded. He hopes to save enough to buy a small condo, a tangible piece of the city he has served his entire life. He is a man defined not by ambition, but by loyalty\u2014to his family, his work, and the gritty, vital undercurrent of the city he calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.8025427,
+                            "lng": -122.4210854,
+                            "formatted_address": "1077 Chestnut St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1077 Chestnut St)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a strong cup of coffee and have a quick breakfast of toast and yogurt while checking the morning news.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Kitchen at Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, listening to the morning sports talk on KNBR 680 AM to catch up on the Giants.",
+                        "geocode": {
+                            "lat": 37.78565,
+                            "lng": -122.42137,
+                            "formatted_address": "Van Ness Ave & Geary Blvd, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 35,
+                        "location": "Driving through SF (Van Ness Ave, Geary Blvd)"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Arrive at the hospital, check in, and conduct a morning huddle with the receiving team to set the day's priorities for incoming medical supplies.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Warehouse Supervisor's Office, St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Supervise the morning receiving and stocking of critical supplies, ensuring inventory is accurately logged into the system.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 180,
+                        "location": "St. Mary's Hospital Medical Supply Warehouse"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to grab a quick and filling banh mi sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7863714,
+                            "lng": -122.3953302,
+                            "formatted_address": "555 Folsom St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Dragon Eats"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Coordinate with surgical and ICU department heads to fulfill urgent supply requests and forecast upcoming needs.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "Warehouse Supervisor's Office, St. Mary's Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Perform a final floor walk, oversee the loading of materials for internal distribution, and finalize the end-of-shift report.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "St. Mary's Hospital Medical Supply Warehouse"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, dealing with the usual evening traffic on Fell Street while listening to a true crime podcast.",
+                        "geocode": {
+                            "lat": 37.7761717,
+                            "lng": -122.4211724,
+                            "formatted_address": "Franklin St & Fell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Driving through SF (Fell St, Franklin St)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up groceries for the next few days.",
+                        "geocode": {
+                            "lat": 37.796546,
+                            "lng": -122.421784,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Real Food Company on Polk Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple dinner, like pasta with sausage, while relaxing and decompressing from the day.",
+                        "geocode": {
+                            "lat": 37.8025427,
+                            "lng": -122.4210854,
+                            "formatted_address": "1077 Chestnut St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (1077 Chestnut St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk down the street to meet a buddy for a beer and watch the game.",
+                        "geocode": {
+                            "lat": 37.7966455,
+                            "lng": -122.4221524,
+                            "formatted_address": "2155 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Buccaneer"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Watch the last segment of the local news and catch up on personal texts.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Living Room at Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Get ready for bed, lay out work clothes for tomorrow, and set the alarm.",
+                        "geocode": {
+                            "lat": 37.8025427,
+                            "lng": -122.4210854,
+                            "formatted_address": "1077 Chestnut St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (1077 Chestnut St)"
+                    }
+                ],
+                "day_overview": "A busy but structured day for David, a warehouse supervisor, involving managing critical hospital supplies, navigating a cross-city commute, and unwinding with a friend in his Russian Hill neighborhood after work.",
+                "home_address": "1077 Chestnut St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8025427,
+                    "lng": -122.4210854,
+                    "formatted_address": "1077 Chestnut St, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Garcia Family"
+    }
+}

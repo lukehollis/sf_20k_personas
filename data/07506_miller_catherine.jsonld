@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Catherine Miller",
+    "givenName": "Catherine",
+    "familyName": "Miller",
+    "jobTitle": "Senior Data Scientist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Catherine Miller\u2019s life is a masterclass in optimization, a direct reaction to the beautiful, chaotic unpredictability of her upbringing. Raised in Corvallis, Oregon, by an engineer father who prized logic and a ceramicist mother who thrived on impulse, Catherine sought refuge in the clean certainty of numbers. While her mother\u2019s hands were perpetually covered in clay, Catherine\u2019s were busy solving equations, finding a calming elegance in their absolute answers.\n\nThis pursuit of order led her to a mathematics degree and then to a pivotal move: a Master's in Statistics from Stanford. The Bay Area\u2019s high-stakes, data-driven culture felt like coming home. She excelled, quickly landing a job at a burgeoning tech startup where she honed her skills turning messy human behavior into clean, predictive models. Now a Senior Data Scientist at a major firm, her professional life is a testament to her success.\n\nThe pandemic solidified her current lifestyle. Her commute is a ten-step journey from her bed to her standing desk in her sleek Hayes Valley condo. Her days are a structured rhythm of deep work, punctuated by walks to Patricia's Green for fresh air and pour-over coffee from a favorite local cafe. Her social life is curated with similar precision: a monthly book club with other tech professionals, planned weekend hikes in Marin, and a series of app-based dates that feel more like data-gathering exercises than romantic encounters.\n\nLately, however, Catherine has felt a nagging sense of algorithmic dissatisfaction. She lives in one of the world\u2019s most vibrant cities but experiences it through a carefully controlled filter. A new aspiration is taking root: a desire to point her formidable skills toward problems more complex than user engagement, perhaps in climate tech or public health. She dreams of getting her hands dirty, not with data, but literally\u2014perhaps with a pottery class, a nod to the messy, creative world she once fled. Catherine hopes to someday build a life that isn't just optimized for success, but is rich with the beautifully imperfect variables she\u2019s spent her career trying to eliminate."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Wake up, quick stretch, and get caffeinated.",
+                        "geocode": {
+                            "lat": 37.7430064,
+                            "lng": -122.4723443,
+                            "formatted_address": "557 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (557 Taraval St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Commute to work on the Muni Metro, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "L Taraval & T Third Street Lines"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, grab a second coffee, and review overnight data pipeline jobs and Slack messages.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 45,
+                        "location": "Uber HQ Desk, Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Daily Data Science Team Sync to discuss project blockers and progress.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "\"The Algorithm\" Conference Room, Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Deep work session: Exploratory data analysis for a new feature.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Uber HQ Quiet Zone"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk outside to grab a healthy lunch.",
+                        "geocode": {
+                            "lat": 37.773688,
+                            "lng": -122.3916514,
+                            "formatted_address": "1170 4th St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 60,
+                        "location": "Casey's Pizza (for a slice) or a nearby cafe"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Stakeholder meeting with Product Managers to present findings from a recent A/B test.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 75,
+                        "location": "\"Mission Bay\" Meeting Pod, Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Code review for a junior team member and documenting her own analysis.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 90,
+                        "location": "Uber HQ Desk, Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf2",
+                        "action": "Commute home, reading an article on her tablet.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "T Third Street & L Taraval Lines"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Evening jog to clear her head before sunset.",
+                        "geocode": {
+                            "lat": 37.76821169999999,
+                            "lng": -122.4932246,
+                            "formatted_address": "Golden Gate Park Polo Field, 1232 John F Kennedy Dr, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park - Polo Field Loop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Pick up fresh bread and cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.763405,
+                            "lng": -122.4664416,
+                            "formatted_address": "1331 9th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Arizmendi Bakery on 9th Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Prepare and eat a light dinner while catching up on a show.",
+                        "geocode": {
+                            "lat": 37.7430064,
+                            "lng": -122.4723443,
+                            "formatted_address": "557 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (557 Taraval St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down: Plan the next day's schedule and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7430064,
+                            "lng": -122.4723443,
+                            "formatted_address": "557 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (557 Taraval St)"
+                    }
+                ],
+                "day_overview": "A productive day for a Senior Data Scientist, balancing deep analytical work and collaborative meetings at Uber's Mission Bay campus, followed by a relaxing evening and errands in her Outer Sunset neighborhood.",
+                "home_address": "557 Taraval St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7430064,
+                    "lng": -122.4723443,
+                    "formatted_address": "557 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maya Tanaka",
+    "givenName": "Maya",
+    "familyName": "Tanaka",
+    "jobTitle": "Quantitative Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maya Tanaka is a product of Silicon Valley\u2019s quiet, aspirational suburbs. A third-generation Japanese American, she was raised in San Mateo by her engineer father and graphic designer mother, a household that valued both precision and creativity. From an early age, Maya demonstrated a profound aptitude for seeing the world as a series of interconnected systems, a trait that led her to pursue physics at UC Berkeley. She excelled, finding beauty in the elegant, universal laws that governed reality. This passion carried her into a Master's program in Computational Physics at Stanford, where she spent her days modeling galactic collisions on supercomputers.\n\nThe turning point came during her second year of graduate school. Faced with the slow, uncertain path of academic funding and a growing disillusionment with the theoretical, she attended a campus career fair on a whim. A recruiter from a quantitative hedge fund pitched a world where her complex models could have immediate, high-stakes impact. Intrigued, she took an internship. The intellectual challenge was electrifying, and the compensation made her modest graduate stipend feel like a rounding error. Trading the purity of physics for the aggressive pragmatism of finance, she accepted a full-time offer before finishing her thesis.\n\nNow, Maya\u2019s universe is a sleek one-bedroom apartment in a Mission Bay high-rise. Her commute is a ten-step walk from her bed to her multi-monitor desk, where she builds predictive algorithms before the New York Stock Exchange opens. The work is all-consuming, a blur of data streams and statistical arbitrage that leaves little room for a social life beyond a few friends from her Stanford cohort. To combat the isolation of her remote work, she frequents a rock-climbing gym in Dogpatch, finding the physical problem-solving a welcome analog to her digital world.\n\nWhile outwardly successful, Maya feels a disconnect. She lives in the heart of San Francisco but experiences it mostly through her floor-to-ceiling windows. Her dream isn't to become a partner at the firm; it's a strategic wealth-building phase. She hopes to eventually pivot, using her capital and analytical skills to launch a data science venture focused on climate change modeling\u2014a way to reconcile the idealistic physicist she was with the pragmatic quant she has become."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check phone for overnight market alerts, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Follow a 20-minute guided yoga session on YouTube to stretch and center before a long day of sitting.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, skincare routine, and get dressed in a smart-casual outfit suitable for the coworking space.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare a quick breakfast of Greek yogurt with granola and berries. Brew a cup of coffee with an AeroPress while scanning the headlines on Bloomberg Terminal.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to Powell St. Station and take the Muni Metro J-Line train towards the Mission.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 35,
+                        "location": "Powell St. Muni Station"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at her dedicated desk, grab a complimentary coffee, and start the morning's primary task: backtesting a new algorithmic trading strategy using Python scripts.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 210,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk over to a famous local spot to grab a carnitas super burrito to go.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Eat lunch in the sunshine while people-watching, taking a much-needed screen break before the afternoon session.",
+                        "geocode": {
+                            "lat": 37.7602015,
+                            "lng": -122.4267959,
+                            "formatted_address": "Mission Dolores Park, Dolores St &, 19th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Dolores Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Analyze model results from the morning, visualizing data and preparing a brief for a late afternoon virtual meeting with her team leader.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 180,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7\u200d\u2640\ufe0f",
+                        "action": "Head to a nearby climbing gym for a post-work bouldering session to mentally decompress and get a full-body workout.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Mission Cliffs"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Commute home, taking the J-Line from 18th St & Church St back to Powell Station.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "Church St. Muni Station"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Meet a friend for handmade pasta and cocktails.",
+                        "geocode": {
+                            "lat": 37.7768993,
+                            "lng": -122.4240297,
+                            "formatted_address": "450 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 90,
+                        "location": "a Mano"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Relax on the couch and have a video call with her parents to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind by reading a chapter of a non-fiction book, do her evening skincare routine, and prep her bag for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a young Quantitative Analyst, balancing intense financial modeling at a Mission coworking space with a bouldering session to de-stress, and capping it off with a social dinner in Hayes Valley.",
+                "home_address": "490 Bush St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7908199,
+                    "lng": -122.4054478,
+                    "formatted_address": "490 Bush St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

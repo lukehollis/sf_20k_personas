@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Vance",
+    "givenName": "Sarah",
+    "familyName": "Vance",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Vance\u2019s story is one of quiet resilience, a life rerouted but not ruined. Raised in a stable, middle-class family in suburban Sacramento, she was primed for a conventional path. Her early years were marked by predictability: decent grades, a tight-knit group of friends, and the expectation that she would be the first in her family to graduate from a four-year university. She enrolled at San Francisco State, dreaming of a degree in art history, captivated by the city\u2019s vibrant culture during weekend visits.\n\nHowever, during her sophomore year, her father suffered a major stroke, and the family\u2019s financial stability crumbled. Sarah left college to work full-time, intending it to be a temporary measure. She took a job as a sales associate at a high-end home goods store in Hayes Valley. The temporary measure became a career. She discovered a natural talent for visual merchandising and customer relations, finding a different kind of artistry in creating a beautiful, welcoming retail space. She rose steadily, from associate to assistant manager, and eventually to her current role as store manager.\n\nThe \u201c0.0-mile commute\u201d is the defining feature of her current life. Sarah lives in a small but charming rent-controlled apartment directly above the boutique she manages in North Beach. Her life is a self-contained world woven into the fabric of the neighborhood. Her mornings begin not with a frantic commute, but with the scent of baking bread from the bakery below and the familiar chatter of her neighbors. She knows the local grocers by name and has a running tab at the corner cafe. While her social circle is small, it is deep, built on the daily-shared experiences of a tight community.\n\nAt 43, Sarah carries a faint melancholy for the art historian she might have been. But this is overshadowed by a fierce pride in the life she has built. Her dream is no longer about faraway museums but about someday buying the shop from its aging owner. She aspires to turn it into a true community hub, a place that reflects the soul of the neighborhood she loves. Sarah Vance didn't get the life she planned, but in the heart of San Francisco, she found a life that fits her perfectly."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check phone for overnight messages and news headlines.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, navigating morning traffic through the city.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Personal Car on SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Open the gift shop, review the previous day's sales, and assign morning tasks to staff.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Comfort Corner Gift Shop - UCSF Saint Francis Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Unpack a new shipment of magazines, snacks, and stuffed animals, and update the inventory.",
+                        "geocode": {
+                            "lat": 37.7865704,
+                            "lng": -122.4078411,
+                            "formatted_address": "190 O'Farrell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 90,
+                        "location": "Gift Shop Stockroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Assist patients' families with finding appropriate gifts and comfort items.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "The Comfort Corner Gift Shop - UCSF Saint Francis Hospital"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Grab a quick lunch-to-go, a chicken salad sandwich and an iced tea.",
+                        "geocode": {
+                            "lat": 37.7981294,
+                            "lng": -122.4056449,
+                            "formatted_address": "504 Broadway, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Bean to The Rescue Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc5",
+                        "action": "Work on the employee schedule for the next two weeks and approve time-off requests.",
+                        "geocode": {
+                            "lat": 37.6024268,
+                            "lng": -122.3963034,
+                            "formatted_address": "621 Magnolia Ave, Millbrae, CA 94030, USA"
+                        },
+                        "duration": 90,
+                        "location": "Manager's Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udd10",
+                        "action": "Perform end-of-day closing duties, including cashing out the register and preparing the bank deposit.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Comfort Corner Gift Shop - UCSF Saint Francis Hospital"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Drive home, listening to a true-crime podcast to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Personal Car on SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f",
+                        "action": "Change into comfortable clothes and do a quick 30-minute HIIT workout session.",
+                        "geocode": {
+                            "lat": 37.7637395,
+                            "lng": -122.4334293,
+                            "formatted_address": "2301 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Fitness SF - Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up groceries for the next few days.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 40,
+                        "location": "Mollie Stone's Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a simple dinner of grilled salmon and roasted vegetables.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Video call with her parents to check in on them and catch up on family news.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Watch an episode of a trending series on a streaming service to unwind before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Prepare for bed: skincare routine, set alarm for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Bathroom"
+                    }
+                ],
+                "day_overview": "A busy weekday for Sarah, balancing her responsibilities as a hospital gift shop manager with a solo commute, personal wellness, and checking in on her parents.",
+                "home_address": "2434 Market St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.76267199999999,
+                    "lng": -122.4358114,
+                    "formatted_address": "2434 Market St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Vance Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Priya Sharma",
+    "givenName": "Priya",
+    "familyName": "Sharma",
+    "jobTitle": "Senior Information Specialist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Bay Area Professional"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Priya Sharma\u2019s life is a study in quiet intention, a carefully curated existence built in the heart of a chaotic city. Born in Fremont to Indian immigrants, she was raised in a home that smelled of cardamom and ambition. Her father, a software engineer, and her mother, a homemaker who championed education, envisioned a future for Priya in medicine or engineering. Priya, however, was always more fascinated by the systems *behind* the information\u2014the quiet logic of libraries and the elegant structure of language.\n\nWhile her parents celebrated her acceptance to UC Berkeley, they were quietly puzzled by her choice to major in Linguistics. This was the first of many decisions where Priya followed her own distinct path. After graduation, she pursued a Master of Library and Information Science, a degree that seemed archaic to her tech-centric family but felt like a key to unlocking the world for her. Her early career was spent organizing archives at a university library, a role she found deeply satisfying. The turning point came a decade ago when a burgeoning tech startup, drowning in its own disorganized data, headhunted her. They didn't need a coder; they needed an architect of knowledge.\n\nNow 42, Priya is a Senior Information Specialist, working remotely from her serene Cole Valley condo. Her 0.0-mile commute allows for a deliberate daily routine: a morning walk to Reverie Cafe for an oat milk latte, hours of focused work creating taxonomies and knowledge management systems for her company, and an evening spent with her book club or tending to her balcony garden. A significant breakup in her late thirties prompted her to buy this condo, cementing her identity as a self-reliant San Franciscan.\n\nHer connection to the city isn't rooted in its nightlife or hustle, but in its neighborhoods and proximity to nature. Weekends are for hiking trips in Marin with a close-knit group of friends or volunteering at the San Francisco Public Library. Her deepest aspiration is no longer about climbing a corporate ladder, but about synthesis. Priya dreams of taking a sabbatical to write a book on the philosophy of information, exploring how we organize our digital lives. For her, San Francisco is the perfect backdrop\u2014a city of constant innovation where she has carved out a space of thoughtful, structured peace."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, 15-min mindfulness meditation, and brew a pour-over coffee.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Mission District Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Eat a breakfast of yogurt and granola while reviewing personal emails and headlines.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Change into cycling gear and do a final check of bike tire pressure and lights.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Entryway"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2640\ufe0f",
+                        "action": "Challenging morning commute, cycling north and tackling the steep California Street hill.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Valencia St & California St Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at work, park bike in the secure storage, and use the office wellness room to shower and change.",
+                        "geocode": {
+                            "lat": 37.7926995,
+                            "lng": -122.4051783,
+                            "formatted_address": "650 California St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 30,
+                        "location": "Hartford Building Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Morning deep work: Analyze platform usage data and begin structuring a new information architecture proposal.",
+                        "geocode": {
+                            "lat": 37.7926995,
+                            "lng": -122.4051783,
+                            "formatted_address": "650 California St, San Francisco, CA 94108, United States"
+                        },
+                        "duration": 150,
+                        "location": "Workstation - Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy, quick lunch away from the desk for a mental reset.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt Salad Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Afternoon project sync meeting with the UX and content strategy teams to review Q3 information priorities.",
+                        "geocode": {
+                            "lat": 37.7926995,
+                            "lng": -122.4051783,
+                            "formatted_address": "650 California St, San Francisco, CA 94108, United States"
+                        },
+                        "duration": 90,
+                        "location": "Work Conference Room 'Embarcadero'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Final work block: Respond to emails, update project tickets, and create a to-do list for the next day.",
+                        "geocode": {
+                            "lat": 37.7926995,
+                            "lng": -122.4051783,
+                            "formatted_address": "650 California St, San Francisco, CA 94108, United States"
+                        },
+                        "duration": 90,
+                        "location": "Workstation - Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udca8",
+                        "action": "Quickly change and begin the fast, mostly downhill bike commute home.",
+                        "geocode": {
+                            "lat": 37.7616419,
+                            "lng": -122.4149807,
+                            "formatted_address": "Folsom St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Pine St & Folsom St Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly essentials and fresh produce.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Meet a former colleague for an early dinner and catch-up.",
+                        "geocode": {
+                            "lat": 37.7696277,
+                            "lng": -122.4221285,
+                            "formatted_address": "211 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 100,
+                        "location": "Burma Love Restaurant"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind at home by reading a novel and drinking a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: Pack lunch for tomorrow, light tidying, and prepare for bed.",
+                        "geocode": {
+                            "lat": 37.7670296,
+                            "lng": -122.3894254,
+                            "formatted_address": "440 16th St, San Francisco, CA 94110"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive day for a tech professional balancing a demanding job in the Financial District with a healthy, active lifestyle and social time in her vibrant Mission District neighborhood.",
+                "home_address": "440 16th St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7670296,
+                    "lng": -122.3894254,
+                    "formatted_address": "440 16th St, San Francisco, CA 94158, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

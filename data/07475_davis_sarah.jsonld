@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Project Manager, Tech Consulting",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s story is one of pragmatic reinvention. Raised in the misty suburbs of Portland by a high school history teacher and an accountant, she was instilled with a love for the past and a respect for practicality. Bucking expectations, she pursued her passion, earning a Bachelor's degree in Art History from UC Berkeley in the late 1990s, dreaming of a life spent in museums.\n\nThe reality of post-graduation San Francisco hit hard. With curatorial jobs scarce, Sarah took a temp position as an administrative assistant at a burgeoning dot-com. It was meant to be a stopgap, but she discovered an unexpected talent: translating the chaotic energy of engineers and the grand visions of marketers into actionable plans. She was organized, an empathetic listener, and a clear communicator\u2014the accidental project manager. When the dot-com bubble burst, her adaptability saw her through, and she methodically built a career in the ashes, eventually landing in tech consulting.\n\nA key turning point was the end of a decade-long relationship in her late thirties. The breakup forced a deep introspection, leading her to trade a shared condo in SoMa for a quiet, rent-controlled apartment in the Inner Richmond. This move reshaped her life. With a fully remote role, her 0.0-mile commute gives her days a distinct rhythm. Mornings begin with a walk to a local cafe for a strong latte, followed by hours of focused work managing global project teams from her bay window. She breaks for runs in Golden Gate Park, a ritual that clears her head.\n\nHer social life now revolves around a tight-knit circle of friends, most of whom have also weathered SF\u2019s booms and busts. They favor elaborate potlucks and hiking trips in Marin over loud bars. Sarah feels deeply connected to her neighborhood, knowing the grocers and bakers by name. Her dream is no longer about climbing the corporate ladder but achieving a deeper sense of balance. She aspires to travel extensively, perhaps on a sabbatical, and has started volunteering at the de Young Museum on weekends, a quiet return to her first love. For Sarah, success is now defined by the stability she\u2019s built and the simple, profound peace she finds in her corner of the city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, meditate, and journal for 15 minutes to set intentions for the day.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Divisadero St)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and review daily headlines and personal emails.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare a small breakfast smoothie.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive the short distance to the co-working space, finding street parking nearby.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 10,
+                        "location": "On the Road to Work"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, organize daily tasks on Asana, and clear high-priority emails.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 90,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Lead a virtual daily stand-up meeting with the consulting team.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "AvantSpace Meeting Room 'Lombard'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy, quick lunch.",
+                        "geocode": {
+                            "lat": 37.7979938,
+                            "lng": -122.4219664,
+                            "formatted_address": "2300 Polk St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 50,
+                        "location": "MIXT on Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Finalize project scope and resource allocation for a new client.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Client check-in call to review progress and address stakeholder feedback.",
+                        "geocode": {
+                            "lat": 37.75087389999999,
+                            "lng": -122.4162826,
+                            "formatted_address": "1398 S Van Ness Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "AvantSpace Phone Booth"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final tasks, send end-of-day summary emails, and plan tomorrow's priorities.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 30,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Drive home, stopping to pick up fresh produce and groceries for the next few days.",
+                        "geocode": {
+                            "lat": 37.8000211,
+                            "lng": -122.4416326,
+                            "formatted_address": "2323 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Marina Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Change into workout gear and go for a de-stressing run along the water.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare and eat a simple, healthy dinner while listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Unwind on the couch, watch an episode of a favorite series, and text with a friend.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Tidy up the kitchen, pack work bag, and read a book before sleep.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Divisadero St)"
+                    }
+                ],
+                "day_overview": "A productive and balanced day for a tech project manager, juggling client calls and deep work at her Marina co-working space, followed by a scenic run along the waterfront and a quiet evening at home.",
+                "home_address": "3845 Divisadero St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.8050902,
+                    "lng": -122.4442224,
+                    "formatted_address": "3845 Divisadero St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

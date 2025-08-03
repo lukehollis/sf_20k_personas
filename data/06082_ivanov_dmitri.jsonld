@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Dmitri Ivanov",
+    "givenName": "Dmitri",
+    "familyName": "Ivanov",
+    "jobTitle": "Transportation Systems Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Transportation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Dmitri Ivanov was born not in Russia, but in its long shadow. His parents, Anya and Sergei, arrived in Daly City from St. Petersburg in the early 90s, carrying engineering degrees and the quiet weight of a collapsed empire. They poured their ambitions into their only son, fostering a world of logic and order to counteract the chaos they had fled. For Dmitri, this meant a childhood spent not with comics, but with LEGOs and SimCity, building intricate systems and finding deep satisfaction in their seamless operation.\n\nHe followed the path laid for him, earning an engineering degree before pursuing a Master's in Urban and Regional Planning at UC Berkeley. It was there he found his true calling. A pivotal internship revealed that he had no love for pouring concrete, but was utterly captivated by modeling traffic patterns and optimizing transit schedules. He wasn't meant to build the bridge, but to perfect the flow of life across it. This realization steered him into his career as a Transportation Systems Analyst.\n\nNow 32, Dmitri lives a life of curated precision in San Francisco's Inner Richmond. His 0.0-mile commute is a quiet blessing; the pandemic-era shift to remote work solidified his preference for the controlled environment of his immaculate one-bedroom apartment over a bustling office. His days are structured: pour-over coffee, hours spent deep in data sets and predictive models, and a late-afternoon run through Golden Gate Park to clear his head.\n\nHis social life is small but meaningful, consisting of a few friends from his graduate program with whom he shares board game nights and discussions on urban theory. He feels a deep, professional connection to San Francisco. From his window overlooking Geary Boulevard, he doesn\u2019t just see buses; he sees data points, nodes in a complex network he is constantly trying to improve. Dmitri\u2019s dream is to move beyond mere analysis and design a truly equitable and hyper-efficient public transit system for a mid-sized city. He seeks to impose a beautiful, functional order on the urban world, a legacy of the boy who once built perfect cities out of plastic bricks."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Wake up, hydrate, and check overnight transit system performance dashboards on tablet.",
+                        "geocode": {
+                            "lat": 37.7861811,
+                            "lng": -122.4401649,
+                            "formatted_address": "2601 Bush St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (2601 Bush St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a simple breakfast of Greek yogurt and granola while listening to an urban planning podcast.",
+                        "geocode": {
+                            "lat": 37.7861811,
+                            "lng": -122.4401649,
+                            "formatted_address": "2601 Bush St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (2601 Bush St)"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Leisurely walk to the office, grabbing a pour-over coffee en route.",
+                        "geocode": {
+                            "lat": 37.7606162,
+                            "lng": -122.4105459,
+                            "formatted_address": "2814 19th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "The Coffee Movement"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning deep work: Analyzing traffic flow data from the new Central Subway extension and identifying bottlenecks.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, United States"
+                        },
+                        "duration": 180,
+                        "location": "Work (Honey Art Studio)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Walk to Japantown for a lunch break with a coworker.",
+                        "geocode": {
+                            "lat": 37.7851005,
+                            "lng": -122.4320079,
+                            "formatted_address": "1581 Webster St #235, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Marufuku Ramen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Collaborative work session: Building a predictive model for weekend Muni bus ridership.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, United States"
+                        },
+                        "duration": 120,
+                        "location": "Work (Honey Art Studio)"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Virtual stakeholder meeting with SFMTA planners to present initial findings on a new bike lane proposal.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, United States"
+                        },
+                        "duration": 60,
+                        "location": "Work (Honey Art Studio)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk home, taking a slightly different route through the neighborhood to observe pedestrian patterns.",
+                        "geocode": {
+                            "lat": 37.7779959,
+                            "lng": -122.4059828,
+                            "formatted_address": "1035 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Neighborhood Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Decompress with a vigorous run, incorporating the hills and stairs for a workout.",
+                        "geocode": {
+                            "lat": 37.79165,
+                            "lng": -122.4275889,
+                            "formatted_address": "Lafayette Park, Gough St &, Washington St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 50,
+                        "location": "Lafayette Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery run to pick up fresh produce and protein for dinner.",
+                        "geocode": {
+                            "lat": 37.790107,
+                            "lng": -122.4233935,
+                            "formatted_address": "1765 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 35,
+                        "location": "Whole Foods Market (California St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook and eat dinner at home while catching up on the news.",
+                        "geocode": {
+                            "lat": 37.7861811,
+                            "lng": -122.4401649,
+                            "formatted_address": "2601 Bush St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (2601 Bush St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a craft beer and conversation at a cozy local bar.",
+                        "geocode": {
+                            "lat": 37.7841524,
+                            "lng": -122.4324633,
+                            "formatted_address": "1795 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 120,
+                        "location": "The Social Study"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: Tidy up the kitchen and read a chapter of a non-fiction book on sustainable cities.",
+                        "geocode": {
+                            "lat": 37.7861811,
+                            "lng": -122.4401649,
+                            "formatted_address": "2601 Bush St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (2601 Bush St)"
+                    }
+                ],
+                "day_overview": "A productive day for Dmitri, balancing deep analytical work on city transit with physical activity and social connection, all within his walkable Lower Pacific Heights neighborhood.",
+                "home_address": "2601 Bush St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7861811,
+                    "lng": -122.4401649,
+                    "formatted_address": "2601 Bush St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Ivanov Family"
+    }
+}

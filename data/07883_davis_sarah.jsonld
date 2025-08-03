@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s story is one of quiet resilience, carved out in a single San Francisco neighborhood. Born and raised in the sun-baked flatness of Fresno, she was the daughter of a mechanic and a bookkeeper, who taught her the value of a balanced ledger and a hard day\u2019s work. San Francisco, with its fog-laced promises, felt like another world. She fled the Central Valley\u2019s predictability at 21, armed with a freshly printed Associate\u2019s degree in Retail Merchandising from a community college and a vague dream of a more vibrant life.\n\nShe landed a job in the stockroom of a chic North Beach boutique. For years, her life was a blur of inventory counts, customer service, and navigating the city\u2019s Muni system from a tiny room in the Richmond District. She learned the business from the floor up, her quiet competence earning her promotions from cashier to assistant manager. A whirlwind marriage in her late twenties to a charismatic but unreliable guitarist ended in a painful divorce, leaving Sarah with a newfound appreciation for stability. She poured her energy into the one thing that felt constant: her job.\n\nThe major turning point came fifteen years ago when the store\u2019s owner offered her the manager position, which included the small, rent-controlled apartment above the shop. Suddenly, her commute became a single flight of stairs. Her world condensed and deepened. Sarah became a fixture of the neighborhood. Her daily routine is a metronome of constancy: coffee from the Italian bakery next door, unlocking the store\u2019s gate, chatting with the same delivery drivers and local regulars she\u2019s known for over a decade.\n\nAt 49, Sarah\u2019s social life is a small, tight circle of other local shop owners and a few loyal customers. While she is content with the secure world she has built, a quiet yearning persists. She dreams of one day buying the store from its aging owner, making it truly her own. More than that, she hopes to finally travel, to see the European cities whose design aesthetics she has sold for decades but has never witnessed firsthand. For now, she remains the watchful, steady heart of her small corner of San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, enjoy coffee with partner and read the news.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home on Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and eat a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to work, taking a scenic route through Golden Gate Park.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Golden Gate Park Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udd11",
+                        "action": "Open the gift shop, count the register, and review the daily staff assignments.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "St. Mary's Hospital Gift Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Check inventory levels on the floor and place restocking orders for snacks and magazines.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "St. Mary's Hospital Gift Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break, grabbing a salad and sandwich to go.",
+                        "geocode": {
+                            "lat": 37.7729862,
+                            "lng": -122.4459943,
+                            "formatted_address": "Panhandle, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Panhandle Eatery"
+                    },
+                    {
+                        "emoji": "\ud83c\udf81",
+                        "action": "Assist customers and families on the floor, and update the window display with seasonal items.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 150,
+                        "location": "St. Mary's Hospital Gift Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Work on next week's staff schedule and prepare the end-of-day sales report.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "Gift Nook Back Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk home, listening to a true-crime podcast to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Golden Gate Park Path"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh produce and bread for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.775658,
+                            "lng": -122.4581416,
+                            "formatted_address": "782 Arguello Blvd, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Arguello Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook pasta and a large salad with her partner while catching up on their days.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home on Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner and relax on the couch, watching an episode of a favorite British detective show.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home on Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a chapter of a book and preparing clothes for the next day.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home on Balboa St"
+                    }
+                ],
+                "day_overview": "A structured day for Sarah managing a hospital gift shop, bookended by refreshing walks through Golden Gate Park and a relaxing evening cooking with her partner in the Richmond District.",
+                "home_address": "1162 Balboa St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7771061,
+                    "lng": -122.4713717,
+                    "formatted_address": "1162 Balboa St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

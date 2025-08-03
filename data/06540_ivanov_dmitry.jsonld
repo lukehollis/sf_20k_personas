@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Dmitry Ivanov",
+    "givenName": "Dmitry",
+    "familyName": "Ivanov",
+    "jobTitle": "Engineering Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Secular/Unaffiliated"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Dmitry Ivanov arrived in San Francisco at age nine, a quiet boy from St. Petersburg clutching his mother\u2019s hand, overwhelmed by the city\u2019s noise and the unfamiliar chill of the Richmond District fog. His parents, an engineer and a librarian in Russia, found work as a handyman and a cleaner, pouring their hopes into their only son. Growing up surrounded by the Cyrillic signs and rye bread scents of Geary Boulevard, Dmitry was a bridge between two worlds. He was a dutiful son who spoke Russian at home, but in his room, he dismantled old radios and VCRs, obsessed with understanding how things worked.\n\nThis practical fascination guided his education. While his parents dreamed of him attending a UC school, the financial reality of immigrant life led him to a more pragmatic path. He enrolled at City College of San Francisco, earning an Associate's degree in Electronics Technology. It wasn\u2019t the prestigious engineering degree his father had, but it was a solid, hands-on foundation. Upon graduating, he was hired as an engineering technician at a mid-size robotics firm, a perfect fit for his skills in diagnostics and prototyping.\n\nA key turning point was his company\u2019s shift to a distributed hardware model during the pandemic. Dmitry thrived. He converted the small second bedroom of his Inner Richmond apartment into a meticulous workshop, neatly organized with soldering irons, oscilloscopes, and bins of components. His 0.0-mile commute became a source of deep comfort. His days are now structured and solitary: he wakes, drinks strong black tea, and begins testing circuits or assembling prototypes for the engineers he communicates with solely over Slack.\n\nHis social life is small but meaningful, consisting of a few trusted friends from childhood and weekly dinners with his aging parents. His dream isn\u2019t to climb the corporate ladder, but to save enough to one day open his own small electronics repair and custom-build shop in the neighborhood\u2014a place where his tangible skills can serve the community he knows. For Dmitry, San Francisco isn't a city of disruption and IPOs; it's the foggy, familiar streets of the Richmond, the hum of his workbench, and the quiet satisfaction of making something work perfectly."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, start the coffee maker, and check morning news on phone.",
+                        "geocode": {
+                            "lat": 37.7943352,
+                            "lng": -122.4095319,
+                            "formatted_address": "1028 Powell St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 1028 Powell St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and have a quick breakfast of Greek yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7943352,
+                            "lng": -122.4095319,
+                            "formatted_address": "1028 Powell St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 1028 Powell St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk downhill to the bus stop, enjoying the morning quiet before the city fully wakes up.",
+                        "geocode": {
+                            "lat": 37.79464,
+                            "lng": -122.40964,
+                            "formatted_address": "Powell St & Washington St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 10,
+                        "location": "Powell & Washington Street Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Catch the Muni 30-Stockton bus for a ride through Chinatown and the Financial District to work.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Muni Bus"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab a kombucha from the microkitchen, and review the day's test plan at his desk.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 25,
+                        "location": "Google - One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Set up a new test rig for a next-generation device, involving component assembly and calibration.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Google Hardware Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch with colleagues at the office cafe, discussing weekend plans and non-work topics.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Google Cafe - The Landmark Grill"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Run a series of automated diagnostic tests, carefully monitoring the hardware for thermal and power anomalies.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Google Hardware Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Analyze and log test data, compiling a brief summary report for the engineering team.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Google - One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Pack up and catch the bus back home, this time crowded with commuters.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Muni Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Change into gym clothes and head out for a strength training session to de-stress from the day.",
+                        "geocode": {
+                            "lat": 37.7894789,
+                            "lng": -122.4152569,
+                            "formatted_address": "1094 Bush St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Live Fit Gym - Nob Hill"
+                    },
+                    {
+                        "emoji": "\ud83c\udf55",
+                        "action": "Stop to pick up a slice of Sicilian-style pizza for a quick and easy dinner.",
+                        "geocode": {
+                            "lat": 37.7426506,
+                            "lng": -122.4818895,
+                            "formatted_address": "1447 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 15,
+                        "location": "Golden Boy Pizza"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner at home while watching an episode of a sci-fi series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7943352,
+                            "lng": -122.4095319,
+                            "formatted_address": "1028 Powell St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 1028 Powell St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Wind down for the night, listen to a tech history podcast, and prep his bag for the next day.",
+                        "geocode": {
+                            "lat": 37.7943352,
+                            "lng": -122.4095319,
+                            "formatted_address": "1028 Powell St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 1028 Powell St"
+                    }
+                ],
+                "day_overview": "A typical weekday for Dmitry involving hands-on work at the Google hardware lab, a commute via public transit, an evening workout in his Nob Hill neighborhood, and relaxing at home.",
+                "home_address": "1028 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7943352,
+                    "lng": -122.4095319,
+                    "formatted_address": "1028 Powell St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1991",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Ivanov Family"
+    }
+}

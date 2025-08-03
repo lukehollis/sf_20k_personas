@@ -1,0 +1,212 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Murphy",
+    "givenName": "David",
+    "familyName": "Murphy",
+    "jobTitle": "Handyman/General Maintenance",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Skilled Trades"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Murphy\u2019s life is measured in solder, spackle, and the quiet hum of a well-maintained boiler. Born in San Francisco to an Irish-American Navy longshoreman and a Filipina immigrant he met at Subic Bay, David\u2019s identity has always been a blend of cultures, a fusion he carries with a gentle stoicism. He grew up in the fog-laced streets of the Outer Richmond, where his father taught him the difference between a Phillips and a flathead before he could properly ride a bike. These early lessons in practical mechanics became the foundation of his life.\n\nHe gave college a shot, enrolling at CCSF with a vague notion of studying engineering tech, but the abstract world of academic theory never clicked like the tangible reality of a stripped gear or a faulty circuit. The true turning point came when his father\u2019s health declined. David left his studies without a second thought, taking over his dad\u2019s informal handyman jobs to support his mother. What began as a necessity soon revealed itself as a calling. He found deep satisfaction in his work\u2019s honesty\u2014a problem identified, a solution applied, a life made slightly easier.\n\nNow, at 44, David is the live-in manager of a rent-controlled apartment building in the Haight-Ashbury, making his commute a simple walk down a flight of stairs. His days are a rhythm of responding to tenant requests, patching century-old plaster, and preemptively fixing what he knows will eventually break. He is an anchor in the transient sea of San Francisco; tenants come and go, but David remains. His social life is woven into the fabric of his building and neighborhood\u2014sharing a beer with the tenant in 3B, grabbing coffee at the corner cafe where they know his order, and nodding to the familiar faces on his daily walks through the Panhandle.\n\nHis dream isn\u2019t grand. He hopes to one day save enough to buy a small, used fishing boat, a vessel to take out on the Bay on quiet Sunday mornings, just as his father once dreamed of doing. For David, fulfillment isn\u2019t found in climbing a corporate ladder but in being the man who keeps the lights on, the water running, and a small corner of San Francisco feeling like home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake Up & Prep: Brews a pot of strong coffee and checks phone for any urgent overnight maintenance requests from the gallery director.",
+                        "geocode": {
+                            "lat": 37.7767399,
+                            "lng": -122.4136647,
+                            "formatted_address": "1231 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 1231 Mission St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udd27",
+                        "action": "Breakfast & Load Up: Eats a quick breakfast while reviewing his to-do list, then loads his work van with specific tools and materials for the day's projects.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 45,
+                        "location": "Home & Work Van"
+                    },
+                    {
+                        "emoji": "\ud83d\ude9a",
+                        "action": "Commute to Work: Drives the short distance in his Ford Transit, circling a few blocks to find a decent commercial parking spot near the gallery.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "SoMa Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udca1",
+                        "action": "Morning Project - Electrical: Unlocks the gallery and begins troubleshooting and repairing a section of faulty track lighting in the main exhibition space.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 150,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Morning Project - Restoration: After the lighting is fixed, begins patching and repainting a large wall where a painting was removed, prepping it for a new installation.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 150,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Lunch Break: Walks over to a local favorite to grab a spicy pork kimchi burrito and eats it in his van while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7470161,
+                            "lng": -122.418717,
+                            "formatted_address": "3139 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "HRD Coffee Shop"
+                    },
+                    {
+                        "emoji": "\ud83e\udeb5",
+                        "action": "Afternoon Project - Carpentry: Spends the afternoon in the gallery's back workshop, building a set of custom-sized floating shelves for an upcoming exhibit.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 180,
+                        "location": "Arc Studios & Gallery Workshop"
+                    },
+                    {
+                        "emoji": "\ud83e\uddf9",
+                        "action": "Site Wrap-up & Cleanup: Sweeps the workshop, organizes his tools, secures the site, and sends a quick progress update text to the gallery manager.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\udd29",
+                        "action": "Errand & Commute Home: Drives from work, stopping at the hardware store to pick up specialty brackets and wood oil for tomorrow's tasks before heading home.",
+                        "geocode": {
+                            "lat": 37.7847373,
+                            "lng": -122.404893,
+                            "formatted_address": "70 4th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Cole Hardware - 4th Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Dinner with a Friend: Meets up with a buddy for a couple of IPAs and a burger, catching up on the week at a low-key neighborhood bar.",
+                        "geocode": {
+                            "lat": 37.7811475,
+                            "lng": -122.4063767,
+                            "formatted_address": "2940 431 Natoma St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Tempest Bar & Box Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Decompress at Home: Showers off the sawdust and grime from the day, then settles onto the couch to watch a sci-fi movie.",
+                        "geocode": {
+                            "lat": 37.7767399,
+                            "lng": -122.4136647,
+                            "formatted_address": "1231 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 105,
+                        "location": "Home - 1231 Mission St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening Routine: Puts away his work clothes, sets his alarm for the morning, and heads to bed.",
+                        "geocode": {
+                            "lat": 37.7767399,
+                            "lng": -122.4136647,
+                            "formatted_address": "1231 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - 1231 Mission St Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a skilled handyman in SoMa, balancing physical work at an art gallery with practical errands and a relaxing evening with a friend.",
+                "home_address": "1231 Mission St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7767399,
+                    "lng": -122.4136647,
+                    "formatted_address": "1231 Mission St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Murphy Family"
+    }
+}

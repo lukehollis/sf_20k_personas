@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Elementary School Teacher",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Education"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s life is contained within a few vibrant blocks of San Francisco\u2019s Inner Richmond. Raised in the sprawling, sun-baked suburbs of San Jose by a pragmatic engineer father and a meticulous homemaker mother, Sarah was encouraged to pursue a stable, conventional career. She obliged, earning a Bachelor's in Communications from SF State and landing a marketing job in a downtown high-rise. The fluorescent hum of the office and the impersonal nature of her work felt hollow, a stark contrast to the lively, diverse city just outside her window.\n\nThe turning point came at 28. Following a brief, ill-suited marriage that ended as amicably as it had begun, Sarah felt adrift. Seeking purpose, she began volunteering at a local after-school program. It was there, helping a third-grader finally grasp long division, that she felt a profound sense of connection she had never experienced in a boardroom. This single moment redefined her future. She quit her job, enrolled in a teaching credential program, and never looked back.\n\nFor the past two decades, Sarah has been a fourth-grade teacher at the same public school. Her 0.0-mile commute is a source of local legend; she lives in a rent-controlled apartment directly across the street. Her daily routine is a neighborhood ritual: a morning coffee from the corner bakery, a walk through the fog-laced streets, and the familiar bell calling her to a classroom of eager, chaotic minds. Her social life is woven into her community\u2014dinners with fellow teachers, weekend strolls through Golden Gate Park, and friendly chats with the parents she runs into at the Clement Street markets.\n\nNow 48, Sarah finds deep contentment in her stable, meaningful life. She is a pillar of her small universe, a constant for hundreds of children who have passed through her classroom. Her dream isn't grand; it\u2019s to secure a grant to build a small vegetable garden in the school's barren concrete yard, a project to teach her students about patience, growth, and where their food comes from. For Sarah, fulfillment isn't found across the world, but right across the street."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf05",
+                        "action": "Wake up, stretch, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7583317,
+                            "lng": -122.4445569,
+                            "formatted_address": "2286 Clayton St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (2286 Clayton St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of oatmeal and berries while reviewing the day's lesson plan.",
+                        "geocode": {
+                            "lat": 37.7583317,
+                            "lng": -122.4445569,
+                            "formatted_address": "2286 Clayton St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (2286 Clayton St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the N Judah Muni Metro stop to begin the commute.",
+                        "geocode": {
+                            "lat": 37.76580939999999,
+                            "lng": -122.449984,
+                            "formatted_address": "Carl St & Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 5,
+                        "location": "Carl & Cole Station"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Ride the N Judah line downtown, listening to a local news podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "N Judah Muni Metro"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Arrive at school, prepare the classroom, and organize materials for the morning lessons.",
+                        "geocode": {
+                            "lat": 37.7670265,
+                            "lng": -122.4363172,
+                            "formatted_address": "1025 14th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 50,
+                        "location": "McKinley Elementary School Classroom"
+                    },
+                    {
+                        "emoji": "\ud83c\udf4e",
+                        "action": "Teach the morning block, focusing on reading comprehension and mathematics.",
+                        "geocode": {
+                            "lat": 37.7670265,
+                            "lng": -122.4363172,
+                            "formatted_address": "1025 14th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 180,
+                        "location": "McKinley Elementary School Classroom"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Eat a packed lunch with colleagues and supervise students during recess.",
+                        "geocode": {
+                            "lat": 37.7670265,
+                            "lng": -122.4363172,
+                            "formatted_address": "1025 14th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "McKinley Elementary School Staff Lounge & Yard"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Lead the afternoon class session, which includes a hands-on science experiment and history lesson.",
+                        "geocode": {
+                            "lat": 37.7670265,
+                            "lng": -122.4363172,
+                            "formatted_address": "1025 14th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 150,
+                        "location": "McKinley Elementary School Classroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "After the final bell, grade assignments and prepare for the next day's activities.",
+                        "geocode": {
+                            "lat": 37.7670265,
+                            "lng": -122.4363172,
+                            "formatted_address": "1025 14th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "McKinley Elementary School Classroom"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Commute home on the N Judah, reading a novel to unwind from the school day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "N Judah Muni Metro"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up fresh produce for the week.",
+                        "geocode": {
+                            "lat": 37.7650139,
+                            "lng": -122.4496722,
+                            "formatted_address": "960 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Luke's Local on Cole St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Make her daily check-in call to her elderly mother who lives across town.",
+                        "geocode": {
+                            "lat": 37.7583317,
+                            "lng": -122.4445569,
+                            "formatted_address": "2286 Clayton St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (2286 Clayton St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet a close friend for a casual dinner and drinks.",
+                        "geocode": {
+                            "lat": 37.7652402,
+                            "lng": -122.4500965,
+                            "formatted_address": "941 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Zazie"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax at home, watch an episode of a favorite TV show, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7583317,
+                            "lng": -122.4445569,
+                            "formatted_address": "2286 Clayton St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (2286 Clayton St)"
+                    }
+                ],
+                "day_overview": "A structured day for an experienced elementary school teacher, balancing a demanding workday in SoMa with a fulfilling personal life in her Cole Valley neighborhood, including checking in with her mother and meeting a friend for dinner.",
+                "home_address": "2286 Clayton St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7589818,
+                    "lng": -122.4463397,
+                    "formatted_address": "2286 Clayton St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

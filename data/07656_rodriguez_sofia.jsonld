@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sofia Rodriguez",
+    "givenName": "Sofia",
+    "familyName": "Rodriguez",
+    "jobTitle": "Line Cook",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Food Service"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sofia Rodriguez\u2019s world is a fifty-foot radius of heat, steam, and spice. Born in a small village outside Oaxaca, Mexico, her earliest memories are of the aromas from her mother's kitchen\u2014charred chiles, simmering mole, and fresh masa pressed by hand. Her education was practical, earned standing on a stool beside the stove rather than in a formal classroom. Though she completed her secondary schooling, her true diploma was her mother\u2019s approval of her Sopa de Lima.\n\nAt nineteen, following her older brother who had left years earlier, Sofia arrived in San Francisco with little English but an encyclopedic knowledge of Oaxacan cuisine. The city was overwhelming, a cacophony of languages and ambitions. Her first years were a blur of dishwashing jobs in the Mission, sending most of her meager earnings back home. The turning point came when a line cook at a bustling North Beach bistro called in sick. The exacting French chef, desperate, pointed at Sofia. She stepped up to the grill, her hands moving with an instinctual grace that belied her station. She never went back to the dish pit.\n\nNow 28, Sofia is a seasoned line cook at that same bistro. Her life is dictated by the rhythm of service. Her 0.0-mile commute is a short walk down a flight of creaky stairs from her tiny, rent-controlled studio apartment directly above the restaurant. Her world is this single North Beach block. Her social life consists of shared beers with the other cooks after a grueling Saturday night shift and weekly video calls with her mother. On her rare days off, she visits her brother and his family in Daly City, a brief escape from the kitchen\u2019s pressure cooker.\n\nSan Francisco, to Sofia, isn\u2019t cable cars or tech giants; it's the roar of the exhaust fan, the fog framing Coit Tower from her small window, and the access to ingredients she once only dreamed of. Her quiet hope is to one day open her own small place, maybe in the Mission or Excelsior\u2014a restaurant where she can finally cook her mother\u2019s food, a taste of Oaxaca for the city that has become her demanding, complicated, and undeniable home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, silence alarm, and drink a large glass of water.",
+                        "geocode": {
+                            "lat": 37.80496890000001,
+                            "lng": -122.4480374,
+                            "formatted_address": "1509 Marina Blvd, San Francisco, CA 94123"
+                        },
+                        "duration": 15,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Morning jog along the waterfront, enjoying the view of the bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack work bag with knives and a change of clothes.",
+                        "geocode": {
+                            "lat": 37.80496890000001,
+                            "lng": -122.4480374,
+                            "formatted_address": "1509 Marina Blvd, San Francisco, CA 94123"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Walk to a local spot to grab an oat milk latte to-go.",
+                        "geocode": {
+                            "lat": 37.8000026,
+                            "lng": -122.4417883,
+                            "formatted_address": "2331 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Chestnut Street Coffee Roasters"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Eat a late brunch of avocado toast and eggs with her mom.",
+                        "geocode": {
+                            "lat": 37.80496890000001,
+                            "lng": -122.4480374,
+                            "formatted_address": "1509 Marina Blvd, San Francisco, CA 94123"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across town, listening to a true-crime podcast to zone out before work.",
+                        "geocode": {
+                            "lat": 37.6536906,
+                            "lng": -122.4069257,
+                            "formatted_address": "US-101, South San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "US-101 South"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Arrive at work, change into uniform, and greet the team.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Misi\u00f3n Cantina Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2a",
+                        "action": "Begin afternoon prep work: chopping vegetables, portioning proteins, and preparing sauces for the night's service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Misi\u00f3n Cantina Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Quickly eat the staff meal with coworkers before service begins.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Misi\u00f3n Cantina Staff Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udd25",
+                        "action": "Work the saut\u00e9 station during the intense, non-stop dinner rush.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 240,
+                        "location": "Misi\u00f3n Cantina Kitchen Line"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Break down the station, clean all surfaces, and prep for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Misi\u00f3n Cantina Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Post-shift decompression with a beer and coworkers to vent about the service.",
+                        "geocode": {
+                            "lat": 37.77002299999999,
+                            "lng": -122.4221172,
+                            "formatted_address": "199 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Zeitgeist"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive home through the empty late-night city streets.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Cross-Town Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Eat a quick snack while scrolling through social media to decompress.",
+                        "geocode": {
+                            "lat": 37.80496890000001,
+                            "lng": -122.4480374,
+                            "formatted_address": "1509 Marina Blvd, San Francisco, CA 94123"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Watch an episode of a comforting sitcom before finally heading to bed.",
+                        "geocode": {
+                            "lat": 37.80496890000001,
+                            "lng": -122.4480374,
+                            "formatted_address": "1509 Marina Blvd, San Francisco, CA 94123"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A physically demanding day for Sofia, a line cook, balancing personal time in the morning with a high-intensity evening shift in a bustling Mission District restaurant, followed by a late-night wind-down.",
+                "home_address": "1509 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.80496890000001,
+                    "lng": -122.4480374,
+                    "formatted_address": "1509 Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

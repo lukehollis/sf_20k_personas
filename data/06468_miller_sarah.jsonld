@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Director of Data Analytics",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s world is contained within the precise grid of Hayes Valley streets, a stark contrast to the sprawling, unstructured data she wrangles daily. The daughter of first-generation Korean immigrants, Sarah grew up amidst the hum of sewing machines in their Daly City dry-cleaning business. Her parents preached a gospel of pragmatism and stability, virtues she internalized and translated into the language of Silicon Valley. She dutifully pursued a Master's in Statistics from Stanford, shelving a quiet passion for art history as an impractical indulgence.\n\nHer career was a steady, calculated ascent. Starting as an analyst during the dot-com boom, she survived the bust by being indispensable, her ability to find narrative in numbers making her a quiet force. She climbed through promotions at various tech firms, her work ethic a direct inheritance from her parents. She married a fellow tech professional, and for a decade, their lives ran like well-oiled code: parallel careers, a shared calendar, and a tastefully minimalist condo.\n\nThe turning point came at 45, with a quiet divorce that felt less like a heartbreak and more like a system-wide data corruption. The life she\u2019d methodically built no longer computed. In the aftermath, she negotiated her Director role to be fully remote, reclaiming her home not just as a living space but as her entire domain. The 0.0-mile commute was a declaration of independence.\n\nNow, at 49, her days are a disciplined rhythm. She starts with a walk to a local caf\u00e9 for an oat latte, her one non-negotiable ritual, before settling into her home office, a converted guest room overlooking a shared garden. Her social life is smaller but deeper\u2014a handful of old friends, a book club focused on translated fiction.\n\nSan Francisco, once just a backdrop for her ambition, has become her sanctuary. She knows the boutique owners and bartenders in Hayes Valley by name. Her greatest hope lies not in another promotion, but in the ceramics class she takes twice a week. The messy, unpredictable clay is an antidote to her clean, logical career. Sarah\u2019s dream is no longer a C-suite title, but a small, sunlit studio of her own, perhaps in the Outer Sunset, where she can finally analyze patterns of beauty instead of user behavior."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, 10-minute meditation, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home in the Mission District"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Brew a pour-over coffee while scanning morning tech news and urgent emails.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home in the Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed in business casual attire, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home in the Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Morning commute, driving from the Mission to the Financial District.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Streets (24th St to Market St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, catch up with team members in the kitchen, and review the day's calendar.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Tech Company Office @ Central Tower"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead the weekly Data Team sync, reviewing dashboards and current project sprints.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 75,
+                        "location": "Conference Room 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick, healthy grain bowl for a solo lunch to decompress and reset.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "sweetgreen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: Analyze Q3 performance metrics for an upcoming executive presentation.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Private Office @ Central Tower"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "One-on-one mentorship meeting with a direct report to discuss career development.",
+                        "geocode": {
+                            "lat": 37.7904311,
+                            "lng": -122.4044726,
+                            "formatted_address": "425 Bush St #435, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 45,
+                        "location": "Office Huddle Space"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final emails and create a priority list for the following day.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Private Office @ Central Tower"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Evening commute, driving from the office back home to the Mission.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "SF Streets (Market St to 24th St)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up essentials for the week.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udd49\ufe0f",
+                        "action": "Attend a vinyasa flow class to de-stress and stretch after a long day of sitting.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83c\udf55",
+                        "action": "Meet a close friend for a casual dinner and catch-up.",
+                        "geocode": {
+                            "lat": 37.7613671,
+                            "lng": -122.4243616,
+                            "formatted_address": "3621 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Delfina Pizzeria"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down at home, watch an episode of a favorite series, and disconnect from devices.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home in the Mission District"
+                    }
+                ],
+                "day_overview": "A demanding day for a tech director, balancing leadership meetings and data analysis with a challenging city commute, capped off with yoga and a social dinner in her vibrant Mission District neighborhood.",
+                "home_address": "2729 24th St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7527337,
+                    "lng": -122.4069823,
+                    "formatted_address": "2729 24th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

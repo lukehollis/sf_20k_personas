@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kai Wong",
+    "givenName": "Kai",
+    "familyName": "Wong",
+    "jobTitle": "Paramedic",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kai Wong is a product of San Francisco\u2019s western neighborhoods. Raised in the Sunset District by first-generation immigrant parents who ran a small neighborhood grocery store, his childhood was a quiet landscape of fog, family obligations, and the unspoken expectation that he would achieve a more prestigious, stable career than they had. He obediently enrolled at San Francisco State University, majoring in business, but found the lectures abstract and disconnected from the tangible world he knew.\n\nThe turning point came during his sophomore year when his father collapsed from a sudden cardiac arrest in the middle of the store. Kai remembers the terrifying helplessness, then the swift, calm competence of the paramedics who arrived. They moved with a purpose he\u2019d never seen before, their actions immediate and life-altering. They saved his father's life. The experience was a revelation. Within a semester, Kai dropped out of SFSU and enrolled in an EMT program, a decision that deeply disappointed his parents but felt undeniably right to him.\n\nNow, at 35, Kai\u2019s life is his work. He\u2019s a seasoned paramedic, and his small Mission District apartment, with a 0.0-mile commute, is practically an extension of the station. The long, grueling shifts have made deep romantic relationships difficult; a serious girlfriend left him years ago, tired of competing with the constant emergencies. His closest bonds are with his crew, a brotherhood forged in the crucible of trauma and adrenaline. They share late-night burritos on 24th Street and find gallows humor in the chaos they navigate daily.\n\nKai\u2019s connection to San Francisco is intimate and raw. He doesn\u2019t see the gleaming tech campuses or tourist-filled cable cars; he sees the city through its emergency room doors, its alleyways, and the faces of its most vulnerable residents. His dream isn\u2019t wealth or recognition, but a quiet sense of peace. He hopes to one day save enough to buy a small house, maybe further down the coast, and learn how to surf at Ocean Beach\u2014a way to finally wash away the stress of the job. For now, he finds solace in the city's rhythms, the brief moments of calm between the calls, knowing he is the lifeline for a city that is as much a part of him as he is of it."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake-up and brew a strong pot of coffee to start the day.",
+                        "geocode": {
+                            "lat": 37.7531542,
+                            "lng": -122.40658,
+                            "formatted_address": "1554 24th St, San Francisco, CA 94114"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Quick shower and get into uniform, preparing for the long shift ahead.",
+                        "geocode": {
+                            "lat": 37.7531542,
+                            "lng": -122.40658,
+                            "formatted_address": "1554 24th St, San Francisco, CA 94114"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Eat a high-protein breakfast of eggs and toast while reviewing personal messages.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcd\ufe0f",
+                        "action": "Commute from Noe Valley to the station on a motorcycle, navigating the morning traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Streets of San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude91",
+                        "action": "Arrive for shift change; conduct a thorough rig check on the ambulance, stocking supplies and checking equipment.",
+                        "geocode": {
+                            "lat": 37.7772865,
+                            "lng": -122.3967948,
+                            "formatted_address": "36 Bluxome St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "SFFD Station 24"
+                    },
+                    {
+                        "emoji": "\ud83d\udea8",
+                        "action": "Respond to a medical emergency call for a fall victim in the Mission District.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Mission District Incident Scene"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Eat a quick lunch packed from home in the ambulance between calls.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "In-Ambulance"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Handle another emergency dispatch: a person with respiratory distress in the Western Addition.",
+                        "geocode": {
+                            "lat": 37.7807388,
+                            "lng": -122.4303697,
+                            "formatted_address": "Western Addition, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Western Addition Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Complete detailed patient care reports and restock the ambulance at the end of the shift.",
+                        "geocode": {
+                            "lat": 37.7772865,
+                            "lng": -122.3967948,
+                            "formatted_address": "36 Bluxome St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "SFFD Station 24"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcd\ufe0f",
+                        "action": "Motorcycle ride home, taking the scenic route through the Castro to unwind.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Streets of San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Pick up a carne asada burrito for an easy, filling dinner.",
+                        "geocode": {
+                            "lat": 37.7120804,
+                            "lng": -122.4054555,
+                            "formatted_address": "98 Leland Ave, San Francisco, CA 94134, USA"
+                        },
+                        "duration": 10,
+                        "location": "El Buen Sabor"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Hit the gym for a weightlifting session to burn off the stress of the day.",
+                        "geocode": {
+                            "lat": 37.7637395,
+                            "lng": -122.4334293,
+                            "formatted_address": "2301 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Shower, eat dinner, and relax on the couch watching a docuseries.",
+                        "geocode": {
+                            "lat": 37.7531542,
+                            "lng": -122.40658,
+                            "formatted_address": "1554 24th St, San Francisco, CA 94114"
+                        },
+                        "duration": 90,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Pack a bag for the next shift and set the alarm before heading to bed.",
+                        "geocode": {
+                            "lat": 37.7531542,
+                            "lng": -122.40658,
+                            "formatted_address": "1554 24th St, San Francisco, CA 94114"
+                        },
+                        "duration": 15,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A demanding 12-hour shift as a paramedic for the SFFD, bookended by a quick motorcycle commute. The day involves responding to urgent calls across the city, followed by a necessary decompression session at the gym and a quiet evening at home in Noe Valley.",
+                "home_address": "1554 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7531542,
+                    "lng": -122.40658,
+                    "formatted_address": "1554 24th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

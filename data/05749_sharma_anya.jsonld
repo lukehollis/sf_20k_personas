@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anya Sharma",
+    "givenName": "Anya",
+    "familyName": "Sharma",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anya Sharma\u2019s life is measured in the few steps from her apartment down to the shop floor. The daughter of Indian immigrants who ran a bustling convenience store in Fremont, Anya grew up amidst the rhythm of inventory and customer service. Her parents preached the gospel of practicality and hard work, so when Anya developed a passion for art, she channeled it into an Associate's degree in Graphic Design from a community college, believing it was a sensible creative outlet.\n\nTo pay for her studies, she took a part-time job at a stylish home goods boutique in San Francisco. She discovered an unexpected talent not just for arranging displays with her designer\u2019s eye, but for managing people and operations. The temporary job slowly became her focus. Promotions came steadily, and the dream of being a graphic designer faded, replaced by the tangible satisfaction of running a successful store.\n\nThe true turning point came seven years ago when her manager retired. Anya was offered the Store Manager position at the company\u2019s Hayes Valley location, which came with a unique perk: the small one-bedroom apartment directly above the shop. For Anya, then 30, it was a life-altering opportunity. It offered her a permanent home in the city she loved and cemented her career path. She accepted, trading an uncertain artistic future for stability and a 0.0-mile commute.\n\nToday, Anya\u2019s world is her block. Her daily routine is a seamless blend of personal and professional life. She wakes to the sounds of the neighborhood, enjoys coffee on her fire escape overlooking the courtyard, and then walks downstairs to begin her day. Her social circle is small but deep, consisting of a few trusted employees she treats like family and the other local business owners. She remains single, finding it difficult to carve out time for a serious relationship amidst the demands of retail.\n\nThough content, Anya nurtures a quiet dream: to one day own her own small shop. Not a franchise, but something curated entirely by her, a space that merges her business acumen with the dormant artist within. For now, she is a fixture of Hayes Valley, the calm, observant manager who knows her customers by name, her life a self-contained world built above the beautiful things she sells."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for a few minutes, and do a quick stretching routine.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (24th St Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and prepare a simple breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (24th St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and do a quick check of the gallery's emails and social media.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home (24th St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Commute to work on a Vespa, cutting through the Panhandle and Golden Gate Park.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Cross-Town Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\udd11",
+                        "action": "Open the gallery, review the daily sales goals, and restock art supplies on the main floor.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, United States"
+                        },
+                        "duration": 60,
+                        "location": "Creative IQ Art Studio & CIQ Gallery"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Assist customers with purchases, answer questions about featured artists, and manage the point-of-sale system.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, United States"
+                        },
+                        "duration": 150,
+                        "location": "Creative IQ Art Studio & CIQ Gallery"
+                    },
+                    {
+                        "emoji": "\ud83e\udd61",
+                        "action": "Take a lunch break and grab a spicy tuna pok\u00e9 bowl.",
+                        "geocode": {
+                            "lat": 37.7763969,
+                            "lng": -122.4170487,
+                            "formatted_address": "1355 Market St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Pacific Pok\u0113 Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative tasks: process new inventory shipments, plan the staff schedule, and update the website.",
+                        "geocode": {
+                            "lat": 37.7781174,
+                            "lng": -122.4065081,
+                            "formatted_address": "1026 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Gallery Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Plan and schedule social media content for an upcoming pottery workshop.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, United States"
+                        },
+                        "duration": 45,
+                        "location": "Creative IQ Art Studio & CIQ Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Commute home, taking a scenic route along Ocean Beach before heading back to the Mission.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Cross-Town Commute"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop for a quick grocery run to pick up fresh produce and some items for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38",
+                        "action": "Attend a Vinyasa flow yoga class to de-stress and stretch after a long day.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Meet a friend for dinner and catch up over tacos and agua frescas.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Unwind at home by listening to a podcast and tidying up the apartment.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home (24th St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: skincare, change into pajamas, and read a few pages of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (24th St Apartment)"
+                    }
+                ],
+                "day_overview": "A busy day for Anya managing her art gallery in the Outer Richmond, involving a cross-town scooter commute from her Mission apartment, followed by an evening of yoga and socializing with a friend in her vibrant neighborhood.",
+                "home_address": "3299 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7522511,
+                    "lng": -122.418457,
+                    "formatted_address": "3299 24th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

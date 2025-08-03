@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Miller",
+    "givenName": "Ethan",
+    "familyName": "Miller",
+    "jobTitle": "Data Analytics Consultant",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "# Ethan Miller: A Data-Driven Journey\n\nBorn to middle-class parents in Sacramento\u2014his father a high school math teacher and mother a nurse\u2014Ethan Miller grew up valuing education and analytical thinking. His childhood was marked by family camping trips to Yosemite and early exposure to computers when his father brought home their first PC in the late 1990s.\n\nEthan's aptitude for mathematics blossomed in high school, where he also discovered his love for cycling through the school's outdoor club. After graduating with honors, he attended UC Berkeley, initially pursuing pure mathematics before discovering data science in his sophomore year. This pivot felt natural\u2014a perfect blend of his analytical skills and growing interest in real-world applications.\n\nDuring college, Ethan experienced his first significant setback when his mother was diagnosed with breast cancer. The months spent traveling between Berkeley and Sacramento taught him resilience and reinforced his interest in healthcare data applications. Thankfully, his mother recovered, but the experience remained formative.\n\nAfter earning his bachelor's degree, Ethan joined a healthcare startup in San Francisco, analyzing patient outcomes data. Three years later, a chance meeting with a senior consultant at a tech conference led to his current role at a prestigious consulting firm, where he now helps companies transform their operations through data insights.\n\nEthan found his home in San Francisco's Mission District five years ago, drawn to its vibrant culture and proximity to several tech hubs. His daily routine involves an early morning bike ride to his South of Market office, often taking the longer route along the Embarcadero to enjoy the Bay views.\n\nNow thirty, Ethan maintains a close-knit social circle predominantly consisting of fellow tech professionals and cycling enthusiasts. While he's dated periodically, he hasn't prioritized long-term relationships, focusing instead on his career and personal growth.\n\nRecently, Ethan has been developing a side project\u2014an app that helps low-income families access affordable healthcare options\u2014inspired by witnessing financial struggles during his mother's illness. He dreams of eventually launching his own data consultancy focusing on social impact projects.\n\nDespite his growing success, Ethan occasionally questions the tech industry's role in San Francisco's gentrification, especially as he watches his neighborhood change. This internal conflict fuels his interest in using data science for community benefit, hoping to be part of the solution rather than the problem."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "# Ethan Miller's Personal Memories\n\n1. Ethan remembers the night his mother called with her diagnosis. He was studying for finals in his Berkeley apartment when his phone rang. As she spoke the words \"stage 2 breast cancer,\" his textbook slipped from his lap. That night, he biked for hours around campus, tears streaming behind his glasses. This moment, during his junior year, transformed his relationship with data from abstract to deeply human \u2013 realizing numbers always represent real lives, real suffering, real hope.\n\n2. During his first San Francisco summer, Ethan discovered the Hawk Hill cycling route across the Golden Gate Bridge. Reaching the summit after that grueling climb, sweat-soaked and gasping, he looked out at the city becoming his home. The fog was rolling in beneath him, and in that moment at 25, he felt truly untethered from his Sacramento roots. This view became his thinking spot, where every major life decision since has been contemplated.\n\n3. Ethan still recalls the Christmas Eve when his prototype healthcare app matched its first family to an affordable clinic. He was alone in his Mission apartment, takeout containers scattered around his laptop. The confirmation email arrived at 11:43 PM \u2013 a single mother of three had secured care she couldn't otherwise afford. He wept, thinking of his own mother. At 28, this validated his belief that his privilege and skills carried responsibility.\n\n4. The morning Ethan found eviction notices on his neighbors' doors remains vivid. The Gonzalez family had lived there for twenty years \u2013 their son had helped Ethan move in. Standing in the hallway, Mrs. Gonzalez hugged him, saying, \"This neighborhood doesn't want us anymore.\" At 27, this confrontation with the consequences of the industry that employed him created a moral compass he still navigates by, questioning what progress really means.\n\n5. Last year, Ethan cycled past his father's retirement party to deliver a handmade data visualization of all the students his dad had taught over 35 years. When his stoic father's eyes welled up, tracing the paths of students who'd become mathematicians, Ethan understood the legacy of quiet impact. At 29, standing in his childhood home, he recognized that his own work needed to create ripples that outlasted quarterly metrics and startup valuations."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, hydrate, and review daily schedule.",
+                        "geocode": {
+                            "lat": 37.7943789,
+                            "lng": -122.436215,
+                            "formatted_address": "2376 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - 2376 Broadway"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Morning run to enjoy the views and clear the mind before a busy day.",
+                        "geocode": {
+                            "lat": 37.79120899999999,
+                            "lng": -122.4377047,
+                            "formatted_address": "Alta Plaza Park, Jackson St. &, Steiner St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 40,
+                        "location": "Alta Plaza Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7943789,
+                            "lng": -122.436215,
+                            "formatted_address": "2376 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 2376 Broadway"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast (yogurt and granola) while checking overnight emails and Slack notifications.",
+                        "geocode": {
+                            "lat": 37.7943789,
+                            "lng": -122.436215,
+                            "formatted_address": "2376 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 2376 Broadway"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7706831,
+                            "lng": -122.3895903,
+                            "formatted_address": "Mission Bay, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "On the Road to Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, grab a coffee, and join the data analytics team's daily stand-up meeting.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 60,
+                        "location": "Uber HQ - Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Building and refining SQL queries for a new rider analytics dashboard.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 150,
+                        "location": "Uber HQ - Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83c\udf54",
+                        "action": "Lunch break with a coworker at one of the campus cafeterias.",
+                        "geocode": {
+                            "lat": 37.9200025,
+                            "lng": -122.3464236,
+                            "formatted_address": "850 Marina Bay Pkwy Building P, Richmond, CA 94804, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Grid Cafe at Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Stakeholder meeting to present Q3 performance metrics to the Product Management team.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Conference Room 'The Marketplace' at Uber HQ"
+                    },
+                    {
+                        "emoji": "\u2709\ufe0f",
+                        "action": "Address follow-up action items from meeting, respond to emails, and plan tomorrow's tasks.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 90,
+                        "location": "Uber HQ - Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Commute home, dealing with the evening traffic rush.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "On the Road to Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Evening strength training workout to de-stress from the day.",
+                        "geocode": {
+                            "lat": 37.791857,
+                            "lng": -122.4012865,
+                            "formatted_address": "301 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 75,
+                        "location": "Equinox Pine Street"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up ingredients for dinner and a few essentials for the week.",
+                        "geocode": {
+                            "lat": 37.7702206,
+                            "lng": -122.4476072,
+                            "formatted_address": "1530 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market - Haight Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner while listening to a curated playlist.",
+                        "geocode": {
+                            "lat": 37.7943789,
+                            "lng": -122.436215,
+                            "formatted_address": "2376 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 2376 Broadway"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Wind down by watching an episode of a new sci-fi series on streaming.",
+                        "geocode": {
+                            "lat": 37.7943789,
+                            "lng": -122.436215,
+                            "formatted_address": "2376 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 2376 Broadway"
+                    },
+                    {
+                        "emoji": "\ud83c\udf92",
+                        "action": "Prepare for the next day: pack gym bag, lay out clothes, and do a final check of his calendar.",
+                        "geocode": {
+                            "lat": 37.7943789,
+                            "lng": -122.436215,
+                            "formatted_address": "2376 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - 2376 Broadway"
+                    }
+                ],
+                "day_overview": "A busy and structured day for a tech consultant, balancing demanding work at Uber's Mission Bay campus with a disciplined fitness routine and personal time in his Pacific Heights neighborhood.",
+                "home_address": "2376 Broadway, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7943789,
+                    "lng": -122.436215,
+                    "formatted_address": "2376 Broadway, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

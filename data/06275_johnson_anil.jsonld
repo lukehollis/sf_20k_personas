@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anil Johnson",
+    "givenName": "Anil",
+    "familyName": "Johnson",
+    "jobTitle": "Senior Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anil Johnson\u2019s life has been a study in predictable inputs yielding desired outputs. The son of an American engineer father and a first-generation Indian mother, he was raised in the quiet, methodical suburbs of Fremont. His childhood was a blend of his father\u2019s pragmatism and his mother\u2019s vibrant stories, a cultural duality that manifested as a fascination with finding the logic within complex systems. He excelled in math and science, seeing patterns where others saw chaos.\n\nThis aptitude led him to UC Berkeley for computer science and later to a Master's in Computational Linguistics from Stanford. He viewed language as the ultimate dataset, a system of rules and probabilities that could be modeled and understood. His career trajectory was a straight, ascending line. He joined a promising SF startup, quickly proving his value in translating vast, messy data into clean, actionable insights. Now a Senior Data Scientist at a major tech firm, he commands a six-figure salary from the comfort of his meticulously organized Inner Sunset apartment.\n\nThe key turning point wasn\u2019t a promotion, but a breakup. A year ago, his long-term partner left, telling him, \u201cYou try to optimize our relationship, Anil. You can\u2019t A/B test feelings.\u201d The statement shattered his carefully constructed worldview. He had treated his life like an algorithm, and it had returned a null value.\n\nNow, his 0.0-mile commute offers too much time for introspection. His routine is still structured\u2014code, meetings, model deployment\u2014but it's punctuated by new, unoptimized behaviors. He takes long, meandering walks through Golden Gate Park, intentionally leaving his phone behind. He's started frequenting a small bakery on Irving Street, forcing himself to make small talk. He feels a deep connection to the fog that often blankets his neighborhood, a physical representation of his own uncertainty. Anil\u2019s aspiration is no longer just about becoming a Staff Data Scientist. He dreams of finding a way to integrate the two halves of his heritage: to build something that has both elegant logic and a human heart. He wants to write a life story that is less a predictable equation and more like one of his mother's sprawling, beautifully illogical tales."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, quick meditation, and review daily goals.",
+                        "geocode": {
+                            "lat": 37.7992232,
+                            "lng": -122.4086742,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 3132 Columbus Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7992232,
+                            "lng": -122.4086742,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 3132 Columbus Ave"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Enjoy coffee and breakfast with his partner, discussing their plans for the day.",
+                        "geocode": {
+                            "lat": 37.7992232,
+                            "lng": -122.4086742,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Anil's Kitchen - 3132 Columbus Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the designated carpool meeting spot.",
+                        "geocode": {
+                            "lat": 37.8027511,
+                            "lng": -122.4137353,
+                            "formatted_address": "Lombard St & Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 5,
+                        "location": "Corner of Columbus Ave & Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute, catching up with colleagues during the ride to the Financial District.",
+                        "geocode": {
+                            "lat": 37.76471859999999,
+                            "lng": -122.4319401,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Carpool with Tech Colleagues"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Settle in at his desk, grab a second coffee, and triage morning emails and Slack messages.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Anil's Desk, Regus - 580 California"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: Cleaning and preparing a large dataset for a new machine learning model.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Anil's Desk, Regus - 580 California"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a nearby spot to pick up a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.790006,
+                            "lng": -122.4036761,
+                            "formatted_address": "180 Sutter St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen, 180 Sutter St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Data Science team sync to review progress on the current sprint and unblock team members.",
+                        "geocode": {
+                            "lat": 37.8266165,
+                            "lng": -122.4229237,
+                            "formatted_address": "Alcatraz Main Cell House, Pier 39, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Conference Room 'Alcatraz', Regus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Collaborative session with a Product Manager to define success metrics for an upcoming feature launch.",
+                        "geocode": {
+                            "lat": 37.7930303,
+                            "lng": -122.4041427,
+                            "formatted_address": "580 California Street Financial District, 12th and 16th Floor, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 90,
+                        "location": "Collaboration Pod, Regus - 580 California"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up daily tasks, push code to repository, and plan priorities for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Anil's Desk, Regus - 580 California"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute home via carpool, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.76471859999999,
+                            "lng": -122.4319401,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Carpool with Tech Colleagues"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Decompress with a scenic run along the waterfront to clear his head.",
+                        "geocode": {
+                            "lat": 37.8059276,
+                            "lng": -122.4526314,
+                            "formatted_address": "San Francisco Bay Trail, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "San Francisco Bay Trail near Aquatic Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh pasta and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7975538,
+                            "lng": -122.4310097,
+                            "formatted_address": "1919 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "The Italian Homemade Company, Union St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook dinner and enjoy a meal with his partner, sharing stories from their day.",
+                        "geocode": {
+                            "lat": 37.7992232,
+                            "lng": -122.4086742,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - 3132 Columbus Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a few chapters of a book and planning the evening.",
+                        "geocode": {
+                            "lat": 37.7992232,
+                            "lng": -122.4086742,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Anil's Living Room - 3132 Columbus Ave"
+                    }
+                ],
+                "day_overview": "A productive day for Anil, balancing deep analytical work and collaborative meetings at his FiDi co-working space, followed by an evening of exercise, home-cooked food, and quality time with his partner in North Beach.",
+                "home_address": "3132 Columbus Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8018052,
+                    "lng": -122.4123026,
+                    "formatted_address": "Columbus Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Johnson Family"
+    }
+}

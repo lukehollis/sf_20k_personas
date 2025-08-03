@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "City Planner Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s fascination with cities began in the manicured sprawl of Walnut Creek. The daughter of a pragmatic accountant and a fourth-grade teacher, she grew up keenly aware of the invisible lines that shaped her world: the zoning that separated tidy single-family homes from the lone apartment complex, the commercial corridor that lacked a single park bench. Her turning point came at sixteen, when a beloved local creek was channelized and paved over for a strip mall\u2019s parking lot. The quiet loss of that natural space solidified her desire not just to live in a city, but to shape one for the better.\n\nThis ambition led her to UC Santa Cruz, where she earned a Bachelor's degree in Urban Studies. There, she devoured theories on new urbanism, sustainable development, and social equity. After graduating, she landed a coveted role as a City Planner Assistant for the San Francisco government. It felt like the perfect entry point to making a difference.\n\nNow 27, Sarah lives and works from her one-bedroom apartment in the Inner Richmond. Her zero-mile commute is both a blessing and a curse; it saves time but blurs the line between her professional and personal life. Her day is a cycle of digital blueprints, permit applications, and zoning code reviews on dual monitors. To decompress, she relies on disciplined routines: a morning yoga session on her living room floor and a mandatory evening run through Golden Gate Park, just blocks away, to feel the fog on her face.\n\nHer social life is intentionally curated. It revolves around her partner of three years, Ben, an architect who understands her unique blend of idealism and bureaucratic frustration, and two close friends from college. They favor board game nights and exploring neighborhood Nepalese restaurants over the downtown bar scene.\n\nSarah\u2019s connection to San Francisco is that of a devoted, if sometimes exasperated, caretaker. She loves the city\u2019s chaotic energy and architectural beauty but is acutely pained by its inequalities. Her dream is to move beyond an \"assistant\" title and lead a project that creates tangible public good\u2014a new community garden, a network of protected bike lanes, or a successful affordable housing development. She aspires to leave a small, indelible mark of equity and beauty on the city she has chosen as her life\u2019s work."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check phone for transit alerts, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.7692486,
+                            "lng": -122.4468258,
+                            "formatted_address": "Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment on Ashbury St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Morning jog through the Panhandle and into Golden Gate Park.",
+                        "geocode": {
+                            "lat": 37.7729862,
+                            "lng": -122.4459943,
+                            "formatted_address": "Panhandle, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for work, and pack bag for the day.",
+                        "geocode": {
+                            "lat": 37.7692486,
+                            "lng": -122.4468258,
+                            "formatted_address": "Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment on Ashbury St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of yogurt and granola while listening to the KQED news podcast.",
+                        "geocode": {
+                            "lat": 37.7692486,
+                            "lng": -122.4468258,
+                            "formatted_address": "Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment on Ashbury St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to the Carl & Cole Muni stop and take the N Judah train inbound to work.",
+                        "geocode": {
+                            "lat": 37.7613338,
+                            "lng": -122.4855952,
+                            "formatted_address": "Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni N Judah Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, respond to emails, and begin GIS analysis for a new housing development proposal.",
+                        "geocode": {
+                            "lat": 37.7745129,
+                            "lng": -122.4183863,
+                            "formatted_address": "49 S Van Ness Ave Suite 1400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 210,
+                        "location": "SF Planning Department"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to Hayes Valley for a quick lunch, grabbing a healthy salad bowl to eat outside.",
+                        "geocode": {
+                            "lat": 37.77606249999999,
+                            "lng": -122.4295929,
+                            "formatted_address": "Hayes Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Prepare presentation slides and talking points for an upcoming community outreach meeting.",
+                        "geocode": {
+                            "lat": 37.7745129,
+                            "lng": -122.4183863,
+                            "formatted_address": "49 S Van Ness Ave Suite 1400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "SF Planning Department"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Team huddle with senior planners to review public feedback on the Mission Street bike lane project.",
+                        "geocode": {
+                            "lat": 37.7745129,
+                            "lng": -122.4183863,
+                            "formatted_address": "49 S Van Ness Ave Suite 1400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Planning Department Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude86",
+                        "action": "Walk from the office to the Van Ness Muni station and take the N Judah train back home.",
+                        "geocode": {
+                            "lat": 37.7613338,
+                            "lng": -122.4855952,
+                            "formatted_address": "Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni N Judah Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dish while listening to a playlist and unwinding from the day.",
+                        "geocode": {
+                            "lat": 37.7692486,
+                            "lng": -122.4468258,
+                            "formatted_address": "Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment on Ashbury St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Meet a friend for a cocktail and to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7693264,
+                            "lng": -122.4511621,
+                            "formatted_address": "1725 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Alembic"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel, prepping clothes for tomorrow, and setting an alarm.",
+                        "geocode": {
+                            "lat": 37.7692486,
+                            "lng": -122.4468258,
+                            "formatted_address": "Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment on Ashbury St"
+                    }
+                ],
+                "day_overview": "A productive workday for a city planner assistant, balancing GIS analysis with community engagement prep, followed by a run in the park and a social evening with a friend in her Haight-Ashbury neighborhood.",
+                "home_address": "412 Ashbury St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.771479,
+                    "lng": -122.446983,
+                    "formatted_address": "410-412 Ashbury St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

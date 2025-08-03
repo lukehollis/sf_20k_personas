@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Wong",
+    "givenName": "Ethan",
+    "familyName": "Wong",
+    "jobTitle": "Research Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ethan Wong is a product of the quiet ambition of the Silicon Valley suburbs. Raised in Fremont by a pragmatic software engineer father and a mother who pushed academics relentlessly, his path seemed pre-written: top university, followed by a prestigious career as a doctor. Ethan was diligent, dutifully following the plan through his first years at UC Davis, majoring in Molecular Biology on a pre-med track.\n\nThe turning point came during a summer internship shadowing an oncologist. The frantic, emotional world of clinical practice felt alien; the high-stakes human interaction was draining. In contrast, the meticulous, predictable order of the research laboratory felt like home. In a quiet act of rebellion, he abandoned his medical school applications upon graduation, a decision that strained his relationship with his parents but felt like the first truly authentic choice he had ever made.\n\nNow 35, Ethan has carved out a life of deliberate precision. He works as a research technician in a UCSF-affiliated biotech lab in Mission Bay, a role that perfectly suits his temperament. His hands are steady, his methods exacting, and he finds deep satisfaction in contributing to complex cellular research on neurodegenerative diseases. His 0.0-mile commute is by design; he lives in a sleek, minimalist apartment just two blocks from his lab, valuing his time over sprawling square footage.\n\nHis daily routine is a comforting ritual: a pour-over coffee at dawn, a short walk to the lab, and long, focused hours peering into a microscope. San Francisco, for him, isn't a city of raucous nightlife but a functional, beautiful ecosystem. Evenings are for runs along the Embarcadero or quiet nights with a sci-fi novel. His social life is small but meaningful, centered around a weekly board game night with two close friends.\n\nEthan doesn't dream of running the lab or having his name published as a lead author. His hope is more profound: he wants to know his hands prepared the slides that led to a breakthrough. He aspires to find a partner who values quiet stability over grand gestures and, perhaps one day, to have his parents understand that his contentment is its own form of success."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, quick stretch, and shower to get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7509634,
+                            "lng": -122.4273907,
+                            "formatted_address": "2068 Church St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Eat breakfast (congee and youtiao) with parents and discuss the day's plans.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet carpool colleague and drive to work, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Carpool Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Arrive at lab, put on PPE, and review the experimental protocol for the day's primary assay.",
+                        "geocode": {
+                            "lat": 37.8193829,
+                            "lng": -122.3658344,
+                            "formatted_address": "Building 3, 600 California Ave, San Francisco, CA 94130, USA"
+                        },
+                        "duration": 25,
+                        "location": "ZSFG Research Lab, Building 3"
+                    },
+                    {
+                        "emoji": "\ud83e\uddea",
+                        "action": "Prepare cell culture media and reagents for an upcoming Western blot analysis.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "ZSFG Research Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend the weekly lab meeting to discuss progress and troubleshoot experimental issues with the Principal Investigator.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "ZSFG Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick lunch bowl with a lab mate from the hospital's cafe.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Grove at ZSFG"
+                    },
+                    {
+                        "emoji": "\u26a1",
+                        "action": "Load protein samples, run gel electrophoresis, and begin the transfer process for the Western blot.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 180,
+                        "location": "ZSFG Research Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd3",
+                        "action": "Enter experiment parameters and initial observations into the lab's electronic notebook system.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "ZSFG Research Lab Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Carpool commute home, chatting about the workday and weekend plans.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Carpool Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop to pick up fresh produce and milk for the family.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Church Street Produce"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Help set the table and have dinner with family, catching up on their day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a light jog around the neighborhood to unwind and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7480297,
+                            "lng": -122.4385011,
+                            "formatted_address": "Douglass St &, 26th St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 35,
+                        "location": "Douglass Playground Loop"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a historical documentary.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down: pack lunch for tomorrow, read a novel, and set alarms.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A structured day for a research technician, balancing meticulous lab work at SF General Hospital with family commitments and personal time in his Noe Valley neighborhood.",
+                "home_address": "2068 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7509634,
+                    "lng": -122.4273907,
+                    "formatted_address": "2068 Church St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

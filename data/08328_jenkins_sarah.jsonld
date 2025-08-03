@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jenkins",
+    "givenName": "Sarah",
+    "familyName": "Jenkins",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Local Resident"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jenkins\u2019s life is measured in the hundred-foot radius around her corner of Hayes Valley. Born and raised in the sun-baked predictability of Modesto, she spent her youth dreaming of the coastal fog and creative chaos she saw in movies set in San Francisco. The day after her high school graduation, she packed a single suitcase and moved into a crowded apartment in the Lower Haight with two friends, feeling an immediate sense of belonging she\u2019d never known.\n\nHer educational journey was practical. She earned an Associate's degree in Fashion Merchandising from a local community college, a pragmatic choice that allowed her to work part-time. Her early retail jobs were impersonal stints at downtown department stores, where she felt like a cog in a massive machine. The turning point came a decade ago when she answered an ad for an assistant manager at \u201cThe Gilt Frame,\u201d a small, curated boutique in Hayes Valley specializing in local artisan goods and unique home decor. She fell in love not just with the products, but with the community.\n\nHer commute of zero miles is the anchor of her existence. Five years ago, when the previous manager retired and the small apartment above the shop became available, Sarah used her entire savings to secure both the promotion to Store Manager and the lease. Her life became inextricably woven with her work. A long-term relationship had ended a year prior, and the store became her sanctuary and her purpose.\n\nSarah\u2019s days follow a comforting rhythm: coffee from the barista next door who knows her order, unlatching the gate to her shop, arranging displays, and chatting with regulars who have become her de facto family. Her social life consists of wine with other local shop owners and the occasional book club meeting. She is a neighborhood fixture, a quiet authority on everything from handcrafted ceramics to the best nearby takeout.\n\nAt 43, her dreams are not of escape but of ownership. The boutique\u2019s owner is nearing retirement, and Sarah\u2019s deepest aspiration is to one day buy the business, securing her place in the small corner of San Francisco she has so carefully cultivated as her own. She has built a life not of grand adventures, but of profound, meaningful connection to a single, vibrant city block."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up to the alarm, check work emails on her phone, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Share a quick breakfast of yogurt and granola with her partner while discussing their plans for the evening.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the 8 Bayshore Muni bus downtown, listening to a podcast during the ride.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Muni Bus on Columbus Ave"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Stop for a large oat milk latte to power through the morning rush.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Blue Bottle Coffee"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Arrive at work, open the store, review overnight sales data, and conduct a morning huddle with the sales team to set daily goals.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 240,
+                        "location": "Metaverse Gear (Fictional Store)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a quick lunch break, grabbing a salad to eat at a table in the nearby gardens.",
+                        "geocode": {
+                            "lat": 37.78654239999999,
+                            "lng": -122.4019862,
+                            "formatted_address": "690 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Grove - Yerba Buena"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle afternoon store management tasks: approve staff timesheets, take a call with a vendor, and assist on the sales floor during a busy period.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 210,
+                        "location": "Metaverse Gear (Fictional Store)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Close out the registers, send the end-of-day report, and walk back to the Muni stop.",
+                        "geocode": {
+                            "lat": 37.7786338,
+                            "lng": -122.3933195,
+                            "formatted_address": "216 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 15,
+                        "location": "SoMa Office District"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home on the Muni bus, reading a novel on her Kindle.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni Bus on Stockton St"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Stop to pick up fresh pasta and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.8012182,
+                            "lng": -122.4077994,
+                            "formatted_address": "1541 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Little Vine Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a brisk walk with her partner around the neighborhood to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat dinner with her partner, catching up on their respective days.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching an episode of a new streaming series together.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with her nightly routine and read a few pages of a book before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A busy but balanced day for a retail manager, blending work responsibilities and team leadership in SoMa with personal time and errands in her North Beach neighborhood.",
+                "home_address": "6 Chestnut St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8050316,
+                    "lng": -122.403874,
+                    "formatted_address": "6 Chestnut St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jenkins Family"
+    }
+}

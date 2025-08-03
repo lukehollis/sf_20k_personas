@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Tanaka",
+    "givenName": "Sarah",
+    "familyName": "Tanaka",
+    "jobTitle": "Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Social Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Tanaka\u2019s life has been a quiet rebellion against expectation. As a third-generation Japanese-American raised in San Jose, she was the daughter of pragmatic parents who saw stability in Silicon Valley\u2019s booming tech industry. Her ancestral history, marked by the resilience of grandparents who were interned during WWII, was a source of pride, but her parents hoped for a future insulated from such struggle. Sarah initially followed this path, enrolling at UC Berkeley to study computer science.\n\nThe turning point came during her sophomore year. Seeking a break from coding, she began volunteering at a family shelter in West Oakland. Witnessing the systemic barriers and raw human need firsthand ignited a passion she never found in algorithms. She switched her major to sociology and, after graduating, enrolled at San Francisco State University, earning a Master of Social Work.\n\nHer career has been spent in the trenches of San Francisco's social services. For over a decade, she has navigated the city\u2019s complex bureaucracy to secure housing, mental health services, and support for its most vulnerable residents. The work is grueling, and the emotional toll led to the end of a long-term relationship years ago. She carries the stories of her clients with her, a weight that has etched a quiet intensity into her demeanor.\n\nNow 38, Sarah lives and works from her rent-controlled apartment in the Inner Richmond. The pandemic shifted her role to a remote model, turning her spare bedroom into a command center of case files and resource hotlines, shrinking her commute to zero. Her days are a blur of intense video calls and paperwork, broken up by long, meditative walks through Golden Gate Park to clear her head. Her connection to San Francisco is profound; she sees both its progressive ideals and its glaring failures daily. While burnout is a constant threat, her dream has evolved beyond individual cases. Sarah aspires to move into policy development, hoping to dismantle the very systems she currently helps her clients survive. She fights not for a stable future, but for a more just one."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was 19, volunteering at the West Oakland shelter. A five-year-old boy, whose family she had just helped secure a temporary housing voucher, silently handed her a small, worn-out plastic dinosaur. The weight of the cheap toy in her palm felt more profound than any line of code she had ever written. In that moment, the abstract concept of \"social good\" became tangible, a quiet transaction of trust. It was the moment she knew the stable future her parents wanted for her was not the one she needed.\n\n2.\nShe was 22, shelling edamame in her grandmother's kitchen. Without looking up, her grandmother softly mentioned the dust at the Gila River camp. \"It was in our food, our hair, our teeth,\" she\u2019d said, \"You could never feel truly clean.\" Sarah felt a sudden, visceral link between that pervasive Arizona dust and the bureaucratic grime she was learning to fight in her social work classes. It wasn't history; it was the same inherited struggle for dignity, generations apart.\n\n3.\nIt was late, and she was 31. Mark stood by the door of their shared apartment, car keys in his hand. \u201cYou carry them all with you, Sarah,\u201d he\u2019d said, his voice more weary than angry. \u201cThere\u2019s no room left for me.\u201d She couldn\u2019t argue. The silence after the door clicked shut was immense, filled with the ghosts of her clients. She grieved the loss, but felt a stubborn, solitary clarity. Her work wasn\u2019t a job that ended at 5 PM; it was simply who she was.\n\n4.\nShe was 35, walking through Golden Gate Park after a client\u2019s devastating relapse. She stopped near the Dutch Windmill as the fog rolled in, blurring the edges of the world. The cold, damp air felt like a necessary balm on her frayed nerves. The park didn't offer answers or comfort, but its towering cypress trees and enduring presence offered perspective. It was a silent testament to survival, mirroring the resilience she had to find within herself to face the next day.\n\n5.\nLast year, sitting in her spare bedroom office, she stared at the screen after a disastrous Zoom call where she failed to stop an eviction. The client\u2019s face, pixelated and desperate, haunted her. She looked at the stacks of files around her\u2014each one a person hitting the same systemic wall. A cold, clear anger cut through her exhaustion. Triage wasn't enough. Fighting for one person at a time felt like patching a collapsing dam. Her focus shifted from saving people to dismantling the very thing that endangered them."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for 10 minutes, and check personal notifications.",
+                        "geocode": {
+                            "lat": 37.7614518,
+                            "lng": -122.4209817,
+                            "formatted_address": "3469 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment at 348 Mission"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Make coffee and have a quick breakfast of yogurt and granola with her partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7614518,
+                            "lng": -122.4209817,
+                            "formatted_address": "3469 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment at 348 Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Retrieve car from the residential garage, navigate SoMa/FiDi traffic, and park in the work garage.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Downtown San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle in at desk, grab a tea, and review daily client case files and emails.",
+                        "geocode": {
+                            "lat": 37.79399799999999,
+                            "lng": -122.399659,
+                            "formatted_address": "353 Sacramento St #200, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 30,
+                        "location": "Landmark Corporate Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct an in-person intake session with a new client.",
+                        "geocode": {
+                            "lat": 37.7246314,
+                            "lng": -122.4490018,
+                            "formatted_address": "Private Offices, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "Private Office at Landmark"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Write detailed post-session progress notes and update the client's electronic health record.",
+                        "geocode": {
+                            "lat": 37.79399799999999,
+                            "lng": -122.399659,
+                            "formatted_address": "353 Sacramento St #200, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 75,
+                        "location": "Landmark Corporate Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to get a quick and healthy lunch to decompress from the morning.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Attend a weekly case management meeting with the social work team.",
+                        "geocode": {
+                            "lat": 37.7987105,
+                            "lng": -122.3992337,
+                            "formatted_address": "75 Broadway #111, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Conference Room at Landmark"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Make follow-up and resource coordination phone calls to several existing clients.",
+                        "geocode": {
+                            "lat": 37.7246314,
+                            "lng": -122.4490018,
+                            "formatted_address": "Private Offices, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 90,
+                        "location": "Private Office at Landmark"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Finalize daily case notes and plan tasks for the next day.",
+                        "geocode": {
+                            "lat": 37.79399799999999,
+                            "lng": -122.399659,
+                            "formatted_address": "353 Sacramento St #200, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 25,
+                        "location": "Landmark Corporate Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Commute from the work garage back to her residential building.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Financial District Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Attend a Vinyasa flow yoga class to unwind and stretch.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Flow SF - SoMa"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook a salmon and roasted vegetable dinner while catching up with her partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 80,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch an episode of a documentary, and chat.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night: skincare routine and reading a novel in bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A busy and structured day for Sarah, a social worker in downtown SF. Her schedule balances demanding client work with personal wellness activities like yoga and quality time with her partner, all navigated by a short but logistically complex downtown commute.",
+                "home_address": "348 Mission St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7908892,
+                    "lng": -122.3965462,
+                    "formatted_address": "348 Mission St, San Francisco, CA 94105, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

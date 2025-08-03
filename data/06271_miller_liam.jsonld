@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Miller",
+    "givenName": "Liam",
+    "familyName": "Miller",
+    "jobTitle": "Clinical Social Worker",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Miller\u2019s empathy was forged in the quiet stoicism of his suburban Ohio upbringing. The son of a practical engineer and a reserved librarian, emotions in the Miller household were acknowledged but rarely explored. This changed when his younger sister was diagnosed with a chronic illness at fifteen. Liam, then a high school senior, watched his parents grapple not with a lack of love, but a lack of language for the fear and grief that now lived in their home. He saw firsthand the immense, unspoken stress of navigating a complex healthcare system, a burden that seemed heavier than the diagnosis itself. That experience became his compass.\n\nHe pursued a Master of Social Work at UC Berkeley, deliberately choosing the Bay Area for its forward-thinking approach to mental and public health. Upon graduating, he accepted a demanding position as a Clinical Social Worker at a major San Francisco hospital. To manage the city\u2019s daunting cost of living, he secured a small apartment in a staff housing building adjacent to the medical campus in the Inner Sunset. This created his 0.0-mile commute, a decision of pure practicality that has come to define his existence. His life is a closed loop, contained within a few city blocks.\n\nNow 29, Liam\u2019s days are a marathon of crisis intervention, patient advocacy, and end-of-life counseling. He is the steady, calming presence he wished his own family had years ago. His social circle is small, comprised mostly of fellow nurses and residents who understand the gallows humor and emotional exhaustion that comes with the territory. To decompress, he runs, pounding the pavement through Golden Gate Park, letting the physical strain quiet his mind.\n\nLiam\u2019s connection to San Francisco is intrinsically tied to the hospital that employs and houses him. While he appreciates the city\u2019s beauty from his running routes, his dream is to one day afford a life beyond the ambulance sirens. He aspires to specialize in palliative care and, more personally, to find a relationship that can flourish outside the intense shadow of his work, perhaps in a quiet apartment in a neighborhood he chooses for himself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, start coffee brewing, and spend a few minutes journaling to mentally prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 2693 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a brisk, foggy run to clear his head before the demanding workday.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach Great Highway Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd64",
+                        "action": "Shower, get dressed, and make a quick protein smoothie for breakfast.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 2693 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Walk to the Judah & 34th Ave stop and take the N Judah Muni Metro downtown, listening to a mental health podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "N Judah Muni Metro Line"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab a glass of water, power on the computer, and review the day's client schedule.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 15,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Conduct two back-to-back telehealth therapy sessions with clients, taking brief notes between each.",
+                        "geocode": {
+                            "lat": 37.7246314,
+                            "lng": -122.4490018,
+                            "formatted_address": "Private Offices, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 110,
+                        "location": "Private Office at Regus"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy and quick lunch, eating outside at a public plaza to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7892701,
+                            "lng": -122.4008973,
+                            "formatted_address": "595 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt - 595 Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Participate in a virtual peer consultation group with other therapists to discuss challenging cases.",
+                        "geocode": {
+                            "lat": 37.7246314,
+                            "lng": -122.4490018,
+                            "formatted_address": "Private Offices, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "Private Office at Regus"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Hold two more telehealth client sessions for the afternoon.",
+                        "geocode": {
+                            "lat": 37.7246314,
+                            "lng": -122.4490018,
+                            "formatted_address": "Private Offices, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 110,
+                        "location": "Private Office at Regus"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Complete and sign all clinical progress notes for the day and respond to urgent emails.",
+                        "geocode": {
+                            "lat": 37.7246314,
+                            "lng": -122.4490018,
+                            "formatted_address": "Private Offices, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 50,
+                        "location": "Private Office at Regus"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Pack up and walk to Montgomery Station to catch the N Judah train back home to the Sunset.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "N Judah Muni Metro Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Hop off the train a few stops early to pick up some fresh bread and vegetables for the week.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Other Avenues Organic Grocery"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a casual dinner and a local craft beer to unwind and socialize.",
+                        "geocode": {
+                            "lat": 37.7602689,
+                            "lng": -122.5050311,
+                            "formatted_address": "4001 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 105,
+                        "location": "Outerlands Restaurant"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, watch an episode of a new sci-fi series, and read a few pages of a book before bed.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 95,
+                        "location": "Home - 2693 Judah St"
+                    }
+                ],
+                "day_overview": "A structured day for a clinical social worker, balancing demanding telehealth sessions in the Financial District with a decompressive commute and a relaxing evening in his Outer Sunset neighborhood, including a run by the beach and a casual dinner with a friend.",
+                "home_address": "2693 Judah St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.760897,
+                    "lng": -122.4908821,
+                    "formatted_address": "2693 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

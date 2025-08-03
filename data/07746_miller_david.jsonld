@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Project Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s journey to his Mission District apartment began not in a bustling metropolis, but in the quiet, predictable suburbs of Roseville. Raised by a pragmatic accountant father and a patient elementary school teacher mother, David was the family\u2019s creative outlier. He devoured books, finding more comfort in fictional worlds than in organized sports. Against his parents\u2019 gentle advice to study business, he pursued an English Literature degree at UC Davis, convinced a life of meaning was found in stories, not spreadsheets.\n\nPost-graduation, San Francisco promised anonymity and opportunity. David found both, first as a barista, then through a friend who landed him a technical writer gig at a burgeoning startup. It was a turning point. His ability to translate complex engineering jargon into clear, human language, combined with an unexpected knack for organization, made him invaluable. He soon transitioned from documenting projects to managing them, climbing the ladder to his current role as a Project Manager.\n\nAt 36, David\u2019s life is contained within a few square miles. His 0.0-mile commute is a ten-step walk from his bedroom to his ergonomic desk, where he juggles Gantt charts and Slack channels. The end of a five-year relationship six months ago has made his world feel even smaller. His social life, once built around his ex-partner, is now a work in progress, consisting of occasional team happy hours and trying new coffee shops.\n\nHis daily routine is disciplined: a morning run around Dolores Park, long hours of focused work, and an evening spent either decompressing with a video game or, more often, staring at a half-finished screenplay on his laptop. That screenplay is his true North. His primary aspiration isn't climbing the next corporate rung, but finally typing \"FADE OUT\" on a story that reconciles his creative soul with his structured, professional life. He loves the Mission\u2019s vibrant energy\u2014the murals, the food, the constant hum of life outside his window\u2014and hopes to one day feel less like an observer and more like a true participant in its narrative."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check phone for urgent messages, and drink a large glass of water.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "David's Apartment on Lombard Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Morning jog through the quiet streets of Russian Hill and down to the waterfront for some fresh air.",
+                        "geocode": {
+                            "lat": 37.8097002,
+                            "lng": -122.4265927,
+                            "formatted_address": "Aquatic Park Pier, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Aquatic Park Pier"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Shower, get dressed, and make a French press coffee while listening to a daily tech podcast.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "David's Apartment on Lombard Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Walk from his apartment to the bus stop on Union Street to start the commute.",
+                        "geocode": {
+                            "lat": 37.8071372,
+                            "lng": -122.4115102,
+                            "formatted_address": "2498 Powell St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 10,
+                        "location": "Union St & Hyde St Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Take the #45 bus across town, reviewing the day's meeting schedule on his phone.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Muni Bus #45"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the daily stand-up meeting with the design and engineering teams, reviewing project progress in Jira.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Main Conference Room, Honey Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: mapping out the next project sprint and updating risk assessment documents.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 150,
+                        "location": "David's Desk, Honey Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83c\udf71",
+                        "action": "Grab a quick and healthy lunch to go from a favorite local spot.",
+                        "geocode": {
+                            "lat": 37.7852778,
+                            "lng": -122.4311111,
+                            "formatted_address": "1737 Post St #333, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 50,
+                        "location": "Nijiya Market, Japantown"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Collaborate with the lead designer in a breakout session to finalize user flow diagrams for a new feature.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 90,
+                        "location": "Design Pod, Honey Art Studio"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Final work block: respond to stakeholder emails, clear blockers for the team, and plan tomorrow's priorities.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 100,
+                        "location": "David's Desk, Honey Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home on the bus, switching off from work mode by listening to a history podcast.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni Bus #45"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop at the neighborhood grocery store to pick up ingredients for dinner and breakfast.",
+                        "geocode": {
+                            "lat": 37.8050802,
+                            "lng": -122.4254187,
+                            "formatted_address": "North Point St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Trader Joe's - North Point"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Cook and eat dinner while catching up on texts from friends and family.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "David's Apartment on Lombard Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk to North Beach to meet up with a friend for a drink and conversation.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down at home, maybe watching an episode of a show or reading a book before bed.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "David's Apartment on Lombard Street"
+                    }
+                ],
+                "day_overview": "A productive day for a tech project manager, balancing team meetings and focused work with a revitalizing morning run along the bay and a relaxing evening spent with a friend in historic North Beach.",
+                "home_address": "766 Lombard St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8027471,
+                    "lng": -122.4137703,
+                    "formatted_address": "766 Lombard St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

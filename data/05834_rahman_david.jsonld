@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Rahman",
+    "givenName": "David",
+    "familyName": "Rahman",
+    "jobTitle": "Information Systems Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Rahman\u2019s story is woven into the very fabric of the Bay Area. Born in Fremont to Bangladeshi immigrants, he was the quiet observer in a family striving for the American dream. His father, an electrical engineer in the nascent Silicon Valley, filled their home with schematics and a quiet diligence, while his mother cultivated a vibrant community hub from their kitchen, her culinary skills a bridge back to Dhaka. David inherited his father's logic and his mother's sense of interconnectedness.\n\nHe defied expectations by pursuing a degree in History at UC Berkeley, fascinated by the patterns of human migration and technological shifts, not the code that powered them. Graduation in the late 90s, however, thrust him into the whirlwind of the dot-com boom. A \u201ctemporary\u201d job organizing server documentation for a hopeful startup became his entry point. He discovered a knack for creating order from digital chaos. While others chased stock options, David built systems. This practicality was his salvation; when the bubble burst, his foundational role as an information systems specialist made him indispensable.\n\nThe major turning point was meeting his wife, Lena, a UX designer, at a small tech conference in 2005. She saw past his reserved exterior to the thoughtful historian underneath. Together, they navigated the second tech boom, buying a modest home in the Inner Sunset just before prices became astronomical. They watched the neighborhood\u2014and the city\u2014transform around them, becoming fixtures at their local bakery and the quiet trails of Golden Gate Park.\n\nNow, at 47, David\u2019s life has settled into a comfortable rhythm. His commute is a ten-second walk to his home office, a change that has deepened his connection to his immediate surroundings. His days are a stable mix of virtual meetings, mentoring younger team members, and ensuring digital infrastructure runs flawlessly. His dream is no longer about climbing the corporate ladder but about achieving a different kind of synthesis: he hopes to travel with Lena and perhaps finally write a book, not about code, but about the social history of technology he has witnessed firsthand from the heart of the revolution."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew coffee and have a quick breakfast while checking a dashboard of hospital system statuses and urgent overnight IT support tickets.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the MUNI 1-California bus eastbound for the short commute.",
+                        "geocode": {
+                            "lat": 37.7800742,
+                            "lng": -122.4207188,
+                            "formatted_address": "Muni Bus Stop (Mcallister St & Van Ness Ave), Mcallister St &, Van Ness Ave, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 20,
+                        "location": "MUNI Bus Stop at California St & Divisadero St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe5",
+                        "action": "Arrive at work, settle in, and lead the daily IT stand-up meeting to review overnight incidents, delegate tasks, and set priorities for the day.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kaiser Permanente SF Medical Center - IT Department"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focused work session: Reviewing security protocols for a planned Electronic Health Record (EHR) system update and responding to director-level emails.",
+                        "geocode": {
+                            "lat": 37.7885426,
+                            "lng": -122.4049827,
+                            "formatted_address": "170 Grant Ave, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 180,
+                        "location": "David's Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over for a quick lunch, picking up a sandwich and soup to eat outside.",
+                        "geocode": {
+                            "lat": 37.775658,
+                            "lng": -122.4581416,
+                            "formatted_address": "782 Arguello Blvd, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 45,
+                        "location": "Arguello Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a project meeting with the Radiology department to plan the deployment of new imaging software.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Kaiser Permanente Conference Room 3B"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Troubleshoot a persistent network latency issue affecting a clinical wing, coordinating with network engineers and on-site technicians.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 120,
+                        "location": "Kaiser Permanente SF Medical Center"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home, taking the MUNI 38-Geary bus westbound and enjoying a brief moment to decompress.",
+                        "geocode": {
+                            "lat": 37.7800742,
+                            "lng": -122.4207188,
+                            "formatted_address": "Muni Bus Stop (Mcallister St & Van Ness Ave), Mcallister St &, Van Ness Ave, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 25,
+                        "location": "MUNI Bus Stop at Geary Blvd & Divisadero St"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the neighborhood grocery store to pick up ingredients for dinner and some household essentials.",
+                        "geocode": {
+                            "lat": 37.7862725,
+                            "lng": -122.4529153,
+                            "formatted_address": "3585 California St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Cal-Mart"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Evening workout session, focusing on strength training and cardio to de-stress from the workday.",
+                        "geocode": {
+                            "lat": 37.7830385,
+                            "lng": -122.4336095,
+                            "formatted_address": "1455 Fillmore St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF - Fillmore"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Make a regular evening call to his elderly parents in San Diego to check in and chat about their week.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook and eat a healthy dinner while catching up on the evening news.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, reading a book on technology leadership and tidying up the living room before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A structured day for a mid-career Information Systems Manager, balancing critical work responsibilities at a major hospital with a personal routine of fitness, errands, and staying connected with family.",
+                "home_address": "2717 California St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7879554,
+                    "lng": -122.4393958,
+                    "formatted_address": "2717 California St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rahman Family"
+    }
+}

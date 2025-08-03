@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Division Manager, City Planning Department",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "The son of a Cleveland steelworker, David Miller grew up watching a city rust. The orderly, predictable world of his father\u2019s generation\u2014job, house, family\u2014was crumbling around him, replaced by abandoned factories and uncertain futures. This childhood spent amidst urban decay ignited a lifelong obsession not with building things, but with building systems for things to exist within. He wanted to bring order to chaos.\n\nHis path was methodical. A state university degree led to a Master's in Urban and Regional Planning from a prestigious East Coast school. In 1998, lured by the frenetic energy of the dot-com boom, he moved to San Francisco. He arrived with a long-term girlfriend, an artist who thrived on the city\u2019s spontaneity, but the relationship fractured under the weight of his structured nature. While she painted chaotic abstracts, he meticulously studied zoning maps. They separated amicably, and David poured his unspent emotional energy into his work, joining the City Planning Department as a junior planner.\n\nOver two decades, he ascended the bureaucratic ladder through sheer competence and an unparalleled understanding of municipal code. Now a Division Manager, David lives his work literally. His minimalist condo in Hayes Valley is a four-minute walk from his office in City Hall, rendering his commute nonexistent. His life is a routine of precision: morning espresso from the same cafe, long days navigating public feedback and developer proposals, and evenings spent reading historical planning documents.\n\nHis personal life is sparse; his closest connections are with a few fellow policy wonks and architects with whom he shares a drink and debates the merits of transit-oriented development. He is respected, but not intimately known. David\u2019s dream isn\u2019t personal; it\u2019s civic. He hopes to see his division\u2019s long-term plan for a more climate-resilient and equitable waterfront come to fruition before he retires. He finds his deepest satisfaction not in human connection, but in the elegant logic of a well-planned city block, a lasting legacy of order carved into the beautiful, chaotic heart of San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a pour-over coffee, and read the San Francisco Chronicle online.",
+                        "geocode": {
+                            "lat": 37.7757835,
+                            "lng": -122.4096405,
+                            "formatted_address": "1168 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "SoMa Loft Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Morning chat with his partner while getting dressed and preparing for the day.",
+                        "geocode": {
+                            "lat": 37.7757835,
+                            "lng": -122.4096405,
+                            "formatted_address": "1168 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "SoMa Loft Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Walk to the Muni station to catch the inbound train.",
+                        "geocode": {
+                            "lat": 37.7766874,
+                            "lng": -122.394857,
+                            "formatted_address": "San Francisco Station, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "4th and King Street Muni Station"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute on the N Judah line, listening to a city planning podcast.",
+                        "geocode": {
+                            "lat": 37.7613338,
+                            "lng": -122.4855952,
+                            "formatted_address": "Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 35,
+                        "location": "Muni N Judah Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Arrive at the office, settle in, and perform a final review of the agenda for the morning's division meeting.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "City Planning Dept - Parnassus Satellite Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the weekly division meeting, discussing progress on the Housing Element and new development proposals.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Conference Room, Parnassus Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Inter-departmental strategy call with SFMTA regarding transit-oriented development corridors.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "City Planning Dept - Parnassus Satellite Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk down the hill for a quick lunch and some fresh air.",
+                        "geocode": {
+                            "lat": 37.7659003,
+                            "lng": -122.4501584,
+                            "formatted_address": "100 Carl St #3906, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Crepes on Cole"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Conduct a one-on-one mentoring session with a junior planner, providing feedback on their report.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "City Planning Dept - Parnassus Satellite Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Perform a site walk of the Parnassus campus to assess a proposed public realm improvement project.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 75,
+                        "location": "UCSF Parnassus Campus Grounds"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Commute home on the N Judah, reading a novel to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7613338,
+                            "lng": -122.4855952,
+                            "formatted_address": "Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni N Judah Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the market to pick up fresh fish and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7742958,
+                            "lng": -122.3914108,
+                            "formatted_address": "1101 4th St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market - Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Unwind from the day, change clothes, and prepare dinner with his partner.",
+                        "geocode": {
+                            "lat": 37.7757835,
+                            "lng": -122.4096405,
+                            "formatted_address": "1168 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "SoMa Loft Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Eat dinner and discuss their respective days and weekend plans.",
+                        "geocode": {
+                            "lat": 37.7757835,
+                            "lng": -122.4096405,
+                            "formatted_address": "1168 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "SoMa Loft Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Watch a historical documentary with his partner.",
+                        "geocode": {
+                            "lat": 37.7757835,
+                            "lng": -122.4096405,
+                            "formatted_address": "1168 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "SoMa Loft Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Read a few chapters of a non-fiction book before going to sleep.",
+                        "geocode": {
+                            "lat": 37.7757835,
+                            "lng": -122.4096405,
+                            "formatted_address": "1168 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "SoMa Loft Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for a senior city planner, balancing demanding meetings and project reviews with a cross-city commute on public transit, and concluding with quality time and exercise with his partner in their SoMa neighborhood.",
+                "home_address": "642 3rd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7792453,
+                    "lng": -122.3938357,
+                    "formatted_address": "642 3rd St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1972",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

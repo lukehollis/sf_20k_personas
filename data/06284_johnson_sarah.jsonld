@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Johnson",
+    "givenName": "Sarah",
+    "familyName": "Johnson",
+    "jobTitle": "Administrative Assistant for Arts Non-Profit",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Johnson\u2019s story is not one of dramatic upheavals, but of quiet, deliberate shifts. Raised in a meticulously planned suburb of Portland, Oregon, she was the reliable daughter of an accountant and a dental hygienist. Her childhood was marked by bike rides on safe cul-de-sacs and a gentle pressure to follow a sensible path. She obliged, earning a Bachelor's in Communications, a degree that felt practical enough to please her parents while vague enough to leave doors open.\n\nHer first five years in San Francisco followed that script. She landed a respectable job as an events coordinator for a mid-size tech firm, a role that paid well but felt creatively hollow. The turning point arrived not with a bang, but with a spreadsheet. While planning a lavish product launch, staring at a six-figure budget for branded fleece vests, she felt a profound sense of absurdity. The next week, she quit.\n\nThis pivot led her to a small arts non-profit in SoMa, where she accepted a role as an administrative assistant for a fraction of her previous salary. It was here Sarah found her footing. Her life, once spread across the Bay Area for work and play, contracted into a small, rich world centered around her Inner Richmond apartment. With a 0.0-mile commute, her days gained a new rhythm. Mornings start with coffee from a local cafe on Clement Street, followed by hours of managing grants, scheduling, and supporting local artists from her sunlit spare-bedroom office.\n\nHer social life mirrored this focus. The sprawling network of tech acquaintances was replaced by a tight-knit circle of friends, a book club that meets monthly, and a warm familiarity with the artists she helps support. Now 38, Sarah feels a deep connection to the city not defined by its skyline, but by the foggy afternoons in Golden Gate Park and the scent of dim sum in her neighborhood. Her dream is no longer to climb a corporate ladder, but to save enough to take a ceramics course at a community studio. She wants to transition, even just slightly, from the person who administrates the art to a person who makes it, finally closing the loop on a journey from suburban sensibility to creative fulfillment."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, 10-minute stretch, and check morning news headlines.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee with an AeroPress and have a quick breakfast of toast with avocado.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Noe Valley Apartment Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in work-appropriate 'arts casual' attire, and pack lunch for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet carpool partner and commute south, discussing weekend plans.",
+                        "geocode": {
+                            "lat": 37.7515797,
+                            "lng": -122.4296832,
+                            "formatted_address": "24th St & Sanchez St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Corner of 24th & Sanchez St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbc",
+                        "action": "Arrive at work, boot up the computer, and sort through overnight emails from artists and staff.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "CCSF Arts Alliance Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Coordinate schedules and book rooms for the upcoming student art exhibition.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 90,
+                        "location": "CCSF Arts Alliance Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Enjoy packed lunch and take a short, refreshing walk around the campus reservoir.",
+                        "geocode": {
+                            "lat": 37.7687311,
+                            "lng": -122.4280425,
+                            "formatted_address": "Reservoir St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "CCSF Reservoir Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Process recent donation checks and update the non-profit's donor database.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 120,
+                        "location": "CCSF Arts Alliance Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Create a to-do list for the next day and tidy up the front desk area.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 30,
+                        "location": "CCSF Arts Alliance Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Carpool commute back to Noe Valley, listening to an arts & culture podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "In Carpool Vehicle"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up fresh pasta and vegetables for later in the week.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Noe Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet a friend for a casual weeknight dinner and catch-up.",
+                        "geocode": {
+                            "lat": 37.7515463,
+                            "lng": -122.4321476,
+                            "formatted_address": "4000 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Novy Restaurant"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind at home by watching an episode of a new series on streaming.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Noe Valley Apartment Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Read a few chapters of a novel and set out clothes for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Noe Valley Apartment"
+                    }
+                ],
+                "day_overview": "A productive weekday for Sarah, balancing administrative duties at her arts non-profit role, managing errands in her Noe Valley neighborhood, and unwinding with a friend over dinner.",
+                "home_address": "251 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.754332,
+                    "lng": -122.3840948,
+                    "formatted_address": "251 24th St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Johnson Family"
+    }
+}

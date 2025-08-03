@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Tanaka",
+    "givenName": "David",
+    "familyName": "Tanaka",
+    "jobTitle": "Senior Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Tanaka\u2019s life is a story told in neatly organized data sets. A third-generation Japanese-American, he grew up in the quiet suburbs of San Jose, the son of a pragmatic electrical engineer and a detail-oriented librarian. His childhood was a peaceful landscape of meticulously built Lego cities and weekends spent absorbing the quiet hum of the local library. He was methodical and observant, more interested in the systems behind things than in the things themselves.\n\nThis fascination with systems led him to pursue a Master's in Urban Planning at UC Berkeley. He was captivated by how cities functioned like living organisms, with flows of people, resources, and information. However, during a difficult internship with a city planning department, he realized he despised the bureaucracy but loved the demographic and traffic data. This was his turning point. He saw that the future wasn't in zoning maps but in the algorithms that could predict a city's every move. He pivoted, self-teaching coding languages and leveraging his statistical skills to land an entry-level analyst role during the early 2010s tech boom.\n\nNow a Senior Data Analyst, David works from his serene Hayes Valley apartment. His 0.0-mile commute is a key feature of his curated life. The move to San Francisco followed a quiet, amicable divorce five years ago, an event that reset his personal life and deepened his reliance on order and routine. He found a sanctuary in Hayes Valley, a neighborhood small enough to feel known. His days follow a predictable rhythm: morning espresso from a local caf\u00e9, hours immersed in data, a midday walk through Patricia's Green, and evenings spent either at a climbing gym or refining a personal project analyzing neighborhood demographic shifts.\n\nHis social circle is small but solid, composed of a few old university friends and his climbing partners. While he finds deep satisfaction in his work, David\u2019s hope is to introduce an unruly variable into his controlled existence. He aspires not for a promotion, but for a genuine connection\u2014a relationship that can\u2019t be neatly graphed or predicted. He dreams of finding someone who appreciates his quiet world, adding a layer of warmth and spontaneity to his well-ordered life in the heart of the city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, prepare breakfast and morning medication for an elderly parent.",
+                        "geocode": {
+                            "lat": 37.752697,
+                            "lng": -122.434497,
+                            "formatted_address": "1104 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 1104 Castro St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Personal morning routine: shower, get dressed, and have a quick coffee while reviewing personal emails.",
+                        "geocode": {
+                            "lat": 37.752697,
+                            "lng": -122.434497,
+                            "formatted_address": "1104 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 1104 Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Begin the commute, walking from the Castro to the Financial District while listening to a data science podcast.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Castro St to Market St Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the coworking space, grab a sparkling water, and join the virtual daily stand-up meeting with the data team.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 25,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Querying large datasets using SQL and cleaning the data in Python for a new churn prediction model.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy lunch bowl to eat at the coworking space's communal kitchen area.",
+                        "geocode": {
+                            "lat": 37.6172452,
+                            "lng": -122.3814042,
+                            "formatted_address": "173 Airport Access Rd, San Francisco, CA 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Plant Cafe Organic"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Stakeholder meeting: Presenting Q2 performance dashboards to the marketing team via video conference.",
+                        "geocode": {
+                            "lat": 37.7869417,
+                            "lng": -122.3996013,
+                            "formatted_address": "149 New Montgomery St 4th Floor, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mindspace Meeting Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Afternoon focus block: Continue building the predictive model and documenting the methodology in Confluence.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Pack up and begin the walk home, using the time to decompress and listen to music.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Market St to Castro St Path"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce and fish for dinner.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mollie Stone's Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Prepare and eat dinner with his parent, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.752697,
+                            "lng": -122.434497,
+                            "formatted_address": "1104 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - 1104 Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Clean up the kitchen and watch an episode of a favorite PBS documentary together.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Light stretching, reading a history book, and preparing his bag for the next day.",
+                        "geocode": {
+                            "lat": 37.752697,
+                            "lng": -122.434497,
+                            "formatted_address": "1104 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 1104 Castro St"
+                    }
+                ],
+                "day_overview": "A structured day for a Senior Data Analyst balancing focused work at a downtown coworking space with caregiver responsibilities at home in the Castro. The day is punctuated by a long, meditative walk commute through the city.",
+                "home_address": "1104 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.752697,
+                    "lng": -122.434497,
+                    "formatted_address": "1104 Castro St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

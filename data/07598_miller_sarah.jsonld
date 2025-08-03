@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Portfolio Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a study in curated contrasts, much like the meticulously balanced portfolios she now manages. Raised in a quiet suburb of Indianapolis by a practical engineer father and a thoughtful librarian mother, Sarah was always drawn to things they found frivolous: the complex narratives in Renaissance paintings, the emotional weight of a sculpture. This passion led her to pursue a Master's degree in Art History, a choice her parents supported with loving skepticism. She moved to San Francisco, lured by its world-class museums and a romantic vision of a life spent in galleries.\n\nThe reality, however, was a series of unpaid internships and low-paying administrative jobs. Facing mounting student debt, Sarah took what she intended to be a temporary role as an analyst\u2019s assistant at a boutique investment firm. It was here that a senior partner noticed her unique talent. Sarah didn't see stocks and bonds; she saw patterns, provenance, and long-term value, much like she would a piece of art. She discovered an uncanny ability to translate her analytical eye for cultural trends into predicting market movements. She excelled, quickly rising through the ranks to her current position as a Portfolio Manager.\n\nNow 43, Sarah orchestrates her life from a sleek Hayes Valley condo, with a commute that is simply the walk from her bedroom to her home office. Her days begin before dawn, synchronized with the opening of the New York Stock Exchange. The discipline is total, but she carves out time for herself, often taking mid-day runs along the Embarcadero or visiting the SFMOMA on quiet Tuesdays, a nod to the woman she once planned to be.\n\nHer social circle is small and fiercely guarded, a mix of old art school friends and a few trusted colleagues who understand her demanding world. Divorced in her late thirties, a casualty of her relentless career focus, she finds companionship in intellectual sparring rather than romance. Her deepest aspiration is no longer about climbing the corporate ladder, but about synthesis: she dreams of one day leveraging her wealth to create a fund for emerging artists, finally bridging the gap between the pragmatic world she conquered and the beautiful one she left behind."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf0",
+                        "action": "Wake up, check overnight global market news on tablet, and drink a glass of lemon water.",
+                        "geocode": {
+                            "lat": 37.7443429,
+                            "lng": -122.433684,
+                            "formatted_address": "2120 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a brisk run through the hilly streets, finishing with a loop around the park.",
+                        "geocode": {
+                            "lat": 37.7480297,
+                            "lng": -122.4385011,
+                            "formatted_address": "Douglass St &, 26th St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 45,
+                        "location": "Douglass Playground Loop"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Shower, get dressed in business casual attire, and make a quick protein smoothie for breakfast.",
+                        "geocode": {
+                            "lat": 37.7443429,
+                            "lng": -122.433684,
+                            "formatted_address": "2120 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Walk to the J-Church Muni line and commute downtown, listening to 'The Wall Street Journal's What's News' podcast.",
+                        "geocode": {
+                            "lat": 37.7517645,
+                            "lng": -122.4272724,
+                            "formatted_address": "24th St & Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "24th St & Church Muni Stop"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab an espresso from the barista bar, and review pre-market data before the opening bell.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "LinkedIn Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the morning portfolio strategy meeting with her team to discuss market trends and potential trades.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "LinkedIn Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy lunch bowl to go and eat it while taking a walk in the park.",
+                        "geocode": {
+                            "lat": 37.7897395,
+                            "lng": -122.3961656,
+                            "formatted_address": "Salesforce Park, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Salesforce Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Conduct a series of back-to-back calls with institutional clients to report on performance and discuss strategy.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 150,
+                        "location": "LinkedIn Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focused work session analyzing end-of-day market performance and preparing reports for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "LinkedIn Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Pack up and begin the commute home on the J-Church line, switching to a true-crime podcast to unwind.",
+                        "geocode": {
+                            "lat": 37.7895433,
+                            "lng": -122.401063,
+                            "formatted_address": "Montgomery St. Station, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Montgomery St Station"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Stop at the local wine shop to pick up a bottle of Sancerre to have with dinner.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Noe Valley Wine Merchants"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Prepare a simple but elegant dinner: pan-seared salmon with roasted asparagus.",
+                        "geocode": {
+                            "lat": 37.7443429,
+                            "lng": -122.433684,
+                            "formatted_address": "2120 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 50,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Eat dinner while catching up with a friend over FaceTime.",
+                        "geocode": {
+                            "lat": 37.7443429,
+                            "lng": -122.433684,
+                            "formatted_address": "2120 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch with a novel and a glass of wine to disconnect from the day's events.",
+                        "geocode": {
+                            "lat": 37.7443429,
+                            "lng": -122.433684,
+                            "formatted_address": "2120 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 90,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: light stretching, skincare, and setting out clothes for the next day.",
+                        "geocode": {
+                            "lat": 37.7443429,
+                            "lng": -122.433684,
+                            "formatted_address": "2120 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured and demanding day for a finance professional, balancing intensive work in SoMa with personal wellness routines and relaxation in her Noe Valley neighborhood.",
+                "home_address": "2120 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7443429,
+                    "lng": -122.433684,
+                    "formatted_address": "2120 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

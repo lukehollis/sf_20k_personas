@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Restaurant Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Food Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is measured in inventory sheets and the clatter of plates. Raised in Stockton, she was the daughter of a pragmatic high school teacher and a stay-at-home mom. Her upbringing was stable but uninspiring, defined by the flat expanse of the Central Valley. She learned early that hard work was a virtue, but passion was a luxury. Seeking a practical escape, she earned an Associate's degree in Business Administration from a local community college, a credential she saw as a tool, not a calling.\n\nHer entry into the food service industry was accidental\u2014a waitressing gig to pay for her degree that revealed an unexpected talent for managing chaos. She discovered a strange satisfaction in turning a frantic dinner rush into a smooth, successful service. This realization was her first major turning point. She left the valley behind, moving to San Francisco with a vague ambition to work in a \"real\" restaurant. She started as a server in the Marina, then a supervisor in SoMa, slowly climbing the ladder with grit and an unflappable demeanor.\n\nThe pivotal moment came seven years ago when she was offered the manager position at a well-regarded Italian restaurant in North Beach. The catch, and the blessing, was the offer of a small, rent-controlled apartment directly above the establishment. With her commute reduced to a single flight of stairs, her life became inextricably woven with her work.\n\nToday, Sarah's daily routine is dictated by the restaurant's rhythm. She wakes to the sounds of the prep cooks below and often ends her day sharing a late-night drink with her closing staff. Her social circle is a tight-knit web of chefs, servers, and bartenders\u2014people who understand the unique pressures of their world. Past romantic relationships have fizzled, unable to compete with her demanding schedule.\n\nLiving in North Beach, Sarah feels more a part of San Francisco than most. She\u2019s not just a resident; she is part of the machinery that makes the city's vibrant heart beat. Her dream isn\u2019t to escape the industry, but to reshape her role in it. She hopes to one day open a small, cozy wine bar of her own in a quieter neighborhood like the Outer Richmond\u2014a place built on her own terms, where the chaos is hers to command."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up & have coffee with partner, discussing the day ahead.",
+                        "geocode": {
+                            "lat": 37.7942069,
+                            "lng": -122.433612,
+                            "formatted_address": "2209 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen, 2209 Broadway"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk morning run to clear her head before work.",
+                        "geocode": {
+                            "lat": 37.79165,
+                            "lng": -122.4275889,
+                            "formatted_address": "Lafayette Park, Gough St &, Washington St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Lafayette Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and get ready for the workday.",
+                        "geocode": {
+                            "lat": 37.7942069,
+                            "lng": -122.433612,
+                            "formatted_address": "2209 Broadway, San Francisco, CA 94115"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute, navigating city traffic to the hospital campus.",
+                        "geocode": {
+                            "lat": 37.7643183,
+                            "lng": -122.4542576,
+                            "formatted_address": "Parnassus Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Pacific Heights to Parnassus Heights"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Lead the morning staff huddle, reviewing daily specials and station assignments.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Healing Plate Cafe at UCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Handle administrative tasks: checking inventory and placing produce orders.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Restaurant Manager's Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Floor management during the peak lunch rush, ensuring smooth service for staff and visitors.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "The Healing Plate Cafe Dining Floor"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a quick lunch break away from the hospital to decompress.",
+                        "geocode": {
+                            "lat": 37.7666335,
+                            "lng": -122.4588275,
+                            "formatted_address": "98 Lincoln Way, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Kezar Triangle Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Work on the upcoming week's staff schedule and approve payroll.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 135,
+                        "location": "Restaurant Manager's Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute home, chatting with her colleague about the day.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Parnassus Heights to Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for fresh pasta and wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7994798,
+                            "lng": -122.4361842,
+                            "formatted_address": "3231 Fillmore St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "JAXSON, Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cook dinner and reconnect with her partner after a long day.",
+                        "geocode": {
+                            "lat": 37.7942069,
+                            "lng": -122.433612,
+                            "formatted_address": "2209 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen, 2209 Broadway"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a new documentary series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83e\uddb7",
+                        "action": "Evening routine: skincare and preparing clothes for the next day.",
+                        "geocode": {
+                            "lat": 37.7942069,
+                            "lng": -122.433612,
+                            "formatted_address": "2209 Broadway, San Francisco, CA 94115"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A busy day for Sarah managing a fast-paced restaurant at UCSF, balanced with a morning run, quality time with her partner, and unwinding in their Pacific Heights home.",
+                "home_address": "2209 Broadway, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7942069,
+                    "lng": -122.433612,
+                    "formatted_address": "2209 Broadway, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

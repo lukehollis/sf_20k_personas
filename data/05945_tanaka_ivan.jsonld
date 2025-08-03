@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ivan Tanaka",
+    "givenName": "Ivan",
+    "familyName": "Tanaka",
+    "jobTitle": "Production Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ivan Tanaka\u2019s life is a testament to precision. The son of a Nisei father, a meticulous electrician, and a third-generation Japanese American mother who worked as an accountant, Ivan grew up in San Jose surrounded by a quiet dedication to order and function. His parents, wanting a name that sounded strong and worldly, chose Ivan, a decision that always made him feel slightly distinct from his peers.\n\nInitially drawn to the creative side of manufacturing, he pursued a Bachelor\u2019s in Industrial Design at San Jose State. However, during his studies, he discovered his true passion wasn't in designing the final product, but in perfecting the system that created it. He was fascinated by workflow efficiency, supply chain logistics, and the elegant dance of a well-run production floor.\n\nAfter graduation, Ivan climbed the ladder at a large Silicon Valley electronics manufacturer. He thrived until the dot-com bust of the early 2000s resulted in mass layoffs, leaving him adrift. This became his defining turning point. Observing the rise of boutique, locally-made goods, he saw a niche. Instead of returning to a large corporation, he used his expertise to help small, artisanal brands scale their operations.\n\nThis new path led him to San Francisco, where he purchased a live/work loft in the Dogpatch, a neighborhood with a rich industrial past transforming into a hub for creators. This explains his 0.0-mile commute; his office and small-scale production workshop are on the ground floor of his home. Now 48, Ivan is the behind-the-scenes force for several high-end local companies, from leather goods to bespoke lighting fixtures.\n\nA focused and private man, Ivan\u2019s social life is woven into his neighborhood. He\u2019s a regular at the local brewery and the corner coffee shop, his friendships built on shared community rather than grand social events. His dream isn\u2019t to build his own brand, but to establish a co-op makerspace\u2014a place to pass on his knowledge of process and production, ensuring that the legacy of craftsmanship in San Francisco continues to thrive."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a pour-over coffee, and listen to the 'Marketplace' morning report podcast.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home in the Marina"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower, get dressed, and have a quick chat with his partner about their plans for the day.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home in the Marina"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the MUNI stop and take the 22 Fillmore bus southbound towards the Mission.",
+                        "geocode": {
+                            "lat": 37.8008338,
+                            "lng": -122.436307,
+                            "formatted_address": "Fillmore St & Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 25,
+                        "location": "Fillmore & Chestnut MUNI Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude86",
+                        "action": "Transfer at 16th St Mission Station and take a Daly City-bound BART train to Balboa Park.",
+                        "geocode": {
+                            "lat": 37.7653618,
+                            "lng": -122.4195684,
+                            "formatted_address": "16th St Mission, Qa, 2000 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "16th St Mission BART Station"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Arrive at work, review the production queue, and lead a morning huddle with the production team and student assistants.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 45,
+                        "location": "CCSF Production & Fabrication Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udda8\ufe0f",
+                        "action": "Oversee the calibration and setup of the large-format printers for a new campus signage project.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 150,
+                        "location": "CCSF Production & Fabrication Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk over to Ocean Avenue to grab a carnitas super burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.7425978,
+                            "lng": -122.4833483,
+                            "formatted_address": "1601 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 60,
+                        "location": "El Burrito Express"
+                    },
+                    {
+                        "emoji": "\ud83d\udc4d",
+                        "action": "Perform quality control checks on a completed batch of course readers for the Arts department.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 120,
+                        "location": "CCSF Production & Fabrication Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative tasks: respond to departmental emails, track inventory, and file the day's production reports.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "CCSF Production & Fabrication Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Begin the commute home, taking BART from Balboa Park Station to 16th St and transferring to the 22 Fillmore bus.",
+                        "geocode": {
+                            "lat": 37.7217476,
+                            "lng": -122.4474615,
+                            "formatted_address": "Balboa Park, 401 Geneva Ave, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 55,
+                        "location": "Balboa Park BART Station"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Change into workout clothes and go for a refreshing jog along the waterfront with views of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 50,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook a healthy dinner with his partner while they share stories from their respective days.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home in the Marina"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Settle on the couch to stream an episode of a crime drama series together.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home in the Marina"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a few chapters of a contemporary fiction novel.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home in the Marina"
+                    }
+                ],
+                "day_overview": "A productive workday for Ivan, a Production Manager, involving managing print jobs at CCSF, balanced with a healthy routine including a jog along the Marina Green and quality time with his partner at home.",
+                "home_address": "3616 Fillmore St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.8031092,
+                    "lng": -122.4364369,
+                    "formatted_address": "3616 Fillmore St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

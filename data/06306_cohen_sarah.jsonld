@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Cohen",
+    "givenName": "Sarah",
+    "familyName": "Cohen",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Inner Sunset Resident"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government/Public Sector"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Cohen\u2019s life has been a study in systems. Raised in a quiet Boston suburb by a civil engineer father and a librarian mother, she grew up understanding the world as an intricate network of logical structures and public trusts. Her childhood fascination wasn't with dolls but with the color-coded lines of the MBTA map, tracing the flow of people like blood through a city\u2019s veins. This passion led her to pursue a Master of Urban Planning at UC Berkeley, trading the colonial brick of the East Coast for the vibrant, chaotic experiment of the Bay Area. She never looked back.\n\nFor over two decades, Sarah has been a dedicated transportation planner for the San Francisco Municipal Transportation Agency (SFMTA). She started as a junior analyst mapping bus route efficiencies and gradually became a senior planner, a respected, steady hand who understands the city\u2019s complex topography and even more complex politics. A key turning point was her work championing the bike lane expansion along The Wiggle, a project that required battling neighborhood groups and bureaucratic inertia but resulted in a tangible improvement for thousands of cyclists.\n\nHer devotion to the city came at a personal cost. A long-term relationship ended seven years ago when her partner wanted to move to Marin for a yard and better schools; Sarah couldn\u2019t fathom abandoning the urban fabric she was actively trying to stitch together. Now, her life is her work, her neighborhood, and a close-knit circle of friends\u2014architects, policy wonks, and artists who share her love for dense, walkable living.\n\nLiving in a meticulously organized Hayes Valley apartment, her 0.0-mile commute is a testament to her philosophy. Her day begins with a walk to a local caf\u00e9 and is spent in her home office, overlooking the street traffic she analyzes. Her dream isn't a promotion but a legacy: a fully pedestrianized Market Street and a Muni system so reliable it becomes the default choice for all San Franciscans. Sarah Cohen doesn\u2019t just live in San Francisco; she is an integral, thoughtful part of its circulatory system, continually working to improve its flow."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a pot of coffee, and read the morning headlines.",
+                        "geocode": {
+                            "lat": 37.7422493,
+                            "lng": -122.4990165,
+                            "formatted_address": "3050 Taraval St, San Francisco, CA 94116"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Morning yoga and stretching to prepare for the commute walk.",
+                        "geocode": {
+                            "lat": 37.7422493,
+                            "lng": -122.4990165,
+                            "formatted_address": "3050 Taraval St, San Francisco, CA 94116"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Commence the morning commute, an uphill walk listening to an urban planning podcast.",
+                        "geocode": {
+                            "lat": 37.7422206,
+                            "lng": -122.494387,
+                            "formatted_address": "Sunset Blvd & Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 50,
+                        "location": "Taraval Street & Sunset Boulevard Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, settle in, and review pedestrian flow data for the new campus building.",
+                        "geocode": {
+                            "lat": 37.7619754,
+                            "lng": -122.3910637,
+                            "formatted_address": "654 Minnesota St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF Campus Planning Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Team meeting to discuss the results of a recent employee commute survey.",
+                        "geocode": {
+                            "lat": 37.7627115,
+                            "lng": -122.4586019,
+                            "formatted_address": "San Francisco, CA 94131, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Saunders Court Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk down to Cole Valley for a lunch break, picking up a bowl from a local favorite.",
+                        "geocode": {
+                            "lat": 37.7652402,
+                            "lng": -122.4500965,
+                            "formatted_address": "941 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Zazie"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Afternoon focus session: drafting a report on improving shuttle bus efficiency on campus.",
+                        "geocode": {
+                            "lat": 37.7619754,
+                            "lng": -122.3910637,
+                            "formatted_address": "654 Minnesota St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Campus Planning Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Conduct a site walk around the Parnassus loop to observe afternoon traffic patterns and pedestrian crossings.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Parnassus Avenue"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Walk home, taking a slightly different route through Golden Gate Park to decompress.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Golden Gate Park Pathway"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh bread and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "The Other Avenues Grocery Cooperative"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Prepare and eat dinner while catching up with a friend on the phone.",
+                        "geocode": {
+                            "lat": 37.7422493,
+                            "lng": -122.4990165,
+                            "formatted_address": "3050 Taraval St, San Francisco, CA 94116"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf05",
+                        "action": "Take a short, therapeutic stroll to watch the last light of the day over the water.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Wind down by reading a novel and tidying up for the next day.",
+                        "geocode": {
+                            "lat": 37.7422493,
+                            "lng": -122.4990165,
+                            "formatted_address": "3050 Taraval St, San Francisco, CA 94116"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive day for a transportation planner, bookended by invigorating walks through the Sunset District, focusing on campus mobility projects at UCSF and ending with a relaxing evening near Ocean Beach.",
+                "home_address": "3050 Taraval St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7422493,
+                    "lng": -122.4990165,
+                    "formatted_address": "3050 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Cohen Family"
+    }
+}

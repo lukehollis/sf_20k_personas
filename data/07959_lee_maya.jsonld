@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maya Lee",
+    "givenName": "Maya",
+    "familyName": "Lee",
+    "jobTitle": "Administrative Assistant, City Department",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maya Lee\u2019s story is woven into the fog and concrete of San Francisco, a city she knows not as a playground for the rich, but as a complex machine of family, duty, and quiet ambition. Raised in the Richmond District, she was the only child of first-generation Chinese immigrants who ran a small, perpetually busy dry-cleaning business. Her childhood was a landscape of starched shirts and the chemical scent of cleaning fluid, her parents\u2019 mantra a constant echo: work hard, be practical, stay safe.\n\nFor a brief, brilliant period, Maya broke from this path. She enrolled at San Francisco State University, not in business or accounting, but in Urban Studies. She was fascinated by the city\u2019s anatomy\u2014its housing policies, transit lines, and public spaces. This was her rebellion, an academic pursuit her parents deemed a \"hobby.\" However, the combined weight of their disapproval and the financial strain of tuition became overwhelming. After two years, when her father\u2019s health wavered, Maya made a pragmatic choice. She dropped out and found a stable job with benefits.\n\nNow, at 26, she is an Administrative Assistant for a city department in the Civic Center. Her life is a study in efficiency; her 0.0-mile commute is a short walk from her small, rent-stabilized studio apartment in a building adjacent to her office. Her days are structured and predictable: she processes permits, schedules meetings, and ensures the bureaucratic engine she once studied from the outside runs smoothly from within.\n\nThough her parents are relieved by her secure career, Maya lives with a quiet sense of incompletion. Her social life is small but meaningful, consisting of a few friends from her college days who understand the passion she set aside. In the evenings, she channels her old interests into a private blog where she photographs and documents San Francisco's forgotten architectural details and public art. Her dream isn\u2019t grand; it is to one day finish her degree, not for her parents, but for herself. She aspires to a future where her passion for the city and her practical role within it can finally merge, perhaps working in community planning, shaping the very neighborhoods she so lovingly documents in secret."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a cup of coffee from Bicycle Coffee Co. beans, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home on Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Start the cross-city commute, listening to the 'Bay Curious' podcast to catch up on local stories.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Driving through San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Circle the blocks hunting for a precious street parking spot near the office.",
+                        "geocode": {
+                            "lat": 37.7627207,
+                            "lng": -122.4160168,
+                            "formatted_address": "351 Shotwell St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "Street Parking in the Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the hot desk, organize daily tasks, and respond to overnight emails for the department.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 90,
+                        "location": "coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Join a virtual weekly sync-up meeting with her department manager and team via Zoom.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 60,
+                        "location": "coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk over to grab a classic carne asada burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Eat lunch at a bench and people-watch before heading back to the office.",
+                        "geocode": {
+                            "lat": 37.7602015,
+                            "lng": -122.4267959,
+                            "formatted_address": "Mission Dolores Park, Dolores St &, 19th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mission Dolores Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Focus on afternoon tasks: processing departmental supply requests and drafting meeting minutes.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 120,
+                        "location": "coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Pack up and begin the evening commute back to the Richmond District.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Driving through San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up items for dinner and the next day's lunch.",
+                        "geocode": {
+                            "lat": 37.775658,
+                            "lng": -122.4581416,
+                            "formatted_address": "782 Arguello Blvd, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Arguello Market"
+                    },
+                    {
+                        "emoji": "\ud83d\ude0c",
+                        "action": "Arrive home, put away groceries, and change into comfortable clothes to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner while catching up on a phone call with a friend.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home on Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while watching the latest episode of a trending show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home on Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by tidying up the kitchen and reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home on Balboa St"
+                    }
+                ],
+                "day_overview": "A busy workday for Maya, balancing her city government job from a Mission coworking space with a challenging cross-city commute and a quiet evening unwinding in her Richmond neighborhood.",
+                "home_address": "688 Balboa St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7773346,
+                    "lng": -122.4661274,
+                    "formatted_address": "688 Balboa St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1998",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

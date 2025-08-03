@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Bear",
+    "givenName": "Kevin",
+    "familyName": "Bear",
+    "jobTitle": "Process Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Bear was a product of the orderly suburbs of Portland, Oregon, raised by a pragmatic accountant father and a methodical librarian mother. From an early age, he wasn't interested in a ball, but in the complex systems of LEGOs and the predictable logic of computer games. He saw the world as a series of processes to be understood and optimized. This inclination led him to Oregon State University, where he earned a Bachelor's degree in Industrial Engineering, a field that felt like a natural extension of his own mind.\n\nThe major turning point in his life was a job offer from a major San Francisco tech firm. At 22, he packed his life into his sensible sedan and drove south, trading Portland\u2019s gentle rain for the Bay Area\u2019s overwhelming energy. Hired as a Process Engineer, he found deep satisfaction in untangling chaotic workflows and designing more efficient systems for software deployment. Shortly after he started, his company went fully remote, cementing his commute at a perfect 0.0 miles. While his peers navigated office politics, Kevin mastered the art of solitary deep work from his apartment.\n\nNow 27, Kevin\u2019s life is a well-oiled machine. He resides in a meticulously organized one-bedroom apartment in the Inner Richmond, a neighborhood chosen for its tranquility and proximity to Golden Gate Park. His days are structured: he wakes at 6:30 AM without an alarm, works in focused blocks, and breaks for a long run through the park, his mind sorting through code while his feet pound the pavement. His social life is small but meaningful, centered around a weekly Dungeons & Dragons game with other tech professionals\u2014a structured outlet for creativity and connection. He finds the unstructured chaos of bars and dating apps inefficient and emotionally draining.\n\nKevin\u2019s connection to San Francisco isn't with its vibrant nightlife but with its underlying infrastructure of opportunity. He dreams not of climbing a corporate ladder, but of achieving professional autonomy. His goal is to one day launch a small consulting firm specializing in sustainable manufacturing processes, applying his skills to tangible, real-world problems. For Kevin, San Francisco is a complex system he is slowly learning to master, one optimized routine at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7627337,
+                            "lng": -122.4962455,
+                            "formatted_address": "3578 Irving St, San Francisco, CA 94116"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and have a quick breakfast with his partner before work.",
+                        "geocode": {
+                            "lat": 37.7627337,
+                            "lng": -122.4962455,
+                            "formatted_address": "3578 Irving St, San Francisco, CA 94116"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, navigating morning traffic around Golden Gate Park.",
+                        "geocode": {
+                            "lat": 37.7467314,
+                            "lng": -122.4863492,
+                            "formatted_address": "Sunset District, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Sunset District Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Park in the employee garage and walk to the lab building.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 10,
+                        "location": "UCSF Millberry Union Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Morning lab session: Start a bioreactor process run and monitor initial parameters.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 180,
+                        "location": "UCSF Process Engineering Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk down the hill for a lunch break with colleagues.",
+                        "geocode": {
+                            "lat": 37.7659003,
+                            "lng": -122.4501584,
+                            "formatted_address": "100 Carl St #3906, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Crepes on Cole"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon desk work: Analyze data from a previous experiment using statistical software.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend the weekly process development team meeting to review progress and challenges.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\uddea",
+                        "action": "Final lab check: Collect endpoint samples from the bioreactor and prep for overnight analysis.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Process Engineering Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive home, taking Lincoln Way along the edge of the park.",
+                        "geocode": {
+                            "lat": 37.7652008,
+                            "lng": -122.484127,
+                            "formatted_address": "Lincoln Way, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Lincoln Way"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Decompress from the day with a jog along the Great Highway.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner with his partner while catching up on their days.",
+                        "geocode": {
+                            "lat": 37.7627337,
+                            "lng": -122.4962455,
+                            "formatted_address": "3578 Irving St, San Francisco, CA 94116"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a show and planning the weekend.",
+                        "geocode": {
+                            "lat": 37.7627337,
+                            "lng": -122.4962455,
+                            "formatted_address": "3578 Irving St, San Francisco, CA 94116"
+                        },
+                        "duration": 90,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, read a few chapters of a book.",
+                        "geocode": {
+                            "lat": 37.7627337,
+                            "lng": -122.4962455,
+                            "formatted_address": "3578 Irving St, San Francisco, CA 94116"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A typical weekday for Kevin, a process engineer, balancing focused lab work at UCSF with a short commute and enjoying the coastal lifestyle of the Outer Sunset with his partner.",
+                "home_address": "3578 Irving St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7627337,
+                    "lng": -122.4962455,
+                    "formatted_address": "3578 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Bear Family"
+    }
+}

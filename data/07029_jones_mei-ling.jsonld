@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei-Ling Jones",
+    "givenName": "Mei-Ling",
+    "familyName": "Jones",
+    "jobTitle": "City Planner's Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei-Ling Jones is a product of San Francisco's interwoven cultures. Raised in the Richmond District, she is the daughter of a pragmatic, first-generation Chinese mother who ran a beloved neighborhood bakery, and a history-obsessed, fourth-generation White American father who taught at a local high school. Her childhood was a blend of Cantonese spoken over dinner, helping her mother with inventory, and listening to her father\u2019s detailed explanations of the city\u2019s architectural and political history. She saw firsthand how city policies, from parking regulations to vendor permits, directly impacted her family's livelihood and the fabric of their community.\n\nThis dual perspective guided her to UC Berkeley, where she earned a Bachelor's degree in Urban Studies. A pivotal internship with a housing advocacy group in the Mission District solidified her career path. Witnessing the struggles of families facing displacement, she realized her passion wasn't just in understanding cities, but in actively shaping them for the better. This led her to a position as a City Planner\u2019s Assistant, where she now spends her days poring over zoning codes, environmental impact reports, and community feedback.\n\nLiving in a small apartment in Hayes Valley, Mei-Ling\u2019s 0.0-mile commute is a core part of her identity; she works remotely, deeply embedded in the neighborhood she serves. Her mornings start with a coffee from a local cafe where she knows the barista by name, and her lunch breaks are often spent walking through Patricia's Green, observing how people interact with the public space. Her social life revolves around a tight-knit group of college friends and the occasional, often-dreaded, virtual community board meeting.\n\nWhile she enjoys her stable, civic-minded work, Mei-Ling dreams of having more direct influence. She aspires to lead projects that create affordable \u201cmissing middle\u201d housing and protect legacy businesses like the one her mother sold upon retirement. She wants to build a more equitable San Francisco, one that honors both her father\u2019s belief in civic structures and her mother\u2019s entrepreneurial grit."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, drink water, and do a 15-minute guided meditation.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home at Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for the day, and pack a bag.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home at Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Prepare and eat breakfast: avocado toast and a pour-over coffee.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home at Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Commute to work on her Vespa, navigating through the Panhandle.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF Streets (Dolores to USF)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle in, grab a tea, and review emails and the day's project priorities.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "City Planning Satellite Office at USF"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Analyze GIS data and create maps for a new public transit corridor proposal.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 150,
+                        "location": "City Planning Satellite Office at USF"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over for a quick lunch, grabbing a turkey pesto sandwich.",
+                        "geocode": {
+                            "lat": 37.749013,
+                            "lng": -122.4173356,
+                            "formatted_address": "3359 26th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 55,
+                        "location": "The Laundromat Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Attend a project update meeting with a senior planner and a USF Urban Studies professor.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "City Planning Satellite Office at USF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Draft a summary report based on community feedback from a recent rezoning hearing.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "City Planning Satellite Office at USF"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Ride her Vespa from work to a yoga class.",
+                        "geocode": {
+                            "lat": 37.7608937,
+                            "lng": -122.435033,
+                            "formatted_address": "The Castro, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "SF Streets (USF to The Castro)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "De-stress and stretch out with a vinyasa flow class.",
+                        "geocode": {
+                            "lat": 37.7608937,
+                            "lng": -122.435033,
+                            "formatted_address": "The Castro, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "CorePower Yoga Castro"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Head home, drop off her things, and take a quick shower to freshen up for dinner.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home at Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Walk to meet a friend for dinner, catching up over tea leaf salad and samusas.",
+                        "geocode": {
+                            "lat": 37.7696277,
+                            "lng": -122.4221285,
+                            "formatted_address": "211 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 105,
+                        "location": "Burma Love on Valencia"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Video call with her parents to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home at Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a chapter of an urban design book and prepping her outfit for tomorrow.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home at Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Set alarm and go to sleep.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 470,
+                        "location": "Home at Dolores St"
+                    }
+                ],
+                "day_overview": "A productive day for Mei-Ling balancing city planning work at USF with a yoga class, dinner with a friend in the Mission, and a chat with her parents.",
+                "home_address": "3617 Dolores St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7670351,
+                    "lng": -122.4265624,
+                    "formatted_address": "Dolores St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jones Family"
+    }
+}

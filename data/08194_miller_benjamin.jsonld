@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Benjamin Miller",
+    "givenName": "Benjamin",
+    "familyName": "Miller",
+    "jobTitle": "Senior Consultant",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Benjamin \"Ben\" Miller\u2019s story began not in a server room, but in the quiet, academic-rich air of Eugene, Oregon. Raised by a history professor father and a librarian mother, his upbringing was a structured world of books, intellectual curiosity, and long discussions over dinner. He was taught to deconstruct systems\u2014not of code, but of history and literature. This foundation sparked an early fascination with how people navigate complex structures, which unexpectedly led him toward technology.\n\nHis educational journey was a bridge between these two worlds. After earning a B.A. in Psychology, he pursued a Master's in Human-Computer Interaction (HCI), focusing on the very human element his parents cherished. His turning point came during a graduate internship. While he loved the theory of HCI, he discovered a potent satisfaction in applying it to real-world problems with tangible, immediate results. The faster pace and problem-solving nature of corporate consulting proved more alluring than the slow-burn of academia. He accepted a role in San Francisco, drawn by the city\u2019s reputation as the global epicenter of innovation.\n\nNow a Senior Consultant, Ben operates from the epicenter of his own world: his meticulously organized apartment in Hayes Valley. With a 0.0-mile commute, his days are a digital tapestry of video calls with international clients, data analysis, and strategy sessions, all aimed at translating complex human behavior into streamlined user experiences for tech giants. His mornings are sacred, starting with freshly ground coffee from a local roaster and a review of his agenda before the digital deluge begins.\n\nTo combat the isolation of remote work, Ben\u2019s connection to San Francisco is intentionally physical. He belongs to a climbing gym in the Dogpatch and has a standing Friday night reservation with a tight-knit group of friends in the Mission. He feels the transient nature of the city keenly, as friends come and go with funding rounds and IPOs. He is professionally successful but craves a deeper, more lasting personal connection, finding the city's dating scene both exhilarating and exhausting. His secret dream is to one day pivot from optimizing corporate products to founding a civic tech startup, using his skills to improve the very city systems he now navigates as a resident."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up to alarm, scroll through news headlines and Slack notifications.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Noe Valley Residence"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a brisk morning run up the steep hills of the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Streets of Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley Residence"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Have a quick breakfast of coffee and yogurt while chatting with a parent.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Noe Valley Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Walk to the J Church line and commute downtown, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni J Church Line"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab a coffee, and join the daily team stand-up meeting.",
+                        "geocode": {
+                            "lat": 37.79399799999999,
+                            "lng": -122.399659,
+                            "formatted_address": "353 Sacramento St #200, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 45,
+                        "location": "Landmark Corporate Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Analyzing client data and building a strategy presentation.",
+                        "geocode": {
+                            "lat": 37.79399799999999,
+                            "lng": -122.399659,
+                            "formatted_address": "353 Sacramento St #200, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 180,
+                        "location": "Landmark Corporate Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy lunch bowl with a colleague to discuss project roadblocks.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt - Financial District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Lead a high-stakes video conference call with a key client.",
+                        "geocode": {
+                            "lat": 37.7704306,
+                            "lng": -122.4131086,
+                            "formatted_address": "1532 Harrison St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Conference Room 'Golden Gate', Landmark HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Collaborate with junior analysts to refine project models and deliverables.",
+                        "geocode": {
+                            "lat": 37.79399799999999,
+                            "lng": -122.399659,
+                            "formatted_address": "353 Sacramento St #200, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 120,
+                        "location": "Landmark Corporate Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Wrap up for the day by sending final emails and planning tomorrow's priorities.",
+                        "geocode": {
+                            "lat": 37.79399799999999,
+                            "lng": -122.399659,
+                            "formatted_address": "353 Sacramento St #200, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 45,
+                        "location": "Landmark Corporate Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home on the crowded J Church, switching from podcasts to a music playlist.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 50,
+                        "location": "Muni J Church Line"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet up with a college friend for a happy hour beer to unwind.",
+                        "geocode": {
+                            "lat": 37.7514932,
+                            "lng": -122.4331805,
+                            "formatted_address": "4054 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Valley Tavern"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Sit down for dinner with his family and catch up on their days.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Noe Valley Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a trending drama series.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Noe Valley Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a non-fiction book before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Noe Valley Residence"
+                    }
+                ],
+                "day_overview": "A busy and productive weekday for a Senior Tech Consultant, balancing demanding client work in the Financial District with a social life and family time in his Noe Valley neighborhood.",
+                "home_address": "3114 Hartford St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7601749,
+                    "lng": -122.4338485,
+                    "formatted_address": "Hartford St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

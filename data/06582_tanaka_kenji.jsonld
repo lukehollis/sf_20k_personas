@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "City Planner",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka is a product of two distinct Californias. He was raised in the quiet, sprawling suburbs of the East Bay, the son of a pragmatic engineer and a high school history teacher. As a third-generation Japanese-American, his family\u2019s stories were rooted in resilience\u2014tales of his grandparents\u2019 internment during WWII were a quiet but constant backdrop, instilling in him a deep awareness of place, community, and the profound impact of government decisions on people's lives. While his childhood was comfortable, he felt a disconnect between the car-centric world he lived in and the vibrant, human-scaled cities he read about.\n\nA post-college backpacking trip to Tokyo was his defining turning point. Witnessing the city's intricate dance of dense housing, commercial vitality, and world-class public transit was a revelation. It ignited a passion to bring that same thoughtful design back home. He pursued a Master's degree in Urban Planning at UC Berkeley, determined to work from within the system he felt could either uplift or displace communities. He chose a government role over more lucrative private sector offers, believing civic service was the only path to enact meaningful, equitable change.\n\nNow at 34, Kenji lives a life he meticulously designed. His 0.0-mile commute is a core principle; he works from his apartment in Hayes Valley, a neighborhood he chose for its walkability and successful urban renewal. His days begin with a walk to a local cafe for an oat latte, followed by hours spent analyzing zoning codes, reviewing public green space proposals, and collaborating on transit-oriented development projects. His life partner, Chloe, an environmental lawyer, shares his vision for a sustainable future, and their evenings are often spent debating housing policy over home-cooked meals or taking long walks through the city, observing its ever-changing landscape.\n\nKenji\u2019s connection to San Francisco is one of a loving, often frustrated caretaker. He sees both its immense beauty and its deep-seated problems with a planner\u2019s critical eye. His dream isn't of wealth, but of legacy\u2014of one day cycling with his own kids down a network of protected bike lanes he helped create, or seeing a mixed-income housing project he championed become a thriving community. He is playing the long game, planting the seeds for a city he hopes will be more livable and just for generations to come."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf05",
+                        "action": "Wake up, hydrate, and check morning news headlines on phone.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Morning jog for cardio and fresh air up the Filbert Street Steps.",
+                        "geocode": {
+                            "lat": 37.8023949,
+                            "lng": -122.4058222,
+                            "formatted_address": "1 Telegraph Hill Blvd, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Filbert Street Steps & Coit Tower"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Walk to a local cafe for a strong espresso and a croissant to start the day.",
+                        "geocode": {
+                            "lat": 37.7986417,
+                            "lng": -122.4073139,
+                            "formatted_address": "601 Vallejo St., San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Caff\u00e8 Trieste"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into the home office, organize daily tasks, and start the work timer.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home Office on Stockton"
+                    },
+                    {
+                        "emoji": "\ud83c\udfd9\ufe0f",
+                        "action": "Morning deep work: Reviewing zoning variance applications and responding to public inquiries.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Home Office on Stockton"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to grab a 'Luciano Special' salami sandwich to eat outside.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\udda5\ufe0f",
+                        "action": "Virtual team meeting on Zoom to discuss the Central SoMa Area Plan update.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office on Stockton"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Afternoon focused work: Drafting a staff report on a proposed bicycle lane project.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office on Stockton"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Log off from work systems and tidy the home office to end the workday.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home Office on Stockton"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Meet a friend for a negroni and conversation at a neighborhood institution.",
+                        "geocode": {
+                            "lat": 37.8000175,
+                            "lng": -122.4089837,
+                            "formatted_address": "1534 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Tony Nik's Cafe"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Cook and eat a simple soba noodle bowl for dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Relax and unwind by reading a book about urban history.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare coffee maker for the morning, set out workout clothes, and wind down for sleep.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Kenji, a City Planner working from his North Beach home. His schedule blends focused work on urban development projects with activities that leverage his vibrant neighborhood, including a morning run to Coit Tower, a deli lunch in Washington Square, and an evening social at a classic local bar.",
+                "home_address": "3470 Stockton St, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8079243,
+                    "lng": -122.4107177,
+                    "formatted_address": "3470 Stockton St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Market Research Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story begins not in the fog-laced avenues of San Francisco, but under the wide, predictable skies of suburban Ohio. Raised by a pragmatic accountant father and a nurturing elementary school teacher mother, her childhood was one of stability, bike rides to the local library, and the quiet expectation that she would follow a similarly sensible path.\n\nHer choice to major in Psychology at Ohio State University was her first subtle act of rebellion\u2014a desire to understand the messy, unpredictable \"why\" behind human behavior rather than the clear-cut \"how\" of her upbringing. After graduating, a week-long trip to visit a college friend in San Francisco permanently altered her trajectory. The city\u2019s chaotic energy, its collision of ambition and artistry, felt like a dare. Within three months, she had packed two suitcases and moved into a cramped room in a shared apartment in the Mission, leaving her parents both proud and bewildered.\n\nHer career path was an improvisation. The Psychology degree didn't unlock corporate doors, so she started in customer support for a burgeoning startup. There, surrounded by user complaints and feedback, she discovered a knack for spotting patterns in the noise. She spent her evenings and weekends teaching herself data analysis, eventually leveraging her unique blend of human insight and technical skill to pivot into market research. Now, at 31, she translates user data into strategic narratives for a major tech firm, working entirely from her quiet one-bedroom apartment in the Inner Richmond.\n\nHer 0.0-mile commute means her neighborhood is her entire world. Her days are bookended by rituals: a morning run through the Presidio, grabbing a coffee on Clement Street, and an evening wind-down with a book and a view of the fog rolling in. Her social life is a curated collection of close friends from a pottery class and a former colleague, a necessary defense against the isolation of remote work. Sarah finds a quiet satisfaction in her career but yearns for a deeper connection, wondering if the stability she once fled is something she now needs to build for herself. Her dream isn't a promotion, but the ability to one day buy a small condo in the city that both challenges and defines her, finally putting down roots in the place she chose to call home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, check notifications, and do a 15-minute yoga flow using a YouTube video.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a quick breakfast of Greek yogurt and granola while listening to an industry podcast.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the bus stop, enjoying the morning energy of downtown.",
+                        "geocode": {
+                            "lat": 37.8071372,
+                            "lng": -122.4115102,
+                            "formatted_address": "2498 Powell St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 10,
+                        "location": "Powell & Market Street Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute across town on the bus, reading a novel on her Kindle.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni 5R Bus"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab an oat milk latte, and organize daily tasks in Asana.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "USF Innovation Hub"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep focus session: Analyze competitive landscape data using spreadsheets and data visualization tools.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "USF Innovation Hub"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy lunch bowl to-go.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Attend a hybrid meeting with the marketing team to discuss findings for an upcoming campaign.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "USF Innovation Hub Conference Room"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Draft a detailed research report with key insights and recommendations based on morning analysis.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 135,
+                        "location": "USF Innovation Hub"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, listening to a true-crime podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.8227191,
+                            "lng": -122.3683057,
+                            "formatted_address": "5th St, San Francisco, CA 94130, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni 5 Bus"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a rejuvenating run along the waterfront, enjoying views of the Bay Bridge.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83e\udd42",
+                        "action": "Meet a friend for dinner and cocktails in a lively neighborhood.",
+                        "geocode": {
+                            "lat": 37.7768993,
+                            "lng": -122.4240297,
+                            "formatted_address": "450 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 120,
+                        "location": "a Mano"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Call parents for a weekly catch-up while walking the last few blocks home.",
+                        "geocode": {
+                            "lat": 37.77606249999999,
+                            "lng": -122.4295929,
+                            "formatted_address": "Hayes Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Hayes Valley Neighborhood"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night: take a shower, prep for tomorrow, and read a book.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Apartment on Powell St"
+                    }
+                ],
+                "day_overview": "A productive day for Sarah, balancing deep data analysis at her USF office with a refreshing run along the waterfront and a social dinner with a friend in Hayes Valley.",
+                "home_address": "286 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7873376,
+                    "lng": -122.4080463,
+                    "formatted_address": "286 Powell St, San Francisco, CA 94102, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

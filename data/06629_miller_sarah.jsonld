@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Marketing Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story began not in a sleek San Francisco high-rise, but in a quiet Ohio suburb, where meticulous lawns and predictable futures were the norm. Raised by a pragmatic accountant father and a nurturing schoolteacher mother, her upbringing was stable and loving, yet it instilled a deep-seated craving for a life less ordinary. This led her to pursue a Bachelor\u2019s degree in History, a choice that mystified her parents. For Sarah, it wasn't about job prospects; it was about understanding the grand, messy narratives of human ambition and failure.\n\nAfter graduation, reality hit hard. A History degree proved a poor key for the Ohio job market, and she found herself in a soul-crushing administrative role. The turning point came at 25, during a fateful call with a college friend who was thriving at a tech startup in San Francisco. Two months later, Sarah had packed two suitcases, drained her savings, and was sleeping on that friend\u2019s couch in the Mission.\n\nShe landed an entry-level operations job at a small software company. In the chaotic, all-hands-on-deck environment of a startup, her ability to research, synthesize information, and craft a compelling narrative\u2014skills honed by her history degree\u2014made her an invaluable, if unofficial, contributor to their marketing efforts. She discovered a passion for shaping a brand\u2019s story and quickly pivoted, working her way up from marketing coordinator to manager.\n\nNow 36, Sarah is a Marketing Manager for a major tech firm. Her Hayes Valley apartment is both her office and her sanctuary. The 0.0-mile commute means her life is woven into the neighborhood fabric; mornings start with coffee from Ritual and a run through Alamo Square Park, followed by a day of intense Zoom calls and strategy sessions. Her social life is a tight-knit circle of friends\u2014a chosen family of fellow transplants.\n\nProfessionally secure, Sarah now contemplates her next chapter. She dreams of leveraging her success to mentor young women from non-traditional backgrounds entering the tech world. While San Francisco was once an escape, it has become her foundation, a city where a history major from Ohio could rewrite her own story completely."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check phone notifications and personal email.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (Balboa St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Quick jog to clear her head before the day begins.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready for work, and have a quick breakfast of yogurt and coffee.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Balboa St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across town, listening to an marketing podcast to catch up on trends.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Car Commute (Richmond to Mission)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, settle in with coffee, and respond to urgent emails.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 60,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the weekly campaign performance review meeting with her team.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Miro Studios (Conference Room 'Dolores')"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a catered lunch and eat with colleagues in the office commons.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Miro Studios (Kitchen Area)"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Focused work: writing copy and building out a new email marketing flow.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Miro Studios (Desk)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Brainstorming session with the product design team for an upcoming feature launch.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Miro Studios (Whiteboard Wall)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive back home, navigating the evening rush hour traffic.",
+                        "geocode": {
+                            "lat": 37.780683,
+                            "lng": -122.4723021,
+                            "formatted_address": "Richmond District, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Car Commute (Mission to Richmond)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up items for the next few days.",
+                        "geocode": {
+                            "lat": 37.7774856,
+                            "lng": -122.4996397,
+                            "formatted_address": "Outer Richmond, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market (Outer Richmond)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Meet a friend for a casual dinner to catch up and decompress.",
+                        "geocode": {
+                            "lat": 37.7837099,
+                            "lng": -122.4830173,
+                            "formatted_address": "211 23rd Ave, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 90,
+                        "location": "Pizzetta 211"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind at home by watching a show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Balboa St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare for the next day, check calendar, and read a few pages of a book before sleep.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Balboa St)"
+                    }
+                ],
+                "day_overview": "A productive weekday for a tech marketing manager, involving a cross-city commute from the Outer Richmond to the Mission, collaborative work sessions, and unwinding with a friend after work.",
+                "home_address": "3943 Balboa St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7753739,
+                    "lng": -122.5012628,
+                    "formatted_address": "3943 Balboa St, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

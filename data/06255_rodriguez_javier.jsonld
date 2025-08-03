@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Javier Rodriguez",
+    "givenName": "Javier",
+    "familyName": "Rodriguez",
+    "jobTitle": "Facilities Coordinator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Sikh"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Fillmore"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Facilities Management"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Javier Rodriguez is a product of San Francisco\u2019s enduring, blue-collar heart. Born in the Mission District to parents who immigrated from Michoac\u00e1n, Mexico, his childhood was a vibrant mix of Spanish spoken at home and the English of the schoolyard. His father, a construction worker, and his mother, a hotel housekeeper, instilled in him a powerful work ethic and the belief that education was the ladder to a better life. Javier was the first in his family to go to college, enrolling at City College with plans to transfer and study business.\n\nHis path through higher education was cut short. During his second year, his father suffered a severe back injury on a job site, rendering him unable to work. Without hesitation, Javier left school to find full-time work, taking a maintenance job at a large downtown hotel to help support his family. This decision became a pivotal turning point. While he initially mourned his lost academic future, he discovered an unexpected satisfaction in working with his hands. He was a natural problem-solver, adept at diagnosing a faulty HVAC unit or repairing complex plumbing.\n\nOver the next decade, Javier built a career not on a degree, but on competence and reliability. He earned trade certifications and moved from hotels to corporate campuses, eventually landing his current role as a Facilities Coordinator for a sleek, modern residential high-rise in SoMa. The \"0.0 miles\" commute is literal; his compensation includes a small apartment on the second floor. His daily routine is a steady rhythm of preventative maintenance checks, responding to resident requests, and coordinating with outside vendors. He is the building's quiet, indispensable anchor.\n\nThough he lives in the heart of new San Francisco, his soul remains in the Mission. Most evenings are quiet, but his weekends are filled with family. He never misses Sunday dinner at his parents' house, a loud, loving affair with his younger sister and her children. His dream has shifted from a corporate office to something more tangible: he hopes to one day save enough to buy a small multi-unit building in his old neighborhood, managing it himself. For Javier, success is no longer about climbing a ladder, but about building something solid and lasting, much like the city he so quietly helps to run."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check phone for any urgent overnight facility alerts from the Central Tower.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a morning jog along the waterfront with views of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get dressed into WFH attire, and make coffee and breakfast.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Commute to work: Settle into home office, review daily calendar and prioritize new maintenance tickets.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Morning sync-up call via Teams with the on-site operations team to discuss building priorities.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Source quotes and coordinate with an electrical vendor for an upcoming lighting retrofit project.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to Chestnut Street to pick up a turkey sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.78848139999999,
+                            "lng": -122.4061371,
+                            "formatted_address": "253 Post St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "The RealReal Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Process vendor invoices and update the facilities budget tracker in Excel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf9",
+                        "action": "Conduct a virtual inspection via FaceTime with a building engineer to diagnose an HVAC issue on the 17th floor.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Log off for the day after sending a final status update email to his manager.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfd0",
+                        "action": "Meet up with friends for a social game of sand volleyball.",
+                        "geocode": {
+                            "lat": 37.7184872,
+                            "lng": -122.480163,
+                            "formatted_address": "San Francisco, CA 94132, USA"
+                        },
+                        "duration": 90,
+                        "location": "Marina Green Sand Volleyball Courts"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Grab post-game tacos and beers with the team.",
+                        "geocode": {
+                            "lat": 37.8004003,
+                            "lng": -122.4405457,
+                            "formatted_address": "2250 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Tacolicious on Chestnut Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Call his parents in the Mission District to check in and chat about the week.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a documentary on Netflix before bed.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment on Marina Blvd"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Javier in the Marina, blending facilities coordination tasks with a scenic morning run, a social volleyball game, and a casual evening with friends.",
+                "home_address": "491 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8056413,
+                    "lng": -122.4417342,
+                    "formatted_address": "491 Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

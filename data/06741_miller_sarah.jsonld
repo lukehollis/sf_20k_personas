@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Logistics Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is measured in packing tape, customs forms, and the quiet hum of a freight elevator. Raised in the starkly practical landscape of Bakersfield, her childhood was devoid of the creative chaos she now orchestrates. Her parents, a mechanic and a bookkeeper, preached stability over passion, which led Sarah to a community college associate's degree in Business Administration\u2014a sensible, uninspiring choice. In her early twenties, she fled the Central Valley\u2019s oppressive heat for the foggy allure of San Francisco, seeking a life she couldn\u2019t yet define.\n\nHer entry into the art world was pure chance. A temp agency placed her at a small SoMa gallery during a frantic installation week. While artists debated aesthetics, Sarah saw a system in disarray. She instinctively started organizing shipping manifests, coordinating with trucking companies, and creating a coherent schedule. The gallery owner, impressed by her quiet competence, offered her a permanent job. Sarah had found her calling not in creating art, but in ensuring it could be seen. For over two decades, she has been the invisible force behind countless exhibitions, the logistical linchpin for sculptors, painters, and multimedia artists.\n\nNow 46, Sarah lives in a converted warehouse loft in Dogpatch, a space that is both her home and her office, hence the zero-mile commute. Her days are a flurry of emails and international calls, her kitchen table often doubling as a staging ground for crating supplies. Having weathered multiple tech booms, she remains a steadfast member of the city\u2019s shrinking arts-first community. Her relationships are deep but few, primarily with the artists who rely on her as a confidant and problem-solver.\n\nSarah\u2019s dream isn\u2019t one of fame or fortune. She aspires to use her modest savings to curate and fund a small show for emerging local artists\u2014the kind who are easily priced out of the city\u2019s glossy gallery scene. It\u2019s her way of protecting the ecosystem that gave her a purpose. Sarah Miller is a testament to the fact that for every masterpiece hanging on a wall, there is someone like her in the background, making sure it gets there safely."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, light stretching, and listen to the KQED morning news.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a strong coffee and a quick breakfast of yogurt and granola. Briefly check in with her father via a phone call about her mother's upcoming doctor's appointment.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning hygiene routine and get dressed for a day on campus.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from Pacific Heights to SF State, navigating the morning traffic down 19th Avenue.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Cross-Town Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, settle in at her desk, and review the day's shipping manifests and urgent emails from the gallery director.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fine Arts Building, SF State University"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Coordinate with a freight company over the phone to confirm the delivery window for a new sculpture arriving for the main gallery exhibition.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Office, SF State University"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over for a quick lunch break to clear her head. Grabs a pre-made salad and an iced tea.",
+                        "geocode": {
+                            "lat": 37.7339735,
+                            "lng": -122.490487,
+                            "formatted_address": "Lakeshore Plaza, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Lakeshore Plaza Deli"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Meet with a faculty member to finalize the logistics for shipping student artwork to a competition in Los Angeles.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Faculty Office, SF State University"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc4",
+                        "action": "Process customs and insurance paperwork for an incoming piece from a German artist.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 90,
+                        "location": "Office, SF State University"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Commute home, listening to a true-crime podcast to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7473461,
+                            "lng": -122.4947458,
+                            "formatted_address": "Sunset Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Return Commute via Sunset Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udc8a",
+                        "action": "Stop to pick up a prescription for her mother and grab a few grocery essentials.",
+                        "geocode": {
+                            "lat": 37.79207900000001,
+                            "lng": -122.4025092,
+                            "formatted_address": "300 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 20,
+                        "location": "Walgreens on California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a brisk walk around the park to get some fresh air and exercise after a long day of sitting.",
+                        "geocode": {
+                            "lat": 37.79165,
+                            "lng": -122.4275889,
+                            "formatted_address": "Lafayette Park, Gough St &, Washington St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 40,
+                        "location": "Lafayette Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Prepare a simple dinner at home and eat while having a longer, relaxing FaceTime call with her parents.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and tidying up the apartment before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A busy day for Sarah, balancing the detailed demands of art logistics at SFSU, a long cross-city commute, and her evening priorities of personal wellness and checking in on her elderly parents.",
+                "home_address": "2519 Fillmore St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7928097,
+                    "lng": -122.4349079,
+                    "formatted_address": "2519 Fillmore St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

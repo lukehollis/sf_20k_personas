@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "Senior Urban Planner",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka is a product of two distinct Californias. He was raised in the sprawling, sun-baked suburbs of San Jose, the son of a pragmatic software engineer and a detail-oriented accountant, both *sansei* (third-generation Japanese Americans). His childhood was a predictable landscape of cul-de-sacs and strip malls, a world made sensible only by car. However, monthly family trips to San Francisco were transformative. To young Kenji, the dense fabric of Japantown, the rumbling F-Market streetcars, and the hidden stairways of Telegraph Hill weren't just scenery; they were a blueprint for a more interesting, interconnected way of life.\n\nThis fascination led him to UC Berkeley\u2019s prestigious Master of Urban Planning program, where abstract ideas about livability, equity, and public space crystallized into a career path. He saw urban planning not as a job of zoning codes and permits, but as a form of social architecture. After graduating, he eagerly joined the San Francisco Planning Department, ready to shape the city that had so inspired him. The reality, however, was a slow grind of bureaucracy and political compromise. A key turning point was a multi-year effort to implement a new bus-only lane, a project he championed that was nearly suffocated by community disputes and budget cuts. The experience tempered his idealism with a resilient pragmatism.\n\nNow 35, Kenji lives a life of intentional locality. His 0.0-mile commute is a testament to his beliefs; he works from his modern Hayes Valley apartment, a sleek space overlooking a shared courtyard. His daily routine is grounded in his neighborhood: coffee from a local roaster, lunch from a food truck at Patricia\u2019s Green, and evening runs through the Panhandle. Socially, he maintains a tight-knit circle of friends from grad school, with whom he debates housing policy over IPAs. He is amicably single after a long-term relationship with a fine artist ended, a split caused by what she called his \u201cdevotion to the intractable systems of the city.\u201d\n\nKenji\u2019s primary aspiration is to move beyond managing the city's slow evolution and lead a landmark project\u2014a truly innovative affordable housing development or a new public park that reclaims industrial land. He dreams of leaving a tangible, positive mark on the city\u2019s skyline, creating a space that offers future generations the same sense of wonder he felt as a boy visiting from the suburbs."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, start the coffee maker, and read the SF Planning Department's daily briefing.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Castro St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a brisk run through the hilly streets of Noe Valley to get energized for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Noe Valley Neighborhood Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and eat a quick breakfast of toast and fruit with his partner, Alex.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Castro St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive the cross-town commute from Noe Valley to Cow Hollow, listening to an urban planning podcast.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF City Streets (Castro to Union)"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Settle in at his dedicated desk, grab a complimentary coffee, and review the day's agenda and urgent emails.",
+                        "geocode": {
+                            "lat": 37.7977025,
+                            "lng": -122.4317496,
+                            "formatted_address": "1974 Union St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 25,
+                        "location": "NEON Co-working Space"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead a virtual project meeting with the transportation engineering team to review new bike lane proposals.",
+                        "geocode": {
+                            "lat": 37.7977025,
+                            "lng": -122.4317496,
+                            "formatted_address": "1974 Union St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 75,
+                        "location": "NEON Co-working Space (Conference Room)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Perform focused work: analyzing GIS parcel data and drafting a staff report for an upcoming Planning Commission hearing.",
+                        "geocode": {
+                            "lat": 37.7977025,
+                            "lng": -122.4317496,
+                            "formatted_address": "1974 Union St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "NEON Co-working Space"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a kale salad and sandwich for a quick lunch away from his desk.",
+                        "geocode": {
+                            "lat": 37.8003111,
+                            "lng": -122.4377083,
+                            "formatted_address": "3344 Steiner St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn (Union Street)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Conduct a stakeholder call with a neighborhood association regarding a proposed zoning change in their area.",
+                        "geocode": {
+                            "lat": 37.7977025,
+                            "lng": -122.4317496,
+                            "formatted_address": "1974 Union St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 90,
+                        "location": "NEON Co-working Space (Phone Booth)"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Navigate evening rush hour traffic driving back home to the Castro/Noe Valley area.",
+                        "geocode": {
+                            "lat": 37.7608937,
+                            "lng": -122.435033,
+                            "formatted_address": "The Castro, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF City Streets (Union to Castro)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce, fish, and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Arrive home, unwind from the day, and catch up with his partner Alex about their workdays.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Castro St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner of pan-seared salmon and roasted asparagus together.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Castro St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Sit down for dinner, enjoying the meal and conversation with Alex.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Castro St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a documentary on innovative public spaces.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Castro St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a non-fiction book on sustainable architecture before going to sleep.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home (Castro St Apartment)"
+                    }
+                ],
+                "day_overview": "A productive day for a Senior Urban Planner, balancing deep focus work on city projects in Cow Hollow with a cross-town commute, and unwinding in the evening by cooking and relaxing with his partner in their Noe Valley home.",
+                "home_address": "3596 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7433168,
+                    "lng": -122.4333334,
+                    "formatted_address": "3596 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

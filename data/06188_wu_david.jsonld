@@ -1,0 +1,278 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Wu",
+    "givenName": "David",
+    "familyName": "Wu",
+    "jobTitle": "Project Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Wu\u2019s story is etched into the fog and hills of San Francisco, a city he has never left. He was born and raised in the Outer Sunset, the second son of Taiwanese immigrants who poured their life savings into a small grocery store on Taraval Street. His childhood was a symphony of rumbling streetcars, the scent of dried shrimp and cardboard boxes, and the constant, unspoken pressure to validate his parents' sacrifice. They envisioned a doctor or an engineer; David, quiet and observant, was drawn to stories.\n\nHis first act of gentle rebellion was enrolling at San Francisco State University and declaring a major in English Literature. While his parents fretted, David found solace in dissecting narratives, a skill that would prove unexpectedly valuable. He graduated just as the first dot-com bubble was inflating. Needing a practical job, he leveraged his writing skills to land a technical writing position at a fledgling startup. He discovered a surprising aptitude not for coding, but for translating the chaotic ambitions of engineers into organized plans. The dot-com bust was a key turning point; laid off and humbled, he realized he thrived on structure and communication. He methodically worked his way through QA testing and eventually into project management, a career that perfectly synthesized his literary mind with the tech world's relentless drive.\n\nNow, David lives in a tastefully renovated Edwardian flat in Cole Valley with his partner of twelve years, Sarah, a graphic designer. His 0.0-mile commute consists of a short walk from the kitchen to his home office. His days are a disciplined cycle of virtual stand-ups, Gantt charts, and stakeholder calls. He finds calm in the routine: a morning coffee from the cafe on Cole Street, a lunchtime walk through the Panhandle, and quiet evenings cooking with Sarah. He dutifully visits his retired parents in the Sunset every Sunday, the old tensions having softened into a comfortable, loving silence.\n\nThough successful, a part of David still resides in that English Lit classroom. His secret ambition is to finally write, not technical specs, but a collection of short stories about the San Francisco he remembers\u2014the fading storefronts, the immigrant families, and the ghosts of the city being overwritten by code. He dreams of capturing the narrative of his own life before it, too, becomes just a well-managed project."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and check in on parents, helping with their morning medications.",
+                        "geocode": {
+                            "lat": 37.7810654,
+                            "lng": -122.4651874,
+                            "formatted_address": "Geary Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Geary Blvd"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare a simple but nutritious breakfast of congee and fruit for himself and his parents.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed for the office, and pack his work bag.",
+                        "geocode": {
+                            "lat": 37.7810654,
+                            "lng": -122.4651874,
+                            "formatted_address": "Geary Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Geary Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute to work on his electric scooter, zipping down Gough St to the Marina.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle in at his desk, grab a coffee, and triage the morning's emails and Slack messages.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 45,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead the daily stand-up meeting for the 'Odyssey' project team, reviewing progress and clearing blockers.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "WSI Conference Room 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Adjusting project roadmaps and resource allocation in Asana.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "WSI Corporate Office Desk"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.8003111,
+                            "lng": -122.4377083,
+                            "formatted_address": "3344 Steiner St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn on Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct back-to-back 1-on-1s with his direct reports to discuss performance and career growth.",
+                        "geocode": {
+                            "lat": 37.8059359,
+                            "lng": -122.425087,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "WSI Focus Pods"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Collaborate with the UX design lead to finalize mockups for the next feature release.",
+                        "geocode": {
+                            "lat": 37.7726303,
+                            "lng": -122.406132,
+                            "formatted_address": "9 Decatur St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "WSI Design Studio Area"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up the day by sending out a project status summary email and planning tomorrow's priorities.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "WSI Corporate Office Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Scooter commute back home, enjoying the late afternoon air.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up groceries for dinner.",
+                        "geocode": {
+                            "lat": 37.7833698,
+                            "lng": -122.4478739,
+                            "formatted_address": "3 Masonic Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's on Masonic Ave"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Unwind by preparing dinner for the family, chatting with his parents as he cooks.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Enjoy a family dinner, sharing stories from the day with his parents.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Take an evening walk to decompress and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.79120899999999,
+                            "lng": -122.4377047,
+                            "formatted_address": "Alta Plaza Park, Jackson St. &, Steiner St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Alta Plaza Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Relax on the couch, reading a historical fiction novel and listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Final check-in with his parents, then prepare for bed.",
+                        "geocode": {
+                            "lat": 37.7810654,
+                            "lng": -122.4651874,
+                            "formatted_address": "Geary Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Geary Blvd"
+                    }
+                ],
+                "day_overview": "A structured day for a dedicated Project Manager balancing a demanding tech career with caring for his elderly parents. The schedule moves from intense morning focus sessions and meetings at the WSI office to a quiet evening of family connection and personal decompression in his Anza Vista neighborhood.",
+                "home_address": "1257 Geary Blvd, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7852179,
+                    "lng": -122.4240726,
+                    "formatted_address": "1257 Geary Blvd, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wu Family"
+    }
+}

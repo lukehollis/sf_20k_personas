@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jones",
+    "givenName": "Sarah",
+    "familyName": "Jones",
+    "jobTitle": "Retail Manager (Boutique)",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jones\u2019s life is measured in the few blocks of Hayes Valley she calls home. At 41, she manages \"Linden,\" a minimalist boutique specializing in sustainable fabrics and local jewelry. Her 0.0-mile commute is a short flight of stairs from her rent-controlled apartment down to the shop floor, a proximity that has fused her identity with her work and her neighborhood.\n\nSarah\u2019s story didn't begin in this urban oasis. She grew up in Redding, a world of sun-baked asphalt and practical expectations. Her parents, a mechanic and a dental hygienist, encouraged stability over passion. Feeling creatively stifled, Sarah pursued a compromise: an Associate's degree in Merchandising from a local community college. It was a practical ticket out, combining her innate eye for aesthetics with a tangible career path.\n\nShe arrived in San Francisco at 22, initially overwhelmed but quickly enthralled. She worked a series of unfulfilling retail jobs in larger chain stores before finding her calling in the city\u2019s intimate boutique scene. Here, her passion wasn't just tolerated; it was an asset. The turning point came a decade ago when the original owner of Linden, impressed by Sarah\u2019s dedication and vision, offered her the manager position. It was the first time she felt her professional life truly align with her personal values.\n\nHer social life is a tapestry woven from her community. She\u2019s had long-term relationships, including a painful breakup in her mid-thirties that prompted her to pour her energy back into her career and friendships. Her chosen family now consists of the barista who knows her coffee order, the chef from the restaurant next door, and a tight-knit group of friends met through the industry.\n\nSarah\u2019s days are a comfortable ritual of steaming coffee, inventory management, and genuine conversations with customers she knows by name. She feels a deep sense of belonging, a rootedness she never had in her youth. Her dream is no longer to escape, but to own. She hopes to one day buy Linden from its retiring owner, securing her future on the very block that gave her a life of her own making."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake-up, brew coffee, and review personal and work calendars for the day with her partner, Mark.",
+                        "geocode": {
+                            "lat": 37.7804075,
+                            "lng": -122.4318052,
+                            "formatted_address": "1188 Fillmore St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 1188 Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Quick morning yoga session using a guided app to stretch and mentally prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a stylish yet professional outfit, and pack a tote bag for work.",
+                        "geocode": {
+                            "lat": 37.7804075,
+                            "lng": -122.4318052,
+                            "formatted_address": "1188 Fillmore St, San Francisco, CA 94123"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, navigating morning traffic from Fillmore through downtown to the Financial District.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Park the car in the regular monthly spot and walk the final few blocks to the boutique.",
+                        "geocode": {
+                            "lat": 37.7901055,
+                            "lng": -122.4066034,
+                            "formatted_address": "444 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 10,
+                        "location": "Sutter-Stockton Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Open the boutique, conduct a morning huddle with staff to set sales goals, and review overnight inventory deliveries.",
+                        "geocode": {
+                            "lat": 37.788218,
+                            "lng": -122.405354,
+                            "formatted_address": "Maiden Ln, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 150,
+                        "location": "\u00c9lan Boutique - Maiden Lane"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a quick lunch break, grabbing a salad and sandwich to eat in the back office.",
+                        "geocode": {
+                            "lat": 37.7913266,
+                            "lng": -122.3963941,
+                            "formatted_address": "300 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mendocino Farms"
+                    },
+                    {
+                        "emoji": "\ud83d\udc57",
+                        "action": "Handle afternoon tasks: create the next week's staff schedule, manage the sales floor, and update visual merchandising.",
+                        "geocode": {
+                            "lat": 37.788218,
+                            "lng": -122.405354,
+                            "formatted_address": "Maiden Ln, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 210,
+                        "location": "\u00c9lan Boutique - Maiden Lane"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfe",
+                        "action": "Finalize end-of-day sales reports and cash deposits, prepping the store for the closing staff.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "\u00c9lan Boutique Back Office"
+                    },
+                    {
+                        "emoji": " congested ",
+                        "action": "Commute home, dealing with the heavy evening rush hour traffic heading west.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries for dinner and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7827176,
+                            "lng": -122.431498,
+                            "formatted_address": "1335 Webster St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "Safeway on Webster St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner with her partner while catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch with Mark, watching an episode of a new series on HBO Max.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: tidying up the kitchen, skincare, and reading a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7804075,
+                            "lng": -122.4318052,
+                            "formatted_address": "1188 Fillmore St, San Francisco, CA 94123"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A busy weekday for a boutique retail manager, involving a challenging cross-city commute, hands-on store management in the Financial District, and winding down with her partner in their Fillmore district home.",
+                "home_address": "1188 Fillmore St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7804075,
+                    "lng": -122.4318052,
+                    "formatted_address": "1188 Fillmore St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jones Family"
+    }
+}

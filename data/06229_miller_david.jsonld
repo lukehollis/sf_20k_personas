@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Store Manager, Electronics Retail",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s identity has always been a mosaic. Born in Daly City to a Maltese father who worked as a freighter mechanic and a Filipina mother who was a nurse, he grew up in a household rich with the aromas of pastizzi and adobo. He never felt he fit neatly into any single category, a feeling that defined his early years. This sense of being \u201cother\u201d made him a keen observer of people, a skill that would later define his career.\n\nHis educational journey was brief and pragmatic. David enrolled in a business program at a community college with a vague notion of following a traditional path. However, when his father\u2019s health began to fail, the pressure to contribute financially became immediate. He dropped out and took a part-time job at a bustling electronics store in the city to help make ends meet. To his own surprise, he thrived. The world of circuit boards, processors, and audio specs made sense to him, but more importantly, he had a natural talent for managing the delicate ecosystem of staff personalities and customer demands.\n\nThe key turning point was his promotion to store manager a decade ago. The position came with a rare San Francisco perk: a small, rent-stabilized apartment directly above the shop in the Inner Richmond. His commute became a single flight of stairs. This arrangement has shaped his entire adult life. He is a fixture of the neighborhood, a constant presence. His daily routine is tied to the rhythm of the store below\u2014the morning inventory checks, the midday rush, the quiet hours before closing. His social life is woven from the threads of his regulars: the elderly woman who needs help setting up her tablet, the audiophile who discusses vintage receivers for hours.\n\nNow 42, David lives a solitary but not lonely life. A long-term relationship ended years ago, a casualty of his demanding hours and deep integration with his work. He\u2019s quietly content, a pillar in his small corner of the city. His dream isn\u2019t a tech startup or a meteoric rise; it\u2019s simpler. He hopes to one day save enough to buy the store from its aging owner, ensuring this small piece of authentic, service-oriented San Francisco endures, much like himself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, start the coffee maker, and check news notifications on the phone.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Enjoy a cup of coffee while reviewing personal emails and making a simple breakfast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Bathroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to work, enjoying the morning air and listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Walking from Noe Valley to Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Arrive at the store, open up, and review overnight sales data and corporate communications.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Doorhaus - Back Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the morning team huddle to discuss daily sales goals, promotions, and staff assignments.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Doorhaus - Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Manage floor operations, assist with inventory check-in, and provide support to the sales team.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 180,
+                        "location": "Doorhaus - Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Break for lunch, grabbing a Carne Asada Super Burrito from a favorite local spot.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Focus on administrative tasks: building next week's staff schedule and responding to emails.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Doorhaus - Back Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Handle customer service escalations and assist the team during the afternoon rush.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Doorhaus - Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Walk home, using the uphill climb as a way to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Walking from Mission District to Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up ingredients for dinner and breakfast.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Whole Foods Market - 24th Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Drop off dry cleaning from the previous week.",
+                        "geocode": {
+                            "lat": 37.7874301,
+                            "lng": -122.4237581,
+                            "formatted_address": "1412 Sutter St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 10,
+                        "location": "De-Luxe Cleaners"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner at home while listening to music.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch a new sci-fi series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A busy but structured day for a retail store manager, balancing work responsibilities in the Mission with personal time and errands in his Noe Valley neighborhood, connected by a healthy walking commute.",
+                "home_address": "249 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.754332,
+                    "lng": -122.3840948,
+                    "formatted_address": "249 24th St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

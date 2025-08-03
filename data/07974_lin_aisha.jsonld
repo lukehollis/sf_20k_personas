@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aisha Lin",
+    "givenName": "Aisha",
+    "familyName": "Lin",
+    "jobTitle": "Restaurant Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Hospitality"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Aisha Lin\u2019s world has always been measured by the city block her family occupies in the Inner Sunset. At 29, she lives in the same apartment where she grew up, directly above \"Mama Lin\u2019s Kitchen,\" the beloved Taiwanese restaurant her parents opened after immigrating to San Francisco in the late 1980s. Her childhood wasn't marked by playgrounds but by the clatter of woks and the comforting scent of star anise and simmering beef broth. She learned to count by tallying takeout orders and fold dumplings before she could properly hold a pen.\n\nHer path seemed pre-written. While her friends left for four-year universities, Aisha enrolled at City College of San Francisco, earning a practical Associate\u2019s degree in Hospitality Management. It was a pragmatic choice, allowing her to continue helping at the restaurant. The real turning point came five years ago when her father\u2019s health declined, forcing him into an early, reluctant retirement. Without discussion, Aisha stepped fully into the manager role. The apron she had worn part-time became her uniform, and the restaurant\u2019s success became her sole responsibility.\n\nAisha's life operates on the restaurant\u2019s rhythm. Her 0.0-mile commute is a walk down a single flight of stairs. Her day begins with inventory checks and ends long after the last table is bussed. Her social circle consists of her loyal, close-knit staff and two childhood friends who know to text before calling, aware she\u2019s likely resolving a vendor issue or calming a frantic line cook. Romantic relationships have been fleeting, often buckling under the weight of 70-hour workweeks.\n\nDeep down, a quiet dream simmers. She is fiercely proud of her family's legacy, but it is their dream, not hers. Aisha fantasizes about opening a small, modern boba tea and pastry shop in a different neighborhood, perhaps Hayes Valley\u2014a place with clean lines, minimalist d\u00e9cor, and a menu that is entirely her own creation. As she approaches thirty, this internal conflict grows louder: honoring the past by managing Mama Lin's, or building a future that belongs only to her. For now, she finds solace in perfecting her parents' recipes, serving the community that raised her, and saving every dollar for a dream she hopes is not too far away."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up & Morning Hydration: Alarm goes off. Sips a large glass of water with lemon while checking overnight messages from the kitchen crew.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Powell St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning prep: Showers, gets dressed in her manager's uniform (branded polo, black pants), and prepares a quick breakfast smoothie with her partner.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Powell St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Commute to Work: Walks to the Muni stop and catches the T Third Street train, listening to a hospitality management podcast.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni T Third Street Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Pre-Service Huddle: Arrives at work, greets the morning team, and leads a quick huddle to discuss daily specials and service goals for the breakfast rush.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Byte & Mortar Cafe at Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Service Oversight & Admin: Manages the floor during the morning coffee and breakfast rush, then places produce and dairy orders with vendors.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "Byte & Mortar Cafe at Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch Break: Grabs a grain bowl from the cafe's line and eats on the Uber HQ rooftop terrace, taking a mental break from the kitchen noise.",
+                        "geocode": {
+                            "lat": 37.7546227,
+                            "lng": -122.4437783,
+                            "formatted_address": "Rooftop St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Uber HQ Rooftop Terrace"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon Management Tasks: Oversees the lunch service wind-down, works on next week's staff schedule, and conducts an inventory check.",
+                        "geocode": {
+                            "lat": 37.7885273,
+                            "lng": -122.4155204,
+                            "formatted_address": "912 Sutter St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 180,
+                        "location": "Byte & Mortar Cafe Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Commute Home: Clocks out and walks back to the Muni station, catching the T Third Street train back towards North Beach.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni T Third Street Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Grocery Run: Hops off the train a stop early to pick up fresh pasta and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Il Mercato di North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Evening Decompression Walk: Meets her partner at home and they take a short, steep walk up to Coit Tower to watch the city lights come on.",
+                        "geocode": {
+                            "lat": 37.8018004,
+                            "lng": -122.4056399,
+                            "formatted_address": "Filbert St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Filbert Street Steps"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Dinner with Partner: Cooks a simple but delicious pasta dinner at home, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Powell St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax and Unwind: Cuddles up on the couch with her partner to watch an episode of their favorite TV series.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Powell St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prepare for Bed: Tidies up the kitchen, lays out her clothes for tomorrow, and does her skincare routine before reading a few pages of a novel in bed.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Powell St Apartment"
+                    }
+                ],
+                "day_overview": "A busy day for a Restaurant Manager, commuting from North Beach to Mission Bay. The schedule balances demanding work responsibilities at a corporate campus cafe with evening relaxation and quality time with her partner in their neighborhood.",
+                "home_address": "3845 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.8053714,
+                    "lng": -122.411877,
+                    "formatted_address": "3845 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

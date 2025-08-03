@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Ahmed",
+    "givenName": "Liam",
+    "familyName": "Ahmed",
+    "jobTitle": "Lead Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Ahmed is a product of two worlds. The son of a pragmatic Pakistani engineer and a fiercely literary Irish-American mother, he grew up in the cerebral quiet of Ann Arbor, Michigan. His home was a blend of fragrant curries and worn paperbacks, a place where logic and poetry were given equal weight. This dual upbringing fostered in Liam a unique curiosity about the systems underlying human expression, which led him not to computer science, but to a graduate degree in Computational Linguistics. He was fascinated by how language, the most human of constructs, could be modeled by machines.\n\nHis career began at a small analytics startup in Boston, but the pull of Silicon Valley was inevitable. He arrived in San Francisco eight years ago, initially drawn by a lucrative job offer. However, a turning point came during a project that used predictive models in a way he found ethically troubling. The experience solidified his resolve; he wouldn't just build systems, he would guide them. This conviction propelled him into a leadership role, and he is now a Lead Data Scientist at a major tech firm, known for championing ethical AI and data privacy.\n\nLiam\u2019s life is centered in his Hayes Valley apartment, which serves as both home and office. His 0.0-mile commute allows him a cherished morning ritual: a walk to a local cafe for an oat latte, followed by several hours of intense, focused work. Afternoons are often broken up by a run through Alamo Square or a climb at a Mission bouldering gym. Socially, he maintains a tight-knit circle of friends from his climbing gym and a former book club, preferring deep conversations over crowded bars, a lingering effect of a serious relationship that ended two years prior.\n\nHe loves San Francisco for its proximity to both raw nature and intellectual rigor. On weekends, he might be hiking in the Marin Headlands or lost in a new exhibit at SFMOMA. Liam\u2019s core aspiration is to use data to solve meaningful problems without sacrificing humanity. He dreams of one day launching his own ethics-focused consultancy, and perhaps, finding a partner who understands his quiet intensity and shares his appreciation for the complex, beautiful patterns that define both code and life."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2642\ufe0f",
+                        "action": "Wake up, check overnight data pipeline status on phone, and do a 10-minute meditation session using the Headspace app.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Liam's Apartment (2569 Brannan St)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a meticulously prepared AeroPress coffee with beans from Four Barrel Coffee and eat a bowl of Greek yogurt with granola.",
+                        "geocode": {
+                            "lat": 37.7597234,
+                            "lng": -122.3877473,
+                            "formatted_address": "958 Illinois St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 20,
+                        "location": "Liam's Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a typical tech-casual outfit (jeans, company t-shirt, hoodie), and pack his backpack.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Liam's Apartment (2569 Brannan St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Walk to work through SoMa and under the freeway overpass, listening to the 'Lex Fridman Podcast'.",
+                        "geocode": {
+                            "lat": 37.7735288,
+                            "lng": -122.3965434,
+                            "formatted_address": "330 Berry St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 25,
+                        "location": "SoMa to Mission Walk"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, fill up water bottle, grab a second coffee from the office kitchen, and quickly scan Slack messages.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "Doorhaus HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the data science team's daily stand-up meeting, reviewing progress on the current sprint's NLP model.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Doorhaus Conference Room 'Turing'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work block: Developing and testing a new recommendation algorithm in a Python Jupyter Notebook.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 150,
+                        "location": "Liam's Desk at Doorhaus"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to a local favorite to grab a Carnitas Super Burrito for lunch with a coworker.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Collaborate with a product manager to analyze the results of a recent A/B test and plan next steps.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Doorhaus Breakout Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Perform a code review for a junior data scientist's submission and provide constructive feedback.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Liam's Desk at Doorhaus"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk home, switching from a podcast to a Lo-fi Beats playlist to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mission to SoMa Walk"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Stop for a challenging bouldering session to exercise and clear his mind.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Dogpatch Boulders"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up a few last-minute groceries for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple but healthy meal of salmon and roasted vegetables while on a FaceTime call with his parents.",
+                        "geocode": {
+                            "lat": 37.7597234,
+                            "lng": -122.3877473,
+                            "formatted_address": "958 Illinois St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 45,
+                        "location": "Liam's Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a sci-fi series on Netflix, and scroll through tech news on Twitter.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Liam's Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few pages of a non-fiction book and set out clothes for the next day before heading to bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Liam's Bedroom"
+                    }
+                ],
+                "day_overview": "A focused day for Liam, a data scientist, balancing deep work on machine learning models at his Mission-based office with a refreshing walk commute, an evening bouldering session, and winding down at his SoMa apartment.",
+                "home_address": "2569 Brannan St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7771219,
+                    "lng": -122.3980923,
+                    "formatted_address": "Brannan St, San Francisco, CA, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Ahmed Family"
+    }
+}

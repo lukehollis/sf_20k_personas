@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Lee",
+    "givenName": "David",
+    "familyName": "Lee",
+    "jobTitle": "Medical Office Assistant",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Lee\u2019s story is woven into the fog and quiet avenues of San Francisco\u2019s western neighborhoods. He was born and raised in the Outer Richmond, the only son of Taiwanese immigrants who ran a small, beloved bakery on Balboa Street. His childhood smelled of pineapple buns and freshly brewed tea, underscored by his parents' unwavering belief that their son would become a doctor\u2014a path to a security they never had.\n\nDriven by filial duty, David enrolled in the biology program at San Francisco State University. For two years, he excelled, fueled by caffeine and the weight of his family\u2019s dreams. The turning point came swiftly and cruelly: his father was diagnosed with a debilitating chronic illness. The bakery faltered, and David, seeing his mother's exhaustion, made the choice to drop out of college to work full-time and help manage the mounting medical bills. The dream of becoming Dr. Lee was quietly packed away.\n\nHe found a job as a medical office assistant at a small private practice. It was a compromise, a way to stay adjacent to the world he was meant to join. For over fifteen years, he has been the calm, organizing force in the background of other people\u2019s health crises.\n\nNow 43, David\u2019s life is a testament to routine and stability. He lives in a modest apartment directly above the clinic where he works in the Inner Richmond, making his commute a simple walk down a flight of stairs. His days are predictable: he opens the office, manages chaotic schedules with quiet efficiency, and offers a reassuring presence to anxious patients. He is single, his personal relationships mostly consisting of weekly dinners with his widowed mother in the Sunset and familiar, friendly nods to the baristas and grocers in his immediate vicinity.\n\nDavid rarely thinks about the life he might have had. His aspirations have softened into simpler hopes: ensuring his mother lives comfortably, saving enough to one day visit the national parks he\u2019s only seen in documentaries, and finding satisfaction in being the reliable, unseen anchor for his small corner of the city\u2019s healthcare system. He is a man who traded a grand dream for a necessary reality, finding a different, quieter kind of purpose along the way."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up to an alarm, spend a few minutes checking news headlines and personal emails on the phone.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Prepare a simple breakfast of oatmeal and berries, and brew a strong coffee using a French press.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower, get dressed into medical scrubs, and pack a bag with a water bottle and snacks.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Commute to work by foot, listening to a true crime podcast while walking from Union Square to SoMa.",
+                        "geocode": {
+                            "lat": 37.7734396,
+                            "lng": -122.4089605,
+                            "formatted_address": "Harrison St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Streets (Grant Ave to Harrison St)"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Begin the workday by reviewing the day's patient appointments, preparing check-in forms, and ensuring the reception area is neat.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SoMa Health Partners"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Manage the front desk during the morning patient rush, checking patients in, verifying insurance, and updating electronic health records.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 210,
+                        "location": "SoMa Health Partners"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a lunch break, walking to a local spot to grab a pre-ordered salad bowl to-go.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SoMa Fresh Eats"
+                    },
+                    {
+                        "emoji": "\u260e\ufe0f",
+                        "action": "Handle afternoon responsibilities including answering phone calls, scheduling specialist referrals, and processing patient co-pays.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "SoMa Health Partners"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk home, taking a slight detour through the Yerba Buena garden area for a change of scenery.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Streets (Harrison St to Grant Ave)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh produce and a piece of fish for dinner.",
+                        "geocode": {
+                            "lat": 37.7831997,
+                            "lng": -122.4142769,
+                            "formatted_address": "225 Leavenworth St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 20,
+                        "location": "Golden Gate Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Unwind with a full-body workout session at the neighborhood gym.",
+                        "geocode": {
+                            "lat": 37.7298281,
+                            "lng": -122.4762417,
+                            "formatted_address": "3201 20th Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "City Sports Club - Union Square"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner while listening to an indie rock playlist and catching up on texts with a friend.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the sofa and stream a new documentary on Netflix.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prepare for the next day by laying out scrubs, then read a few chapters of a sci-fi novel before sleep.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Apartment on Grant Ave"
+                    }
+                ],
+                "day_overview": "A structured day for a Medical Office Assistant living in central San Francisco, involving a walking commute, a busy day at a SoMa clinic, and an evening balanced with errands, fitness, and relaxation at home.",
+                "home_address": "241 Grant Ave, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7893138,
+                    "lng": -122.4053767,
+                    "formatted_address": "241 Grant Ave, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Javier Ramirez",
+    "givenName": "Javier",
+    "familyName": "Ramirez",
+    "jobTitle": "Case Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Social Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Javier Ramirez\u2019s story is woven into the very fabric of San Francisco\u2019s working-class neighborhoods. He was born and raised in the Mission District, the son of determined parents who emigrated from Oaxaca, Mexico. His father was a line cook and his mother cleaned houses in Pacific Heights, their combined efforts providing a life that was stable but never far from the edge. Javier grew up seeing the systemic barriers his family and neighbors faced\u2014language gaps, housing insecurity, and the constant threat of displacement by a wealthier, newer San Francisco.\n\nHe was the first in his family to attend a four-year university, enrolling at San Francisco State. While his parents hoped he\u2019d pursue a lucrative career, a pivotal experience during a sociology internship changed his path. He was assigned to a non-profit helping an elderly man, a retired longshoreman being evicted from the apartment he\u2019d lived in for fifty years. Witnessing the man\u2019s quiet dignity and the compassionate tenacity of his case manager, Javier saw his future. He graduated with a Bachelor's in Sociology, his passion ignited.\n\nNow 34, Javier works as a case manager for a supportive housing provider in the South of Market (SoMa) area. His 0.0-mile commute is a defining feature of his life: he lives in a staff apartment within the same building as his clients. The line between his professional and personal life is permanently blurred. His mornings start with familiar greetings in the hallway from residents he helped place, and his evenings are often interrupted by a knock on the door for an informal crisis intervention.\n\nHis dedication has come at a personal cost; a long-term relationship ended years ago, his partner unable to compete with the demands of his calling. His social life now consists of a tight-knit circle of fellow social workers and community organizers who share his gallows humor and fierce commitment. Javier\u2019s dream isn\u2019t wealth or recognition, but something quieter: the hope of one day moving from direct service into policy advocacy, to help fix the broken systems he navigates daily. He loves San Francisco not for its landmarks, but for its resilience\u2014a quality he sees every day in the people he calls both clients and neighbors."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for 10 minutes, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and toast while reviewing daily headlines on a tablet.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Walk to the J-Church Muni stop and commute to Van Ness Station, listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "SFMTA J-Church Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc2",
+                        "action": "Settle in at the office, review client case files and prioritize the day's tasks.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Conduct a series of scheduled client check-in calls and document progress.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick lunch to decompress from the morning's calls.",
+                        "geocode": {
+                            "lat": 37.7470161,
+                            "lng": -122.418717,
+                            "formatted_address": "3139 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "HRD Coffee Shop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Meet with the social work team to discuss difficult cases and share resources.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Upside Artspace Conference Room"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Focus on administrative work: completing detailed case notes and filing required reports.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 110,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf07",
+                        "action": "Walk from the office to Van Ness Station and take the J-Church train home.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "SFMTA J-Church Line"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Stop at the gym for a strength training session to de-stress from the workday.",
+                        "geocode": {
+                            "lat": 37.7637395,
+                            "lng": -122.4334293,
+                            "formatted_address": "2301 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 70,
+                        "location": "Fitness SF - Castro"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Pick up fresh produce and ingredients for dinner on the walk home.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Church Street Produce"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner and eat while watching an episode of a favorite show.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Tidy up the kitchen, call a friend to make weekend plans, and unwind.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a novel for a bit before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A busy and structured day for Javier, a social services Case Manager, balancing demanding client work in SoMa with a decompressive evening routine involving exercise and quiet time in his Noe Valley neighborhood.",
+                "home_address": "363 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.756573,
+                    "lng": -122.4366271,
+                    "formatted_address": "363 Diamond St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Ramirez Family"
+    }
+}

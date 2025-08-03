@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Lee",
+    "givenName": "Kevin",
+    "familyName": "Lee",
+    "jobTitle": "Technical Lead",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Lee\u2019s story began not in a sleek downtown high-rise, but amid the fog-laced streets of the Sunset District. The only son of Taiwanese immigrants who ran a small, bustling grocery store, his childhood was a blend of American cartoons and the quiet, immense pressure to succeed. His parents, who had sacrificed everything for a foothold in San Francisco, saw engineering as the ultimate security. Kevin, finding solace in the abstract logic of code, didn't fight them. He dutifully earned his B.S. in Computer Science from UC Davis, his path seemingly set.\n\nHis turning point came during a soul-crushing internship where he spent a summer optimizing a database for a product no one wanted. He realized technology without humanity was a hollow exercise. This revelation led him to pursue a Master's degree in Human-Computer Interaction at Stanford, a decision that initially confused his parents but ultimately defined his career. He learned to build bridges between cold code and human needs, a skill that made him a natural leader.\n\nNow a Technical Lead, Kevin has spent the last decade navigating the city\u2019s tech scene, rising through the ranks from a diligent coder to a respected manager who champions user-centric design and a healthy team culture. He works from the spare bedroom of his Hayes Valley condo, his 0.0-mile commute a stark contrast to the city buzzing outside his window. His days are a disciplined rhythm of stand-up meetings via Zoom, code reviews, and one-on-one mentorship sessions.\n\nHis connection to San Francisco is layered. He appreciates the ambition and innovation but finds refuge in its older soul\u2014the legacy of his parents' shop, the quiet trails of Golden Gate Park, and weekend trips to the coast with his long-term partner, a landscape architect. He\u2019s achieved the stability his parents dreamed of, but a quiet restlessness has set in. Kevin aspires to move beyond corporate metrics and lead a project with tangible social impact, perhaps in civic tech or education. He dreams of a day when his work is measured not in user engagement, but in community improvement."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check phone notifications, and make a pour-over coffee.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a quick jog along the beach path to clear his head before the day.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Ocean Beach Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a tech-casual outfit, and pack his work bag.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Walk to the local stop and take the light rail downtown, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "N Judah Muni Line"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Arrive at the office, grab a sparkling water, and triage morning emails and Slack messages.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 45,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Lead the daily engineering stand-up meeting, then dive into code reviews for his team.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over and grab a healthy, quick salad to take back to the office.",
+                        "geocode": {
+                            "lat": 37.7903917,
+                            "lng": -122.4037873,
+                            "formatted_address": "240 Kearny St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt on Kearny Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct 1-on-1 meetings with two junior developers in a private soundproof booth.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 90,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Whiteboard session for a new feature's technical architecture, followed by documentation.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 105,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Commute home, switching from the podcast to a chill indie playlist to decompress.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "N Judah Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a few essentials for the week on the walk home from the Muni stop.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Other Avenues Grocery Co-op"
+                    },
+                    {
+                        "emoji": "\ud83c\udf55",
+                        "action": "Meet up with a friend for pizza and beer at a neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.7609342,
+                            "lng": -122.4987308,
+                            "formatted_address": "3410 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "DamnFine Pizza on Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching an episode of a sci-fi series on streaming.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Final check of calendar for tomorrow, set out clothes, and read a few pages of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Outer Sunset)"
+                    }
+                ],
+                "day_overview": "A productive day for a tech lead, balancing deep work and team management with a long but restorative Muni commute from the Outer Sunset to FiDi, followed by local errands and a relaxed pizza dinner with a friend.",
+                "home_address": "3147 Judah St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7608894,
+                    "lng": -122.4956711,
+                    "formatted_address": "3147 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

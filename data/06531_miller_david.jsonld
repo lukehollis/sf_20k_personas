@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Senior Process Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s world is a system of interlocking efficiencies, a stark contrast to his Cleveland, Ohio upbringing. The son of a factory foreman, David grew up surrounded by the tangible world of steel, grease, and union-line pragmatism. He was fascinated not by the cars his father helped build, but by the intricate processes that made the assembly line flow. This drive to understand and refine systems led him away from the Rust Belt and toward the abstract promise of Silicon Valley.\n\nHe pursued a Master's in Materials Science, a field that satisfied both his scientific curiosity and his need for practical application. David arrived in San Francisco in the late 90s, just in time to ride the initial dot-com wave and experience its spectacular crash. While others chased fleeting glory, the bust solidified David\u2019s core belief: success wasn\u2019t in the flashy product, but in the robust, repeatable process behind it. He found his calling as a Process Engineer, becoming the architect of the invisible frameworks that allow tech companies to function and scale.\n\nNow 44, David\u2019s life is a masterclass in optimization. His 0.0-mile commute is from his bedroom to his home office in a quiet Noe Valley Edwardian. His day begins not with an alarm, but with the specific hum of his servers kicking in at 6:00 AM. His connection to San Francisco is hyperlocal; he knows the baristas at the 24th Street coffee shop by name and has a running credit at the local bookstore. His social life is small but curated: a weekly board game night with a tight-knit group of fellow engineers and a former colleague. Past relationships often buckled under the weight of his quiet intensity and preference for routine over spontaneity.\n\nDavid rarely ventures downtown. His San Francisco is the morning fog rolling over Twin Peaks, the weekend farmers' market, and the predictable rhythm of his neighborhood. His ultimate aspiration is to apply his skills beyond the digital realm. He dreams of designing a perfectly efficient, small-scale vertical farm, a nod to his father's tangible world but built with the precision he has spent a lifetime perfecting. For David, life isn't about finding what's new, but about making what exists, perfect."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a pour-over coffee, and scan tech news headlines.",
+                        "geocode": {
+                            "lat": 37.7600371,
+                            "lng": -122.4335886,
+                            "formatted_address": "157 Hartford St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "157 Hartford St Residence"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Quick breakfast of Greek yogurt and fruit while getting ready for the day.",
+                        "geocode": {
+                            "lat": 37.7600371,
+                            "lng": -122.4335886,
+                            "formatted_address": "157 Hartford St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "157 Hartford St Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Walk down the hill to meet the carpool group.",
+                        "geocode": {
+                            "lat": 37.7693359,
+                            "lng": -122.4292406,
+                            "formatted_address": "Church St & Duboce Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Church & Duboce Carpool Pickup"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute to the office, discussing project timelines with colleagues.",
+                        "geocode": {
+                            "lat": 37.8166821,
+                            "lng": -122.2903482,
+                            "formatted_address": "2121 Peralta St Suite 122, Oakland, CA 94607, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Surface Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Settle in at desk, respond to urgent emails, and review the day's sprint board.",
+                        "geocode": {
+                            "lat": 37.7894964,
+                            "lng": -122.4016789,
+                            "formatted_address": "582 Market St # 500, San Francisco, CA 94104, United States"
+                        },
+                        "duration": 30,
+                        "location": "Hobart Building Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: analyzing fabrication data and modeling a new workflow.",
+                        "geocode": {
+                            "lat": 37.7894964,
+                            "lng": -122.4016789,
+                            "formatted_address": "582 Market St # 500, San Francisco, CA 94104, United States"
+                        },
+                        "duration": 150,
+                        "location": "Hobart Building Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Grab a quick lunch with a coworker to discuss non-work topics.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead a cross-functional strategy meeting on process scaling for the next quarter.",
+                        "geocode": {
+                            "lat": 37.7894964,
+                            "lng": -122.4016789,
+                            "formatted_address": "582 Market St # 500, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 90,
+                        "location": "Hobart Building Office - Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "One-on-one mentoring session with a junior engineer, reviewing their code and providing feedback.",
+                        "geocode": {
+                            "lat": 37.7894964,
+                            "lng": -122.4016789,
+                            "formatted_address": "582 Market St # 500, San Francisco, CA 94104, United States"
+                        },
+                        "duration": 60,
+                        "location": "Hobart Building Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final tasks, update project documentation, and plan priorities for the next day.",
+                        "geocode": {
+                            "lat": 37.7894964,
+                            "lng": -122.4016789,
+                            "formatted_address": "582 Market St # 500, San Francisco, CA 94104, United States"
+                        },
+                        "duration": 30,
+                        "location": "Hobart Building Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home via carpool, listening to an engineering podcast.",
+                        "geocode": {
+                            "lat": 37.8166821,
+                            "lng": -122.2903482,
+                            "formatted_address": "2121 Peralta St Suite 122, Oakland, CA 94607, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF Surface Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Strength training and cardio session at the neighborhood gym.",
+                        "geocode": {
+                            "lat": 37.7637395,
+                            "lng": -122.4334293,
+                            "formatted_address": "2301 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF Castro"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a healthy home-cooked meal, like salmon and roasted vegetables.",
+                        "geocode": {
+                            "lat": 37.7600371,
+                            "lng": -122.4335886,
+                            "formatted_address": "157 Hartford St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 70,
+                        "location": "157 Hartford St Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a non-fiction book and planning the next day's outfit.",
+                        "geocode": {
+                            "lat": 37.7600371,
+                            "lng": -122.4335886,
+                            "formatted_address": "157 Hartford St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "157 Hartford St Residence"
+                    }
+                ],
+                "day_overview": "A structured day for a Senior Process Engineer, balancing deep technical work in the Financial District with a health-focused evening routine in his Castro neighborhood.",
+                "home_address": "157 Hartford St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7600371,
+                    "lng": -122.4335886,
+                    "formatted_address": "157 Hartford St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

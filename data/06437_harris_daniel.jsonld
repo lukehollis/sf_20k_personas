@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Harris",
+    "givenName": "Daniel",
+    "familyName": "Harris",
+    "jobTitle": "Transportation Planner",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Harris was raised on the quiet, tree-lined streets of Ann Arbor, Michigan, the son of a pragmatic civil engineer and a meticulous university librarian. His childhood was a blend of ordered systems and accessible information, shaping a mind that saw the world as a complex but solvable puzzle. This led him to a Master's degree in Urban and Regional Planning from the University of Michigan, where he specialized in transportation modeling and geographic information systems (GIS), fascinated by the flow of people through a city.\n\nInitially, Daniel worked for a municipal planning department in Chicago, but he grew frustrated by bureaucratic inertia. The real innovation, he realized, was happening on the West Coast. A lucrative offer from a major tech company brought him to San Francisco eight years ago. This was his key turning point: leaving the public sector to apply his planning principles at a massive, private scale. Now, he\u2019s a senior transportation planner, working on the very algorithms that guide navigation apps and autonomous vehicle fleets.\n\nHis commute is zero miles. Daniel lives and works from his tidy one-bedroom apartment in the Inner Sunset, a neighborhood he chose for its proximity to Golden Gate Park and its quiet, residential feel. His days are a disciplined routine: a foggy morning run through the park, followed by hours spent analyzing data streams and running simulations to ease urban congestion from his desk. His life is largely digital, a stark contrast to his partner, Chloe, a freelance illustrator who coaxes him away from his screens for gallery openings in the Mission or new restaurants in Hayes Valley. She is his primary connection to the city's analog soul.\n\nDaniel's dream isn't a corner office but the tangible success of his work. He hopes to see his algorithms genuinely reduce commute times and carbon emissions across the globe. He envisions a future where he can leverage his tech-sector experience to influence public policy, bridging the gap between private innovation and the public good to help build the efficient, equitable cities he first imagined in Ann Arbor."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Brew coffee and listen to 'The Urbanist' podcast while checking transit data feeds on a tablet.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udef9",
+                        "action": "Gear up with a helmet and cruise to work on an electric skateboard.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "City Streets (Lower Pac Heights to SoMa)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Arrive at the office, join the daily team stand-up to sync on a new micromobility pilot program.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 70,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Deep work session: Use GIS software to analyze and map potential new protected bike lanes.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 120,
+                        "location": "Workstation at Arc Studios"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to get a quick and healthy lunch bowl.",
+                        "geocode": {
+                            "lat": 37.7779458,
+                            "lng": -122.4385695,
+                            "formatted_address": "901 Divisadero St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "CAVA"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Collaborative whiteboarding session with the product team on improving in-app commute planning logic.",
+                        "geocode": {
+                            "lat": 37.774536,
+                            "lng": -122.4109601,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Conference Room at Arc Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Video call with an SFMTA project manager to discuss data sharing agreements.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "Workstation at Arc Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Take an afternoon break, walking to a local coffee roaster to reset.",
+                        "geocode": {
+                            "lat": 37.7770356,
+                            "lng": -122.4084543,
+                            "formatted_address": "270 7th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Sightglass Coffee"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Wrap up final tasks, respond to emails, and create a prioritized task list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 55,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\udef9",
+                        "action": "Skateboard commute home, navigating the evening rush.",
+                        "geocode": {
+                            "lat": 37.7861923,
+                            "lng": -122.4400385,
+                            "formatted_address": "Lower Pacific Heights, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "City Streets (SoMa to Lower Pac Heights)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Drop off work gear and go for a de-stressing bouldering workout.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Dogpatch Boulders"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local grocery store on the way home to pick up ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mollie Stone's Markets"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dish while listening to an indie rock playlist.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, reading a book on urban design and half-watching a show.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 80,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: tidy up the apartment and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Daniel, a transportation planner, blending data-driven work in SoMa with an active, urban lifestyle. His commute is on an electric skateboard, and his evening includes a bouldering session before heading home to his Lower Pac Heights apartment.",
+                "home_address": "1796 Fillmore St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7860932,
+                    "lng": -122.4332943,
+                    "formatted_address": "1796 Fillmore St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Harris Family"
+    }
+}

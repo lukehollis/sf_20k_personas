@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Sharma",
+    "givenName": "Liam",
+    "familyName": "Sharma",
+    "jobTitle": "Manufacturing Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian or Pacific Islander"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Sharma\u2019s life story is one of quiet rebellion against expectation. Raised in Fremont, in the sprawling suburban heart of Silicon Valley, he was the son of a software engineer father and a biochemist mother who saw a clear path for him: a UC degree followed by a lucrative career in tech. But from a young age, Liam was drawn to the tangible. While his parents discussed code and chemical compounds, he was disassembling old radios and building intricate Lego machines, fascinated by the precise interplay of physical components.\n\nThe turning point came in high school. He joined the robotics club and found his calling not in programming the robot, but in designing its wiring, soldering its motherboard, and calibrating its mechanical arm. The satisfaction of a perfectly executed physical task eclipsed any desire for abstract theory. Rejecting his parents\u2019 carefully laid plans, he enrolled at a local community college, earning an Associate's degree in Electronics Technology. It was a practical, hands-on education that felt more honest to him than a four-year university program ever could.\n\nAfter graduating, he found a niche that perfectly suited his skills. He became a manufacturing technician for a small, boutique hardware company in San Francisco\u2019s Dogpatch neighborhood that designs and builds high-end audio equipment. The job came with a unique perk: a small, subsidized live/work loft directly above the workshop. With a zero-mile commute, Liam\u2019s life became a seamless blend of personal and professional.\n\nHis days are governed by the hum of machinery. He wakes, grabs coffee from a local roaster, and heads downstairs to the cleanroom to calibrate CNC machines or troubleshoot a sensitive assembly line. His social circle is small and rooted in his work; a beer after a long shift with his two colleagues is his most common outing. A long-term, on-and-off relationship with a graphic designer named Maya provides his main connection outside this sphere, though she often struggles with his all-consuming passion for his craft.\n\nLiam doesn't dream of management or wealth. His aspiration is mastery. He spends his evenings sketching schematics for his own custom amplifier, saving money with the singular goal of one day opening his own small-batch workshop. For Liam, San Francisco isn't about the landmarks or the nightlife; it's about the industrial spirit of his Dogpatch corner, a place where he can hear the foghorns from the bay and turn raw materials into something beautiful and functional with his own two hands."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Divisadero"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a strong cup of coffee and have a quick breakfast of toast and yogurt.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on Divisadero"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Face the morning traffic, driving from NOPA to the parking garage in SoMa.",
+                        "geocode": {
+                            "lat": 37.7982799,
+                            "lng": -122.3778182,
+                            "formatted_address": "San Francisco \u2013 Oakland Bay Bridge, San Francisco \u2013 Oakland Bay Brg, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Streets & Bay Bridge Approach"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Park car, grab a second coffee, and review the day's hardware assembly queue on the work tablet.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 25,
+                        "location": "Unity Technologies Hardware Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Assemble and solder components for a new batch of prototype VR controllers.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 180,
+                        "location": "Unity Technologies Hardware Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over for a quick and hearty lunch bowl to recharge.",
+                        "geocode": {
+                            "lat": 37.78654239999999,
+                            "lng": -122.4019862,
+                            "formatted_address": "690 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Grove - Yerba Buena"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Calibrate and run diagnostic tests on a newly assembled set of AR glasses.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 150,
+                        "location": "Unity Technologies Hardware Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\uddf9",
+                        "action": "Clean and organize the workbench, log completed tasks, and prep materials for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Unity Technologies Hardware Lab"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Navigate the evening rush hour traffic on the drive back home.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "SF Streets & Freeway"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner while listening to a tech podcast and eat at the kitchen counter.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Apartment on Divisadero"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Video call his parents in Fresno to catch up on their week.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on Divisadero"
+                    },
+                    {
+                        "emoji": "\ud83c\udfae",
+                        "action": "Decompress by playing a graphically-intensive PC game with online friends.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Apartment on Divisadero"
+                    },
+                    {
+                        "emoji": "\ud83d\udecf\ufe0f",
+                        "action": "Tidy up the apartment, brush teeth, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on Divisadero"
+                    }
+                ],
+                "day_overview": "A structured day for Liam, balancing his hands-on technician work in SoMa with a challenging city commute and a relaxing evening at home in his NOPA neighborhood, including a quick grocery run and a call to family.",
+                "home_address": "729 Divisadero St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7763266,
+                    "lng": -122.4383121,
+                    "formatted_address": "729 Divisadero St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

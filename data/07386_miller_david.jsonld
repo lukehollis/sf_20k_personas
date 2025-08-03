@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Parking Enforcement Officer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller is a product of San Francisco\u2019s fog-laced avenues, born and raised in the Inner Richmond. The son of a Chinese immigrant mother who ran a small sewing and alterations shop and a second-generation Irish-American longshoreman, David grew up straddling two worlds. His surname came from his father, but his home life was filled with the sounds of Cantonese and the aroma of his mother\u2019s cooking. His father\u2019s sudden death from a heart attack when David was 15 plunged the family into financial precarity and left a quiet, hardworking boy shouldering responsibilities beyond his years.\n\nSchool was never David's focus; the city itself was his classroom. While his grades were mediocre, he knew the MUNI lines by heart and could navigate the city\u2019s steepest hills on his skateboard with an easy grace. After graduating from George Washington High School, he drifted through a series of jobs\u2014deli counter clerk, bike messenger, warehouse stocker\u2014each one paying just enough to help his mother with the rent on their small apartment. The turning point came at 25, tired of the instability. He saw a posting for the SFMTA civil service exam. A city job meant a pension, benefits, and security\u2014things his family had never truly had. He studied for months and passed, accepting a position as a Parking Enforcement Officer.\n\nNow 35, David\u2019s life is one of routine and rhythm. His 0.0-mile commute means he lives in the district he patrols. He wakes before dawn in the same rent-controlled apartment he grew up in, has coffee, and walks out his door to begin his beat. He knows the merchants by name, the delivery truck schedules, and which hydrants are the most tempting for illegal parkers. To most, he is just a uniform, a source of frustration. But to his neighborhood, he is a quiet, constant presence.\n\nHis social life is small but meaningful: weekly dim sum with his now-retired mother and beers with a handful of childhood friends at a local dive bar. His private passion is photography. On his days off, he wanders the city with a vintage film camera, capturing candid street scenes\u2014the ephemeral moments of life he observes daily from the other side of a uniform. David doesn\u2019t dream of leaving San Francisco or finding a new career. His aspiration is simpler: to keep his small corner of the city in order, to continue documenting its beauty, and to one day have saved enough to buy his mother\u2019s apartment, ensuring their story remains woven into the fabric of the neighborhood forever."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed in SFMTA uniform.",
+                        "geocode": {
+                            "lat": 37.7613668,
+                            "lng": -122.4809986,
+                            "formatted_address": "1747 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home at 1747 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of oatmeal and coffee while checking the morning news.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Walk to the bus stop to start the commute.",
+                        "geocode": {
+                            "lat": 37.7616424,
+                            "lng": -122.4771019,
+                            "formatted_address": "19th Ave & Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 10,
+                        "location": "19th Avenue & Judah Street Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute across town via Muni, taking the 28 bus to the 38R Geary Rapid bus.",
+                        "geocode": {
+                            "lat": 37.7484703,
+                            "lng": -122.3907006,
+                            "formatted_address": "1301 Cesar Chavez St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 50,
+                        "location": "San Francisco Muni System"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Arrive at field office for morning briefing, patrol assignment, and equipment check.",
+                        "geocode": {
+                            "lat": 37.7813755,
+                            "lng": -122.4438879,
+                            "formatted_address": "Anza Vista, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SFMTA Anza Vista Field Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Begin morning patrol on foot, checking meters, enforcing street cleaning, and issuing citations.",
+                        "geocode": {
+                            "lat": 37.7813755,
+                            "lng": -122.4438879,
+                            "formatted_address": "Anza Vista, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Anza Vista Neighborhood Patrol Zone"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break and grab a pastrami on rye.",
+                        "geocode": {
+                            "lat": 37.7767396,
+                            "lng": -122.4234431,
+                            "formatted_address": "425 Hayes St A, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Moishe's Pippic A Kosher Deli"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Resume afternoon patrol, focusing on the busy streets around the medical center.",
+                        "geocode": {
+                            "lat": 37.7810654,
+                            "lng": -122.4651874,
+                            "formatted_address": "Geary Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Geary Boulevard Commercial Corridor"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "End shift, return to the field office to log activity and securely store equipment.",
+                        "geocode": {
+                            "lat": 37.7813755,
+                            "lng": -122.4438879,
+                            "formatted_address": "Anza Vista, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "SFMTA Anza Vista Field Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, listening to a true crime podcast to unwind.",
+                        "geocode": {
+                            "lat": 37.7484703,
+                            "lng": -122.3907006,
+                            "formatted_address": "1301 Cesar Chavez St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 55,
+                        "location": "San Francisco Muni System"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Arrive home, change out of uniform, and catch up with his parents.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Sit down for a home-cooked dinner with his family.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a jog along the coast to de-stress from the day.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a Giants game and messaging with friends.",
+                        "geocode": {
+                            "lat": 37.7613668,
+                            "lng": -122.4809986,
+                            "formatted_address": "1747 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home at 1747 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Lay out uniform for the next day and read a book before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A structured day for Parking Enforcement Officer David Miller, balancing a physically demanding shift in Anza Vista with a relaxing evening including exercise and family time back home in the Outer Sunset.",
+                "home_address": "1747 Judah St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7613668,
+                    "lng": -122.4809986,
+                    "formatted_address": "1747 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

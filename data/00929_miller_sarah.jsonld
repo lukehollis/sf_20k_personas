@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Retail Operations Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a testament to the power of quiet persistence. Raised in a working-class Sacramento family, college was a distant concept, secondary to the immediate need for a steady paycheck. Her father, a mechanic, and her mother, a bookkeeper, instilled in her a pragmatic work ethic. At 18, she took a job as a cashier at a national clothing retailer, intending for it to be a temporary stop. But she discovered a natural talent for order, a satisfaction in organizing chaotic stockrooms and a knack for smoothing over customer complaints.\n\nA perceptive store manager saw her potential beyond the register, promoting her to shift lead. This was Sarah\u2019s turning point. She realized a career could be built not just with a degree, but with dedication and competence. For the next decade, she methodically climbed the corporate ladder. The company transferred her to the Bay Area in her late twenties, and she embraced the move, trading suburban calm for the city's electric hum. Her ascent continued: assistant manager, store manager, and eventually, her current role as a Retail Operations Manager, overseeing multiple locations from her home. This focus came at a cost; a long-term relationship dissolved in her late thirties, unable to withstand the gravity of her professional ambition.\n\nNow 44, Sarah\u2019s life is centered in her meticulously kept Hayes Valley apartment, which doubles as her office. Her zero-mile commute affords her a controlled, structured routine: a morning latte from her favorite local caf\u00e9, a day of remote meetings and logistical problem-solving, and evenings spent walking through the neighborhood or taking a yoga class. She feels like an adopted San Franciscan, appreciating its beauty and opportunity while remaining slightly apart from its frantic tech core. After decades of striving, a new dream has begun to form\u2014the idea of leaving the corporate world to open a small, curated home goods store of her own. For Sarah, a woman who built her life with her own two hands, the future is about finally creating something that is entirely, and beautifully, hers."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was 21, standing in the chaotic stockroom after a brutal holiday rush. Her manager, Brenda, pulled a set of keys from her pocket. \u201cYou see the order in this mess, Sarah. I\u2019m making you my shift lead.\u201d It wasn\u2019t a question. In that moment, holding the cold, small weight of the keys, she felt seen for her mind, not just her speed at the register. It was the first time she understood that her competence could be a currency more valuable than a degree, a key to a future she hadn't dared imagine.\n\n2.\nAt 28, she drove her packed car over the Bay Bridge for the first time. The San Francisco skyline emerged from the fog, a vertical landscape of pure ambition that both terrified and thrilled her. Sacramento felt a lifetime away. This wasn't a place you could just exist in; you had to earn your spot. A quiet resolve settled in her chest as she gripped the steering wheel. This city would be hers. Not by birthright, but by the sheer force of her own hard work.\n\n3.\nThe end of her relationship came not with a shout, but a whisper. She was 37, and he was packing a box in the kitchen. \u201cYour career is the main character, Sarah,\u201d he said, his voice heavy with resignation, not anger. She didn\u2019t argue. The silence that followed was filled with years of canceled plans and late-night emails. Watching him tape that box shut felt like sealing away a part of herself. It was the quiet, hollow price of her ambition, an ache she learned to carry.\n\n4.\nHer first morning in the Hayes Valley apartment felt like a coronation and an exile. She was 40, and the sunlight streamed through the clean, empty rooms she had paid for herself. From her window, the city was a beautiful, intricate machine she helped operate. She had climbed the mountain and earned this view, this control, this perfect quiet. But the victory felt profoundly solitary. She had built this kingdom entirely on her own, and she was its only resident.\n\n5.\nLast year, on a walk through North Beach, she ducked into a small home goods store. The owner was carefully arranging a stack of linen napkins, a small, focused act of love. There was no corporate planogram, just a clear, personal vision. Sarah felt a jolt of longing so sharp it nearly took her breath away. It was a sudden, clear thought: This is the next thing. Not managing a system, but creating one. A small, beautiful world that was entirely, finally, hers."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew coffee, and enjoy a quiet moment with her partner, Alex, discussing their plans for the day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\uc53b\ub294 \uc911",
+                        "action": "Morning prep: shower, get dressed, and pack her work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7832173,
+                            "lng": -122.4200368,
+                            "formatted_address": "750 Eddy St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Bedroom & Bathroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the long, energizing walk to work, listening to an industry podcast like 'The Business of Fashion'.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Walking through Noe Valley, Castro, and down Market Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab a kombucha from the microkitchen, and settle in at her desk.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 15,
+                        "location": "Google - One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze overnight sales dashboards from the physical retail stores and triage urgent requests from store managers.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 90,
+                        "location": "Google - Open Plan Workspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the weekly Retail Operations sync meeting, reviewing KPIs and coordinating upcoming promotions.",
+                        "geocode": {
+                            "lat": 37.7954425,
+                            "lng": -122.3936136,
+                            "formatted_address": "1 Ferry Building, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Google - 'Ferry Building' Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf71",
+                        "action": "Lunch at the office cafe with colleagues, then a brief stroll along the waterfront to clear her head.",
+                        "geocode": {
+                            "lat": 37.7937188,
+                            "lng": -122.3942152,
+                            "formatted_address": "1 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Steuart Tower Cafe (Google) & The Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Collaborate with the logistics team on optimizing a new inventory shipment schedule for the holiday season.",
+                        "geocode": {
+                            "lat": 37.7904311,
+                            "lng": -122.4044726,
+                            "formatted_address": "425 Bush St #435, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 120,
+                        "location": "Google - Project Huddle Area"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "One-on-one meeting with a direct report to discuss their performance goals and career development.",
+                        "geocode": {
+                            "lat": 37.7911803,
+                            "lng": -122.4171714,
+                            "formatted_address": "1388 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Google - 'Cable Car' Focus Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Start the walk home, using the time to decompress and listen to a true-crime podcast.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 80,
+                        "location": "Walking up Market Street towards Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the neighborhood market to pick up fresh bread and cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Whole Foods Market - 24th Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner and share a bottle of wine with Alex, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Kitchen & Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch with Alex, watching the latest episode of a popular streaming series.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: tidying up the kitchen, skincare, and reading a few pages of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A productive day for Sarah, a Retail Operations Manager, balancing a data-heavy workday at Google's Embarcadero office with her significant daily walk commute from Noe Valley, and winding down with her partner over a home-cooked meal.",
+                "home_address": "3529 Hartford St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7601749,
+                    "lng": -122.4338485,
+                    "formatted_address": "Hartford St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

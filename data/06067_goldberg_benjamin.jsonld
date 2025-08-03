@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Benjamin Goldberg",
+    "givenName": "Benjamin",
+    "familyName": "Goldberg",
+    "jobTitle": "Senior R&D Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Benjamin Goldberg\u2019s life is a study in controlled variables. Raised in Scarsdale, New York, the son of a history professor and a therapist, his childhood was a quiet, cerebral hum of books and structured debate. While his parents dissected the past and the psyche, Ben was drawn to the predictable elegance of physics. He saw the universe as the ultimate system, and he wanted to understand its source code. This passion led him to a Bachelor's and then a Master's in Applied Physics from Cornell, where he found himself increasingly fascinated by the intersection of theoretical models and computational power.\n\nThe pull of Silicon Valley was inevitable. He moved to San Francisco not for the gold rush culture, but for the talent density. His early years were spent at a large, impersonal tech giant where he felt he was building glorified widgets. The turning point came five years ago when he was headhunted by a smaller, more ambitious R&D lab focused on foundational AI models. The job offered him the intellectual freedom he craved and, most critically, the ability to work fully remotely.\n\nToday, Ben\u2019s world is largely contained within his chic, minimalist Alamo Square apartment, where his commute is the ten steps from his bedroom to his standing desk. His day is a disciplined ritual: a 6 a.m. run with his rescue mutt, Turing, through the park, followed by hours of deep work, translating abstract theories into tangible code. His living room wall is a giant whiteboard, covered in the ghosts of erased equations.\n\nHis social life has become a casualty of his focus. Connections are maintained through scheduled video calls with a few trusted colleagues and sporadic, intellectually charged dates that often fizzle out when his work proves too esoteric to explain. He loves San Francisco for its quiet mornings, the fog rolling over the Painted Ladies, and the easy access to Marin\u2019s hiking trails for weekend decompression.\n\nBen\u2019s primary aspiration is not wealth, but a breakthrough\u2014a single, elegant solution to the complex problem he\u2019s been tackling for years. He dreams of his work having a lasting, positive impact on how technology evolves. Privately, he hopes to one day solve the less logical puzzle of his own life: how to build a meaningful connection that exists outside of code and theory."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check news headlines and personal notifications on phone.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Energizing morning run up the Filbert Street Steps for a view from Coit Tower.",
+                        "geocode": {
+                            "lat": 37.8018004,
+                            "lng": -122.4056399,
+                            "formatted_address": "Filbert St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Filbert Street Steps"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bathroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee and have a light breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into the home office, review the day's tasks on the project board, and sort through emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Daily R&D team stand-up via Zoom to sync on project progress and blockers.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office via Zoom"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Deep work session: Coding a prototype for a new data processing algorithm.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to a classic local deli to grab a sandwich for lunch and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon work block: Analyzing simulation results and documenting findings in Confluence.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Collaborative brainstorming session on a virtual whiteboard for the next research sprint.",
+                        "geocode": {
+                            "lat": 37.7775028,
+                            "lng": -122.3970603,
+                            "formatted_address": "525 Brannan St #100, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office via Miro"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0c",
+                        "action": "End of day wrap-up: Push code to repository, update tickets, and officially log off.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Decompress from the workday by reading a book on a bench in the park.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a casual beer at a historic beatnik bar.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cook a simple pasta dinner at home while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down for the evening by watching a tech documentary on Netflix.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: Brush teeth, set alarm, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.8077905,
+                            "lng": -122.4106911,
+                            "formatted_address": "2448 Stockton St, San Francisco, CA 94133"
+                        },
+                        "duration": 15,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A focused day of remote R&D work from a North Beach apartment, balanced with neighborhood walks, fresh air, and an evening social meet-up with a friend.",
+                "home_address": "2448 Stockton St, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8077905,
+                    "lng": -122.4106911,
+                    "formatted_address": "2448 Stockton St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Goldberg Family"
+    }
+}

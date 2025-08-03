@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Miller",
+    "givenName": "Liam",
+    "familyName": "Miller",
+    "jobTitle": "Urban Planning Assistant",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Miller\u2019s world has always been one of ordered systems, even if he didn't realize it at first. Raised in a quiet, manicured suburb of Portland, Oregon, he was the son of a high school math teacher and a dental hygienist. His childhood was a predictable grid of soccer practice, family dinners, and summer road trips. It was stable and loving, but it lacked the dynamic energy he secretly craved.\n\nAt the University of Oregon, he eschewed his parents' practical advice and declared a major in Sociology. He was fascinated by the invisible architecture of society\u2014how groups form, how power flows, and how physical spaces shape human interaction. The turning point came during a junior year seminar that required a weekend field study in San Francisco. Standing in the organized chaos of the Ferry Building marketplace, watching the intricate dance of tourists, commuters, and locals, something clicked. The city wasn't just a place; it was a living sociological experiment, and he wanted to be in the lab.\n\nAfter graduating, he relentlessly applied for jobs in the Bay Area, landing an entry-level position as an Urban Planning Assistant for the City of San Francisco. He now lives in a modern, compact apartment in Hayes Valley, a neighborhood he chose for its walkability and vibrant mix of boutiques, parks, and cafes. His 0.0-mile commute is a function of a hybrid work model; he spends most days at his small desk overlooking Octavia Boulevard, analyzing zoning codes and public transit usage data.\n\nLiam's life is structured. Mornings start with coffee from a local roaster, his workday is punctuated by a walk to Patricia\u2019s Green to clear his head, and his social life centers on a tight-knit group of friends for weekly trivia at a nearby bar. He is an observer by nature, constantly cataloging how people use the parklets and navigate the bike lanes. His aspiration is to move beyond data entry and lead a project of his own\u2014ideally, one focused on creating more pedestrian-only \"slow streets.\" For Liam, San Francisco is not just his home; it\u2019s a complex, beautiful puzzle he feels profoundly lucky to be helping solve, one block at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe remembers standing under the great clock in the Ferry Building during his junior year field study. The noise\u2014commuters rushing, tourists tasting cheese, the ferry horn\u2014wasn't chaos. It was a symphony of human systems. For the first time, sociology felt tangible, a living thing he could touch. The abstract future he\u2019d been sketching out suddenly had a location: San Francisco. It wasn't a choice anymore; it was a calling that set his life\u2019s trajectory.\n\n2.\nThe first night in his Hayes Valley apartment, just after graduating, was silent. His only furniture was an air mattress, and the only light came from traffic on Octavia Boulevard painting stripes on the ceiling. Instead of loneliness, he felt a profound sense of arrival. This small, empty space was the first thing that was truly his, a blank slate in the city he\u2019d dreamed of. That silence cemented his quiet independence, the first real tile laid in his new life.\n\n3.\nAbout six months after moving, his fledgling trivia team finally won. It was at a sticky-floored bar, but when they shouted the final answer, the eruption of cheers felt seismic. He looked at the faces around the table\u2014an architect, a nurse, a programmer\u2014and realized they were no longer just acquaintances. They were his people. That small victory wasn't about the prize; it was the moment San Francisco gave him a real community, anchoring him in a way his job hadn\u2019t.\n\n4.\nA year into his job, he was walking down Valencia Street and saw a family eating ice cream on a new bench. He\u2019d helped process the data for that specific parklet improvement, an anonymous task on a spreadsheet. But seeing their simple joy, oblivious to the reports and codes, felt overwhelming. It was the first time his work felt real, transforming abstract data into a tangible human experience. This quiet moment of validation ignited his ambition to create more spaces just like it.\n\n5.\nOne recent Saturday morning, he sat by his window with his coffee, watching the thick fog swallow the tops of the buildings. Tourists might be disappointed, but he felt a sense of quiet conspiracy with the city. This wasn\u2019t a flaw in the weather; it was a feature, a daily reset that made the afternoon sun feel earned. In that peaceful moment, he stopped seeing San Francisco as a puzzle to be solved and simply felt a part of its rhythm. He was home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make coffee and avocado toast while listening to an urban planning podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute to work, navigating the city streets on an electric scooter.",
+                        "geocode": {
+                            "lat": 37.78820899999999,
+                            "lng": -122.4168462,
+                            "formatted_address": "Lower Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "SoMa to Lower Nob Hill Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office, review emails, and organize tasks for a new community health plaza project.",
+                        "geocode": {
+                            "lat": 37.7893799,
+                            "lng": -122.4167294,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "UCSF Saint Francis Planning Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Attend a project team meeting to discuss zoning regulations for the new plaza.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Saint Francis Hospital Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Conduct a site walk to photograph and document existing conditions for the project area.",
+                        "geocode": {
+                            "lat": 37.7893799,
+                            "lng": -122.4167294,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Saint Francis Campus Grounds"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to a favorite local spot to grab a quick banh mi for lunch.",
+                        "geocode": {
+                            "lat": 37.7831271,
+                            "lng": -122.4173619,
+                            "formatted_address": "560 Larkin St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 50,
+                        "location": "Saigon Sandwich on Larkin St"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Use GIS software to map out the site survey data and analyze pedestrian flow.",
+                        "geocode": {
+                            "lat": 37.7893799,
+                            "lng": -122.4167294,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Saint Francis Planning Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Draft a preliminary memo summarizing the findings from the morning's site walk.",
+                        "geocode": {
+                            "lat": 37.7893799,
+                            "lng": -122.4167294,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Saint Francis Planning Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Ride the electric scooter home, enjoying the downhill cruise back to SoMa.",
+                        "geocode": {
+                            "lat": 37.78820899999999,
+                            "lng": -122.4168462,
+                            "formatted_address": "Lower Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Lower Nob Hill to SoMa Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Head out for a post-work bouldering session to decompress and get some exercise.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs Climbing Gym"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries on the way home to pick up ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.76922570000001,
+                            "lng": -122.4148782,
+                            "formatted_address": "1745 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Rainbow Grocery Cooperative"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook and eat a healthy dinner while catching up on a call with his parents.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watching a documentary and winding down before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A busy and productive day for Liam, an Urban Planning Assistant, balancing work on a hospital campus project with his active city lifestyle, including a scooter commute, a bouldering session, and time for personal errands.",
+                "home_address": "1743 Howard St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7703823,
+                    "lng": -122.417582,
+                    "formatted_address": "1743 Howard St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s life is a story of deliberate pivots. Growing up amidst the quiet predictability of suburban Cleveland, Ohio, he was a thoughtful, observant child raised by a pragmatic accountant father and a history-teacher mother. He followed his mother\u2019s passion, earning a Bachelor's degree in History from Ohio State University, a choice his father privately deemed impractical. Restless and seeking a world unlike the one he knew, David bought a one-way ticket to San Francisco upon graduation, drawn by the city\u2019s promise of reinvention.\n\nHis initial years were a struggle. The History degree that had felt so profound in a lecture hall proved difficult to monetize. He drifted between barista gigs and bookstore shifts, watching the tech boom reshape the city around him. The turning point came during a late-night shift, when he realized the historical narratives he loved were simply complex datasets of human behavior. He wasn't just reading history; he was analyzing it. Inspired, he enrolled in an intensive data analytics bootcamp, trading studies of the Peloponnesian War for Python and SQL. His knack for finding patterns in the past translated seamlessly to predicting future trends, and he landed his first tech job within a year.\n\nNow 31, David lives a life defined by his 0.0-mile commute. His apartment in the Mission District doubles as his office, where he deciphers user data for a large tech firm. His daily routine is hyper-local: a morning coffee from the corner cafe, a lunchtime walk through Dolores Park, and evenings spent with his girlfriend, Clara, a graphic designer. His social circle is small but deep, comprised of friends who value long conversations at a brewery over loud nights out.\n\nDavid feels more a resident of his neighborhood than of San Francisco at large. He is a quiet cartographer of his own small world. His dream is to eventually merge his two passions: using data visualization to tell compelling historical stories, perhaps for a museum or an educational platform. He hopes to build a lasting life with Clara in the city that allowed him to become himself, though the ever-present question of affordability looms over their future plans."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, start coffee, and check overnight data alerts.",
+                        "geocode": {
+                            "lat": 37.7960014,
+                            "lng": -122.4238274,
+                            "formatted_address": "2201 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home on Broadway"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Quick jog through the neighborhood and stretching.",
+                        "geocode": {
+                            "lat": 37.79356629999999,
+                            "lng": -122.4465763,
+                            "formatted_address": "Lyon Street Steps, 2990-2996 Lyon St & Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 40,
+                        "location": "Lyon Street Steps"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7960014,
+                            "lng": -122.4238274,
+                            "formatted_address": "2201 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home on Broadway"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and commute downtown on MUNI, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7664135,
+                            "lng": -122.4774023,
+                            "formatted_address": "CA-1, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "MUNI California 1 Bus"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle in at desk, grab a complimentary coffee, and plan daily tasks using Asana.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 25,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work: Pulling and cleaning Q3 user engagement data using SQL.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Personal Desk at Mindspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Virtual stand-up meeting with analytics team via Slack Huddle.",
+                        "geocode": {
+                            "lat": 37.75087389999999,
+                            "lng": -122.4162826,
+                            "formatted_address": "1398 S Van Ness Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "Phone Booth at Mindspace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to and pick up a healthy lunch bowl to-go.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt on Yerba Buena Lane"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon work: Building out a new performance dashboard in Tableau.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 150,
+                        "location": "Personal Desk at Mindspace"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Finalize daily report and respond to end-of-day emails.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Personal Desk at Mindspace"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home, reading the news on his phone.",
+                        "geocode": {
+                            "lat": 37.7664135,
+                            "lng": -122.4774023,
+                            "formatted_address": "CA-1, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "MUNI California 1 Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly grocery essentials.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mollie Stone's Markets on California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Cook a simple pasta dish while listening to a vinyl record.",
+                        "geocode": {
+                            "lat": 37.7960014,
+                            "lng": -122.4238274,
+                            "formatted_address": "2201 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Kitchen, Home on Broadway"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind by reading a chapter of a sci-fi novel.",
+                        "geocode": {
+                            "lat": 37.7960014,
+                            "lng": -122.4238274,
+                            "formatted_address": "2201 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room, Home on Broadway"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Plan outfit for tomorrow, turn off lights, and head to bed.",
+                        "geocode": {
+                            "lat": 37.7960014,
+                            "lng": -122.4238274,
+                            "formatted_address": "2201 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Bedroom, Home on Broadway"
+                    }
+                ],
+                "day_overview": "A productive day for David, balancing focused data analysis at his FiDi coworking space with a routine MUNI commute from Pacific Heights, and winding down with local errands and a quiet evening at home.",
+                "home_address": "3379 Broadway, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7928229,
+                    "lng": -122.4464704,
+                    "formatted_address": "3379 Broadway, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

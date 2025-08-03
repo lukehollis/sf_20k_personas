@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Delivery Driver",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Transportation and Warehousing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story is one of deferred dreams, written on the asphalt of San Francisco\u2019s streets. Raised in Modesto, she was a quiet, observant child who found her voice through the lens of a secondhand 35mm camera. Her family, loving but practical, saw her artistic talent as a hobby, not a career path. Bucking expectations, Sarah moved to the city after high school, enrolling in the photography program at City College of San Francisco. For two exhilarating years, the city was her muse, and the darkroom her sanctuary.\n\nThe turning point came abruptly. Her father suffered a major stroke, and the family\u2019s finances crumbled under the weight of medical bills. Sarah dropped out of college, telling herself it was temporary, and took a job that paid immediately: food delivery. The work was flexible enough to allow for frequent trips back to the Central Valley. What began as a stopgap measure slowly became her life. The relationship she\u2019d moved to the city for buckled under the strain and ended, but Sarah stayed. San Francisco was hers now, not theirs.\n\nToday, at 38, Sarah\u2019s life is a map of the city\u2019s hidden arteries. She lives in a small, rent-controlled apartment in the Outer Richmond, the fog a constant, comforting companion. Her day starts before sunrise, checking delivery apps and planning routes. Her car is her office, a space filled with the scent of coffee and the sound of true-crime podcasts. While she rarely picks up her old camera, the photographer\u2019s eye remains. She notices the perfect light hitting Coit Tower, the fleeting expressions on pedestrians' faces, the stark geometry of a new downtown skyscraper against an old Victorian.\n\nHer social connections are mostly transient\u2014friendly nods with restaurant workers and brief chats with other drivers. Her dream of being a professional photographer feels distant, but it hasn't died. It has simply been downsized into a quiet, persistent hope: to save enough for a new digital camera and maybe, just maybe, finish that one last class. For now, she finds solace in the independence of her job and the quiet moments after a long shift, watching the waves crash at Ocean Beach, a lone figure framing the perfect, uncaptured shot in her mind."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up to alarm, scroll news headlines, and fire up the coffee maker.",
+                        "geocode": {
+                            "lat": 37.7749281,
+                            "lng": -122.4171365,
+                            "formatted_address": "1476 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home: 1476 Mission St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of toast and yogurt while checking the day's traffic and weather apps.",
+                        "geocode": {
+                            "lat": 37.7749281,
+                            "lng": -122.4171365,
+                            "formatted_address": "1476 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home: 1476 Mission St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to the work hub, dealing with early Mission Street traffic and finding a parking spot near the warehouse.",
+                        "geocode": {
+                            "lat": 37.7594023,
+                            "lng": -122.4102251,
+                            "formatted_address": "2180 Bryant St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Driving in SoMa/Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Clock in at the hub, grab scanner, review morning route manifest, and load packages into the car.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Doorhaus Mission Hub"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Begin morning delivery route, navigating the hills and narrow streets of Noe Valley and Glen Park.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 240,
+                        "location": "SF Neighborhood: Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Grab a super burrito to-go and eat quickly in the car while parked.",
+                        "geocode": {
+                            "lat": 37.79847,
+                            "lng": -122.4070514,
+                            "formatted_address": "1230 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "El Farolito"
+                    },
+                    {
+                        "emoji": "\ud83d\udcec",
+                        "action": "Start the afternoon delivery wave, heading out to the city's west side.",
+                        "geocode": {
+                            "lat": 37.780683,
+                            "lng": -122.4723021,
+                            "formatted_address": "Richmond District, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "SF Neighborhood: The Richmond District"
+                    },
+                    {
+                        "emoji": "\ud83e\udd64",
+                        "action": "Make a quick stop for a much-needed iced coffee to fight the afternoon slump.",
+                        "geocode": {
+                            "lat": 37.613747,
+                            "lng": -122.3851908,
+                            "formatted_address": "299 Domestic Terminals Departures Level, San Francisco, CA 94128, USA"
+                        },
+                        "duration": 20,
+                        "location": "Ritual Coffee Roasters"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc1",
+                        "action": "Complete the final few deliveries and return vehicle to the central hub.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Doorhaus Mission Hub"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Clock out, return scanner, and debrief with the shift manager about any delivery issues.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "Doorhaus Mission Hub"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Drive home, circling the block multiple times to find street parking near the apartment building.",
+                        "geocode": {
+                            "lat": 37.7792236,
+                            "lng": -122.4109737,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Driving in Mission/SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for groceries for the next couple of days.",
+                        "geocode": {
+                            "lat": 37.76922570000001,
+                            "lng": -122.4148782,
+                            "formatted_address": "1745 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 40,
+                        "location": "Rainbow Grocery Cooperative"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Unwind from the day. Change clothes, put on music, and sit down for a few minutes of quiet.",
+                        "geocode": {
+                            "lat": 37.7749281,
+                            "lng": -122.4171365,
+                            "formatted_address": "1476 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home: 1476 Mission St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a simple dinner while catching up on a favorite podcast.",
+                        "geocode": {
+                            "lat": 37.7749281,
+                            "lng": -122.4171365,
+                            "formatted_address": "1476 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home: 1476 Mission St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, streaming a new series on TV.",
+                        "geocode": {
+                            "lat": 37.7749281,
+                            "lng": -122.4171365,
+                            "formatted_address": "1476 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home: 1476 Mission St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: pack lunch for tomorrow, brush teeth, and get into bed to read for a bit before sleep.",
+                        "geocode": {
+                            "lat": 37.7749281,
+                            "lng": -122.4171365,
+                            "formatted_address": "1476 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home: 1476 Mission St"
+                    }
+                ],
+                "day_overview": "A long and demanding day for Sarah, a delivery driver navigating the busy streets of San Francisco, punctuated by a quick burrito break and ending with a quiet evening at home after running errands.",
+                "home_address": "1476 Mission St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7749281,
+                    "lng": -122.4171365,
+                    "formatted_address": "1476 Mission St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

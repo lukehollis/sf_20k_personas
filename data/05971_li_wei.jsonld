@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Wei Li",
+    "givenName": "Wei",
+    "familyName": "Li",
+    "jobTitle": "Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Wei Li\u2019s San Francisco story began not in a gleaming tech campus, but in the foggy avenues of the Sunset District. The only child of first-generation immigrants, his childhood was scored by the rhythmic beeping of the cash register at his parents\u2019 small corner grocery store. They worked relentlessly, their hopes for his future a silent, constant pressure. Wei absorbed their work ethic, channeling it into academics. He was the quiet, brilliant kid who excelled at math, a student at Lowell High School who understood that numbers were a universal language that could unlock a different life.\n\nHis educational path was a straight, upward line: a bachelor's from UC Davis, followed by a Master's in Statistics from Stanford. It was during his graduate studies that he had his turning point. While building a predictive model for a class project, he realized the same logic could have optimized his parents' inventory, saved them from wasted product, and given them back precious hours. Technology wasn't just abstract; it was a tool for efficiency and a path to freedom. This revelation solidified his career choice.\n\nNow 26, Wei is a data scientist for a major tech firm. His 0.0-mile commute is from his bed to the desk in his minimalist Hayes Valley apartment. His days are a disciplined routine: pour-over coffee at 7 AM, a flurry of Slack messages and Python scripts, and Zoom calls where he presents data that shapes user experiences for millions. The digital nature of his work is punctuated by analog escapes\u2014a midday run through the Panhandle or an evening walk to a brewery to meet his small circle of friends, a mix of old high school buddies and fellow tech transplants.\n\nThough financially secure, Wei feels a peculiar disconnect. He is a native who now inhabits the epicenter of the \"new\" San Francisco that often displaces the old. He sees the city of his youth and the city he helps build as two separate entities. His deepest aspiration isn't to climb the corporate ladder, but to eventually launch his own venture: a data-driven platform to help small, family-run businesses like his parents' thrive. He dreams of using his skills not just to optimize ad clicks, but to empower the people who, like his parents, are the quiet, foundational heartbeat of the city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udca7",
+                        "action": "Wake up, hydrate, and start the coffee maker.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Apartment on Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a morning run along the waterfront.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Lombard St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Eat a quick breakfast of yogurt and granola while checking tech news.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute across town to work on an electric scooter.",
+                        "geocode": {
+                            "lat": 37.7676121,
+                            "lng": -122.4312108,
+                            "formatted_address": "Duboce Triangle, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Street Grid (Marina to Duboce Triangle)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Attend daily team stand-up meeting to sync on model-building progress.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Computer & Tech Training"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Writing Python scripts for data cleaning and feature engineering.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "SF Computer & Tech Training"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy lunch bowl and eat in the park.",
+                        "geocode": {
+                            "lat": 37.7691838,
+                            "lng": -122.4316009,
+                            "formatted_address": "2 Sanchez St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Duboce Park Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Analyze results from a recent A/B test and prepare a findings report.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "SF Computer & Tech Training"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Collaborate with another data scientist on a peer code review session.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "SF Computer & Tech Training"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute home on the e-scooter, enjoying the evening air.",
+                        "geocode": {
+                            "lat": 37.7676121,
+                            "lng": -122.4312108,
+                            "formatted_address": "Duboce Triangle, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Street Grid (Duboce Triangle to Marina)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Drop off work gear and change into casual clothes.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Meet a friend for tacos and margaritas.",
+                        "geocode": {
+                            "lat": 37.8004003,
+                            "lng": -122.4405457,
+                            "formatted_address": "2250 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "Tacolicious"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Work on a personal data visualization project using public city data.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Apartment on Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and stream an episode of a sci-fi series.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down, read a book, and set out clothes for tomorrow.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Apartment on Lombard St"
+                    }
+                ],
+                "day_overview": "A productive day for a young data scientist, balancing focused work in the Castro/Duboce area with an active bayside run, an e-scooter commute, and a social dinner in his Marina neighborhood.",
+                "home_address": "1741 Lombard St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8003745,
+                    "lng": -122.4301359,
+                    "formatted_address": "1741 Lombard St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1998",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Li Family"
+    }
+}

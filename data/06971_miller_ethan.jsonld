@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Miller",
+    "givenName": "Ethan",
+    "familyName": "Miller",
+    "jobTitle": "Social Worker",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "['Indian', 'White']"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Indian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Social Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ethan Miller\u2019s life has been a quiet negotiation between two worlds. Raised in Fremont, his world was shaped by his father, a pragmatic white engineer from Ohio, and his mother, a vibrant first-generation immigrant from Mumbai. From his father, he inherited a calm demeanor and an analytical mind; from his mother, a deep well of empathy and a rich tapestry of stories about community and mutual support. Growing up, Ethan often felt caught in the middle, navigating the cultural space between his family\u2019s orderly suburban life and the passionate, collective spirit his mother championed.\n\nHe initially followed his father\u2019s practical advice, enrolling in UC Santa Barbara\u2019s economics program. However, a volunteer position at a local community center during his junior year became a profound turning point. For the first time, he saw the systemic cracks that left people vulnerable, a reality far removed from his comfortable upbringing. The experience ignited a sense of purpose that economics couldn't satisfy. He shifted his focus, eventually earning a Master of Social Work from UC Berkeley, determined to work on the front lines of the issues he\u2019d witnessed.\n\nUpon graduating, Ethan moved to San Francisco, deliberately choosing to live and work in the Tenderloin. His 0.0-mile commute is a testament to his commitment; his apartment is just blocks from the social services agency where he is employed, and his clients are his neighbors. His days are a blur of paperwork, crisis intervention, and navigating the city\u2019s labyrinthine bureaucracy to secure housing or mental health support for those on the brink. He knows the corner store owners by name and understands the complex social fabric of his neighborhood on a granular level.\n\nNow 36 and recently single after a long-term relationship buckled under the weight of his demanding career, Ethan finds solace in routine: a morning coffee from a local cafe, a long run through the city to clear his head, and quiet evenings with a book. The recent loss of his mother has only sharpened his resolve, making him feel her legacy of compassion in every case he takes on. Ethan\u2019s dream isn\u2019t a bigger salary or a home in the suburbs; it\u2019s the quiet hope of seeing his clients achieve stability. He aspires to a future where his job is less about crisis and more about prevention, a San Francisco that lives up to its promise for all its residents, one small, hard-won victory at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for ten minutes, and hydrate.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Morning walk to grab a drip coffee and a pastry.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Martha & Bros. Coffee Company"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat breakfast at home while reviewing personal emails and daily news.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Mental 'commute' to work: organize desk, review client schedule, and set daily priorities.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Review client case files and respond to urgent emails for Arc Studios & Gallery clients.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead a virtual telehealth support session with a client.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Take a full lunch break, walking to grab a fried plantain and veggie burrito.",
+                        "geocode": {
+                            "lat": 37.808932,
+                            "lng": -122.4184329,
+                            "formatted_address": "1965 Al Scoma Way, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Little Chihuahua To-Go"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Complete confidential client progress notes and required agency documentation.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1",
+                        "action": "Attend a virtual inter-agency planning meeting for a new community arts program.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Log off from work and 'commute home' by going for a de-stressing run.",
+                        "geocode": {
+                            "lat": 37.7602015,
+                            "lng": -122.4267959,
+                            "formatted_address": "Mission Dolores Park, Dolores St &, 19th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 55,
+                        "location": "Dolores Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop for fresh produce and dinner ingredients on the walk home from the park.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Church Street Produce"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Shower, cook dinner, and eat while listening to a political science podcast.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk to the Mission to meet a friend for a beer.",
+                        "geocode": {
+                            "lat": 37.7594028,
+                            "lng": -122.4087544,
+                            "formatted_address": "2736 20th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Lost Resort"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and tidying up the apartment for the next day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Noe Valley"
+                    }
+                ],
+                "day_overview": "A structured day for a work-from-home social worker, balancing intensive client-focused tasks with essential self-care, physical activity, and social connection in his Noe Valley neighborhood and the nearby Mission district.",
+                "home_address": "1156 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.74825209999999,
+                    "lng": -122.4362861,
+                    "formatted_address": "1156 Diamond St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

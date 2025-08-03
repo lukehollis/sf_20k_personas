@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Amanda Lee",
+    "givenName": "Amanda",
+    "familyName": "Lee",
+    "jobTitle": "Shop Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Amanda Lee is a fixture of San Francisco\u2019s Inner Richmond, as much a part of the neighborhood's foggy landscape as the eucalyptus trees in Golden Gate Park. Her life unfolds within a few square blocks, centered on \u201cThe Jade Pen,\u201d the beautifully curated stationery and gift shop she manages. She lives in the apartment directly above it, making her commute a simple walk down a creaky flight of stairs.\n\nBorn to first-generation immigrants from Hong Kong, Amanda grew up stocking shelves and running the cash register at her parents' original, more utilitarian convenience store. She was the quiet, dutiful daughter, absorbing their work ethic while dreaming of a more creative life. In her early twenties, she enrolled at San Francisco State University, tentatively pursuing a degree in graphic design. The campus felt like a different world, one filled with artistic possibilities far removed from the daily grind of the family business.\n\nHer college journey was cut short after two years. Her father suffered a major stroke, and without hesitation, Amanda put her studies on indefinite hold to run the store, allowing her mother to become his full-time caregiver. What was meant to be a temporary measure became her life\u2019s work. After her father passed away a few years later, she used her dormant design skills to lovingly transform the humble corner store into The Jade Pen, honoring her heritage while building something that was uniquely hers.\n\nNow 44, Amanda\u2019s routine is a comforting rhythm of unlocking the shop door, arranging displays of Japanese paper and German fountain pens, and chatting with regulars who have become her extended family. Her social life consists of weekly dinners with a small circle of friends and monthly visits with her aging mother. While content, she harbors a quiet restlessness. She dreams not of escape, but of expansion\u2014launching an online store to share her curated collection with the world. A deeper, more private hope is for a partner who understands her deep-rooted sense of duty and can see the vibrant, creative woman who lives and dreams just above the shop."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, gentle stretching, and check in on her parents.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bedroom, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning hygiene routine: shower, get dressed in comfortable home-office attire.",
+                        "geocode": {
+                            "lat": 37.8051128,
+                            "lng": -122.4101492,
+                            "formatted_address": "3362 Stockton St, San Francisco, CA 94108"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare a simple breakfast of toast and fruit, and make coffee with a Moka pot.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Kitchen, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Commute to the 'office' by setting up her laptop and work documents at her desk overlooking Stockton St.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze the previous day's sales reports from the SOMA store and handle urgent staff emails.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udfeb",
+                        "action": "Host the weekly virtual team huddle with her SOMAcentral staff via Google Meet to discuss goals and promotions.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk down the block to grab fresh bread and sandwiches for lunch.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Eat lunch and catch up with her parents in the living room.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Living Room, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Process inventory paperwork and communicate with suppliers about a delayed shipment.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Build and finalize the employee work schedules for the next two weeks using scheduling software.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0c",
+                        "action": "End the workday by closing all tabs, responding to final messages, and tidying her desk.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for an energizing walk around the neighborhood for some fresh air and exercise.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6c",
+                        "action": "Pick up some essentials and fresh produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7981047,
+                            "lng": -122.4061137,
+                            "formatted_address": "536 Broadway, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "North Beach Market & Deli"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Cook a stir-fry dish and eat dinner with her family.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Kitchen, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax with her parents, watching a popular game show on TV.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Living Room, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a novel and planning her outfit for an in-store day tomorrow.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Bedroom, North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Amanda, a retail manager living in North Beach. Her schedule is a blend of focused administrative work, caring for her elderly parents, and enjoying the unique character of her historic neighborhood.",
+                "home_address": "3362 Stockton St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.8051128,
+                    "lng": -122.4101492,
+                    "formatted_address": "3362 Stockton St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

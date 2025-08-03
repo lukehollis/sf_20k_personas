@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Tanaka",
+    "givenName": "Ethan",
+    "familyName": "Tanaka",
+    "jobTitle": "Field Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian or Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District Resident"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology or Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ethan Tanaka\u2019s life has always been about what\u2019s tangible. Raised in Daly City by third-generation Japanese American parents, his home was one of practicality, not academic pressure. While his friends chased acceptance letters from prestigious universities, Ethan was happier taking apart the family\u2019s old VCR or trying to coax a dial-up modem into working faster. His father, a logistics manager, and his mother, a bank teller, encouraged his hands-on curiosity. A four-year degree felt abstract; a circuit board felt real.\n\nThis led him to Skyline College, where he earned an Associate\u2019s degree in Electronics Technology. After a few years working for big-box stores and small repair shops, he landed a coveted role as a Field Technician for a major smart home company. This was his turning point. The job offered autonomy, a company van, and the financial independence to finally move into San Francisco proper.\n\nNow 29, Ethan lives in a tidy studio in the Inner Richmond. His 0.0-mile commute is a technicality; his apartment is his command center. Each morning begins with coffee and a tablet, reviewing a queue of installation and repair tickets that will take him to a different corner of the city\u2014from a sleek SoMa loft to a sprawling Pacific Heights Victorian. He sees the real San Francisco, the one behind the front doors.\n\nHis social life is small but solid, revolving around a few old friends and regular ramen dinners with his younger sister, an SF State student. A year out from a long-term relationship, he\u2019s cautiously navigating the dating world, finding it more complex than any network he\u2019s ever had to troubleshoot.\n\nEthan feels a deep, quiet connection to the city's texture. He loves the Richmond\u2019s foggy calm and the easy access to Golden Gate Park. He dreams of one day starting his own high-end home automation business, a venture that would blend his technical skill with a craftsman's touch. For now, he finds satisfaction in solving problems, in making things work, and in knowing the intricate, hidden wiring of the city he calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bathroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Eat a quick breakfast of toast and coffee while chatting with his dad in the kitchen.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, listening to a tech podcast to catch up on industry news while navigating morning traffic.",
+                        "geocode": {
+                            "lat": 37.780857,
+                            "lng": -122.3906171,
+                            "formatted_address": "699 2nd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 40,
+                        "location": "I-280 North & SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Clock in and review the daily work order queue for any high-priority service tickets.",
+                        "geocode": {
+                            "lat": 37.7893799,
+                            "lng": -122.4167294,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "UCSF Saint Francis - IT Department Office"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Respond to an urgent service call to troubleshoot and repair a faulty patient monitoring system.",
+                        "geocode": {
+                            "lat": 37.7893799,
+                            "lng": -122.4167294,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Saint Francis - Intensive Care Unit"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Perform scheduled preventative maintenance on the mobile phlebotomy cart workstations.",
+                        "geocode": {
+                            "lat": 37.7893799,
+                            "lng": -122.4167294,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "UCSF Saint Francis - Clinical Laboratory"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Walk over to grab a classic Special Combination #1 Banh Mi for lunch.",
+                        "geocode": {
+                            "lat": 37.7831271,
+                            "lng": -122.4173619,
+                            "formatted_address": "560 Larkin St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Saigon Sandwich"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Install and configure a new employee workstation in the hospital's billing department.",
+                        "geocode": {
+                            "lat": 37.7893799,
+                            "lng": -122.4167294,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Saint Francis - Administration Offices"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Update service ticket logs, document repairs, and organize the parts closet before heading out.",
+                        "geocode": {
+                            "lat": 37.7893799,
+                            "lng": -122.4167294,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Saint Francis - IT Department Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive home, dealing with the usual evening rush hour traffic leaving the downtown core.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Van Ness Ave & SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up produce and some snacks for the week.",
+                        "geocode": {
+                            "lat": 37.7312905,
+                            "lng": -122.4501739,
+                            "formatted_address": "625 Monterey Blvd, San Francisco, CA 94127, USA"
+                        },
+                        "duration": 25,
+                        "location": "Safeway on Monterey Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a quick run through the canyon trails to de-stress from the day.",
+                        "geocode": {
+                            "lat": 37.7415588,
+                            "lng": -122.4431851,
+                            "formatted_address": "Glen Canyon Park, Elk St and, Chenery St, San Francisco, CA 94127, USA"
+                        },
+                        "duration": 45,
+                        "location": "Glen Canyon Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Eat a home-cooked dinner with his parents and catch up on their respective days.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udfae",
+                        "action": "Log on for a competitive gaming session with his friends online.",
+                        "geocode": {
+                            "lat": 37.8061914,
+                            "lng": -122.4128691,
+                            "formatted_address": "2351 Powell St Apt 315, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home - Bedroom/Gaming Setup"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wind down by watching YouTube videos and browsing Reddit.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83c\udf92",
+                        "action": "Lay out work clothes for tomorrow and pack his work bag.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A busy day for a hospital field technician, involves hands-on problem-solving at work, navigating SF traffic, and balancing personal time with family obligations in his Glen Park home.",
+                "home_address": "3163 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7447717,
+                    "lng": -122.4357096,
+                    "formatted_address": "3163 Diamond St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Some college or Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

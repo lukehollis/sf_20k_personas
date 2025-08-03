@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Lin",
+    "givenName": "Mei",
+    "familyName": "Lin",
+    "jobTitle": "Certified Nursing Assistant (CNA)",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Lin arrived in San Francisco\u2019s Richmond District from Guangdong, China at age nine, the scent of saltwater and fog a stark contrast to the humid air of her homeland. Her parents, who spoke little English, poured their lives into a small laundromat on Geary Boulevard, instilling in Mei a profound sense of duty and the weight of their sacrifice.\n\nA bright student, she enrolled at City College with dreams of studying art history, finding beauty in the European paintings at the Legion of Honor. But her path veered sharply when her mother was diagnosed with a debilitating neurological condition. Family needs eclipsed personal ambition. To support her aging father and provide care, Mei dropped out of college and earned her Certified Nursing Assistant (CNA) certification\u2014a practical, immediate path to employment. The decision was a quiet heartbreak, a dream folded and put away like clean laundry.\n\nNow at 47, Mei Lin\u2019s life is defined by service. She is a live-in CNA for an elderly woman in a quiet house in the Inner Sunset, making her commute non-existent. Her world is the three-bedroom home, her days a meticulous routine of administering medication, preparing meals, providing companionship, and performing the physically taxing work of patient mobility. Her key turning point wasn't a single event, but the slow, decade-long transition from caring for her own mother until her passing to professionally caring for others.\n\nHer social life is sparse. Her father still lives in the Richmond, and their one steadfast ritual is dim sum every other Sunday. These outings are her main connection to the world outside her work. Her connection to San Francisco is not the glittering skyline but the quiet, foggy streets of the Sunset, the #7-Haight/Noriega bus route, and the familiar faces at the neighborhood grocery store.\n\nMei dreams not of wealth, but of quiet autonomy. She hopes to one day have a small apartment of her own, perhaps in the same neighborhood, where she can finally unpack her old art history textbooks. Her greatest aspiration is the freedom to spend an entire afternoon at the Japanese Tea Garden or walk along Ocean Beach at her own pace, with no one\u2019s needs to attend to but her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake Up & Morning Meditation",
+                        "geocode": {
+                            "lat": 37.7906339,
+                            "lng": -122.4406829,
+                            "formatted_address": "2242 Divisadero St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (2242 Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and Eat a Quick, Protein-Rich Breakfast",
+                        "geocode": {
+                            "lat": 37.7906339,
+                            "lng": -122.4406829,
+                            "formatted_address": "2242 Divisadero St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (2242 Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5a",
+                        "action": "Shower, Put on Scrubs, and Pack Bag",
+                        "geocode": {
+                            "lat": 37.7906339,
+                            "lng": -122.4406829,
+                            "formatted_address": "2242 Divisadero St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (2242 Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to Work via Carpool",
+                        "geocode": {
+                            "lat": 37.76471859999999,
+                            "lng": -122.4319401,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Carpool with colleague"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe5",
+                        "action": "Clock In, Get Morning Report, and Greet Patients",
+                        "geocode": {
+                            "lat": 37.785997,
+                            "lng": -122.422302,
+                            "formatted_address": "1101 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "California Pacific Medical Center - Van Ness Campus"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Morning Patient Care Rounds",
+                        "geocode": {
+                            "lat": 37.785997,
+                            "lng": -122.422302,
+                            "formatted_address": "1101 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 240,
+                        "location": "California Pacific Medical Center - Van Ness Campus"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Grab a Quick Lunch with Coworkers",
+                        "geocode": {
+                            "lat": 37.785997,
+                            "lng": -122.422302,
+                            "formatted_address": "1101 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "CPMC Hospital Cafeteria - The Hearth"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Afternoon Patient Care & Digital Charting",
+                        "geocode": {
+                            "lat": 37.785997,
+                            "lng": -122.422302,
+                            "formatted_address": "1101 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 240,
+                        "location": "California Pacific Medical Center - Van Ness Campus"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Provide End-of-Shift Report to Incoming Staff",
+                        "geocode": {
+                            "lat": 37.785997,
+                            "lng": -122.422302,
+                            "formatted_address": "1101 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "California Pacific Medical Center - Van Ness Campus"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Carpool Commute Home",
+                        "geocode": {
+                            "lat": 37.76471859999999,
+                            "lng": -122.4319401,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Carpool with colleague"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up Fresh Produce and Essentials",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Whole Foods Market (California & Franklin)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Decompress with a Walk around the Park",
+                        "geocode": {
+                            "lat": 37.79165,
+                            "lng": -122.4275889,
+                            "formatted_address": "Lafayette Park, Gough St &, Washington St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Lafayette Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Cook a Simple Dinner and Eat while Listening to a Podcast",
+                        "geocode": {
+                            "lat": 37.7906339,
+                            "lng": -122.4406829,
+                            "formatted_address": "2242 Divisadero St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home (2242 Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Evening Phone Call with her Mother",
+                        "geocode": {
+                            "lat": 37.7906339,
+                            "lng": -122.4406829,
+                            "formatted_address": "2242 Divisadero St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (2242 Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the Couch and Watch a Favorite Show",
+                        "geocode": {
+                            "lat": 37.7906339,
+                            "lng": -122.4406829,
+                            "formatted_address": "2242 Divisadero St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (2242 Divisadero St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare for the Next Day and Nighttime Routine",
+                        "geocode": {
+                            "lat": 37.7906339,
+                            "lng": -122.4406829,
+                            "formatted_address": "2242 Divisadero St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (2242 Divisadero St)"
+                    }
+                ],
+                "day_overview": "A physically and emotionally demanding but structured day for a dedicated CNA. The schedule balances a long shift of patient care with personal time for de-stressing, errands, and connecting with family.",
+                "home_address": "2242 Divisadero St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7906339,
+                    "lng": -122.4406829,
+                    "formatted_address": "2242 Divisadero St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Licensed Clinical Social Worker",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s quiet life in San Francisco\u2019s Inner Richmond was a landscape he had carefully cultivated, a stark contrast to the sprawling suburbs of his Concord upbringing. Growing up, the Miller household appeared idyllic, but beneath the surface was a current of unacknowledged anxiety, primarily manifesting in his younger sister, Sarah. Her struggles with what would later be diagnosed as severe social anxiety and depression were dismissed by his well-meaning parents as shyness. Watching her retreat into herself, feeling helpless and frustrated by his family's inability to understand, became the defining experience of David\u2019s youth.\n\nThis formative helplessness propelled him toward a career in service. After completing his undergraduate degree, he pursued a Master of Social Work at UC Berkeley, driven by a need to acquire the language and tools his family had lacked. His early career was a trial by fire, working in the demanding environment of a public hospital's psychiatric emergency services. The intensity led to both professional expertise and personal burnout, contributing to the amicable end of his marriage in his late thirties.\n\nThe key turning point was his decision to leave the hospital system and start a private practice focused on telehealth. This shift, made five years ago, allowed him to reclaim his own mental space. Now, his commute is a zero-mile walk from his kitchen to the small home office in his apartment, a room with a bay window overlooking the fog-dusted street. His day consists of back-to-back video sessions with clients, offering the empathy and guidance he once craved for his own family.\n\nHis personal life is structured and peaceful. Mornings begin with a walk through Golden Gate Park, coffee in hand. He maintains a close relationship with Sarah, who is now thriving, and a small, loyal circle of friends he meets for a weekly board game night. David\u2019s aspiration isn\u2019t grand; he hopes to one day write a practical guide for families navigating a loved one's mental illness. For him, San Francisco is not a city of hustle, but a sanctuary where he can do meaningful work from a place of stability, finding his own quiet peace amid the city's hum."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and practice mindfulness meditation to start the day with a clear head.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee while listening to an NPR podcast and get showered and dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Cycle down the hill, navigating the Folsom Street protected bike lanes to the Financial District.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 25,
+                        "location": "SF Bike Network - Potrero to FiDi"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at Chime, grab a sparkling water, and review notes for the morning's scheduled employee sessions.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Chime Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Conduct a confidential one-on-one counseling session with a Chime employee.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Private Wellness Room at Chime"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Meet with the People (HR) team to plan a company-wide wellness initiative for the upcoming quarter.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Conference Room 'Mint' at Chime"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy salad bowl to eat outside and get some fresh air away from the office.",
+                        "geocode": {
+                            "lat": 37.7913266,
+                            "lng": -122.3963941,
+                            "formatted_address": "300 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "Mendocino Farms"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Lead a weekly group workshop on 'Managing Stress and Preventing Burnout' for employees.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Chime HQ Common Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Hold two back-to-back afternoon one-on-one counseling sessions.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 120,
+                        "location": "Private Wellness Room at Chime"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Complete clinical notes (charting) for the day's sessions and organize tomorrow's schedule.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 35,
+                        "location": "Chime Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5",
+                        "action": "Begin the challenging uphill bike commute home, a key part of his daily exercise regimen.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 35,
+                        "location": "SF Bike Network - FiDi to Potrero"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7632252,
+                            "lng": -122.423084,
+                            "formatted_address": "17th St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market, 17th St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple, healthy dinner and eat while decompressing from the day.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Evening phone call to check in with his parents.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind by reading a new biography before heading to bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room Couch"
+                    }
+                ],
+                "day_overview": "A structured day for David, a corporate social worker, balancing confidential employee sessions and wellness programming at Chime with a vigorous bike commute and a quiet evening in his Potrero Hill neighborhood.",
+                "home_address": "798 16th St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7673508,
+                    "lng": -122.3947517,
+                    "formatted_address": "798 16th St, San Francisco, CA 94158, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

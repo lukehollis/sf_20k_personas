@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Chloe Miller",
+    "givenName": "Chloe",
+    "familyName": "Miller",
+    "jobTitle": "Process Engineer",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Chloe Miller\u2019s life has always been a study in optimization. Raised in a quiet, orderly suburb of Des Moines, Iowa, by an accountant father and a high school science teacher mother, she was the child who sorted her Legos by color and size before building. Her world was one of logic and predictable outcomes, a stark contrast to the city she would one day call home. She pursued a Bachelor's degree in Chemical Engineering from the University of Illinois, excelling at understanding and refining complex systems.\n\nThe major turning point came during a summer internship. While her peers were focused on petroleum refinement, Chloe was assigned to a tech company\u2019s operations team, tasked with streamlining their software deployment pipeline. She fell in love not with coding, but with the process itself\u2014the elegant, intricate dance of making a chaotic system efficient. She realized the principles of fluid dynamics she was studying could be applied to workflows and human systems. Upon graduation, she accepted a lucrative offer as a Process Engineer for a major San Francisco tech firm, trading cornfields for concrete.\n\nNow 24, Chloe lives a life defined by remote work from her sleek, minimalist apartment in Hayes Valley. Her 0.0-mile commute consists of walking from her bedroom to her standing desk. Her days are a structured rhythm of virtual stand-ups, data analysis, and creating flowcharts that eliminate bottlenecks for engineering teams she rarely meets in person. Her breaks are measured: a 15-minute walk to grab a cold brew, a quick stroll through Patricia's Green. Socially, she navigates a landscape of scheduled video calls with college friends and occasional, awkward company happy hours.\n\nThough professionally successful, Chloe feels a disconnect. San Francisco is more of a backdrop for her laptop than a city she truly lives in. Her deepest aspiration is to apply her skills beyond corporate efficiency. She dreams of consulting for nonprofits or city governments, using her process-oriented mind to tackle tangible problems like food distribution logistics or improving public services. She hopes to one day re-engineer not just a company\u2019s workflow, but a small piece of the world, finally bridging the gap between her systematic mind and a more meaningful human connection."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to alarm, hydrate, and do a quick 10-minute meditation session.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Morning yoga session following an online class to stretch and get energized.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, skincare routine, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Prepare and eat avocado toast with a hard-boiled egg while listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk from the Financial District to SoMa, enjoying the morning city buzz and listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7792719,
+                            "lng": -122.4098122,
+                            "formatted_address": "Minna St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Montgomery St to Minna St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab a cold brew from the kitchen, and review Slack messages and the day's JIRA tickets.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend the daily engineering team stand-up meeting to discuss progress and blockers.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: analyzing performance data from the latest deployment and mapping out a new automation workflow.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk with a few coworkers to grab a healthy lunch bowl.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Collaborate with a Product Manager to refine requirements for an upcoming process optimization project.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Final work block: writing Python scripts for data validation and documenting the new process on Confluence.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Walk home, taking a slightly different route through Yerba Buena Gardens to decompress.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SoMa to Financial District"
+                    },
+                    {
+                        "emoji": "\ud83c\udf79",
+                        "action": "Meet a friend for after-work drinks and appetizers at a nearby cocktail lounge.",
+                        "geocode": {
+                            "lat": 37.787097,
+                            "lng": -122.40136,
+                            "formatted_address": "662 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Novela Cocktail Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Light dinner at home, tidying up the kitchen, and packing lunch for the next day.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel, setting out clothes for tomorrow, and doing an evening skincare routine.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Apartment on Montgomery St"
+                    }
+                ],
+                "day_overview": "A productive day for Chloe, a young Process Engineer, balancing focused work in SoMa with a healthy walk commute and a social evening near her FiDi apartment.",
+                "home_address": "392 Montgomery St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7930372,
+                    "lng": -122.4025834,
+                    "formatted_address": "392 Montgomery St, San Francisco, CA 94104, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

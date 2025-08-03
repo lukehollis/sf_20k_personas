@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Elena Ivanov",
+    "givenName": "Elena",
+    "familyName": "Ivanov",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Elena Ivanov was born into the persistent fog of San Francisco's Outer Richmond, a neighborhood that mirrored her own early sense of self\u2014a blend of cultures suspended in ambiguity. Her father, a quiet intellectual who fled the collapsing Soviet Union, filled their small apartment with the scent of black tea and the weight of unspoken history. Her American mother, a pragmatic nurse of mixed European heritage, grounded the family in the present. Elena grew up with the Slavic surname but without the language, leaving her feeling like a tourist in her own heritage.\n\nSchool was a frustrating exercise in conformity. Bright but unengaged, she saw the prescribed path of high school to a four-year university as an ill-fitting suit. After a single, disillusioning semester at City College, she dropped out. It was in the digital wilderness of the internet that she found her calling. She discovered data\u2014a world of pure logic, patterns, and elegant syntax. While her peers were navigating lecture halls, Elena was devouring online courses and intensive coding bootcamps, mastering SQL, Python, and R. This self-directed education, invisible on any traditional transcript, became her key.\n\nHer talent for finding the signal in the noise landed her a position as a Data Analyst for a small, stealth-mode startup. With no physical office, her commute is a 0.0-mile walk from her bed to her desk in her meticulously organized Hayes Valley studio. Her days are a quiet ritual: pour-over coffee from a local cafe, hours of deep focus deciphering user behavior, and a midday walk through the manicured chaos of Patricia's Green to clear her head.\n\nElena\u2019s social life is small and intentional, consisting of a few friends from her bootcamp days and colleagues she knows primarily through Slack. She is more fluent in querying a database than in making small talk. Her dream isn\u2019t corporate conquest, but mastery and meaning. She aspires to one day apply her skills to a cause she believes in, perhaps analyzing climate patterns or social equity data. For now, she finds contentment in the quiet precision of her work, a woman who decoded her own future in a city of infinite variables."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was thirteen, sitting in the living room as fog pressed against the windows. Her father was silent, lost in a Russian newspaper, the steam from his black tea curling around his glasses. Elena stared at the Cyrillic characters, dense and impenetrable. They looked like a code she couldn\u2019t crack. In that quiet moment, she felt the vast weight of a history she inherited but couldn't read. It wasn't sadness, but a hollow space\u2014a motivating void that she would one day seek to fill with a logic of her own.\n\n2.\nAt nineteen, she walked out of a required sociology lecture at City College and didn't go back. It wasn't a dramatic storm-out, but a quiet, final click. The professor\u2019s voice, the fluorescent hum, the very air felt like a borrowed, ill-fitting suit. The relief that washed over her on the MUNI ride home was absolute and terrifying. She wasn\u2019t failing; she was finally choosing. That decision taught her to trust her own internal compass over any curriculum, a lesson that would become the foundation of her entire career.\n\n3.\nIt was 2 AM, her face illuminated by the glow of her monitor in her Outer Richmond bedroom. After hours wrestling with a messy sample database from an online course, she wrote a complex SQL query, hit enter, and watched. Instead of an error, a perfectly structured table of results appeared. It was like a key turning in a lock she didn't know existed. In that silent flash of organized data, she felt a fluency that had always eluded her. This was her language. This was the moment she stopped feeling lost and started building.\n\n4.\nThe job offer arrived not as a phone call, but as a plain-text email. There was no mention of her lack of a degree, only an appreciation for the elegant solution she'd built for their technical assessment. Staring at the screen in her new Hayes Valley studio, Elena felt a profound, quiet vindication. All those solitary hours of study, invisible on any transcript, had been seen and understood. It wasn't just a job; it was proof that her unconventional path was a a valid one. It taught her value lay in the work itself.\n\n5.\nJust last week, she stepped away from her monitor for a walk through Patricia's Green. The sharp lines of the metal sculptures cut through the organic chaos of the park, mirroring the way she pulled clean data from messy user logs. A child shrieked with joy, a streetcar rumbled past. For a moment, all the city's variables resolved into a perfect, peaceful pattern. This, she realized, was contentment: not a grand destination, but a quiet, well-queried moment she could return to again and again."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to the alarm, check work emails and personal notifications.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning routine: Shower, skincare, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew pour-over coffee and have a quick breakfast of toast and avocado with her partner.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the bus stop on 24th St to catch the 48-Quintara.",
+                        "geocode": {
+                            "lat": 37.7513041,
+                            "lng": -122.4341129,
+                            "formatted_address": "24th St & Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 5,
+                        "location": "Muni Stop - 24th & Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute on the Muni bus, listening to a data science podcast.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Muni Bus 48"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at her desk, run morning data pipeline scripts, and review the project dashboard.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Zuckerberg SF General Hospital - Health Informatics Department"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a daily stand-up meeting to discuss progress on analyzing ER triage efficiency.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "ZSFGH Conference Room 3A"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Cleaning and analyzing a large dataset of patient outcomes using Python and pandas.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Zuckerberg SF General Hospital - Health Informatics Department"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Lunch break: Walks to grab a carnitas burrito and eats with a coworker in the hospital's garden.",
+                        "geocode": {
+                            "lat": 37.7604861,
+                            "lng": -122.4194111,
+                            "formatted_address": "2288 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Taqueria Cancun"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon focus: Building a Tableau dashboard to visualize the findings from her morning's analysis.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 150,
+                        "location": "Zuckerberg SF General Hospital - Health Informatics Department"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work for the day, update her project tickets in Jira, and pack her bag.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Zuckerberg SF General Hospital - Health Informatics Department"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute home on the Muni 48, reading a novel on her Kindle.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Muni Bus 48"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Quick stop to pick up fresh bread and cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Noe Valley Bakery"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Decompress from the day with a jog around the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Noe Valley Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner with her partner while catching up on their days.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Relax on the couch, planning a weekend trip to wine country.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: Tidy up the kitchen, prep her lunch for tomorrow, and do her nighttime skincare routine.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - Noe Valley"
+                    }
+                ],
+                "day_overview": "A productive day for Elena, balancing deep data work at the hospital with a refreshing yoga session and quality time with her partner in their Noe Valley neighborhood.",
+                "home_address": "1016 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7540476,
+                    "lng": -122.389898,
+                    "formatted_address": "1016 24th St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Ivanov Family"
+    }
+}

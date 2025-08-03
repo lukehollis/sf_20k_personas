@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Operations Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story began not in a bustling metropolis, but in the quiet, damp green of Corvallis, Oregon. Raised by a high school history teacher and a librarian, her childhood was filled with books and a deep appreciation for the past. This led her to pursue a Bachelor's degree in Art History, where she excelled at analyzing the layers of meaning and structure within a single frame\u2014a skill that would prove unexpectedly valuable.\n\nShe moved to San Francisco in the early 2000s, drawn by the city's vibrant culture, hoping to land a curatorial job. However, the dot-com bust had chilled the arts funding scene. Needing to pay rent, Sarah took a temp job as an office assistant at a fledgling software startup. It was a turning point. She discovered a hidden talent for bringing order to the creative chaos of engineers and designers. Analyzing Renaissance composition proved surprisingly adept training for deconstructing inefficient workflows. She was pragmatic, efficient, and saw the entire \u201ccomposition\u201d of the company. Her rise was steady: from assistant to coordinator, and finally to Operations Manager, a role she has held for the last eight years at a mid-sized tech firm.\n\nNow 40, Sarah\u2019s life is one of structured calm. The 0.0-mile commute is a key feature; her office is a sunlit corner of her Inner Richmond apartment. Her days are a blend of Zoom calls and project management software, punctuated by walks through Golden Gate Park with her rescue dog, Buster. She has a close-knit circle of friends, mostly met through old jobs and a book club that has lasted over a decade. A serious relationship ended amicably two years ago, and she now values her independence, though she remains open to connection.\n\nSarah feels deeply woven into the fabric of her neighborhood. She\u2019s a regular at the local bakery, knows the owner of the corner market, and treasures the fog rolling over the avenues. While content, she dreams of bridging her two worlds. Her ultimate aspiration is to use her operational expertise to help a museum or a public art foundation streamline their systems, finally uniting her practical career with her enduring passion for art."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, start coffee, and do a 20-minute guided meditation.",
+                        "geocode": {
+                            "lat": 37.76376279999999,
+                            "lng": -122.478788,
+                            "formatted_address": "1932 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1932 Irving St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.76376279999999,
+                            "lng": -122.478788,
+                            "formatted_address": "1932 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1932 Irving St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of yogurt and granola while checking personal emails.",
+                        "geocode": {
+                            "lat": 37.76376279999999,
+                            "lng": -122.478788,
+                            "formatted_address": "1932 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (1932 Irving St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Short drive to work, navigating the morning rush around the hospital.",
+                        "geocode": {
+                            "lat": 37.7643183,
+                            "lng": -122.4542576,
+                            "formatted_address": "Parnassus Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Parnassus Heights Neighborhood"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Review system dashboards, flag overnight issues, and prioritize the day's tasks.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the daily operations team stand-up meeting to align on project statuses.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Tech Operations Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work block: drafting a project proposal for a new patient data management system.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk off campus to grab a salad and take a mental break from the hospital environment.",
+                        "geocode": {
+                            "lat": 37.8000397,
+                            "lng": -122.4410062,
+                            "formatted_address": "3258 Scott St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Pluto's"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Stakeholder meeting with the Radiology department leadership to discuss an upcoming software upgrade.",
+                        "geocode": {
+                            "lat": 37.7638735,
+                            "lng": -122.4572736,
+                            "formatted_address": "400 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Ambulatory Care Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Address support escalations and conduct a one-on-one with a direct report.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive home from work.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "UCSF Parnassus Garage"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a de-stressing run, taking the path around Stow Lake.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7641474,
+                            "lng": -122.4711468,
+                            "formatted_address": "1200 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Andronico's Community Markets"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Cook dinner while on a video call with her parents.",
+                        "geocode": {
+                            "lat": 37.76376279999999,
+                            "lng": -122.478788,
+                            "formatted_address": "1932 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (1932 Irving St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a new series to unwind.",
+                        "geocode": {
+                            "lat": 37.76376279999999,
+                            "lng": -122.478788,
+                            "formatted_address": "1932 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (1932 Irving St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a novel and prepare for bed.",
+                        "geocode": {
+                            "lat": 37.76376279999999,
+                            "lng": -122.478788,
+                            "formatted_address": "1932 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (1932 Irving St)"
+                    }
+                ],
+                "day_overview": "A busy but balanced day for a tech operations manager at UCSF, blending focused work and project meetings with a refreshing run in Golden Gate Park and a relaxing evening at her Inner Sunset home.",
+                "home_address": "1932 Irving St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.76376279999999,
+                    "lng": -122.478788,
+                    "formatted_address": "1932 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Production Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s life began not in a chaotic artist\u2019s loft, but on a quiet, tree-lined street in a Minneapolis suburb. The son of an architect father and a librarian mother, his upbringing was one of ordered creativity and quiet intellectualism. He was expected to follow a stable path, and for a time, he tried. He enrolled at the University of Wisconsin-Madison, choosing History as a major\u2014a field that felt both respectable and satisfying to his innate curiosity about how things came to be.\n\nThe turning point was not a grand epiphany, but a summer job. Needing money, he took a position helping set up for a massive outdoor music and arts festival. Amid the logistical chaos of scheduling volunteer crews, coordinating with sound engineers, and ensuring portable toilets arrived on time, David discovered a surprising talent: he was brilliant at organizing chaos. He thrived on the pressure, finding deep satisfaction in being the invisible hand that made the spectacle possible.\n\nAfter graduating, he eschewed grad school and instead moved to Chicago, taking an entry-level job with a small avant-garde theater company. This was his true education. He learned lighting grids, union rules, and how to stretch a budget until it screamed. He climbed the ranks from stagehand to assistant manager, his reputation growing as the calm, unflappable guy who could solve any problem.\n\nTen years ago, he followed a job opportunity and a relationship to San Francisco. While the relationship eventually dissolved, his love for the city\u2019s vibrant, tech-infused art scene only deepened. He now lives in a spacious live/work loft in SoMa, making his 0.0-mile commute a dream. His days are a flurry of spreadsheets, vendor calls, and meetings with sculptors, choreographers, and coders creating interactive installations.\n\nHis social life is a tight-knit circle of fellow arts professionals and tech workers who appreciate his world. Evenings are often spent at gallery openings or obscure performances\u2014part work, part pleasure. Though content, David harbors a quiet ambition. He dreams of launching his own production company, one dedicated to fostering large-scale, immersive public art projects that could only exist in a city as strange and beautiful as San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, light stretching, and a brief meditation session to start the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew coffee and catch up on the news with his partner before the day begins.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Prepare and eat a quick breakfast of avocado toast and get ready for work.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "E-bike commute to work, taking a scenic route past the Panhandle.",
+                        "geocode": {
+                            "lat": 37.7729862,
+                            "lng": -122.4459943,
+                            "formatted_address": "Panhandle, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Panhandle Path E-Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Daily stand-up meeting with the Arts in Medicine team to align on production priorities.",
+                        "geocode": {
+                            "lat": 37.7694609,
+                            "lng": -122.3909077,
+                            "formatted_address": "1505 4th St #101, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 35,
+                        "location": "Arts in Medicine Program Office, UCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Gala planning meeting with the hospital's foundation to discuss event logistics and creative.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "St. Mary's Hospital Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83c\udfb6",
+                        "action": "On-site tech scout in the hospital's main atrium for an upcoming patient concert series.",
+                        "geocode": {
+                            "lat": 37.7866019,
+                            "lng": -122.4021831,
+                            "formatted_address": "95 3rd St 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Hospital Atrium, UCSF"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy lunch bowl to recharge before the afternoon.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Panhandle Eatery"
+                    },
+                    {
+                        "emoji": "\ud83c\udfac",
+                        "action": "Review video edit drafts for a series of patient testimonial stories.",
+                        "geocode": {
+                            "lat": 37.7694609,
+                            "lng": -122.3909077,
+                            "formatted_address": "1505 4th St #101, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 90,
+                        "location": "Arts in Medicine Program Office, UCSF"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Check-in with the current artist-in-residence and review their progress on a new mural.",
+                        "geocode": {
+                            "lat": 37.7627536,
+                            "lng": -122.4594388,
+                            "formatted_address": "521 Parnassus Ave # C-215, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 60,
+                        "location": "Patient Wing Art Studio, UCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5",
+                        "action": "Commute home on the e-bike, tackling the Noe Valley hills.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley Hill Climb Route"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh pasta and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Noe Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner and share stories about the day with his partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Take an evening walk to a nearby park to watch the sunset over the city.",
+                        "geocode": {
+                            "lat": 37.7413462,
+                            "lng": -122.4331318,
+                            "formatted_address": "Billy Goat Hill, 2442 Castro St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 45,
+                        "location": "Billy Goat Hill Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a new episode of a favorite show.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A busy and creative weekday for David, balancing his production management role for an arts program at a hospital with quality time with his partner in their Noe Valley neighborhood, connected by an active e-bike commute.",
+                "home_address": "2504 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7419506,
+                    "lng": -122.433252,
+                    "formatted_address": "2504 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

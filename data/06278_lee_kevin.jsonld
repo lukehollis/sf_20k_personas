@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Lee",
+    "givenName": "Kevin",
+    "familyName": "Lee",
+    "jobTitle": "Program Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Lee\u2019s story is a classic Bay Area narrative of quiet defiance. Raised in the sprawling suburbs of Fremont, he is the only son of first-generation Chinese immigrants who equated success with an engineering or medical degree. His childhood was a structured landscape of academic excellence, piano lessons, and the unspoken expectation that he would land a stable, high-paying job in Silicon Valley. His parents saw his future as a straight line; Kevin saw it as a map with unexplored territories.\n\nHis first major act of rebellion was choosing his major at UC Berkeley. He declared a Bachelor of Arts in History, a decision that baffled and disappointed his parents. He was fascinated by the patterns of the past, the stories that shaped societies, not by lines of code. Graduation, however, brought a harsh reality. Armed with a deep understanding of the fall of Rome but few marketable tech skills, he faced a challenging job market. This was his key turning point. In a pragmatic pivot, Kevin spent a year teaching himself data analysis, project management frameworks, and SQL, cleverly framing his history degree as a study in analyzing complex systems and human behavior.\n\nThe strategy worked. He landed a remote position as a Program Analyst for a mid-sized tech company. The 0.0-mile commute was his ticket to freedom. He immediately left Fremont and found a rent-controlled one-bedroom apartment in the Mission District. His daily routine is a study in contrasts. From 9 to 5, he is laser-focused, analyzing program requirements and user feedback from his small desk. But his breaks and evenings are for intentional exploration. He forgoes delivery apps to walk to local taquerias, gets his coffee from the same family-owned shop on 24th Street, and spends weekends photographing the murals in Clarion Alley.\n\nSocially, he maintains a close-knit circle of college friends but is slowly building connections through a local film club. His biggest dream is to finally bridge his two worlds. He envisions creating a history-focused app or an interactive web project that tells the stories of San Francisco's forgotten neighborhoods\u2014a project where his passion for the past could finally inform the technology of the future, proving to himself, and perhaps his parents, that his path was the right one all along."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\udd71",
+                        "action": "Wake up, check news and work emails on phone.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Bedroom, Pacific Heights Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bathroom, Pacific Heights Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of Greek yogurt and coffee.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Kitchen, Pacific Heights Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the bus stop and wait for the Muni.",
+                        "geocode": {
+                            "lat": 37.7975642,
+                            "lng": -122.4307288,
+                            "formatted_address": "1901 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 5,
+                        "location": "California St & Franklin St Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute on the 1-California bus, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7933931,
+                            "lng": -122.3967727,
+                            "formatted_address": "1 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 25,
+                        "location": "Muni 1-California Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the hospital, badge in, and review the day's priorities at his desk.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 15,
+                        "location": "Workstation, UCSF Health Saint Francis Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze data reports from the electronic medical record (EMR) system to identify program issues.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 150,
+                        "location": "Workstation, UCSF Health Saint Francis Hospital"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Pick up a build-your-own salad for lunch.",
+                        "geocode": {
+                            "lat": 37.7979938,
+                            "lng": -122.4219664,
+                            "formatted_address": "2300 Polk St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt, Van Ness Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Attend a project meeting to discuss the implementation of a new patient data portal.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "Conference Room C, UCSF Health Saint Francis Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Write and test SQL queries to support a request from the nursing department.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 120,
+                        "location": "Workstation, UCSF Health Saint Francis Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute home on the 1-California bus, reading a novel on his Kindle.",
+                        "geocode": {
+                            "lat": 37.7933931,
+                            "lng": -122.3967727,
+                            "formatted_address": "1 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni 1-California Bus"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Change into workout clothes and go for a run.",
+                        "geocode": {
+                            "lat": 37.79165,
+                            "lng": -122.4275889,
+                            "formatted_address": "Lafayette Park, Gough St &, Washington St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 50,
+                        "location": "Lafayette Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up a few ingredients needed for dinner.",
+                        "geocode": {
+                            "lat": 37.790107,
+                            "lng": -122.4233935,
+                            "formatted_address": "1765 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Whole Foods Market, California St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner while video chatting with a friend.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Kitchen, Pacific Heights Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner and relax by watching a documentary.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Living Room, Pacific Heights Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prepare for the next day, pack lunch, and read before bed.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Bedroom, Pacific Heights Apartment"
+                    }
+                ],
+                "day_overview": "A productive workday for a Program Analyst in healthcare tech, involving data analysis and meetings, balanced with an evening run in Pacific Heights and a quiet night in.",
+                "home_address": "120 Pacific Ave, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7980325,
+                    "lng": -122.3987933,
+                    "formatted_address": "120 Pacific Ave, San Francisco, CA 94111, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

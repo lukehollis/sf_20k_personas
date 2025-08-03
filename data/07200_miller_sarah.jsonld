@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Office Administrator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Latino Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Office Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a tapestry woven from two distinct cultural threads. Raised in the foggy, diverse suburbs of Daly City, she was the daughter of Elena, a warm, pragmatic immigrant from Oaxaca, and David Miller, a third-generation San Franciscan of Irish descent. Her childhood was a blend of her mother's rich cooking and stories of a vibrant homeland with her father's quiet, working-class stoicism. From a young age, Sarah was the bridge between them, a fluent navigator of both culture and emotion.\n\nArt was her first love. She enrolled at San Francisco State University, intending to major in graphic design, her sketchbooks filled with vibrant cityscapes. But in her second year, a harsh reality intervened. Her mother was diagnosed with a chronic illness, and the family\u2019s finances, already tight, became precarious. Without a second thought, Sarah put her education on hold, trading her design classes for a full-time receptionist job to help with the bills. It was a sacrifice she never regretted, but a turning point that reset her life\u2019s trajectory.\n\nNow 31, Sarah is a highly competent remote Office Administrator. The \"some college\" on her resume is a quiet testament to the path not taken. A few years ago, she finally moved from the suburbs into the city proper, settling into a small but sunny apartment in the Inner Richmond. Her 0.0-mile commute means her world is often contained within these walls and the blocks surrounding them. Her days are structured by logins, spreadsheets, and scheduling, but punctuated by essential rituals: a morning walk to a bakery on Clement Street for coffee and a pork bun, a lunchtime stroll through the tranquil ponds of Golden Gate Park, and evening video calls with her mother, whose health has since stabilized.\n\nThough her career provides stability, her dream has not faded; it has simply been deferred. In the evenings, after her administrative duties are done, she returns to her passion. She works on freelance design projects for small local businesses, slowly building a portfolio and taking online courses to update her skills. Sarah\u2019s hope is to one day close the chapter on administration and fully embrace the creative career she put on pause. She is a quiet, determined resident, her roots firmly planted in the Bay Area's soil, patiently cultivating a future of her own design."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, brew coffee, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home in the Mission"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Pack lunch and have a quick breakfast with her partner.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home in the Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the hilly walk to work, listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7643183,
+                            "lng": -122.4542576,
+                            "formatted_address": "Parnassus Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Walk from the Mission to Parnassus Heights"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, clock in, and review the day's schedule.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "UCSF Medical Center Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Morning administrative tasks: manage department calendars, answer emails, and respond to phone inquiries.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 180,
+                        "location": "UCSF Medical Center Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Eat a packed lunch and get some sun away from the desk.",
+                        "geocode": {
+                            "lat": 37.7633027,
+                            "lng": -122.4590156,
+                            "formatted_address": "530 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Kalmanovitz Library Rooftop Garden"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon project work: coordinate logistics for an upcoming staff training session.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Medical Center Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a weekly administrative team meeting to align on department needs.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Conference Room 4A"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Finalize tasks for the day and prepare a to-do list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 35,
+                        "location": "UCSF Medical Center Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk home, listening to music to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Walk from Parnassus to the Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for ingredients for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat dinner with her partner, catching up on the day.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 80,
+                        "location": "Home in the Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a crime drama together.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home in the Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: tidy up, prep for tomorrow, and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home in the Mission"
+                    }
+                ],
+                "day_overview": "A busy weekday for an office administrator, balancing a structured job at UCSF with a long, active walking commute from her home in the Mission and quality time with her partner in the evening.",
+                "home_address": "3222 Howard St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7703823,
+                    "lng": -122.417582,
+                    "formatted_address": "3222 Howard St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

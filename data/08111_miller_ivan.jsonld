@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ivan Miller",
+    "givenName": "Ivan",
+    "familyName": "Miller",
+    "jobTitle": "Master Mechanic",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Automotive"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ivan Miller was born not in San Francisco, but in the sun-baked flatness of the Central Valley, into a family where hands were for working, not gesturing. His father, a stoic farm equipment repairman, taught him the language of engines before he could properly write his own name. School was an obligation, but the real classroom was the family\u2019s dusty, sprawling garage.\n\nAgainst his father\u2019s practical advice, Ivan tried college, enrolling in a business program at a state school. It felt like wearing a suit that was two sizes too small. He was suffocated by theory when all he wanted was to solve tangible problems. After three semesters, he dropped out, packed a duffel bag, and drove his beat-up Ford Falcon to San Francisco, drawn by a vague sense of rebellion and opportunity.\n\nHe found his true university in a dimly lit garage in the Mission District, run by an old German mechanic named Klaus who specialized in vintage European cars. Ivan started by sweeping floors, but his innate talent was undeniable. Klaus became his mentor, teaching him the art and precision of restoring classic Porsches and Mercedes-Benzes. When Klaus retired a decade later, he sold the garage\u2014and the small apartment above it\u2014to Ivan for a price that was more gift than transaction.\n\nNow fifty, Ivan\u2019s life is contained within that single Mission block. His 0.0-mile commute consists of walking down a flight of wooden stairs, the smell of coffee from his kitchen mingling with the faint, familiar scent of oil and solvent from the shop below. His days are a symphony of clanking tools and purring, revived engines. His clientele consists of loyal, long-time San Franciscans and the occasional tech millionaire who bought a classic car as a status symbol.\n\nIvan\u2019s personal life is quiet. A short-lived marriage in his thirties ended amicably; she couldn't compete with his devotion to the garage. His social circle is the owner of the corner taqueria and the regulars at the neighborhood dive bar. He is a fixture, a remnant of an older, grittier San Francisco. His greatest fear isn't rising rents, but that the craft itself is dying. His dream isn\u2019t retirement, but to one day find a young apprentice with a spark of genuine curiosity\u2014someone to pass the keys, and the legacy, to."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, make coffee, and read the morning headlines on a tablet.",
+                        "geocode": {
+                            "lat": 37.7931028,
+                            "lng": -122.4426022,
+                            "formatted_address": "2765 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (2765 Broadway)"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Prepare breakfast for his elderly mother and spend time chatting with her about her plans for the day.",
+                        "geocode": {
+                            "lat": 37.7931028,
+                            "lng": -122.4426022,
+                            "formatted_address": "2765 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (2765 Broadway)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower, get dressed, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7931028,
+                            "lng": -122.4426022,
+                            "formatted_address": "2765 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (2765 Broadway)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Begin the long walk to work, listening to an automotive industry podcast.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Pacific Heights to Financial District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into his dedicated desk at the coworking space, grab a coffee, and organize his tasks for the day.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 30,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Deep work session: Writing an expert witness report for an automotive lemon law case, analyzing vehicle data.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to a nearby sandwich shop for a quick and satisfying lunch.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Client consultation call with a law firm from a private phone booth to discuss findings.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 60,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa5",
+                        "action": "Record and edit a short technical video for his consulting website explaining a complex engine issue.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Walk home, taking a slightly different route and stopping for a quick errand.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Streets of San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh groceries for dinner from a local market.",
+                        "geocode": {
+                            "lat": 37.7972661,
+                            "lng": -122.4352658,
+                            "formatted_address": "2190 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Luke's Local, Union Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook dinner and enjoy the meal at the dining table with his mother.",
+                        "geocode": {
+                            "lat": 37.7931028,
+                            "lng": -122.4426022,
+                            "formatted_address": "2765 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (2765 Broadway)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcd\ufe0f",
+                        "action": "Work on his personal project: restoring a vintage motorcycle in the garage.",
+                        "geocode": {
+                            "lat": 37.7720271,
+                            "lng": -122.4125445,
+                            "formatted_address": "340 10th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Garage at Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax in the living room, reading a book while his mother watches her favorite TV show.",
+                        "geocode": {
+                            "lat": 37.7931028,
+                            "lng": -122.4426022,
+                            "formatted_address": "2765 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (2765 Broadway)"
+                    }
+                ],
+                "day_overview": "A structured day for an automotive consultant, balancing deep work at his FiDi coworking space with a long, scenic commute on foot and caring for his elderly mother in their Pacific Heights home.",
+                "home_address": "2765 Broadway, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7931028,
+                    "lng": -122.4426022,
+                    "formatted_address": "2765 Broadway, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1974",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

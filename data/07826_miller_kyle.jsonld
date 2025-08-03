@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kyle Miller",
+    "givenName": "Kyle",
+    "familyName": "Miller",
+    "jobTitle": "Delivery Driver",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Transportation and Warehousing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kyle Miller\u2019s story is written in the asphalt of San Francisco\u2019s streets. A second-generation Chinese-American, he was born and raised in the foggy avenues of the Richmond District. His parents, who ran a small neighborhood grocery store, poured their life savings and hopes into their son, envisioning a future for him in a stable, high-paying tech career. Kyle followed the script, enrolling in the Computer Science program at UC Davis, but the abstract world of coding felt distant and hollow compared to the tangible reality of his family\u2019s store.\n\nThe turning point came during his sophomore year when his father had a major health scare. Kyle left school without a second thought to help his mother run the business. For a year, he stocked shelves, managed inventory, and chatted with the elderly neighbors who had watched him grow up. In that time, he realized he valued community and tangible work over the promise of a Silicon Valley salary.\n\nAfter his father recovered and his parents sold the store to retire, Kyle didn't return to college. The pressure was gone, but so was the path. Needing income and flexibility, he began working as a delivery driver. Now 27, his car is his office, and his commute is the distance from his Outer Sunset in-law apartment to his first pickup. His life is dictated by the city\u2019s rhythms\u2014the frantic lunch rushes in SoMa, the lazy afternoon drop-offs in Noe Valley, and the late-night dinner surge in the Mission.\n\nKyle\u2019s social life consists of a tight-knit group of high school friends and the fleeting, friendly interactions with restaurant staff across the city. He\u2019s a quiet observer, a ghost in the machine of the gig economy. Yet, he carries a dream. During lulls, he sketches out business plans on a notepad. He wants to leverage his street-level expertise and his brief exposure to tech to create a hyper-local delivery co-op, one that offers fair rates to the small, family-owned businesses just like the one he grew up in. His ultimate hope is to build something that doesn't just deliver food, but sustains the very soul of the city he calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Wake Up & Scroll",
+                        "geocode": {
+                            "lat": 37.8080891,
+                            "lng": -122.4091148,
+                            "formatted_address": "2687 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (2687 Grant Ave)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.8080891,
+                            "lng": -122.4091148,
+                            "formatted_address": "2687 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (2687 Grant Ave)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Grab a quick breakfast of coffee and toast while chatting with his parents.",
+                        "geocode": {
+                            "lat": 37.8080891,
+                            "lng": -122.4091148,
+                            "formatted_address": "2687 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (2687 Grant Ave)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Walk down the hill through North Beach to the Muni station.",
+                        "geocode": {
+                            "lat": 37.7981696,
+                            "lng": -122.4071253,
+                            "formatted_address": "Columbus Ave & Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "Grant Avenue & Columbus Avenue"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Take the T Third Street Muni Metro line south to Mission Bay for work.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Muni T Third Street Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Check in, grab his assigned delivery e-bike, and review the first batch of orders.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Uber Mission Bay Delivery Hub"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Start the early afternoon delivery block, handling corporate lunch orders for offices in SoMa.",
+                        "geocode": {
+                            "lat": 37.7917419,
+                            "lng": -122.3928433,
+                            "formatted_address": "121 Spear St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 180,
+                        "location": "SoMa & Financial District"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Grab a quick carnitas burrito for a late lunch between deliveries.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83e\udd61",
+                        "action": "Tackle the peak dinner rush, delivering food to a mix of apartments and houses across the city.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 240,
+                        "location": "Mission District & Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udca8",
+                        "action": "Return equipment to the hub, log out of the system, and end the shift.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Uber Mission Bay Delivery Hub"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Commute home on the T Third line, listening to a podcast to unwind.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni T Third Street Line"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Eat a late dinner with his family and share stories from the day.",
+                        "geocode": {
+                            "lat": 37.8080891,
+                            "lng": -122.4091148,
+                            "formatted_address": "2687 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (2687 Grant Ave)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk down the street to meet a friend for a pint to decompress.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down at home, watch some YouTube, and get ready for the next day.",
+                        "geocode": {
+                            "lat": 37.8080891,
+                            "lng": -122.4091148,
+                            "formatted_address": "2687 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (2687 Grant Ave)"
+                    }
+                ],
+                "day_overview": "A physically demanding day for Kyle, navigating San Francisco on an e-bike for Uber Eats deliveries, followed by a relaxing evening catching up with family and a friend in his North Beach neighborhood.",
+                "home_address": "2687 Grant Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8080891,
+                    "lng": -122.4091148,
+                    "formatted_address": "2687 Grant Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maria Santos",
+    "givenName": "Maria",
+    "familyName": "Santos",
+    "jobTitle": "Medical Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Working Class"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maria Santos is as much a part of the Mission District as its colorful murals and the aroma of fresh pupusas on a Saturday morning. Born at SF General to parents who fled El Salvador\u2019s civil war in the early 1980s, her life has been woven into the fabric of this single neighborhood. Her childhood was a vibrant mix of Spanish spoken at home, the rumble of Muni buses on Mission Street, and the tight-knit community that felt like one sprawling, extended family.\n\nAfter graduating from high school, Maria enrolled at City College of San Francisco with aspirations of becoming a teacher. However, her path shifted when her mother\u2019s health began to decline. Maria left her studies to become a full-time caregiver, a difficult period that revealed her innate patience and compassion. It was during these years, navigating doctor\u2019s appointments and complex medical instructions, that she discovered her true calling. After her mother passed, she enrolled in a vocational program and became a certified Medical Assistant.\n\nFor the past fifteen years, Maria has worked at a small community health clinic on the ground floor of an apartment building\u2014the very same one she lives in. Her \u201ccommute\u201d is a short elevator ride. She is the first friendly face patients see, a calming presence who can seamlessly switch between English and Spanish to translate a doctor\u2019s advice or simply reassure an anxious elder. Her days are a steady rhythm of taking vitals, scheduling appointments, and listening to the stories of her neighbors.\n\nWhile she never married or had children of her own, Maria is a central figure in many lives. She is the dependable cousin, the doting \u201ctia\u201d to her friends\u2019 kids, and the trusted confidante for patients who see her as more than just a healthcare worker. Her quiet dream is to one day finish her associate\u2019s degree, not for a new career, but for herself. More than anything, she hopes to remain a constant in a rapidly changing San Francisco, a familiar anchor for the community that raised her."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.76938639999999,
+                            "lng": -122.4501409,
+                            "formatted_address": "1675 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 1675 Haight St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make and eat a quick breakfast of yogurt and granola with coffee.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Walk to the N-Judah stop and take the short train ride to work.",
+                        "geocode": {
+                            "lat": 37.76580939999999,
+                            "lng": -122.449984,
+                            "formatted_address": "Carl St & Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Muni Metro N-Judah Stop (Carl & Cole)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe5",
+                        "action": "Arrive at work, change into scrubs, and review the day's patient schedule.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "UCSF Medical Center - Staff Locker Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Morning clinic shift: Room patients, take vitals and medical histories, and update Electronic Health Records (EHR).",
+                        "geocode": {
+                            "lat": 37.7638735,
+                            "lng": -122.4572736,
+                            "formatted_address": "400 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 240,
+                        "location": "UCSF Ambulatory Care Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break. Grab a salad bowl and eat in the outdoor courtyard to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7633464,
+                            "lng": -122.4573282,
+                            "formatted_address": "505 Parnassus Ave #294, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Moffitt Cafe & Courtyard"
+                    },
+                    {
+                        "emoji": "\ud83d\udc89",
+                        "action": "Afternoon clinic shift: Perform patient callbacks with lab results, assist with minor procedures, and stock exam rooms.",
+                        "geocode": {
+                            "lat": 37.7638735,
+                            "lng": -122.4572736,
+                            "formatted_address": "400 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 240,
+                        "location": "UCSF Ambulatory Care Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Clock out, change out of scrubs, and organize bag for the trip home.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 10,
+                        "location": "UCSF Medical Center - Staff Locker Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Take the 6-Haight/Parnassus bus home.",
+                        "geocode": {
+                            "lat": 37.7800742,
+                            "lng": -122.4207188,
+                            "formatted_address": "Muni Bus Stop (Mcallister St & Van Ness Ave), Mcallister St &, Van Ness Ave, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 20,
+                        "location": "Muni Bus Stop (Parnassus Ave & 4th Ave)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up items for dinner and lunch tomorrow.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Unwind with a walk through the neighborhood park to decompress from the long day.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 40,
+                        "location": "The Panhandle Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare and eat dinner while catching up on a phone call with her sister.",
+                        "geocode": {
+                            "lat": 37.76938639999999,
+                            "lng": -122.4501409,
+                            "formatted_address": "1675 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 1675 Haight St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfa",
+                        "action": "Tidy the apartment, pack lunch for the next day, and lay out work clothes.",
+                        "geocode": {
+                            "lat": 37.76938639999999,
+                            "lng": -122.4501409,
+                            "formatted_address": "1675 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 1675 Haight St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a couple of episodes of a favorite show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: wash up, get into pajamas, and read a few chapters of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A busy but structured day for Maria, a Medical Assistant living in Haight-Ashbury. Her day involves an early start for her shift at UCSF, a short Muni commute, patient care, and an evening of errands and relaxation in her neighborhood.",
+                "home_address": "1675 Haight St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.76938639999999,
+                    "lng": -122.4501409,
+                    "formatted_address": "1675 Haight St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Santos Family"
+    }
+}

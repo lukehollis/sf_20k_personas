@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Clinical Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Latino Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a testament to the quiet strength forged in California\u2019s agricultural heartlands. The daughter of Mexican immigrants, she grew up in Salinas, where the scent of earth and the grueling hours of farm labor defined her childhood. Her parents instilled in her a profound work ethic and a deep sense of family obligation. The turning point came in her teens when her younger brother, struggling with undiagnosed bipolar disorder, fell through the cracks of a strained and culturally insensitive public health system. Witnessing his pain and her parents\u2019 helpless frustration ignited a fire in Sarah: a resolve to become the resource her family never had.\n\nThe first in her family to attend a four-year university, she moved to the Bay Area for her undergraduate degree at San Francisco State University, later earning her Master of Social Work from UC Berkeley. Her career path was a direct line from her past, leading her to become a Licensed Clinical Social Worker at a major public hospital. For two decades, she has specialized in crisis intervention and trauma-informed care for underserved communities, seeing the city\u2019s most vulnerable patients.\n\nNow 47, Sarah\u2019s life has settled into a new rhythm. The pandemic shifted her practice almost entirely to telehealth, erasing her commute and transforming a corner of her rent-controlled Mission District apartment into a confidential sanctuary for her clients. Her days are a series of emotionally intense video calls, a form of digital triage. To decompress, she walks through her neighborhood, finding solace in the vibrant murals on Clarion Alley and the familiar comfort of buying pan dulce from La Mejor Bakery. She is quietly known and respected in her community, maintaining a small, fierce circle of friends\u2014mostly other healthcare workers who understand the toll of the job.\n\nDivorced for nearly a decade, Sarah has found a comfortable independence. Her dream is no longer just about survival but about building a legacy. She hopes to one day launch a small non-profit offering bilingual mental health services for teenagers, a tribute to the brother she lost too soon. She aspires to travel more, perhaps a long trip to Oaxaca, but for now, she remains anchored to the city that claimed her, finding profound meaning in healing its hidden wounds, one conversation at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, meditate, and do a 15-minute stretch to mentally prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Powell Street Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get dressed, eat a quick breakfast of yogurt and granola, and pack a lunch.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Powell Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the designated carpool spot to meet a colleague for the ride to work.",
+                        "geocode": {
+                            "lat": 37.7892375,
+                            "lng": -122.4086261,
+                            "formatted_address": "Powell St & Sutter St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 15,
+                        "location": "Corner of Powell & Sutter"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute downtown, navigating morning traffic and chatting with carpool partner.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Downtown SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Arrive at the office, make tea, and review the day's client files and schedule.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Conduct back-to-back morning psychotherapy sessions with clients, followed by writing detailed clinical progress notes.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a full lunch break, walking over to the gardens to eat a packed lunch and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7849884,
+                            "lng": -122.4023514,
+                            "formatted_address": "Yerba Buena Gardens, 750 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Yerba Buena Gardens"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon block of work including a client session, a peer consultation on a difficult case, and returning patient calls.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Wrap up the day by completing all pending documentation and treatment plans to ensure a clean start for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Meet carpool partner and drive home, discussing their days in general terms to unwind.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Market Street"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local grocery store for a few items needed for dinner and breakfast.",
+                        "geocode": {
+                            "lat": 37.7906205,
+                            "lng": -122.4180795,
+                            "formatted_address": "1095 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's (Nob Hill)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Cook a healthy dinner while listening to a podcast, then eat at the kitchen counter.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Powell Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Attend a restorative yoga class to de-stress and work through the day's emotional toll.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Flow SF - Nob Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, read a few chapters of a novel, and completely disconnect from work before bed.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Powell Street Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for a clinical social worker, balancing demanding client work downtown with personal time for decompression through exercise, errands, and quiet relaxation in her Nob Hill neighborhood.",
+                "home_address": "493 Powell St, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.78916419999999,
+                    "lng": -122.4088757,
+                    "formatted_address": "493 Powell St, San Francisco, CA 94102, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

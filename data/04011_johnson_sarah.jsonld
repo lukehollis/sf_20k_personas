@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Johnson",
+    "givenName": "Sarah",
+    "familyName": "Johnson",
+    "jobTitle": "Licensed Clinical Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Richmond District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Johnson\u2019s path to becoming a healer was forged in the stoic Midwest silence of her suburban Chicago childhood. She was the quiet observer in a family that didn't have the language for her older brother\u2019s escalating mental health and addiction issues. Watching him spiral, and seeing her parents\u2019 helpless denial, planted a seed in Sarah: a desperate need to understand the 'why' and find the 'how' to help.\n\nThis need became a quiet rebellion. She pursued psychology at a state university before making a definitive break, moving to the Bay Area for her Master of Social Work at UC Berkeley. California felt like a different world, one where the unspoken could be named and confronted. She threw herself into her studies and her fieldwork, finding her calling in the chaotic, high-stakes environment of a San Francisco general hospital. There, she guided patients and their families through devastating diagnoses, traumatic injuries, and end-of-life decisions. Her work was her identity, but its emotional weight eventually contributed to the dissolution of her marriage in her late thirties.\n\nThe pandemic marked her next major turning point. The frantic hospital pace was replaced by the strange intimacy of tele-health. Now, Sarah\u2019s commute is the few steps from her kitchen to her small home office in her Inner Sunset apartment. Her days are a series of digital windows into human pain, conducted against the backdrop of Karl the Fog rolling past her bay window.\n\nHer life is contained and deliberate. She starts each morning with a walk through the dewy quiet of Golden Gate Park, a necessary ritual to ground herself before absorbing the day\u2019s trauma. She knows the baristas at the local coffee shop by name and finds solace in the neighborhood's calm predictability. At 48, Sarah\u2019s dreams are not of professional ascent, but of personal restoration. She nurtures a small garden on her fire escape and aspires to finally take that pottery class she\u2019s bookmarked for years. Her hope is simple: to cultivate for herself the same gentle, resilient peace she works so tirelessly to help others find."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers her brother\u2019s bedroom door slamming, the tremor running through the house. But it was the silence that followed\u2014thick, suffocating, her parents frozen at the dinner table\u2014that she truly recalls. She was 17. That silence was a hollow space she vowed to fill with understanding, a promise to find the words her family never could. It wasn't a choice to become a healer; it was a mandate, a way to build a rescue raft long after the shipwreck.\n\n2.\nIn a Berkeley seminar, a classmate spoke candidly about her mother\u2019s severe depression. No euphemisms, just raw truth. At 24, Sarah felt a profound click\u2014a sense of tectonic plates shifting inside her. This was the place where the unspoken could be named, where shame was met not with silence but with inquiry. For the first time, California didn\u2019t just feel like a new state; it felt like a new language, one she was finally allowed to speak.\n\n3.\nShe was 32, standing under the humming fluorescent lights of an SF General waiting room. She guided a young couple through the impossible reality that their son, after a traumatic brain injury, would not recover. She absorbed their shock, holding the space for their grief without breaking. It forged her professional steel, proving she could withstand the unimaginable. But it also carved a small, hollow place inside her, a space that would take years of other people's pain to fill.\n\n4.\nThe definitive moment wasn't a fight, but a quiet Tuesday night. Coming home from the ICU, she was an empty vessel. Her husband asked about her day, and she simply had no words left. She saw in his eyes a man reaching for a wife who was no longer there, just a container for secondary trauma. At 39, that quiet chasm between them felt more final than any argument. She realized she had been triaging her emotional energy, and her marriage had been left to bleed out.\n\n5.\nA few months into the pandemic, at 46, she took her first intentional morning walk in Golden Gate Park. The world was shut down, but here, the ferns were uncurling and the air was thick with eucalyptus and damp earth. She stopped by the dewy AIDS Memorial Grove, feeling the profound quiet. This small ritual wasn't an escape from the day\u2019s work, but a vital preparation for it. It was the first brick she laid in the foundation of her own, quiet restoration."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, 15-minute guided meditation, and enjoy coffee while listening to a news podcast.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Market Street Residence"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a healthy breakfast of greek yogurt and berries, and get ready for the workday.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Market Street Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the designated pickup spot to meet a coworker for the morning carpool.",
+                        "geocode": {
+                            "lat": 37.785742,
+                            "lng": -122.4058884,
+                            "formatted_address": "Market St & 4th St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 10,
+                        "location": "Corner of Market & 4th Street"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute through downtown traffic, catching up with a colleague.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Morning Carpool Ride"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Settle into the office, review confidential client files for the day, and respond to urgent emails.",
+                        "geocode": {
+                            "lat": 37.7933827,
+                            "lng": -122.4026176,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Wells Fargo Corporate Wellness Suite"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct back-to-back confidential one-on-one counseling sessions with employees.",
+                        "geocode": {
+                            "lat": 37.79337599999999,
+                            "lng": -122.4026479,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 120,
+                        "location": "Private Office, 420 Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Complete clinical case notes and administrative follow-up from morning sessions.",
+                        "geocode": {
+                            "lat": 37.79337599999999,
+                            "lng": -122.4026479,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 50,
+                        "location": "Private Office, 420 Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a solo walk to decompress and pick up a custom salad for lunch.",
+                        "geocode": {
+                            "lat": 37.7903917,
+                            "lng": -122.4037873,
+                            "formatted_address": "240 Kearny St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Facilitate a scheduled group session on stress management for the marketing department.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Wells Fargo Conference Room 4B"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Hold final one-on-one client session of the day, followed by final case notes and planning for tomorrow.",
+                        "geocode": {
+                            "lat": 37.79337599999999,
+                            "lng": -122.4026479,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 90,
+                        "location": "Private Office, 420 Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Meet carpool for the ride home, discussing the day and transitioning out of 'work mode'.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Evening Carpool Ride"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up ingredients for dinner and fresh produce.",
+                        "geocode": {
+                            "lat": 37.7853239,
+                            "lng": -122.4055518,
+                            "formatted_address": "10 4th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's on 4th Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38",
+                        "action": "Attend a Vinyasa yoga class to release the day's tension and focus on mindfulness.",
+                        "geocode": {
+                            "lat": 37.7979281,
+                            "lng": -122.4304243,
+                            "formatted_address": "1892 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Flow SF Union Square"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare a simple salmon and roasted vegetable dinner at home while listening to music.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Market Street Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Relax on the couch for a long phone call to catch up with her sister in Chicago.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Market Street Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a new historical fiction novel, completely unrelated to work.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Market Street Residence"
+                    }
+                ],
+                "day_overview": "A structured day for Sarah, a corporate social worker, balancing demanding client sessions in the Financial District with personal wellness routines like yoga and quiet evenings at her Market Street home.",
+                "home_address": "802 Market St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7854553,
+                    "lng": -122.406604,
+                    "formatted_address": "802 Market St, San Francisco, CA 94102, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Johnson Family"
+    }
+}

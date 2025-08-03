@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Tan",
+    "givenName": "Sarah",
+    "familyName": "Tan",
+    "jobTitle": "Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Social Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Tan was raised amidst the fog and bustle of San Francisco's Sunset District, the only child of pragmatic immigrant parents from Hong Kong. Her father, a stoic restaurant chef, and her mother, a meticulous seamstress, envisioned a stable future for her in engineering or medicine. For a time, Sarah followed that path, enrolling in pre-med at UC Berkeley, driven by a daughter\u2019s sense of duty.\n\nThe turning point came during her junior year. A close family friend, long struggling with undiagnosed mental health issues, experienced a public crisis that culminated in homelessness. Watching the system fail him, seeing the helplessness in his family's eyes, ignited a fire in Sarah. She abruptly changed her major to social welfare, a decision that initially strained her relationship with her parents, who couldn't understand why she would choose a field of such emotional hardship and modest pay.\n\nUndeterred, Sarah earned her Master of Social Work from SF State, focusing on clinical services for adults with co-occurring disorders. Her career choice was a direct answer to the helplessness she once felt. Now 32, Sarah\u2019s life is wholly integrated with her work. She is a lead case manager for a non-profit operating a supportive housing facility in the Tenderloin, and she lives in a subsidized staff apartment within the same building, making her commute exactly zero miles.\n\nHer days are a torrent of crisis management, connecting clients with medical care, counseling, and navigating the labyrinthine bureaucracy of public aid. Her small apartment is her sanctuary, a quiet space to decompress with simple home-cooked meals and podcasts unrelated to her field. She maintains a tight-knit circle of friends, mostly from her grad school cohort, who understand the unique pressures of her job.\n\nSarah\u2019s dream isn\u2019t of wealth, but of sustainability\u2014for her clients and for herself. She hopes for policy changes that could truly address the roots of poverty and trauma. On a personal level, she aspires to travel one day, to see a world beyond the immediate, urgent needs of her city. For now, she remains a steadfast, empathetic force, deeply connected to the raw, complex heart of the San Francisco that tourists rarely see."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and practice 15 minutes of mindfulness meditation to center herself for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk run along the waterfront, enjoying views of Alcatraz and the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and get ready for work, picking out a comfortable but professional outfit.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and a quick breakfast of avocado toast while listening to a daily news podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the scenic walk to work, heading up through Cow Hollow's shopping district.",
+                        "geocode": {
+                            "lat": 37.797061,
+                            "lng": -122.432412,
+                            "formatted_address": "2001 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 40,
+                        "location": "Marina & Cow Hollow Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc1",
+                        "action": "Arrive at the studio, review client case files, and prepare art materials for the morning's group session.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Honey Art Studio Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Lead a group art therapy session for at-risk teens, using collage to explore identity.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 90,
+                        "location": "Honey Art Studio - Main Studio"
+                    },
+                    {
+                        "emoji": "\ud83c\udf71",
+                        "action": "Walk to Japantown to pick up a bento box for lunch and eat at a bench in the Peace Plaza.",
+                        "geocode": {
+                            "lat": 37.7852238,
+                            "lng": -122.4297307,
+                            "formatted_address": "1610 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Japantown Peace Plaza"
+                    },
+                    {
+                        "emoji": "\ud83d\udd8c\ufe0f",
+                        "action": "Conduct a one-on-one session with an adult client using painting to process trauma.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 75,
+                        "location": "Honey Art Studio - Private Therapy Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Write detailed clinical progress notes and return phone calls to coordinate client care.",
+                        "geocode": {
+                            "lat": 37.785998,
+                            "lng": -122.4328696,
+                            "formatted_address": "1981 Sutter St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 75,
+                        "location": "Honey Art Studio Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk home, using the time to decompress from the emotional weight of the day.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Pacific Heights & Cow Hollow Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop at the corner market to pick up fresh produce for dinner.",
+                        "geocode": {
+                            "lat": 37.8000211,
+                            "lng": -122.4416326,
+                            "formatted_address": "2323 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Marina Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner and eat while catching up with her parents on a video call.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind by reading a book and drinking a cup of herbal tea on her couch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udecf\ufe0f",
+                        "action": "Tidy the kitchen, pack her lunch for tomorrow, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A typical weekday for Sarah, balancing her demanding but rewarding job as a social worker with a healthy, active lifestyle. Her day is structured around her walking commute from the Marina to her Lower Pacific Heights studio, with time for exercise, client sessions, errands, and quiet relaxation at home.",
+                "home_address": "2538 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8060726,
+                    "lng": -122.4401602,
+                    "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tan Family"
+    }
+}

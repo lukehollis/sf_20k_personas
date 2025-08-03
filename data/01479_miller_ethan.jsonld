@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Miller",
+    "givenName": "Ethan",
+    "familyName": "Miller",
+    "jobTitle": "Senior Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ethan Miller\u2019s story is one of quiet rebellion against categorization. Born in a homogenous Sacramento suburb to a pragmatic, white American father and a warm, community-focused Filipino mother, Ethan spent his childhood feeling like a puzzle piece that didn't quite fit any picture. He was never just \"Ethan\"; he was always explained in relation to his parents' disparate backgrounds, leaving him with a persistent sense of being an outsider.\n\nThis feeling shaped his educational journey. Traditional high school felt prescriptive and slow, so he found his real education online. In the burgeoning world of early 2000s forums and coding tutorials, he discovered a meritocracy where the quality of your code mattered more than your name or face. Forsaking a university degree, he dove headfirst into the world of data, teaching himself SQL, Python, and statistical modeling. His career began with small freelance gigs, building a portfolio that showcased a raw, intuitive talent for finding narratives within numbers. This led to a junior role at a startup that valued skill over credentials, and his ascent was swift.\n\nThe move to San Francisco was a turning point. He sought the city not for its glamour, but for its anonymity. Here, his ambiguous ethnicity was the norm, not a novelty. He settled into a compact apartment in Hayes Valley, a neighborhood whose blend of grit and style mirrored his own journey. His 0.0-mile commute as a fully remote Senior Data Analyst for a FinTech firm offers a comfortable, controlled existence. His days are a disciplined cycle of coffee, code, and virtual meetings, broken up by long runs through the Panhandle or quiet afternoons working from a local cafe.\n\nNow 34, Ethan has achieved the stability he craved, but a new yearning has surfaced. His social circle is small and tight-knit, a chosen family that understands his need for both connection and solitude. He dreams of applying his skills to something with tangible impact, perhaps analyzing climate data for a nonprofit or working on urban planning projects. Ethan wants to build a life where the clear, elegant patterns he finds in data can be translated into the messier, more meaningful connections of the human world."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe was 14, at a family barbecue in his Sacramento backyard. A great-aunt squinted, asking his mom, \u201cSo which part is the Filipino part?\u201d He felt a hot flush of shame, not at his heritage, but at being dissected like a diagram. In that moment, a quiet resolve hardened within him: he would not be an explanation or a category. He would be the person whose work, whose actions, spoke for themselves. This memory became the fuel for his escape into the pure logic of code.\n\n2.\nHe remembers the specific blue glow of his CRT monitor at 2 AM, around age 17. He\u2019d been stuck on a SQL query for days. After a breakthrough, he posted the elegant solution to an old forum. A user from Germany replied: \"clean.\" That single word of validation from a stranger was more profound than any A+ he\u2019d ever received. For the first time, he wasn't a mix of two worlds; he was simply a builder, finally understood in a language that valued logic over lineage.\n\n3.\nIt was a week after he\u2019d moved to San Francisco at 26. He walked down Hayes Street amidst a stream of people whose faces held a hundred different histories. No one glanced twice at him. He wasn't a novelty; he was just another part of the city's complex data set. The feeling wasn't loneliness, but a profound, breathtaking relief. He could finally exhale a breath he felt he'd been holding since childhood. He was anonymous. He was home.\n\n4.\nHe was 31, sitting on the floor of a friend\u2019s apartment for an impromptu \u201cOrphan's Thanksgiving.\u201d There were four of them, sharing takeout and cheap wine. No one asked about his family or tried to define him; they just debated a flawed movie they'd all seen. He felt a quiet, simple sense of belonging that was deeper than blood. It was the profound comfort of being fully seen and accepted without any need for explanation. This was the family he had built.\n\n5.\nLast spring, during a run through the Panhandle, he saw a newly installed rain garden, designed to prevent flooding on Fell Street. His mind instantly began modeling its efficiency, its data points and flow rates. But then he looked at the children poking sticks into the damp soil. Suddenly, the elegant data felt hollow without the human story. The abstract puzzle wasn't enough anymore. He wanted his work to feel the weight and warmth of a community finding its footing."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, hydrate, and do a quick mindfulness session using the Calm app.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Brew a pour-over coffee from Sightglass coffee beans and eat a quick breakfast of Greek yogurt with granola.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Transition to workday: review team Slack channels and organize daily tasks in Jira.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep focus session: Running complex SQL queries and performing exploratory data analysis in a Jupyter Notebook for a new project.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to Fillmore Street to grab a sandwich and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.8003111,
+                            "lng": -122.4377083,
+                            "formatted_address": "3344 Steiner St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn (Fillmore St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Virtual meeting with product managers to present findings from the previous week's A/B test.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Afternoon work block: Building and refining a dashboard in Tableau to track key performance indicators.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 105,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udd1a",
+                        "action": "Sign off for the day: Push final code commits to GitHub and close the laptop.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a scenic trail run to clear his head and get some exercise.",
+                        "geocode": {
+                            "lat": 37.8021445,
+                            "lng": -122.4585086,
+                            "formatted_address": "Presidio Promenade Trail, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 60,
+                        "location": "Presidio Promenade Trail"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for some essentials and dinner ingredients.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mollie Stone's Market (California St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet up with a friend for dinner and drinks in Cow Hollow.",
+                        "geocode": {
+                            "lat": 37.8006796,
+                            "lng": -122.4364833,
+                            "formatted_address": "2001 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 120,
+                        "location": "The Dorian"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Weekly catch-up call with his parents on the East Coast.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Wind down by listening to a tech podcast and preparing for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Ethan focused on data analysis, balanced with an energizing run through the Presidio and a casual dinner with a friend in his Cow Hollow-adjacent neighborhood.",
+                "home_address": "3634 Broadway, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7928229,
+                    "lng": -122.4464704,
+                    "formatted_address": "3634 Broadway, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

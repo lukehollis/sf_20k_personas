@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Manufacturing Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s life has been a study in precision, a trait instilled in him long before he became an engineer. Born Dev Miller to immigrants from Bangalore, he was raised in Fremont amidst the hum of the first Silicon Valley boom. His parents, both software engineers, gave him the name \u201cDavid\u201d for an easier path, but he spent his youth quietly dismantling electronics, more fascinated by the tangible world of hardware and mechanics than the abstract code his parents wrote.\n\nHe pursued this passion at UC Berkeley, earning a degree in Mechanical Engineering. While his peers were swept up in the dot-com frenzy, David remained grounded, taking a job with a semiconductor company. The subsequent bust was a key turning point; it validated his belief in tangible products over speculative software. He returned to school for a Master's in Industrial Engineering, focusing on process optimization\u2014the art of making things better, faster, and more reliable. Now, as a senior manufacturing engineer for a major consumer electronics company, he designs the intricate assembly lines that bring flagship products to life.\n\nHis 0.0-mile commute is a testament to the life he\u2019s built. David works from a meticulously organized home office in his Outer Richmond apartment. His days are disciplined: a pre-dawn walk in the fog near Sutro Heights, focused work from 8 AM to 5 PM, and evenings spent either cooking complex recipes or on video calls with his small, tight-knit circle of friends from college. A serious long-term relationship ended five years ago, a quiet casualty of two partners whose ambitions slowly diverged, leaving David even more dedicated to his structured life.\n\nDavid\u2019s connection to San Francisco isn\u2019t in the city\u2019s chaotic, vibrant core, but in its quiet, foggy edges. He finds peace in the predictable roar of the ocean and the muted colors of the western neighborhoods. His dream isn't to found a startup, but to achieve a different kind of perfection: to one day design and build a complex mechanical chronograph from scratch, a purely personal project of logic and beauty. For David, mastery of the process has always been the ultimate goal."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Prepare pour-over coffee and a quick breakfast while reading tech news and industry publications.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from the Mission via S Van Ness Ave and park in his designated monthly spot.",
+                        "geocode": {
+                            "lat": 37.7811522,
+                            "lng": -122.4169678,
+                            "formatted_address": "376 Larkin St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "UC Hastings Parking Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning deep work: Settle in at his dedicated desk and begin a focused CAD modeling session for a new product enclosure.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 165,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Daily team sync-up via video call to discuss project blockers and progress on the new hardware prototype.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 30,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a custom salad bowl for a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0f",
+                        "action": "Conference call with an overseas contract manufacturer to review production yields and quality control data.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 75,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Move to the coworking 'maker' area to test the fit and durability of a newly 3D-printed component.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 90,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work for the day, responding to the last emails and organizing his task list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 25,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive from the Civic Center area back to his apartment in the Mission.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh produce and a bottle of wine for the evening.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner while on a hands-free call with his parents to catch up.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet up with a friend for a local craft beer to unwind.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Fort Point Beer Co. | Valencia"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, reading a book on sustainable manufacturing practices before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a manufacturing engineer, balancing focused design work at a coworking space, supplier collaboration, and hands-on prototyping, followed by errands and socializing in his Mission neighborhood.",
+                "home_address": "124 16th St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7669805,
+                    "lng": -122.3881634,
+                    "formatted_address": "124 16th St, San Francisco, CA 94158, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

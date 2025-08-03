@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Lee",
+    "givenName": "David",
+    "familyName": "Lee",
+    "jobTitle": "Case Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Social Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Lee\u2019s San Francisco story began not in a downtown high-rise, but in the foggy avenues of the Sunset District. The only child of first-generation Chinese immigrants who ran a small laundromat, David grew up straddling two worlds. At home, he was the dutiful son, translating bills and navigating American bureaucracy for his parents. At school, he was a quiet, observant kid who excelled in understanding people. His parents hoped he would pursue a lucrative career, so his Bachelor\u2019s degree in Communications from SF State seemed like a practical step toward a stable corporate job.\n\nThe turning point came not in a boardroom, but in a hospital waiting room. During his senior year, his grandmother's health declined rapidly. David became her primary advocate, a frustrating odyssey of navigating Medicare, finding bilingual social workers, and fighting for culturally competent care. He saw firsthand how easily the vulnerable could fall through the cracks. The experience ignited a quiet fury and a profound sense of purpose. The corporate path now felt hollow.\n\nAfter graduating, he took an entry-level position at a non-profit in the Tenderloin. Now, at 32, David is a seasoned Case Manager for a supportive housing program. His 0.0-mile commute is a testament to his immersion; he lives in a modest apartment in the same building where he works, offering a constant, steadying presence for residents battling addiction, mental health issues, and homelessness.\n\nHis daily routine is a mix of crisis management, mountains of paperwork, and small, vital victories\u2014securing a client\u2019s disability benefits, celebrating a year of sobriety, or simply sharing a cup of coffee. His social life is a tight-knit circle of fellow non-profit workers who understand the burnout and the deep rewards. He dreams not of wealth, but of leverage: of one day moving into policy to fix the systemic flaws he battles daily. David Lee is the city\u2019s quiet conscience, a native son who chose to serve its heart rather than chase its gold."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7421528,
+                            "lng": -122.4915877,
+                            "formatted_address": "2351 Taraval St, San Francisco, CA 94122"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Joins his partner for a quick breakfast of coffee and toast while they coordinate evening plans.",
+                        "geocode": {
+                            "lat": 37.7421528,
+                            "lng": -122.4915877,
+                            "formatted_address": "2351 Taraval St, San Francisco, CA 94122"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Walks to the MUNI stop to start the long commute across the city.",
+                        "geocode": {
+                            "lat": 37.7423435,
+                            "lng": -122.4917893,
+                            "formatted_address": "34th Ave & Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 5,
+                        "location": "Taraval & 34th Ave MUNI Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Rides the L Taraval MUNI train inbound, listening to 'The Daily' podcast to catch up on news and mentally prepare for work.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "L Taraval MUNI Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Arrives at the office, makes a cup of tea, and reviews his calendar and urgent client emails.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Miro Studios Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Conducts phone check-ins with clients, scheduling appointments and documenting updates in their case files.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Miro Studios Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Lunch break. Grabs a Mission-style super burrito and eats at a nearby parklet to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.72118,
+                            "lng": -122.437281,
+                            "formatted_address": "4817 Mission St, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 45,
+                        "location": "Taqueria El Farolito"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Walks to a partner organization for an in-person meeting with a client to connect them with housing resources.",
+                        "geocode": {
+                            "lat": 37.7640633,
+                            "lng": -122.4184961,
+                            "formatted_address": "165 Capp St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Mission Neighborhood Resource Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Returns to the office to complete detailed progress notes and file mandatory reports from the client meeting.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Miro Studios Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1",
+                        "action": "Attends a weekly team meeting to discuss caseloads, review challenging situations, and collaborate on solutions.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Miro Studios Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Commutes home on the L Taraval, switching from podcasts to a calming indie music playlist to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "L Taraval MUNI Line"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cooks dinner with his partner; they make salmon and roasted vegetables while sharing stories from their day.",
+                        "geocode": {
+                            "lat": 37.7421528,
+                            "lng": -122.4915877,
+                            "formatted_address": "2351 Taraval St, San Francisco, CA 94122"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Takes a relaxing sunset stroll with his partner along the Great Highway to clear his head.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Winds down by watching an episode of a favorite TV show on the couch.",
+                        "geocode": {
+                            "lat": 37.7421528,
+                            "lng": -122.4915877,
+                            "formatted_address": "2351 Taraval St, San Francisco, CA 94122"
+                        },
+                        "duration": 50,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A demanding but typical day for David, a social services case manager. The day involves a long cross-city MUNI commute, emotionally intensive client work in the Mission, and a necessary decompression period with his partner in their Outer Sunset neighborhood.",
+                "home_address": "2351 Taraval St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7421528,
+                    "lng": -122.4915877,
+                    "formatted_address": "2351 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

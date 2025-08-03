@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Miller",
+    "givenName": "Kenji",
+    "familyName": "Miller",
+    "jobTitle": "Case Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Likely Asian (due to Japanese naming convention), but could also be White or multiracial given the diversity of San Francisco and the surname 'Miller'."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Social Services/Non-profit. Case management is a core function in many social service organizations, often focused on supporting vulnerable populations."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Miller\u2019s world is a 400-square-foot studio in the heart of SoMa, which also happens to be his workplace. The son of a Kyoto-born ceramicist and a pragmatic white architect from Ohio, Kenji grew up in the quiet, foggy avenues of San Francisco\u2019s Sunset District. His childhood was a gentle negotiation between two cultures: the precise, patient artistry of his mother and the structured, civic-mindedness of his father. This duality fostered a deep-seated empathy and a powerful sense of responsibility.\n\nHe sought escape from the city\u2019s academic pressure cookers at UC Santa Cruz, initially exploring a psychology degree with vague intentions of clinical practice. His turning point came during his junior year while volunteering at a shelter for unhoused youth. There, the abstract theories from his textbooks collided with the raw, urgent needs of people his own age. The systemic failures were glaring. He realized he didn't want to just listen to problems in an office; he wanted to be on the ground, actively dismantling them.\n\nAfter graduating, Kenji took a demanding role as a live-in Case Manager at a non-profit providing supportive housing for young adults aging out of foster care. His 0.0-mile commute means his life is a constant immersion. Mornings are for check-ins and paperwork, afternoons for connecting his residents with job training and mental health services, and evenings are often spent de-escalating conflicts or just being a stable presence. He is perpetually on-call, a reality that strains his personal relationships. His social life is compressed into bi-weekly trivia nights in the Mission with a tight-knit group of college friends\u2014his only true escape.\n\nKenji still feels a profound connection to the city that raised him, though he now inhabits one of its most challenging epicenters. He dreams of eventually pursuing a Master's in Social Work to move into policy, hoping to address the root causes of the crises he manages daily. For now, his aspiration is simpler: to not burn out, and to help the young people in his care build a foundation solid enough to call this complex, beautiful, and demanding city their own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, hydrate, and get into workout clothes.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Bedroom at Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a de-stressing morning run to clear his head before work.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Clement St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a quick breakfast of toast and eggs and brew a pot of coffee.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Kitchen at Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Commute to 'work' by settling into his home office, reviewing his calendar, and prioritizing the day's tasks.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office - Clement St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Handle urgent student cases, reply to overnight emails, and conduct initial phone check-ins.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 105,
+                        "location": "Home Office - Clement St"
+                    },
+                    {
+                        "emoji": "\ud83d\udda5\ufe0f",
+                        "action": "Hold a virtual support session with a USF student to develop an action plan for their academic and personal challenges.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office - Clement St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Write detailed, confidential case notes and update student files in the university's database.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office - Clement St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd61",
+                        "action": "Step out for fresh air and pick up a quick, inexpensive lunch.",
+                        "geocode": {
+                            "lat": 37.7829939,
+                            "lng": -122.4672055,
+                            "formatted_address": "736 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Good Luck Dim Sum"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1",
+                        "action": "Collaborate with other case managers in a weekly virtual team meeting to discuss complex cases and share resources.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office - Clement St"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Coordinate with other university departments (e.g., Financial Aid, Counseling Services) on behalf of his students.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office - Clement St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Log off from work systems and take a walk around the neighborhood to create a mental separation from his job.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Inner Richmond Neighborhood"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Help his parents with dinner preparations while catching up on their day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Kitchen at Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Sit down and eat dinner with his family.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Dining Room at Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk to a local pub to meet a friend for a beer and conversation.",
+                        "geocode": {
+                            "lat": 37.7833159,
+                            "lng": -122.4605441,
+                            "formatted_address": "116 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Plough and the Stars"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a book and avoiding screens.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Bedroom at Home"
+                    }
+                ],
+                "day_overview": "A structured day for Kenji, a remote Case Manager, balancing demanding client work for USF with the need to decompress. The day includes outdoor activity in Golden Gate Park, connecting with family over dinner at his Inner Richmond home, and a casual weeknight drink with a friend.",
+                "home_address": "469 Clement St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7827811,
+                    "lng": -122.4643071,
+                    "formatted_address": "469 Clement St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Likely Bachelor's degree or higher. Case management often requires a degree in social work, psychology, sociology, or a related field.",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

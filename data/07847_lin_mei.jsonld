@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Lin",
+    "givenName": "Mei",
+    "familyName": "Lin",
+    "jobTitle": "Senior Process Engineer",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Lin\u2019s story is etched into the fog and hills of San Francisco, a city she has always called home. The only child of Taiwanese immigrants, she grew up to the rhythmic hum of washing machines in her parents\u2019 laundromat in the Richmond District. Her childhood was one of quiet observation and immense pressure; her parents, who sacrificed everything for a foothold in America, saw her education as their ultimate return on investment. Mei absorbed their work ethic, channeling it into a fierce academic focus that felt both like a duty and a refuge.\n\nShe excelled, earning a scholarship to UC Berkeley where she pursued a graduate degree in Materials Science. While her peers were chasing the burgeoning dot-com software boom, Mei was fascinated by the tangible world of hardware and fabrication. Her career began in Silicon Valley, designing and perfecting the complex manufacturing processes for semiconductors. Her life, much like the silicon wafers she managed, was etched with precision and discipline. This focus contributed to a successful career but also a quiet divorce in her late thirties; a partnership that couldn't withstand the gravity of two demanding careers.\n\nNow 54, Mei is a Senior Process Engineer for a major tech firm, but her commute is a 0.0-mile walk from her bedroom to her impeccably organized home office in her SoMa condo. The shift to permanent remote work was a recent turning point, dissolving the boundary between her meticulous professional life and her solitary personal one. Her days follow a strict routine: morning tea overlooking the city, hours of deep focus on schematics and data, and an evening walk through the shifting streets of her neighborhood, a place she barely recognizes from her youth.\n\nA native San Franciscan, Mei holds a complex relationship with the city\u2014a deep love for the familiar landmarks of her past clashing with a quiet resentment for the hyper-gentrified present. With financial stability secured, her aspirations are shifting. She dreams of leaving the corporate world behind, perhaps consulting for a sustainable technology startup or mentoring young women entering STEM fields. Mei Lin wants her final act to be one of purpose, engineering not just a better product, but a better future."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, stretch, and a brief 10-minute mindfulness meditation session to start the day centered.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee using beans from a local roaster and review the day's headlines on a tablet.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Get dressed in business casual attire and pack a work bag with a laptop, notebook, and a change of clothes.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Begin the energizing bike commute, navigating the hills down from Noe Valley and merging onto the Market Street bike lanes towards downtown.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Church St & Market St Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Arrive at the office, park bike in the secure storage, and grab a healthy breakfast of oatmeal and fruit from the office cafe.",
+                        "geocode": {
+                            "lat": 37.7894911,
+                            "lng": -122.408752,
+                            "formatted_address": "Cable Car Cafe, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 30,
+                        "location": "Google SF - 'The Cable Car Cafe'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend daily Agile stand-up meeting with the process engineering team to discuss project progress and daily blockers.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Google SF - 'Alcatraz' Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Analyze new production data sets to identify efficiency bottlenecks in a key manufacturing process.",
+                        "geocode": {
+                            "lat": 37.7940319,
+                            "lng": -122.3949414,
+                            "formatted_address": "The Landmark Building, 1 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Google SF - Personal Workstation"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break with a colleague, followed by a brisk walk along the waterfront to clear the head.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Embarcadero Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead a cross-functional meeting with the software and hardware teams to map out a new automation workflow.",
+                        "geocode": {
+                            "lat": 37.8098999,
+                            "lng": -122.4977005,
+                            "formatted_address": "Golden Gate, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Google SF - 'Golden Gate' Whiteboard Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Focus time for writing up technical specifications and performing a peer review on a junior engineer's process proposal.",
+                        "geocode": {
+                            "lat": 37.791868,
+                            "lng": -122.392829,
+                            "formatted_address": "121 Spear St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 105,
+                        "location": "Google SF - Library Pod"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2640\ufe0f",
+                        "action": "Cycle home, tackling the gradual incline on Market Street for a challenging end-of-day workout.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 35,
+                        "location": "Market St & Church St Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83e\udd55",
+                        "action": "Quick stop to pick up fresh pasta, vegetables, and a bottle of wine for an upcoming dinner.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Church Street Produce"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Meet a close friend for dinner to catch up over authentic Sardinian food.",
+                        "geocode": {
+                            "lat": 37.7419286,
+                            "lng": -122.426644,
+                            "formatted_address": "291 30th St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 100,
+                        "location": "La Ciccia"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Wind down on the couch with a cup of herbal tea while reading a novel from a local book club.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    }
+                ],
+                "day_overview": "A productive day for a Senior Process Engineer, balancing focused work at Google's downtown office with a vigorous bike commute from her Noe Valley home, and winding down with a social dinner in her neighborhood.",
+                "home_address": "2672 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7422186,
+                    "lng": -122.4267793,
+                    "formatted_address": "2672 Church St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1970",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

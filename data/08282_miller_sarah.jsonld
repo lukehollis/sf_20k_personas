@@ -1,0 +1,278 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Licensed Clinical Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s path to becoming a therapist was paved in the quiet, emotionally complex landscape of her childhood. Raised in the suburbs of Philadelphia, she was the eldest daughter in a family where her mother\u2019s chronic, undiagnosed anxiety cast a long shadow. Sarah learned early to be an emotional caretaker, becoming a keen observer of unspoken tensions and a mediator of moods. This role, while burdensome for a child, planted the seed of her future profession: a deep-seated need to understand and alleviate human suffering.\n\nSeeking distance and a different way of being, she moved west for her Master of Social Work at UC Berkeley. The Bay Area\u2019s culture of introspection and openness felt like a breath of fresh air. After graduating, she began her career at a bustling San Francisco hospital, working with patients and families navigating catastrophic diagnoses. The work was vital but draining, and the pace of the hospital led to burnout. The key turning point was the pandemic-driven shift to telehealth. Sarah discovered that working from the controlled quiet of her own home allowed her to be more present for her clients and, crucially, for herself. She never went back to the hospital.\n\nToday, Sarah lives in a cozy, book-filled apartment in the Inner Richmond. Her 0.0-mile commute takes her from her bedroom to a carefully arranged office nook overlooking the fog-laced street. Her days are structured around virtual sessions, helping clients navigate anxiety, grief, and trauma. To decompress, she relies on long, meditative walks through Golden Gate Park, letting the scent of eucalyptus and the cool air clear her mind.\n\nHer partner of six years, David, a pragmatic software engineer, provides a grounding contrast to her emotionally demanding work. Their evenings are spent cooking together and sharing stories from their vastly different professional worlds. Her social circle is small but deep, consisting mainly of fellow therapists she met in grad school who understand the unique weight of their work.\n\nSarah dreams of one day opening a small, specialized private practice with two of her closest colleagues, focusing on healthcare-related trauma. More personally, she yearns to travel more with David and simply maintain the fragile, essential balance she has fought so hard to create. San Francisco, for her, is not a city of hustle, but a sanctuary\u2014a place where she has built a life dedicated to the quiet, profound work of healing, both for others and for herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for 10 minutes to center herself, and listen to a news podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Get ready for the day: shower, dress in business casual, and prepare a quick breakfast of Greek yogurt and berries.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk from her apartment to the 24th St Mission BART station, enjoying the morning energy of the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Mission Street Sidewalk"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Take the northbound BART train to the Financial District, reading a novel on her Kindle to disconnect before work.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "BART (24th St Mission to Montgomery St)"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Arrive at the office, make a cup of tea, and review patient files and the day's schedule.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bay Area Mental Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct an in-person cognitive behavioral therapy (CBT) session with a client.",
+                        "geocode": {
+                            "lat": 37.7772504,
+                            "lng": -122.4232727,
+                            "formatted_address": "423 Gough St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 50,
+                        "location": "Therapy Office, Bay Area Mental Wellness Center"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Complete and file detailed progress notes from the previous session.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Personal Office, Bay Area Mental Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct a second in-person client session focusing on dialectical behavior therapy (DBT) skills.",
+                        "geocode": {
+                            "lat": 37.7772504,
+                            "lng": -122.4232727,
+                            "formatted_address": "423 Gough St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 50,
+                        "location": "Therapy Office, Bay Area Mental Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a much-needed break. Pick up a salad from The Salad Place and eat at the Salesforce Park rooftop garden to get some sun.",
+                        "geocode": {
+                            "lat": 37.7897395,
+                            "lng": -122.3961656,
+                            "formatted_address": "Salesforce Park, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Salesforce Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Participate in a weekly case consultation meeting with fellow clinicians to discuss challenging cases.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Conference Room, Bay Area Mental Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Conduct a telehealth video session with a long-term client.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Personal Office, Bay Area Mental Wellness Center"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Finalize all session notes, respond to patient portal messages and work emails, and plan tomorrow's priorities.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Personal Office, Bay Area Mental Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8a",
+                        "action": "Take the BART train from Montgomery St station back to the 24th St Mission station.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "BART (Montgomery St to 24th St Mission)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a few essentials for dinner and the next day's breakfast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Attend a Vinyasa Flow class to decompress from the emotional weight of the day and move her body.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner at home while listening to a comedy podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf66",
+                        "action": "Meet a friend to grab a scoop of Salted Caramel ice cream and take a walk around the park at dusk.",
+                        "geocode": {
+                            "lat": 37.76159,
+                            "lng": -122.425717,
+                            "formatted_address": "3692 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Bi-Rite Creamery & Dolores Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down at home with a cup of herbal tea and read a few chapters of a non-work-related book.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A busy but balanced day for Sarah, a clinical social worker, blending demanding client work in the Financial District with essential self-care and social connection back in her vibrant Mission neighborhood.",
+                "home_address": "2913 Mission St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7504313,
+                    "lng": -122.4182961,
+                    "formatted_address": "2913 Mission St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

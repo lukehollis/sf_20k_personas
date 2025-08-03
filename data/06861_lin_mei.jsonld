@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Lin",
+    "givenName": "Mei",
+    "familyName": "Lin",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Lin\u2019s childhood was shaped by the fog-laced streets of San Francisco's Richmond District, where the scent of her parents\u2019 pineapple buns and egg tarts was a neighborhood fixture. As the only child of immigrants who poured their life savings into their Clement Street bakery, Mei was expected to inherit their legacy. She was a dutiful daughter, but her mind wandered far beyond spreadsheets of flour costs and baking schedules. Instead, she was fascinated by the intricate social tapestries of the city around her.\n\nThis fascination led her to UC Berkeley, where, to her parents' quiet dismay, she pursued a Bachelor's degree in Sociology. She loved studying the forces that shaped communities, but post-graduation, she faced a harsh reality: her degree offered more theories than job prospects. This became her pivotal turning point. Unwilling to retreat to the bakery, she enrolled in an intensive data analytics bootcamp, discovering she could apply her sociological lens to the massive datasets of human behavior that powered the tech industry. It was the perfect fusion of her passion and pragmatism.\n\nNow 26, Mei lives a life starkly different from her upbringing. Her 0.0-mile commute is a short walk from her bed to her desk in a sleek Hayes Valley studio apartment. Her days are a disciplined routine of SQL queries, data visualization, and virtual meetings. To combat the work-from-home isolation, she has rituals: a morning walk to a local coffee roaster, a lunchtime run through Patricia's Green, and evening pottery classes where she can create something tangible.\n\nHer connection to her family remains strong, though tinged with a gentle friction. Her parents are proud of her success but don\u2019t fully understand what she does, only that it pays her San Francisco rent. Her friends, a mix from college and her tech bootcamp, form her chosen family. Mei\u2019s dream is to eventually bridge her worlds\u2014perhaps by founding a startup that uses data analytics to support non-profits or preserve cultural histories like the very Chinatown her parents first called home. For now, she finds meaning in the patterns, both in her datasets and in the vibrant, complex city she navigates daily."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, 15-minute yoga flow, and shower.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make breakfast: avocado toast and pour-over coffee while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the J Church Muni stop at 22nd & Church St.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Noe Valley Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Commute on the J Church line, listening to music and checking personal emails.",
+                        "geocode": {
+                            "lat": 37.7484703,
+                            "lng": -122.3907006,
+                            "formatted_address": "1301 Cesar Chavez St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 35,
+                        "location": "San Francisco Muni"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, grab tea from the office kitchen, and triage Slack messages and emails.",
+                        "geocode": {
+                            "lat": 37.7740771,
+                            "lng": -122.4042889,
+                            "formatted_address": "521 7th St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Workstream Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Writing and optimizing SQL queries for a new user engagement report.",
+                        "geocode": {
+                            "lat": 37.7740771,
+                            "lng": -122.4042889,
+                            "formatted_address": "521 7th St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 150,
+                        "location": "Workstream Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break with a coworker, grabbing a customizable bowl.",
+                        "geocode": {
+                            "lat": 37.791639,
+                            "lng": -122.4038184,
+                            "formatted_address": "485 Pine St #88, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "SAJJ Mediterranean"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Build and refine a Tableau dashboard to visualize query results for stakeholders.",
+                        "geocode": {
+                            "lat": 37.7740771,
+                            "lng": -122.4042889,
+                            "formatted_address": "521 7th St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 120,
+                        "location": "Workstream Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Quick sync meeting with a Product Manager to review the new dashboard and gather feedback.",
+                        "geocode": {
+                            "lat": 37.7740771,
+                            "lng": -122.4042889,
+                            "formatted_address": "521 7th St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 45,
+                        "location": "Workstream Conference Room 'Golden Gate'"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Wrap up work, update project tracker, and commute home on the J Church line.",
+                        "geocode": {
+                            "lat": 37.7484703,
+                            "lng": -122.3907006,
+                            "formatted_address": "1301 Cesar Chavez St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 40,
+                        "location": "San Francisco Muni"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Whole Foods Market (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude4f",
+                        "action": "Unwind with a Vinyasa flow yoga class to de-stress from the day.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Prepare and eat a simple, healthy dinner while watching a show.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, read a few chapters of a novel, and scroll through social media.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A productive day for a SoMa data analyst, blending focused data work with a healthy commute on Muni, a relaxing evening yoga class in the Mission, and unwinding at her Dolores Street home.",
+                "home_address": "1172 Dolores St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7506498,
+                    "lng": -122.4254185,
+                    "formatted_address": "1172 Dolores St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1998",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

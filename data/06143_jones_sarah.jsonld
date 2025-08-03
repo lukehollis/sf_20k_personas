@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jones",
+    "givenName": "Sarah",
+    "familyName": "Jones",
+    "jobTitle": "Project Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Urban Explorer"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jones\u2019s story didn\u2019t begin with code, but with canvas. Raised in a quiet, tree-lined suburb of Cleveland, Ohio, by a high school history teacher and a dental hygienist, her world was one of Midwestern stability and clearly defined seasons. Her imaginative spirit found an outlet not in sports or science fairs, but in the local art museum, where she spent weekends captivated by the stories behind the paintings. This passion led her to pursue a Bachelor\u2019s degree in Art History at Ohio State University, a path her practical parents supported with a loving, if slightly bewildered, curiosity.\n\nThe pivotal moment of her life was a post-graduation trip to San Francisco. Intending to stay for just a week, she was instantly enthralled by the city\u2019s chaotic energy, the fog rolling over the hills, and the palpable sense of reinvention in the air. It felt like a world away from Ohio\u2019s predictability. In a bold, uncharacteristic move, she cashed in her return ticket, found a room in a shared flat, and decided to stay.\n\nHer initial years were a classic San Francisco hustle. She worked as an admin for a small art gallery in SoMa, barely making rent but soaking in the city\u2019s culture. The turning point came when she took a temp job as a receptionist at a burgeoning tech startup. Her knack for organizing chaos and translating between the passionate, often eccentric, creative and technical minds was quickly noticed. Within a year, she was promoted to Project Coordinator, finding that her Art History background\u2014analyzing context, managing narratives, and understanding human motivation\u2014was surprisingly applicable to managing software development cycles.\n\nNow, at 29, Sarah\u2019s life is centered in her Inner Richmond apartment, which doubles as her office. Her zero-mile commute means her neighborhood is her entire world on weekdays. Mornings start with a coffee from a local cafe on Clement Street, followed by a walk in Golden Gate Park before logging on. She coordinates projects with teams across different time zones, her days a blur of Slack messages and video calls. Her social life consists of a tight-knit group of friends\u2014a mix from her early gallery days and a few tech colleagues\u2014who she meets for dim sum or drinks in the neighborhood. She hopes to one day lead a team at a company that merges technology with the arts, proving that her initial passion was not a detour, but the foundation for her entire journey."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, start the coffee maker, and do a quick 10-minute stretch.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on 2nd St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Sip coffee while reviewing daily schedule, personal to-do list, and headlines.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on 2nd St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on 2nd St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from Dogpatch to UCSF Parnassus, navigating morning traffic and finding parking.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF Streets & UCSF Millberry Union Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, grab water, and triage morning emails from research teams.",
+                        "geocode": {
+                            "lat": 37.762996,
+                            "lng": -122.459005,
+                            "formatted_address": "521 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 35,
+                        "location": "UCSF Clinical Sciences Building Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead a weekly sync meeting with the project team to review milestones and blockers.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Conference Room 4B"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work: update project management software (Asana) and draft a budget report.",
+                        "geocode": {
+                            "lat": 37.762996,
+                            "lng": -122.459005,
+                            "formatted_address": "521 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Clinical Sciences Building Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a pre-ordered salad and eat lunch in the courtyard with a coworker.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Courtyard Cafe at UCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Afternoon work session: follow up on action items from the morning meeting and prepare for tomorrow's vendor call.",
+                        "geocode": {
+                            "lat": 37.762996,
+                            "lng": -122.459005,
+                            "formatted_address": "521 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF Clinical Sciences Building Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, listening to a true-crime podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Streets & I-280 North"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up items for dinner and tomorrow's lunch.",
+                        "geocode": {
+                            "lat": 37.7742958,
+                            "lng": -122.3914108,
+                            "formatted_address": "1101 4th St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market - Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Attend a heated vinyasa yoga class to stretch and clear the mind.",
+                        "geocode": {
+                            "lat": 37.79832409999999,
+                            "lng": -122.4271696,
+                            "formatted_address": "1694 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Pad Studios"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner: salmon with roasted vegetables and quinoa.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Apartment on 2nd St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while catching up on a TV series.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on 2nd St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfa",
+                        "action": "Tidy up kitchen, pack lunch for the next day, and lay out clothes.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on 2nd St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a book and a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.7843217,
+                            "lng": -122.3951818,
+                            "formatted_address": "2nd St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Apartment on 2nd St"
+                    }
+                ],
+                "day_overview": "A busy day for Sarah, balancing project deadlines at UCSF with a cross-town commute, followed by a relaxing yoga class and a home-cooked meal in Dogpatch.",
+                "home_address": "3194 2nd St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7824736,
+                    "lng": -122.3928773,
+                    "formatted_address": "2nd St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jones Family"
+    }
+}

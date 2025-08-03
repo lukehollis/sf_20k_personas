@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Wong",
+    "givenName": "David",
+    "familyName": "Wong",
+    "jobTitle": "Project Coordinator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Wong is a product of San Francisco\u2019s fog-laced avenues. The only child of immigrants from Hong Kong, he grew up in the Richmond District to the soundtrack of clanking cable car bells and the hum of Cantonese and English mingling on Clement Street. His parents ran a small, beloved neighborhood grocery store, a place of constant work and community connection. From them, David inherited a deep sense of loyalty not to the city as a whole, but to the specific blocks that raised him.\n\nHis educational journey was a quiet rebellion. While his parents hoped for a lucrative, stable career, David pursued a Bachelor\u2019s in Urban Studies at San Francisco State University. He was fascinated by how cities breathe and evolve, and how policy shapes the lives of people like his parents. After graduating, he briefly worked in corporate real estate, a soulless job that felt like a betrayal of his roots. The turning point came a decade ago when his parents, worn down by rising costs, finally sold their store. Seeing that piece of his family\u2019s history vanish galvanized him.\n\nNow, David is the Project Coordinator for his neighborhood's Community Benefit District, a non-profit dedicated to supporting local merchants and preserving the area's unique character. His 0.0-mile commute is a core part of his identity; he lives in a rent-controlled apartment above a bakery, just three blocks from his childhood home. His days are a whirlwind of grant writing, organizing street festivals, and mediating between old-school shop owners and new city regulations, all conducted from his small home office or over coffee at a local cafe.\n\nAt 47, David is single but deeply enmeshed in a community he considers family. He is the unofficial historian, the trusted mediator, the man who knows which plumber to call and which supervisor to lobby. His aspiration isn't wealth or fame, but something more fragile: ensuring the Richmond District remains a place where new immigrant families can still build a life. His quiet dream is to one day use his savings to help a young entrepreneur open a shop, continuing the cycle that once gave his own family their start."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, make a pourover coffee, and read the news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Get ready for the day and pack a bag with a water bottle and headphones for the commute.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Begin the long morning walk to work, listening to an urban planning podcast while cutting through the Mission.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "City Streets - Mission to SoMa"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab a sparkling water from the communal kitchen, and organize the day's tasks on a project management tool.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 30,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead a virtual project sync-up meeting with the remote team via video conference.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 75,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work session: updating project timelines, budgets, and sending out status reports to stakeholders.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 120,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a quick lunch break, walking over to grab a healthy grain bowl to eat back at the desk.",
+                        "geocode": {
+                            "lat": 37.787414,
+                            "lng": -122.4061801,
+                            "formatted_address": "Level Four, 150 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Rotunda at Neiman Marcus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Afternoon work block: troubleshoot issues raised in the morning meeting and coordinate with vendors via email.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 150,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Pack up and begin the evening walk home, using the time to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 80,
+                        "location": "City Streets - FiDi to Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta, vegetables, and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7513732,
+                            "lng": -122.4361692,
+                            "formatted_address": "741 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 15,
+                        "location": "Pasta Gina"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Cook a simple pasta dinner while listening to a jazz playlist.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Tidy up the kitchen and settle on the couch to watch an international film.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 110,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the evening by reading a few chapters of a history book.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Set out clothes for the next day and head to bed.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Noe Valley"
+                    }
+                ],
+                "day_overview": "A structured day for a project coordinator, bookended by long, meditative walks across the city, balancing focused work in the Financial District with a quiet, self-sufficient evening in his Noe Valley neighborhood.",
+                "home_address": "3893 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7516677,
+                    "lng": -122.4295153,
+                    "formatted_address": "3893 24th St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

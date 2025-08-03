@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anya Sharma",
+    "givenName": "Anya",
+    "familyName": "Sharma",
+    "jobTitle": "Lead Data Scientist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anya Sharma's life has been a quiet rebellion against expectation. Born in Fremont to Indian immigrant parents\u2014a pragmatic engineer father and a nurturing doctor mother\u2014her path was pre-written: medical school. Anya was a dutiful daughter, excelling in biology and chemistry, but her true passion was discovered in a mandatory statistics course. The orderly beauty of finding patterns in chaos, of predicting outcomes from a sea of data, felt more like magic to her than medicine ever could.\n\nThis discovery was her turning point. Instead of the MCAT, she pursued a Master's in Statistics at Stanford, a decision that caused a gentle rift with her family, which has since healed into a quiet pride in her success. Anya\u2019s analytical mind was perfectly suited for the burgeoning tech world. She rose quickly, her ability to translate complex datasets into actionable business strategy making her invaluable. Now, at 34, she is a Lead Data Scientist for a major fintech company, orchestrating her team and weaving a symphony of algorithms from the quiet comfort of her apartment.\n\nHer commute of 0.0 miles defines her current lifestyle. Anya lives in a meticulously curated one-bedroom in the Inner Sunset, a neighborhood she chose for its foggy tranquility and proximity to Golden Gate Park. Her days follow a distinct rhythm: a sunrise run through the park, deep work sessions fueled by pour-over coffee from the corner cafe, and evenings spent either decompressing with a complex recipe or bouldering at Dogpatch Boulders with a tight-knit group of friends. These climbing sessions are her lifeline, a physical counterpoint to her digital life and a key social outlet since her amicable split from a long-term boyfriend six months ago.\n\nThough professionally accomplished, Anya aspires to more. She dreams of pivoting her skills toward social good, perhaps modeling climate change impacts or optimizing resource allocation for a nonprofit. She feels deeply connected to San Francisco's spirit of innovation and social consciousness and wants her work to reflect that. Anya Sharma is a woman who built a life on her own terms, finding solace in the logic of data while searching for a greater, more human purpose within it."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": ""
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, start a guided yoga and meditation session using a wellness app.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Living Room Yoga Corner"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare a quick, healthy breakfast of Greek yogurt with berries and granola.",
+                        "geocode": {
+                            "lat": 37.7831805,
+                            "lng": -122.4028545,
+                            "formatted_address": "3941 Howard St, San Francisco, CA 94107"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee using beans from a local roaster while reviewing personal appointments and to-do list for the day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Begin the workday: power on the computer, check Slack messages, and review the project board for today's priorities.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "The Data Den (Home Office)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1",
+                        "action": "Lead the daily Data Science team stand-up, discussing project blockers and progress on the new recommendation engine.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Data Den (Home Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc0d",
+                        "action": "Deep work session: Write and test Python scripts for a new predictive model, documenting the process in a Jupyter Notebook.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "The Data Den (Home Office)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to pick up a pre-ordered kale and quinoa salad for a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.775582,
+                            "lng": -122.3893237,
+                            "formatted_address": "1023 3rd St c, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 45,
+                        "location": "Sweetgreen (Mission Bay)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Virtual sync with the Head of Product to present initial findings from a recent A/B test and align on next steps.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Data Den (Home Office)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udfeb",
+                        "action": "Conduct a code review and pair-programming session with a junior data scientist to mentor them on best practices.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Data Den (Home Office)"
+                    },
+                    {
+                        "emoji": "\u2714\ufe0f",
+                        "action": "Wrap up work: respond to final emails, push code to the repository, and update project status in Jira before logging off.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "The Data Den (Home Office)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Evening bouldering session to decompress and get a full-body workout.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Dogpatch Boulders"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery run to grab ingredients for dinner tonight and breakfast tomorrow.",
+                        "geocode": {
+                            "lat": 37.7742958,
+                            "lng": -122.3914108,
+                            "formatted_address": "1101 4th St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market (Mission Bay)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook and eat a salmon and roasted vegetable dinner while listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Unwind by reading a chapter of a non-fiction book on the couch with a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: skincare, prep coffee for the morning, and set out workout clothes before heading to bed.",
+                        "geocode": {
+                            "lat": 37.7831805,
+                            "lng": -122.4028545,
+                            "formatted_address": "3941 Howard St, San Francisco, CA 94107"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Lead Data Scientist, balancing deep work on machine learning models with team collaboration, followed by an active evening featuring a bouldering session and a home-cooked meal.",
+                "home_address": "3941 Howard St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7831805,
+                    "lng": -122.4028545,
+                    "formatted_address": "Howard St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "AnyaSharma Family"
+    }
+}

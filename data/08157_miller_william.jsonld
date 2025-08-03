@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "William Miller",
+    "givenName": "William",
+    "familyName": "Miller",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "William \"Will\" Miller\u2019s life began not in the fog-laced hills of San Francisco, but on the quiet, grid-like streets of a Minneapolis suburb. Raised by a pragmatic high school history teacher and a meticulous CPA, his upbringing was one of stability, common sense, and quiet intellectual curiosity. He was the kind of kid who spent more time organizing his Lego sets by color and function than playing imaginary games.\n\nHis educational journey was an act of minor rebellion. Eschewing the practical business or engineering degrees his parents might have expected, Will pursued a Bachelor's in Philosophy at the University of Wisconsin-Madison. He was fascinated by formal logic, ethics, and the structure of arguments, finding beauty in well-reasoned systems. Graduation, however, brought the stark reality that existential dread paid no bills. Adrift and back in his childhood bedroom, he stumbled upon a new kind of logic: programming. He taught himself Python and SQL with obsessive focus, discovering that the same part of his brain that loved untangling Kantian ethics also loved cleaning datasets and building predictive models.\n\nThis self-taught skill set secured him a remote position as a data analyst for a burgeoning FinTech firm. The job offered him freedom, and he chose San Francisco, a city he\u2019d only seen in movies but was drawn to for its reputation as a hub of ideas. He found a clean, modern studio apartment in Hayes Valley. With a 0.0-mile commute, his apartment is his entire world for eight hours a day. His routine is disciplined: a morning pour-over from a local caf\u00e9, hours spent staring at spreadsheets and Tableau dashboards, a midday break for a run through the Panhandle, and an evening spent either at a climbing gym or deep into a strategy board game with a small circle of friends.\n\nWill feels a persistent disconnect between his work\u2014using data to maximize profit\u2014and his philosophical roots. While financially comfortable, he\u2019s not entirely fulfilled. His social connections are structured and intentional, a defense against the isolation of remote work. He aspires to eventually move into data science for a non-profit or an ethical-tech company, a role where he can use his analytical mind to solve human problems, not just market ones. For now, he remains a quiet observer of the city from his window, a logician parsing the complex, often irrational data stream of life in San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and check phone for any urgent notifications.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower, get dressed in a smart casual outfit, and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make coffee and have a quick breakfast of yogurt and granola with his partner.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the designated corner to meet his carpool group.",
+                        "geocode": {
+                            "lat": 37.7516981,
+                            "lng": -122.4274864,
+                            "formatted_address": "24th St & Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 5,
+                        "location": "Corner of 24th & Church St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to SoMa, listening to an economics podcast ('Planet Money') with the carpool group.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SoMa-Bound Carpool"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Settle in at his desk, grab a second coffee, and triage morning emails and JIRA tickets.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, United States"
+                        },
+                        "duration": 30,
+                        "location": "SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: Use SQL to pull and analyze transactional data for the quarterly performance report.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, United States"
+                        },
+                        "duration": 150,
+                        "location": "SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy lunch bowl with a few coworkers.",
+                        "geocode": {
+                            "lat": 37.7647278,
+                            "lng": -122.4319646,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Salad Bar SF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a team meeting to discuss data pipeline updates and project blockers.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "SOMAcentral Conference Room 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Create data visualizations in Tableau to present in tomorrow's stakeholder meeting.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, United States"
+                        },
+                        "duration": 120,
+                        "location": "SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet the carpool group for the drive home, navigating rush hour traffic.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Noe Valley-Bound Carpool"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop to pick up fresh pasta and sauce for dinner.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Noe Valley Pasta & Pizza"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a de-stressing run around the neighborhood to clear his head.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Noe Valley Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner and eat with his partner, catching up on their respective days.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a new documentary together.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, read a few articles, and set his alarm.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Noe Valley)"
+                    }
+                ],
+                "day_overview": "A productive workday in SoMa for a finance data analyst, balanced with a healthy routine, social time with a partner, and evening relaxation in his Noe Valley neighborhood.",
+                "home_address": "3742 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.75195739999999,
+                    "lng": -122.426227,
+                    "formatted_address": "3742 24th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

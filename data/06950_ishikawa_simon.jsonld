@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Simon Ishikawa",
+    "givenName": "Simon",
+    "familyName": "Ishikawa",
+    "jobTitle": "Senior Transportation Planner",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Simon Ishikawa is a third-generation Japanese-American, a *Sansei* whose family history is deeply woven into California\u2019s fabric. Raised in the sprawling suburbs of San Jose, he was a quiet, observant child, more interested in the intricate patterns of model train sets than sports. His grandparents, who were interned at Manzanar during WWII, rarely spoke of the past, but the stories of them rebuilding their lives in San Francisco, relying entirely on the city's streetcars and buses, left an indelible mark on him.\n\nThis inherited understanding of mobility as a lifeline fueled his academic path. After an undergraduate degree at UC Davis, he pursued a Master's in Urban and Regional Planning at UCLA, focusing on public transportation systems. He saw planning not as an abstract exercise, but as a tool for social equity. He began his career with the San Francisco Municipal Transportation Agency (SFMTA) two decades ago and has been there ever since, a steady, reliable force slowly climbing the ladder to his current senior role.\n\nA quiet divorce about a decade ago was a key turning point, prompting Simon to sell the house he shared with his ex-wife in the Sunset and move into a meticulously organized one-bedroom apartment in Hayes Valley. The move solidified his commitment to the urbanist principles he espouses professionally. His life is now a case study in transit-oriented living. His 0.0-mile commute is a point of personal pride; he works from home, his desk covered in GIS maps and policy drafts.\n\nHis daily routine is structured and calm. Mornings are for pour-over coffee and virtual meetings. Afternoons are for deep work, analyzing data on bus route efficiency or bike lane usage. He breaks for walks through his neighborhood, observing the urban ballet of pedestrians, cyclists, and cars he helps choreograph. Socially, he keeps a small, tight circle: a weekly bike ride with two old college friends and monthly dinners with his sister in Oakland.\n\nSimon\u2019s dream is not of wealth or recognition, but of systemic change. He aspires to see the completion of major projects like the Central Subway and to successfully implement a network of protected bike lanes that finally makes cycling a safe and viable option for all ages. He dreams of a San Francisco where mobility is a right, not a privilege\u2014a city that would have served his grandfather well, and one he works tirelessly, quietly, to build for the future."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew coffee with beans from a local roaster, and read the morning news.",
+                        "geocode": {
+                            "lat": 37.8007569,
+                            "lng": -122.4109383,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment on Columbus"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Quick morning walk and stretch around the neighborhood.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack work bag for the day.",
+                        "geocode": {
+                            "lat": 37.8007569,
+                            "lng": -122.4109383,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "North Beach Apartment on Columbus"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute to work, taking the 30 Stockton bus and transferring to the 9 San Bruno.",
+                        "geocode": {
+                            "lat": 37.7748606,
+                            "lng": -122.4187694,
+                            "formatted_address": "1 Van Ness Ave, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "SFMTA Public Transit"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Morning team huddle to coordinate on the Potrero Yard modernization project.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SFMTA Planning Office at SF General"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work: Analyzing GIS data for a proposed protected bike lane on Potrero Avenue.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "SFMTA Planning Office at SF General"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to get lunch in the Mission.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Inter-agency video call with SF Public Works regarding street safety initiatives.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "SFMTA Planning Office at SF General"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Conduct a site walk around the hospital campus to observe pedestrian flow and transit stop usage.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Zuckerberg SF General Hospital Grounds"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Draft field observation report and respond to stakeholder emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 105,
+                        "location": "SFMTA Planning Office at SF General"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, listening to an urban planning podcast.",
+                        "geocode": {
+                            "lat": 37.7748606,
+                            "lng": -122.4187694,
+                            "formatted_address": "1 Van Ness Ave, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "SFMTA Public Transit"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Stop for fresh pasta and bread for dinner.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Daily check-in call with his mother in the Sunset.",
+                        "geocode": {
+                            "lat": 37.8007569,
+                            "lng": -122.4109383,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "North Beach Apartment on Columbus"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Change and go for an evening run along the waterfront.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Embarcadero Promenade"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat a simple pasta dinner at home.",
+                        "geocode": {
+                            "lat": 37.8007569,
+                            "lng": -122.4109383,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "North Beach Apartment on Columbus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Unwind by reading a book on tactical urbanism and listening to jazz.",
+                        "geocode": {
+                            "lat": 37.8007569,
+                            "lng": -122.4109383,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "North Beach Apartment on Columbus"
+                    }
+                ],
+                "day_overview": "A productive day for a mid-career transportation planner, balancing data analysis and fieldwork with a relaxing evening routine in his vibrant North Beach neighborhood.",
+                "home_address": "307 Columbus Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.798122,
+                    "lng": -122.407329,
+                    "formatted_address": "307 Columbus Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Ishikawa Family"
+    }
+}

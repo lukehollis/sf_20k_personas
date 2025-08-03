@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Arjun Patel",
+    "givenName": "Arjun",
+    "familyName": "Patel",
+    "jobTitle": "Healthcare Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Arjun Patel is a product of San Francisco\u2019s unique cultural fusion. His father, a pragmatic software engineer, immigrated from Gujarat, India, in the late 1980s, while his mother is a third-generation Irish-American artist from the Mission District. Growing up in the foggy avenues of the Outer Richmond, Arjun\u2019s childhood was a blend of his father\u2019s meticulous logic and his mother\u2019s free-spirited creativity. He was expected to excel academically, but his mind was always drawn more to patterns and systems than to rote memorization.\n\nHis educational journey was unconventional. Bowing to family pressure, he enrolled in a pre-med program at UC Davis but felt stifled by the rigid curriculum. After two years, he made the difficult decision to drop out, a move that caused a significant rift with his father. Feeling adrift, Arjun returned to the city and threw himself into the world of online learning. He discovered a passion for data science, completing a series of intensive bootcamps and earning certifications in data analytics and visualization. His drive was fueled by a desire to prove that a traditional degree wasn't the only path to success.\n\nThis determination paid off. He landed a role at a health-tech startup, where his ability to translate complex datasets into actionable insights quickly made him invaluable. Now, as a Healthcare Data Analyst for a major provider, he works from his small, meticulously organized apartment in Hayes Valley. His 0.0-mile commute affords him a disciplined routine: a pre-dawn run through the quiet streets, a strong coffee from his favorite local cafe, and hours spent immersed in data, seeking to identify trends that could improve patient care.\n\nTo combat the isolation of remote work, Arjun is a regular at a rock-climbing gym in Dogpatch, where he\u2019s found a tight-knit community of friends. His dream isn\u2019t to climb the corporate ladder, but to eventually use his skills to help underfunded community health clinics optimize their services. He feels a deep, complicated love for San Francisco\u2014frustrated by its expense but forever loyal to the city that shaped his unique, self-made identity."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1. He was ten, walking with his parents through the thick Outer Richmond fog that erased the horizon. His mother pointed to where the Golden Gate Bridge should be, calling it a ghost ship in the mist. His father, ever the engineer, explained the precise atmospheric conditions causing the advection fog. Arjun saw both: a beautiful, logical system. In that damp, cold air, he first understood that the world wasn't just art *or* science; for him, it was always the elegant pattern that connected the two.\n\n2. He remembers the crushing weight of the phone in his UC Davis dorm room. After rehearsing for an hour, he told his father he was dropping out of the pre-med program. He braced for yelling, but what came was worse: a long, heavy silence, crackling with the static of profound disappointment. In that quiet, Arjun felt the tectonic plates of his life shift. It was the terrifying, liberating moment he chose his own difficult path, accepting the rift it would cause in exchange for his own future.\n\n3. Adrift after leaving school, he was wrestling with a public health dataset for an online bootcamp. It was 2 AM when the code finally ran, transforming a chaotic scatter plot into a clean, undeniable visualization of patient outcomes. The feeling was electric\u2014a jolt of purpose that made the stuffy lecture halls of his past feel a world away. This was his language. This was a system he could master, a way to prove his father, and himself, wrong about his prospects.\n\n4. His fingers burned, stuck halfway up a difficult bouldering problem at the Dogpatch gym. He was about to drop in frustration when Maya, a friend, called a different sequence from the mat below. \u201cLeft foot high! Trust it!\u201d He followed her advice, his body twisting into a new position, and the next hold was suddenly within reach. The relief wasn't just about finishing the climb; it was about her voice cutting through his solitary focus. In that moment, he realized this wasn't just a gym; it was his community.\n\n5. He was analyzing patient readmission rates in his Hayes Valley apartment when he saw it. A tiny anomaly in the data led him to a stark reality: non-English-speaking seniors in one specific zip code were missing follow-up appointments at a staggering rate. It wasn\u2019t an abstract number; it was a clear barrier to care he could help fix. In that quiet moment, his work became profoundly human. The vague dream of helping community clinics sharpened into a clear, necessary mission."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, check news and personal emails on phone, then shower and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Pacific Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make and eat a quick, healthy breakfast of oatmeal and coffee while reviewing daily work priorities.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Pacific Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from Pacific Heights to the SoMa office, navigating morning traffic on Van Ness Ave.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, grab coffee, and begin morning focus block: running complex SQL queries on patient outcome datasets.",
+                        "geocode": {
+                            "lat": 37.7846008,
+                            "lng": -122.398468,
+                            "formatted_address": "680 Folsom St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 180,
+                        "location": "Riverbed Technology LLC Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend the daily data team stand-up meeting to sync on project progress and any analytical blockers.",
+                        "geocode": {
+                            "lat": 37.7850045,
+                            "lng": -122.4004816,
+                            "formatted_address": "Yerba Buena, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Conference Room 'Yerba Buena'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a healthy lunch bowl to eat at the office's outdoor terrace.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen Yerba Buena"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon focus block: Build and refine data visualizations in Tableau for an upcoming quarterly business review.",
+                        "geocode": {
+                            "lat": 37.7846008,
+                            "lng": -122.398468,
+                            "formatted_address": "680 Folsom St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "Riverbed Technology LLC Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Meet with a Product Manager to discuss data requirements and define success metrics for a new app feature.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Breakout Pod 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final emails, organize code, and plan tasks for tomorrow before heading out.",
+                        "geocode": {
+                            "lat": 37.7846008,
+                            "lng": -122.398468,
+                            "formatted_address": "680 Folsom St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 20,
+                        "location": "Riverbed Technology LLC Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Drive home from SoMa to Pacific Heights, listening to a data science podcast to decompress.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Go for an evening strength and conditioning workout session at the local gym.",
+                        "geocode": {
+                            "lat": 37.791857,
+                            "lng": -122.4012865,
+                            "formatted_address": "301 Pine St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 75,
+                        "location": "Equinox Pine Street"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery restock for the next few days.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mollie Stone's Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Cook and eat dinner, a simple chicken and vegetable stir-fry.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Pacific Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch a show, and browse personal interest articles online before bed.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Pacific Heights Apartment)"
+                    }
+                ],
+                "day_overview": "A productive workday for a Healthcare Data Analyst, balancing deep-focus data tasks in SoMa with an active lifestyle, including a run in Pacific Heights, a gym session, and cooking a healthy meal at home.",
+                "home_address": "2366 Broadway, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7943868,
+                    "lng": -122.4360631,
+                    "formatted_address": "2366 Broadway, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Patel Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Wong",
+    "givenName": "David",
+    "familyName": "Wong",
+    "jobTitle": "Machine Operator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Wong\u2019s commute is the shortest in San Francisco: a flight of fourteen wooden stairs. He lives directly above the small fortune cookie factory his parents founded in a narrow Chinatown alley after emigrating from Toisan, China. David arrived at age 15, a quiet boy overwhelmed by a new language and a bustling city. He never formally finished American high school, instead earning his education on the factory floor, learning the moods of the aging baking wheels and the precise fold-and-tuck of a warm cookie from his father.\n\nThe business, Golden Dragon Fortunes, became his entire world. It was a path chosen for him, but one he accepted with a sense of duty. His life\u2019s key turning point came not when he took over the machines from his retiring parents, but when he met Mei, a fellow immigrant who worked at the bakery down the street. They married and ran the factory together, their shared dream baked into every sweet, vanilla-scented batch. Their daughter, Emily, was their greatest creation. But their partnership was cut short a decade ago when Mei lost her battle with cancer, leaving David to run the factory and raise their daughter alone.\n\nNow, at 53, his days are a rhythmic loop. He wakes before dawn to the hum of the machines warming up, works until the afternoon sun slants through the dusty windows, and spends his evenings reading or talking on the phone with Emily, now a student at UC Davis. His social life consists of nods to neighborhood grocers and brief chats with the elderly men playing cards in Portsmouth Square.\n\nDavid\u2019s connection to San Francisco is tethered to these few blocks of Chinatown. He has witnessed the neighborhood\u2019s slow transformation, the creep of gentrification at its edges, yet his world remains constant. His greatest hope is for Emily to build a life far from the factory\u2019s heat and noise. Yet, a quiet part of him fears that when the machines finally fall silent, his family's legacy\u2014and his life's purpose\u2014will simply crumble like a misfolded cookie."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a strong coffee, and read the SF Chronicle on a tablet.",
+                        "geocode": {
+                            "lat": 37.7433168,
+                            "lng": -122.4333334,
+                            "formatted_address": "3986 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in work-issued polo and durable pants, and pack a lunch.",
+                        "geocode": {
+                            "lat": 37.7433168,
+                            "lng": -122.4333334,
+                            "formatted_address": "3986 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk down the hill from Noe Valley to the Muni station entrance.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Castro Street"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Take the Muni Metro K or M line inbound to the city center.",
+                        "geocode": {
+                            "lat": 37.7786634,
+                            "lng": -122.4150836,
+                            "formatted_address": "Civic Center Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 15,
+                        "location": "Castro Station to Civic Center Station"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Clock in, check daily work orders, and perform initial diagnostics on the large-format printers.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Machine Operations Floor, SF Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\udda8\ufe0f",
+                        "action": "Oversee the morning's run of printing official city notices and mailings.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 210,
+                        "location": "Machine Operations Floor, SF Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break, meeting a fellow city worker for a sandwich.",
+                        "geocode": {
+                            "lat": 37.7784132,
+                            "lng": -122.4154785,
+                            "formatted_address": "1220 Market St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sam's American Eatery"
+                    },
+                    {
+                        "emoji": "\ud83d\udd27",
+                        "action": "Complete afternoon production tasks and conduct routine maintenance on the mail sorting machine.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 210,
+                        "location": "Machine Operations Floor, SF Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Log end-of-day production numbers, clean the work area, and clock out.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Machine Operations Floor, SF Dept of Technology"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Ride the Muni Metro outbound, listening to a classic rock station on his phone.",
+                        "geocode": {
+                            "lat": 37.7628158,
+                            "lng": -122.4347619,
+                            "formatted_address": "Castro Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Civic Center Station to Castro Station"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up a few things for dinner and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mollie Stone's Markets"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Arrive home and catch up with his partner about their respective days.",
+                        "geocode": {
+                            "lat": 37.7433168,
+                            "lng": -122.4333334,
+                            "formatted_address": "3986 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a pasta dinner together while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7433168,
+                            "lng": -122.4333334,
+                            "formatted_address": "3986 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a Giants game or a favorite crime drama.",
+                        "geocode": {
+                            "lat": 37.7433168,
+                            "lng": -122.4333334,
+                            "formatted_address": "3986 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 90,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a detective novel before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7433168,
+                            "lng": -122.4333334,
+                            "formatted_address": "3986 Castro St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured day for a long-time SF resident, balancing a steady government job in Civic Center with a quiet home life with his partner in Noe Valley, all connected by a routine Muni commute.",
+                "home_address": "3986 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7433168,
+                    "lng": -122.4333334,
+                    "formatted_address": "3986 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1971",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

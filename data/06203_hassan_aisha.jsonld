@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aisha Hassan",
+    "givenName": "Aisha",
+    "familyName": "Hassan",
+    "jobTitle": "Machine Operator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Aisha Hassan\u2019s world is contained within a single industrial building in the Dogpatch. Her first memories are not of San Francisco fog, but of the sun-baked earth of a Kenyan refugee camp, where her Somali family found sanctuary after fleeing Mogadishu. They arrived in Oakland when she was a teenager, sponsored by a distant uncle. The transition was jarring; the cacophony of a new language and the pressure to build a new life fell heavily on Aisha as the eldest child.\n\nDriven by a desire for stability, she enrolled in a nursing program at a community college. But the clinical environment, filled with a quiet suffering that echoed her past, proved emotionally untenable. She dropped out, feeling adrift until she answered an ad for a trainee at a small, high-end textile manufacturing workshop in San Francisco. The owner, an aging artisan named Lena, saw in Aisha a rare, unwavering focus.\n\nThat was four years ago. Today, Aisha is the lead machine operator. Her 0.0-mile commute is a walk down a flight of wooden stairs from her small loft apartment to the workshop floor below\u2014a deal Lena offered to keep her reliable employee close. Her days are a meditative hum of machinery. She operates the industrial looms and automated cutting tables with a surgeon\u2019s precision, finding solace in the tangible process of turning raw thread into intricate, durable fabrics for boutique designers.\n\nHer social life is sparse. She visits her family in Oakland on Sundays, sharing quiet meals and slipping money to her mother. In the city, her primary connection is Lena, a maternal figure who shares coffee with her before the workday begins. Aisha is profoundly self-contained, her past having taught her that stability is something you build yourself, not something you are given. Her dream is taking shape in a hidden sketchbook, filled with designs that merge traditional Somali geometric patterns with modern, minimalist aesthetics. Her aspiration isn\u2019t wealth, but an evolution: to one day use these same machines to create her own line of textiles, weaving the story of her heritage into the fabric of her new home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a quick breakfast of yogurt and granola while checking the news on her phone.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the bus stop for the morning commute.",
+                        "geocode": {
+                            "lat": 37.7948162,
+                            "lng": -122.4078892,
+                            "formatted_address": "Bus Stop, 944 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 10,
+                        "location": "Stockton & Green St Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute to SoMa via the SFMTA 30 Stockton bus, listening to a true-crime podcast.",
+                        "geocode": {
+                            "lat": 37.7745525,
+                            "lng": -122.4189352,
+                            "formatted_address": "SFMTA, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 35,
+                        "location": "SFMTA Bus"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Clock in, review the day's production schedule for custom tech enclosures, and perform machine calibration.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 60,
+                        "location": "TechInSF Assembly Floor"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Operate the primary milling machine for the morning's production run, carefully monitoring tolerances.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "TechInSF Assembly Floor"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to a nearby spot to grab a quick and tasty lunch of a burrito bowl.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Cochinita"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Perform quality assurance checks on the morning's output and begin the afternoon production cycle.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 180,
+                        "location": "TechInSF Assembly Floor"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Complete the final run, followed by routine machine cleaning, lubrication, and prepping for the next day.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "TechInSF Assembly Floor"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home, taking the bus back towards North Beach as the evening traffic builds.",
+                        "geocode": {
+                            "lat": 37.7745525,
+                            "lng": -122.4189352,
+                            "formatted_address": "SFMTA, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 40,
+                        "location": "SFMTA Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for essential grocery shopping for the week.",
+                        "geocode": {
+                            "lat": 37.8054852,
+                            "lng": -122.4137755,
+                            "formatted_address": "401 Bay St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Trader Joe's - North Beach"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner and eat while catching up on a favorite streaming series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a casual weeknight drink at a classic neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Tidy up the apartment, lay out clothes for tomorrow, and read a chapter of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for a Machine Operator, balancing a technical job in SoMa with the vibrant neighborhood life of North Beach, involving a public transit commute and an active evening.",
+                "home_address": "2438 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.8071401,
+                    "lng": -122.4120541,
+                    "formatted_address": "2438 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Hassan Family"
+    }
+}

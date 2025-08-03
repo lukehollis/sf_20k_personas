@@ -1,0 +1,212 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aiko Tanaka",
+    "givenName": "Aiko",
+    "familyName": "Tanaka",
+    "jobTitle": "Manufacturing Engineer",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Aiko Tanaka\u2019s world is a curated space of precision and potential, housed within a converted warehouse loft in San Francisco's Dogpatch neighborhood. The scent of solder and freshly brewed coffee often mingles in the air of her live/work apartment, a testament to her 0.0-mile commute. Raised in Sacramento by an architect father and a ceramicist mother, Aiko grew up at the intersection of structure and artistry. She spent her childhood sketching blueprints alongside her dad and learning the feel of clay from her mom, developing an innate understanding of how form follows function.\n\nHer path seemed set for design, and she enrolled in California College of the Arts to pursue a Bachelor's in Product Design. The turning point came during her junior year when a beautifully conceived smart-home device she designed was deemed nearly impossible to produce at scale by her professor. Frustrated by the gap between concept and reality, Aiko became obsessed with the \"how.\" She pivoted her focus, taking every available course on materials science and fabrication. She discovered her true passion wasn't just inventing things, but making invention possible.\n\nUpon graduating, Aiko bypassed larger tech firms for a scrappy hardware startup in Dogpatch that specialized in rapid prototyping. The job came with the loft, placing her directly above the small-scale manufacturing lab she now manages. Her days are a fluid mix of CAD modeling at her standing desk and troubleshooting 3D printers and CNC machines downstairs. Her social life is tightly woven with her work; her few colleagues are her closest friends, often sharing late-night takeout over schematics.\n\nAiko\u2019s connection to San Francisco is rooted in this tangible culture of creation. She feels more at home in the industrial grit of Dogpatch than anywhere else. While her friends from college chase software clout, Aiko dreams of founding her own company dedicated to sustainable and ethically sourced electronics manufacturing. She aspires to build not just products, but a better way of building, right in the city that has always been a workshop for the future."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, quick stretch, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a simple breakfast of oatmeal and coffee while checking the news.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and commute to work, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7676766,
+                            "lng": -122.4363333,
+                            "formatted_address": "24 Divisadero St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 35,
+                        "location": "MUNI 24-Divisadero Bus"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Arrive at the lab, review the project queue, and calibrate the 3D printers for the day's jobs.",
+                        "geocode": {
+                            "lat": 37.8037879,
+                            "lng": -122.4488872,
+                            "formatted_address": "2269 Chestnut St Suite 638, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "USF Innovation Hangar"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Meet with a faculty member to discuss design specifications for a new research prototype.",
+                        "geocode": {
+                            "lat": 37.8037879,
+                            "lng": -122.4488872,
+                            "formatted_address": "2269 Chestnut St Suite 638, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "USF Innovation Hangar"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Grab a quick lunch with a coworker.",
+                        "geocode": {
+                            "lat": 37.7922799,
+                            "lng": -122.3979296,
+                            "formatted_address": "388 Market St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Nosh Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\uddb1\ufe0f",
+                        "action": "Focused work session: CAD modeling and running simulations for a new component.",
+                        "geocode": {
+                            "lat": 37.8037879,
+                            "lng": -122.4488872,
+                            "formatted_address": "2269 Chestnut St Suite 638, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 120,
+                        "location": "USF Innovation Hangar"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Assist an undergraduate engineering group with their senior capstone project.",
+                        "geocode": {
+                            "lat": 37.8037879,
+                            "lng": -122.4488872,
+                            "formatted_address": "2269 Chestnut St Suite 638, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "USF Innovation Hangar"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Commute home, stopping for groceries on the way.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Whole Foods Market (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Unpack groceries and cook dinner while video-chatting with family.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind by watching a new episode of a favorite sci-fi series.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Pack lunch for tomorrow, light tidying, and read a book before bed.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Noe Valley)"
+                    }
+                ],
+                "day_overview": "A productive day for a young manufacturing engineer, involving hands-on lab work at USF, followed by a local yoga class and a casual dinner with a friend in the Mission.",
+                "home_address": "3297 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7422243,
+                    "lng": -122.4263674,
+                    "formatted_address": "3297 Church St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

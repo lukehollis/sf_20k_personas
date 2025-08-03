@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Wong",
+    "givenName": "Daniel",
+    "familyName": "Wong",
+    "jobTitle": "Machine Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Wong\u2019s world smells of ozone and lubricating oil. Born and raised in the foggy avenues of the Sunset District, he was the quiet son of pragmatic Hong Kong immigrants who ran a neighborhood hardware store. His childhood was spent not with video games, but with the disassembled guts of toasters and radios spread across the family workbench. His father taught him that everything could be understood if you just looked at its parts. Practicality was the family religion.\n\nHe followed this path of least resistance to City College, earning an Associate's in Electronics Technology. It was a sensible degree that led to sensible, soul-crushingly dull jobs repairing commercial HVAC systems. For years, Daniel felt like a ghost in his own life, a skilled but invisible cog in a machine he didn't care about.\n\nThe turning point came via a temp gig: fixing a notoriously finicky kinetic sculpture at a SoMa gallery. The artist, a whirlwind of paint-splattered energy, didn't just give him a schematic; she explained the *feeling* she wanted the piece to evoke. For the first time, Daniel wasn't just fixing a machine, he was restoring a vision. It was a revelation.\n\nHe leveraged that experience into a niche career, becoming the go-to technician for San Francisco's installation artists. Now, at 37, he lives in a sprawling live/work loft in the Dogpatch, a space that is part apartment, part workshop, and part repository for monumental art pieces. His 0.0-mile commute is a short walk from his Murphy bed to a half-finished metallic beast that whirs and clicks with a life he helps sustain.\n\nAn introvert by nature, his deepest connections are with the artists who rely on his quiet expertise. His social life consists of gallery openings where he stands in the back, watching people interact with a sculpture he spent the last 72 hours coaxing back to life. He is a native son who has watched his city transform, but he remains tethered to its industrial, creative core. His secret dream is to one day build his own piece from the sketches in his notebook\u2014to finally be the artist, not just the man who makes the art work."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check personal emails, and chat with his partner while the coffee brews.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Get dressed and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the bus stop on Market Street to begin his commute.",
+                        "geocode": {
+                            "lat": 37.77073,
+                            "lng": -122.4250184,
+                            "formatted_address": "Market St & Laguna St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 10,
+                        "location": "Market & Laguna Street Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Take the Muni 9-San Bruno bus eastbound through the city to SoMa.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Muni Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udd27",
+                        "action": "Arrive at the workshop, review the day's repair tickets, and begin diagnostics on a faulty large-format 3D printer used by a local artist.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, United States"
+                        },
+                        "duration": 180,
+                        "location": "TechInSF Consulting Workshop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to a nearby spot for a quick and hearty lunch.",
+                        "geocode": {
+                            "lat": 37.7470161,
+                            "lng": -122.418717,
+                            "formatted_address": "3139 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "HRD Coffee Shop"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Continue the repair, isolating a faulty logic board and sourcing a replacement part online before starting the delicate soldering work.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, United States"
+                        },
+                        "duration": 240,
+                        "location": "TechInSF Consulting Workshop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Clean up the workstation and commute home via the westbound Muni bus.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh pasta and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Arrive home, unpack groceries, and decompress from the workday with his partner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner together, sharing stories from the day over a home-cooked meal.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7a",
+                        "action": "Go for a short walk through the neighborhood and grab a casual weeknight drink.",
+                        "geocode": {
+                            "lat": 37.77212,
+                            "lng": -122.4370476,
+                            "formatted_address": "298 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Page"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down for the evening by watching an episode of a sci-fi series together on the couch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Get ready for bed, setting an alarm for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A typical day for Daniel, a machine technician specializing in arts equipment. His day involves a focused repair session at his SoMa workshop, a commute on Muni, and a relaxed evening with his partner in their Lower Haight neighborhood.",
+                "home_address": "232 Haight St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7725862,
+                    "lng": -122.4268,
+                    "formatted_address": "232 Haight St, San Francisco, CA 94102, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

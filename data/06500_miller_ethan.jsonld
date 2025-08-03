@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Miller",
+    "givenName": "Ethan",
+    "familyName": "Miller",
+    "jobTitle": "Line Cook",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Food Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ethan Miller\u2019s story begins not in San Francisco, but in an orphanage in Busan, South Korea. Adopted at nine months old by a loving Caucasian couple from Marin County, he grew up with the surname Miller, a name that felt both like a warm blanket and a costume he couldn't take off. His childhood was privileged and stable, filled with hikes on Mount Tamalpais and trips to Stinson Beach. Yet, in a predominantly white community, his reflection was a constant reminder of a connection he couldn't quite grasp.\n\nSchool was a place of quiet observation for Ethan. He was a decent student but felt academically adrift, finding more solace in the structure and sensory feedback of his after-school job as a dishwasher in a Sausalito bistro. The frenetic energy of the kitchen\u2014the clatter of pans, the sharp commands, the visceral process of creation and immediate reward\u2014was more compelling than any textbook. He graduated high school with a diploma but no desire for college, instead diving headfirst into the culinary world, working his way from dishwasher to prep cook across various North Bay kitchens.\n\nThe key turning point came at 24. Feeling stagnant and yearning for a deeper connection to his heritage, he moved across the bridge to San Francisco. He landed a line cook position at a small, family-owned Shanghainese restaurant in the Richmond District. The owner, a pragmatic matriarch named Mrs. Lin, saw his relentless work ethic and offered him the tiny, spartan apartment above the restaurant, a perk that explained his zero-mile commute.\n\nNow 28, Ethan\u2019s life is a cycle of intense, focused work. His alarm is the morning chop of cleavers on wood from the kitchen below. His days are a blur of searing, saut\u00e9ing, and plating. He has a respectful, familial bond with the Lins and the other cooks, though a language barrier often leaves him on the periphery of their Cantonese banter. He is an insider in the kitchen\u2019s chaotic ballet but an outsider to the culture that surrounds him.\n\nHe spends his rare days off walking the city, from the quiet shores of Ocean Beach to the bustling streets of the Mission, absorbing its eclectic energy. His dream is to save enough to one day open his own small food truck or pop-up, one that fuses the Korean flavors of his birthright with the Northern California ingredients of his upbringing. For Ethan, cooking is not just a profession; it\u2019s a way to slowly, thoughtfully plate his own identity."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch out sore muscles from yesterday's shift, and drink a large glass of water.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Take a quick shower and get dressed in comfortable clothes for the commute.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook and eat a high-energy breakfast of eggs and toast to fuel up for the day.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Cycle from Pacific Heights down through Hayes Valley to the Mission District for work.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Biking through SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2a",
+                        "action": "Arrive at work, change into uniform, and begin 'mise en place'\u2014chopping vegetables and portioning ingredients for the lunch service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Hearth & Ember Eatery Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udd25",
+                        "action": "Work the grill station during the intense, fast-paced lunch rush, communicating with the rest of the line.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Hearth & Ember Eatery Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Eat a quick 'family meal' with the kitchen crew during a lull after the main lunch service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Hearth & Ember Eatery Staff Area"
+                    },
+                    {
+                        "emoji": "\ud83e\uddc5",
+                        "action": "Clean down the station and begin prepping ingredients for the incoming dinner shift.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Hearth & Ember Eatery Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Grab a post-shift beer with a coworker at a nearby classic beer garden to decompress.",
+                        "geocode": {
+                            "lat": 37.77002299999999,
+                            "lng": -122.4221172,
+                            "formatted_address": "199 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Zeitgeist"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2642\ufe0f",
+                        "action": "Begin the strenuous, mostly uphill bike ride home, taking 'The Wiggle' to avoid the steepest hills.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 35,
+                        "location": "Biking through SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for essentials for dinner and the next day's breakfast.",
+                        "geocode": {
+                            "lat": 37.7780834,
+                            "lng": -122.4265022,
+                            "formatted_address": "555 Fulton St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 20,
+                        "location": "Trader Joe's on California St."
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Make a simple, quick pasta dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, scroll through social media, and watch an episode of a show to unwind.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Lay out work clothes for the next day and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Apartment on Pacific Ave"
+                    }
+                ],
+                "day_overview": "A physically demanding day for Ethan, balancing a long shift as a line cook in the Mission with a challenging bike commute. The evening focuses on decompression with a coworker, a quick errand, and relaxation at his Pacific Heights apartment.",
+                "home_address": "1885 Pacific Ave, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7942544,
+                    "lng": -122.4261162,
+                    "formatted_address": "1885 Pacific Ave, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Lin",
+    "givenName": "Sarah",
+    "familyName": "Lin",
+    "jobTitle": "Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Agnostic"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Lin\u2019s San Francisco story began not in a Financial District skyscraper, but behind the counter of her parents' small grocery store in the Richmond District. The only child of immigrants from Guangdong, she grew up translating utility bills and stocking shelves, learning firsthand the language of sacrifice and hustle. Her parents preached the gospel of a stable, professional career\u2014a world away from their own grueling 14-hour days.\n\nHonoring their dream, Sarah excelled. She earned a Master's in Economics from UC Berkeley, a logical and prestigious choice. She was immediately recruited into the finance industry, where her sharp, analytical mind made her a natural fit. For nearly two decades, she methodically climbed the corporate ladder, becoming a senior financial analyst renowned for her precision and unflappable calm. She built the life of security her parents had envisioned for her.\n\nThe turning point was quiet, not a dramatic crash but a slow, creeping realization. The pandemic shifted her work entirely remote, and the 0.0-mile commute from her bed to her desk in her pristine Hayes Valley apartment became permanent. The silence in her meticulously ordered home, amplified after a decade-long relationship ended amicably two years prior, became profound. Her days, once filled with the buzz of an office, were now a sterile loop of market data, virtual meetings, and the faint sounds of the vibrant city she rarely felt part of anymore.\n\nNow, at 44, Sarah feels a disconnect between her digital reality and the tangible world outside her window. The financial security she achieved feels less like a fortress and more like a gilded cage. A new aspiration is taking root: she dreams of pivoting. Her greatest hope is to use her considerable financial acumen to consult for or invest in local, legacy businesses\u2014the very kind of enterprise her parents poured their lives into. She wants to trade abstract market futures for the tangible success of a neighborhood bakery or a family-run bookstore, finally reconnecting her career to the city that raised her."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, light stretching, and a 10-minute meditation session.",
+                        "geocode": {
+                            "lat": 37.7708437,
+                            "lng": -122.4366935,
+                            "formatted_address": "222 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment at 222 Divisadero St"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Prepare and eat breakfast (oatmeal with berries) while drinking coffee and scanning financial news headlines.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual, and pack work bag with laptop and essentials.",
+                        "geocode": {
+                            "lat": 37.7708437,
+                            "lng": -122.4366935,
+                            "formatted_address": "222 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment at 222 Divisadero St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Commute to work via bicycle, navigating the Panhandle and the 'Wiggle' bike route to Market Street.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "The Wiggle Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, park bicycle in the building's bike storage, and settle in at desk with a glass of water.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 15,
+                        "location": "Central Tower Office Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Analyze quarterly earnings reports and update financial models for the equity fund.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "Desk at Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to pick up a pre-ordered Kale Caesar salad for a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt at Yerba Buena Lane"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Participate in a team meeting to discuss market trends and pitch a new investment thesis.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Conference Room at Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon tasks: Respond to client inquiries and prepare presentation materials for a portfolio review.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "Desk at Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2640\ufe0f",
+                        "action": "Bike commute home, enjoying the change of scenery from downtown to the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Market St & Divisadero St"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh produce and a bottle of wine for the week.",
+                        "geocode": {
+                            "lat": 37.7748083,
+                            "lng": -122.4374389,
+                            "formatted_address": "550 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bi-Rite Market on Divisadero"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Attend a restorative yoga class to de-stress and stretch after a day at the desk and on the bike.",
+                        "geocode": {
+                            "lat": 37.7719953,
+                            "lng": -122.4368671,
+                            "formatted_address": "286 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Garden SF"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Prepare a simple dinner at home while catching up with her parents via phone call.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a non-fiction book and sipping herbal tea.",
+                        "geocode": {
+                            "lat": 37.7708437,
+                            "lng": -122.4366935,
+                            "formatted_address": "222 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room at 222 Divisadero St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: Prepare for the next day, skincare, and get to bed.",
+                        "geocode": {
+                            "lat": 37.7708437,
+                            "lng": -122.4366935,
+                            "formatted_address": "222 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment at 222 Divisadero St"
+                    }
+                ],
+                "day_overview": "A busy and productive day for Sarah, a Financial Analyst, balancing intensive work in the Financial District with an active, health-conscious lifestyle in her NOPA neighborhood, including a bike commute and an evening yoga session.",
+                "home_address": "222 Divisadero St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7708437,
+                    "lng": -122.4366935,
+                    "formatted_address": "222 Divisadero St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

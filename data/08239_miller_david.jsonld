@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Project Coordinator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s story is one of quiet consistency, a stark contrast to the disruptive ethos of the city he now calls home. Raised in a placid suburb of Columbus, Ohio, David was the reliable son of a high school history teacher and a dental hygienist. His childhood was marked by structured routines, Midwestern pragmatism, and the gentle pressure to follow a safe, predictable path. He was a good student, though never passionate about one particular subject, leading him to a Bachelor's degree in Communications\u2014a practical choice that kept his options open.\n\nThe major turning point in David\u2019s life was not a grand plan, but a post-college leap of faith. He followed his then-girlfriend to San Francisco, drawn more by the relationship than the city itself. The romance faded within a year, but the Bay Area\u2019s pull remained. Adrift and in need of work, he took an administrative assistant job at a mid-sized tech startup. It was there his innate talent for organization and mediating between different personalities shone through. He wasn't a coder, but he could translate the engineers' updates into clear reports for management. After two years of proving his worth, he was promoted to Project Coordinator, a role that fit him like a glove.\n\nNow 30, David lives and works in a one-bedroom apartment in Hayes Valley. His 0.0-mile commute means his days are a blur of Slack notifications, Zoom stand-ups, and meticulously updated project timelines. His routine is his anchor: a morning coffee from a local cafe on Hayes Street, a midday walk through Patricia's Green to clear his head, and evenings spent either at his local rock-climbing gym or sharing craft beers with a close-knit circle of friends. His connection to San Francisco is deeply hyperlocal; he knows the baristas and bakers in his neighborhood better than he knows the city's famous landmarks.\n\nWhile comfortable and successful, David feels a quiet yearning for more. He coordinates projects that excite others but rarely feels that passion himself. His dream is not to climb the corporate ladder, but to eventually coordinate a project of his own\u2014perhaps a small non-profit or a community-focused app that helps people connect in the real world. He hopes to build a life in San Francisco that is not just productive, but truly meaningful."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check personal and work emails on phone.",
+                        "geocode": {
+                            "lat": 37.73976750000001,
+                            "lng": -122.4266477,
+                            "formatted_address": "2376 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (2376 Church St)"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Morning coffee and a quick breakfast of toast and avocado.",
+                        "geocode": {
+                            "lat": 37.73976750000001,
+                            "lng": -122.4266477,
+                            "formatted_address": "2376 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (2376 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack bag for the day.",
+                        "geocode": {
+                            "lat": 37.73976750000001,
+                            "lng": -122.4266477,
+                            "formatted_address": "2376 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (2376 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, listening to a tech news podcast through city traffic.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Commute from Noe Valley to FiDi"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, review Asana board, and organize tasks for the day.",
+                        "geocode": {
+                            "lat": 37.7893913,
+                            "lng": -122.3997221,
+                            "formatted_address": "71 Stevenson St # 400, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 60,
+                        "location": "Work Office (71 Stevenson St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead the daily stand-up meeting with the development team.",
+                        "geocode": {
+                            "lat": 37.78614520000001,
+                            "lng": -122.4092737,
+                            "formatted_address": "Golden Gate Conference Room, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "'The Golden Gate' Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work: update project timelines and draft weekly stakeholder update email.",
+                        "geocode": {
+                            "lat": 37.7893913,
+                            "lng": -122.3997221,
+                            "formatted_address": "71 Stevenson St # 400, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Work Office (71 Stevenson St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a 'Not So Fried' chicken sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7913266,
+                            "lng": -122.3963941,
+                            "formatted_address": "300 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mendocino Farms"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Afternoon focused work session, responding to Slack messages and unblocking team members.",
+                        "geocode": {
+                            "lat": 37.7893913,
+                            "lng": -122.3997221,
+                            "formatted_address": "71 Stevenson St # 400, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Work Office (71 Stevenson St)"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work for the day and plan tomorrow's top priorities.",
+                        "geocode": {
+                            "lat": 37.7893913,
+                            "lng": -122.3997221,
+                            "formatted_address": "71 Stevenson St # 400, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 30,
+                        "location": "Work Office (71 Stevenson St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home from the office, navigating evening rush hour.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Commute from FiDi to Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for groceries for the next couple of days.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Whole Foods Market (24th Street)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7\u200d\u2642\ufe0f",
+                        "action": "De-stress with a bouldering session to work on a new route.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs Climbing & Fitness"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Cook dinner at home and eat while catching up on a TV series.",
+                        "geocode": {
+                            "lat": 37.73976750000001,
+                            "lng": -122.4266477,
+                            "formatted_address": "2376 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (2376 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Wind down by reading a novel and tidying up the apartment.",
+                        "geocode": {
+                            "lat": 37.73976750000001,
+                            "lng": -122.4266477,
+                            "formatted_address": "2376 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (2376 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Final phone check, set alarm, and get ready for sleep.",
+                        "geocode": {
+                            "lat": 37.73976750000001,
+                            "lng": -122.4266477,
+                            "formatted_address": "2376 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (2376 Church St)"
+                    }
+                ],
+                "day_overview": "A productive day for David, balancing project coordination tasks in the Financial District with a bouldering session and errands back in his Noe Valley neighborhood.",
+                "home_address": "2376 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7509634,
+                    "lng": -122.4273907,
+                    "formatted_address": "2376 Church St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Preschool Teacher",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Education"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller is a San Franciscan in a way that is becoming increasingly rare: by birth. Raised in the foggy avenues of the Outer Richmond, she was the daughter of a union carpenter and a public librarian, who instilled in her a deep appreciation for things built to last and the stories they hold. The city wasn't a destination for her; it was the bedrock of her identity, a landscape of familiar hills and the steady, melancholic song of foghorns.\n\nHer educational journey began with a practical choice. Heeding her parents\u2019 advice to secure a stable future, she earned a Bachelor\u2019s degree in Business Administration from San Francisco State University. Sarah spent five years in the soulless hum of a downtown marketing firm, creating campaigns for products she didn\u2019t care about. The turning point came not as an epiphany, but as a slow-dawning realization during volunteer weekends at a local community center\u2019s daycare. The unfiltered joy and monumental importance of a child learning to share a crayon felt infinitely more meaningful than any quarterly report.\n\nAt 29, she quit her job, enrolled in an early childhood education certificate program, and never looked back. After working in a few larger preschools, she dreamed of creating her own nurturing space. Using a small inheritance from her parents, she managed to buy a modest live/work duplex in the Inner Sunset in the late 1990s, just before the market became truly unattainable.\n\nToday, her 0.0-mile commute consists of walking down a single flight of stairs. She lives above the \u201cSunset Sprouts Preschool,\u201d the small, licensed school she runs from her ground floor. Her days are a whirlwind of finger paint, story time, scraped knees, and navigating the epic emotions of three-year-olds. She is divorced, a brief and youthful marriage to a man who couldn't understand her career change, but she is far from lonely. Her life is woven into the fabric of her neighborhood families, her social circle a tight-knit group of fellow teachers and local shop owners. Her greatest hope is simple: to be able to afford to stay. Sarah\u2019s dream isn\u2019t to get rich, but to continue cultivating a small patch of kindness and curiosity in the city that raised her, a quiet anchor in a sea of constant change."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, get dressed, and enjoy a cup of coffee while looking out at the morning fog over the bay.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of yogurt and fruit while packing a lunch and reviewing the day's lesson plan on abstract painting for the kids.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk downhill to the bus stop, enjoying the morning energy of the neighborhood waking up.",
+                        "geocode": {
+                            "lat": 37.8013834,
+                            "lng": -122.4093993,
+                            "formatted_address": "Filbert St & Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 10,
+                        "location": "Stockton & Filbert St MUNI Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute to SoMa on the MUNI bus, listening to an educational podcast.",
+                        "geocode": {
+                            "lat": 37.7861363,
+                            "lng": -122.4059941,
+                            "formatted_address": "30 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 35,
+                        "location": "MUNI 30 Stockton Bus"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Arrive at the preschool, prepare art stations with non-toxic paints, clay, and smocks for the children's arrival.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SoMa Sprouts Arts Preschool"
+                    },
+                    {
+                        "emoji": "\ud83c\udfb6",
+                        "action": "Welcome the children and parents, lead the morning circle time with songs and a story about colors.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "SoMa Sprouts Arts Preschool"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a quick solo lunch break, walking to a nearby cafe to grab a pre-ordered sandwich and recharge.",
+                        "geocode": {
+                            "lat": 37.780602,
+                            "lng": -122.3961766,
+                            "formatted_address": "212 Ritch St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Darwin Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Supervise nap time and then lead the afternoon session, focusing on quiet activities like building blocks and reading.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "SoMa Sprouts Arts Preschool"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Tidy the classroom with the kids, pack up their art projects, and chat with parents during pick-up.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "SoMa Sprouts Arts Preschool"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home, reading a novel on the bus to decompress from the day's activities.",
+                        "geocode": {
+                            "lat": 37.7861363,
+                            "lng": -122.4059941,
+                            "formatted_address": "30 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 40,
+                        "location": "MUNI 30 Stockton Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a few essential groceries for dinner and breakfast.",
+                        "geocode": {
+                            "lat": 37.8050802,
+                            "lng": -122.4254187,
+                            "formatted_address": "North Point St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's - North Point"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a healthy dinner at home while listening to quiet jazz music, enjoying the peace after a day of noise.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Take a brisk evening walk for some light exercise and fresh air, heading up the hill towards Coit Tower for the views.",
+                        "geocode": {
+                            "lat": 37.8030301,
+                            "lng": -122.4037361,
+                            "formatted_address": "Greenwich Steps, 231 Greenwich St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Greenwich Steps"
+                    },
+                    {
+                        "emoji": "\ud83c\udf75",
+                        "action": "Wind down by watching a documentary and sipping a cup of chamomile tea.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A busy and structured day for Sarah, a preschool teacher, involving an early start, a commute from her North Beach home to her arts-focused preschool in SoMa, a full day of engaging with young children, and a quiet, restorative evening in her neighborhood.",
+                "home_address": "2605 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.8007819,
+                    "lng": -122.4109746,
+                    "formatted_address": "2605 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

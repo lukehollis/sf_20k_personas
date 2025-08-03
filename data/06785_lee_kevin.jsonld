@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Lee",
+    "givenName": "Kevin",
+    "familyName": "Lee",
+    "jobTitle": "Research Assistant",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Lee\u2019s world is a ten-minute walk. Born and raised in Daly City, the son of Taiwanese immigrants who ran a small but beloved boba shop, Kevin was instilled with a quiet work ethic. His parents, pragmatic and weary from decades of standing behind a counter, hoped he would pursue a stable career in engineering or finance. Kevin, however, was a romantic, lost in the intricate worlds of novels. He defied their expectations and enrolled at SF State, graduating with a Bachelor of Arts in English Literature, a degree that felt both like a personal triumph and a familial disappointment.\n\nThe turning point came with brutal swiftness during his final semester. His mother was diagnosed with a rare and aggressive form of cancer. Suddenly, the abstract themes of his literary studies felt hollow. The real, raw story was unfolding in the sterile corridors of the UCSF Medical Center. He spent his days and nights there, mesmerized not by prose, but by the precise language of oncology reports and the quiet dedication of the research teams.\n\nAfter his mother passed away, Kevin\u2019s path became clear. Lacking the prerequisites for medical school, he took the most direct route into the world that had consumed his life: he became a research assistant. He found a job in a UCSF oncology lab\u2014the same hospital, a different building\u2014and moved into a small, rent-controlled studio in the Inner Sunset. His 0.0-mile commute is a function of necessity and design; his life intentionally orbits the institution that holds his focus.\n\nHis days are a meticulous routine of cell cultures and data entry, a stark contrast to his former life of literary analysis. Yet, he finds a similar pattern-seeking satisfaction in the work. He\u2019s quiet, keeping mostly to himself, his social life limited to polite nods with neighbors and occasional lunch with lab mates. Evenings are for runs in Golden Gate Park, the fog a familiar blanket, or reading\u2014though now he gravitates towards scientific journals. Kevin harbors a focused aspiration: to save enough and take prerequisite courses to eventually pursue a graduate degree in genetic counseling. He dreams not of wealth, but of being the person who can translate the cold, complex science into a compassionate, coherent story for families thrust into the same chaos his once was."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and listen to a morning news podcast.",
+                        "geocode": {
+                            "lat": 37.7633596,
+                            "lng": -122.4777946,
+                            "formatted_address": "1833 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Kevin's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7633596,
+                            "lng": -122.4777946,
+                            "formatted_address": "1833 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Kevin's Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a quick breakfast of avocado toast and pour-over coffee.",
+                        "geocode": {
+                            "lat": 37.7633596,
+                            "lng": -122.4777946,
+                            "formatted_address": "1833 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Kevin's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Walk to the designated neighborhood spot to meet the carpool.",
+                        "geocode": {
+                            "lat": 37.7639703,
+                            "lng": -122.4501695,
+                            "formatted_address": "Grattan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 5,
+                        "location": "Cole & Grattan Carpool Point"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to the coworking space, listening to a science podcast.",
+                        "geocode": {
+                            "lat": 37.7804684,
+                            "lng": -122.412455,
+                            "formatted_address": "Mid-Market, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Morning Carpool to Mid-Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at his hot desk, organize the day's research tasks, and reply to emails.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 30,
+                        "location": "Anchor Coworking"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Perform statistical analysis on a new patient data set using R software.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 150,
+                        "location": "Anchor Coworking"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy lunch bowl from a nearby cafe.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Picnic Basket SF"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Draft the methodology and results sections for an upcoming research paper.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 160,
+                        "location": "Anchor Coworking"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Meet the evening carpool for the commute back to the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Evening Carpool to Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a post-work run along the Panhandle to decompress.",
+                        "geocode": {
+                            "lat": 37.7946998,
+                            "lng": -122.4689742,
+                            "formatted_address": "Park Trail, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Panhandle Park Trail"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Cole Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cook and eat a homemade chicken stir-fry while catching up on texts.",
+                        "geocode": {
+                            "lat": 37.7633596,
+                            "lng": -122.4777946,
+                            "formatted_address": "1833 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 75,
+                        "location": "Kevin's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend at a local spot for a pint to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7678717,
+                            "lng": -122.453083,
+                            "formatted_address": "770 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Kezar Pub"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel, tidying up, and setting the alarm.",
+                        "geocode": {
+                            "lat": 37.7633596,
+                            "lng": -122.4777946,
+                            "formatted_address": "1833 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Kevin's Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Kevin, balancing focused healthcare research at his coworking space with a refreshing run in the Panhandle and a casual weeknight drink with a friend in his Cole Valley neighborhood.",
+                "home_address": "767 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7672845,
+                    "lng": -122.4505156,
+                    "formatted_address": "767 Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

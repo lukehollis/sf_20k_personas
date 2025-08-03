@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Leila Abramov",
+    "givenName": "Leila",
+    "familyName": "Abramov",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Leila Abramov\u2019s world smells of linseed oil and turpentine. Her small apartment is directly above Veridian Pigments, the art supply store she manages in Hayes Valley, making her daily commute a simple flight of wooden stairs. This self-contained life is a universe away from her upbringing in Walnut Creek. Born to practical Russian immigrant parents who equated success with engineering degrees and stable salaries, Leila\u2019s artistic inclinations were treated as a childish phase. They reluctantly funded her Art History studies at UC Berkeley, viewing it as a misguided but temporary detour.\n\nThe turning point came during her sophomore year. Her older brother, the family\u2019s golden child on a fast track to a lucrative tech career, was killed in a car accident. The tragedy shattered her family\u2019s carefully constructed world and forced Leila to confront the fragility of a life lived for others' approval. Overwhelmed by grief and the sudden pointlessness of her academic track, she dropped out, severing ties with the future her parents had designed.\n\nShe fled to San Francisco, finding an entry-level job at Veridian Pigments. The store became her sanctuary. Surrounded by jars of brilliant color and reams of textured paper, she slowly rebuilt her life. Her genuine passion and encyclopedic knowledge, honed during her brief time at Berkeley, didn't go unnoticed. She rose from clerk to assistant, and two years ago, the retiring owner made her manager.\n\nToday, Leila\u2019s life is woven into the fabric of her neighborhood. Her social circle is a collection of regulars: grizzled abstract painters, aspiring illustrators from the nearby art college, and weekend hobbyists. These connections are her found family, offering a quiet, unconditional acceptance she never felt at home. While she rarely picks up a brush herself, she sees her purpose as nurturing the creativity of others. Her great ambition isn't to be an artist, but to one day buy Veridian Pigments herself, ensuring the sanctuary that saved her remains a vibrant hub for San Francisco\u2019s next generation of creators."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up to a gentle alarm, followed by scrolling social media and a 15-minute guided meditation to start the day.",
+                        "geocode": {
+                            "lat": 37.7599367,
+                            "lng": -122.4371381,
+                            "formatted_address": "159 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bedroom at 159 Diamond St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get ready, and have a quick breakfast of Greek yogurt and coffee while chatting with her dad in the kitchen.",
+                        "geocode": {
+                            "lat": 37.7889787,
+                            "lng": -122.391593,
+                            "formatted_address": "San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Abramov Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Walks down to meet her carpool colleague, listening to an indie pop playlist during the drive downtown.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Carpool from Noe Valley to Financial District"
+                    },
+                    {
+                        "emoji": "\ud83e\udd0e",
+                        "action": "Arrives early, grabs an overpriced but delicious oat milk latte before heading into the gallery.",
+                        "geocode": {
+                            "lat": 37.7671579,
+                            "lng": -122.4290973,
+                            "formatted_address": "2101 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Verve Coffee Roasters"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Opens the gallery shop, checks overnight online sales, runs the morning team huddle, and handles inventory receiving.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 240,
+                        "location": "Hartford Gallery Store"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Takes a lunch break, grabbing a banh mi and eating on a bench while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.796227,
+                            "lng": -122.4039535,
+                            "formatted_address": "42 Columbus Ave, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sai's Vietnamese Restaurant, then eats at Portsmouth Square"
+                    },
+                    {
+                        "emoji": "\ud83d\uddbc\ufe0f",
+                        "action": "Spends the afternoon on the sales floor assisting clients, planning a new jewelry display, and interviewing a candidate for a sales associate role.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Hartford Gallery Store"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Closes out the register, sends the daily sales report, and preps the store for the morning shift.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Hartford Gallery Store"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Meets her carpool for the drive home, navigating rush hour traffic back across the city.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Carpool from Financial District to Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Quick change at home then walks to a nearby yoga class to de-stress and stretch after a long day.",
+                        "geocode": {
+                            "lat": 37.7511829,
+                            "lng": -122.4329994,
+                            "formatted_address": "4049 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Flow SF - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Eats a late, home-cooked dinner with her parents, catching up on their days and neighborhood gossip.",
+                        "geocode": {
+                            "lat": 37.7599367,
+                            "lng": -122.4371381,
+                            "formatted_address": "159 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Dining Room at 159 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Winds down in her room, working on a personal watercolor painting and texting with friends.",
+                        "geocode": {
+                            "lat": 37.7599367,
+                            "lng": -122.4371381,
+                            "formatted_address": "159 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 65,
+                        "location": "Bedroom at 159 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Completes her skincare routine and reads a chapter of her book before turning out the lights.",
+                        "geocode": {
+                            "lat": 37.7599367,
+                            "lng": -122.4371381,
+                            "formatted_address": "159 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bedroom at 159 Diamond St"
+                    }
+                ],
+                "day_overview": "A busy day for an arts store manager, balancing store operations in the Financial District with a cross-town carpool commute, followed by a relaxing evening of yoga and family time in her Noe Valley neighborhood.",
+                "home_address": "159 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7599367,
+                    "lng": -122.4371381,
+                    "formatted_address": "159 Diamond St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Abramov Family"
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Lin",
+    "givenName": "Mei",
+    "familyName": "Lin",
+    "jobTitle": "Production Technician",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Lin\u2019s world hums with the sound of machinery, a constant comfort in her Dogpatch live/work loft. Born and raised in Daly City to immigrant parents who ran a bustling laundromat, her childhood was defined by the virtues of practicality and hard work. They envisioned a stable future for her, pushing her toward a nursing degree at Skyline College. Mei, however, felt a profound disconnect in the sterile classrooms, her hands itching to build and create rather than simply follow procedures.\n\nThe turning point came during her second year. On a whim, she visited a community makerspace in San Francisco and was instantly captivated. The scent of laser-cut wood and the intricate dance of 3D printers felt more like home than any lecture hall. She spent every spare moment there, absorbing skills in digital fabrication and design. After a difficult conversation with her disappointed parents, she dropped out of college, trading the promise of a stable nursing career for the uncertainty of a passion.\n\nHer dedication paid off. The owner of a small, innovative manufacturing studio, which produced custom prototypes for biotech startups, noticed her talent and offered her a position as a Production Technician. The job came with a rare San Francisco perk: a small, subsidized loft apartment directly above the workshop, explaining her zero-mile commute.\n\nHer days are a focused rhythm of calibrating machines, refining complex client models, and troubleshooting production runs. Evenings are her own. After the workshop officially closes, she uses the equipment to work on her personal projects: intricate, kinetic sculptures made from metal and recycled plastics. Her social life is small but deep, consisting of the handful of other artists and engineers who share the building.\n\nWhile she maintains a dutiful, if slightly distant, relationship with her family, Mei feels her true self in the city\u2019s industrial heart. She finds beauty in the grit of her neighborhood, a stark contrast to the manicured lawns of her youth. Her dream is to one day transition from technician to designer, launching her own line of artistic functional objects. For now, she is content, living and breathing her craft, a quiet creator shaping her future, one millimeter at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.794275,
+                            "lng": -122.432556,
+                            "formatted_address": "Broadway Apartments, 2127 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Broadway Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of oatmeal and coffee before heading out.",
+                        "geocode": {
+                            "lat": 37.794275,
+                            "lng": -122.432556,
+                            "formatted_address": "Broadway Apartments, 2127 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Broadway Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Walk to the corner to meet the carpool and commute across town to the Mission.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "In Carpool to Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Morning work session: Assemble and test a new batch of smart-home device prototypes.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 220,
+                        "location": "Coworking SF by LANS Hardware Lab"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Lunch break with a coworker to grab a classic Mission burrito.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon work session: Calibrate testing rigs and document quality assurance results for the engineering team.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 180,
+                        "location": "Coworking SF by LANS Hardware Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Head to the climbing gym for a post-work bouldering session to de-stress and avoid peak traffic.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs Climbing & Fitness"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Carpool back home, listening to a tech podcast during the ride.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "In Carpool to Presidio Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop at the neighborhood market to pick up ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.8000211,
+                            "lng": -122.4416326,
+                            "formatted_address": "2323 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Marina Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Prepare a vegetable stir-fry and eat dinner while catching up with roommates.",
+                        "geocode": {
+                            "lat": 37.794275,
+                            "lng": -122.432556,
+                            "formatted_address": "Broadway Apartments, 2127 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Broadway Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and stream a TV show with roommates.",
+                        "geocode": {
+                            "lat": 37.794275,
+                            "lng": -122.432556,
+                            "formatted_address": "Broadway Apartments, 2127 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 105,
+                        "location": "Home (Broadway Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Pack work bag for tomorrow, tidy up, and read for a bit before sleep.",
+                        "geocode": {
+                            "lat": 37.794275,
+                            "lng": -122.432556,
+                            "formatted_address": "Broadway Apartments, 2127 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Broadway Apartment)"
+                    }
+                ],
+                "day_overview": "A productive day for Mei Lin, balancing hands-on work at a Mission hardware lab with a post-work climbing session before carpooling home to Presidio Heights for a relaxed evening with roommates.",
+                "home_address": "3893 Broadway, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7928229,
+                    "lng": -122.4464704,
+                    "formatted_address": "3893 Broadway, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

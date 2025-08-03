@@ -1,0 +1,212 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Medical Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story began not amidst San Francisco\u2019s fog, but under the relentless sun of the Central Valley. Raised in a pragmatic Modesto household where her father fixed diesel engines and her mother managed the home, stability was valued far more than ambition. She followed a well-trodden path to community college, earning a general Associate's degree in Liberal Arts without a clear career in mind, and settled into a comfortable, predictable life with her high school sweetheart.\n\nThe illusion of that life shattered in her late twenties when the relationship abruptly ended. Feeling adrift and suffocated by the town where everyone knew her story, Sarah made a radical choice. She packed a single suitcase and moved to San Francisco, seeking the anonymity of a city where no one knew her past. The first few years were a blur of bartending and retail jobs, paying rent but offering little fulfillment. A desire for more meaningful, stable work took hold, and she enrolled in a medical assistant certification program, drawn to the practical, caring nature of the profession. It was a perfect fit for her quiet dependability.\n\nShe found a position at a small, private family practice in the Outer Richmond. In a stroke of quintessential San Francisco luck, an apartment on the floor directly above the clinic became available a year later. This \u201czero-mile commute\u201d cemented her existence into a small, self-contained world.\n\nNow, at 45, Sarah\u2019s life is one of intentional routine and quiet connection. Her patients are her neighbors. She knows who needs a gentle touch during a blood draw and which child is nervous about a check-up. Her social life is a small, warm circle of colleagues and a few friends from a weekly yoga class. Her San Francisco isn't the Golden Gate Bridge; it's the morning fog blanketing her block, the dim sum places on Clement Street, and the profound comfort of her rent-controlled apartment. She is content, but saves meticulously for a dream she keeps to herself: a two-week walking tour of the Scottish Highlands, a quiet aspiration for a world beyond the small, perfect corner of the city she calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, shower, and get dressed into scrubs for the day.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment on Castro St"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Have a quiet breakfast of yogurt and granola with a freshly brewed coffee.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Start the walking commute to work, listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley & Sunnyside Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Arrive at the clinic, clock in, review the day's student appointments, and prep the exam rooms.",
+                        "geocode": {
+                            "lat": 37.7275826,
+                            "lng": -122.4520562,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 45,
+                        "location": "CCSF Student Health Services"
+                    },
+                    {
+                        "emoji": "\ud83e\ude79",
+                        "action": "Begin morning patient care: taking vitals, recording medical histories, and assisting with minor treatments for students.",
+                        "geocode": {
+                            "lat": 37.7275826,
+                            "lng": -122.4520562,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 180,
+                        "location": "CCSF Student Health Services"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Take a lunch break and walk to a nearby spot for a burrito bowl.",
+                        "geocode": {
+                            "lat": 37.7320574,
+                            "lng": -122.4744006,
+                            "formatted_address": "2675 Ocean Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Lucho's Mexican Food"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Return for afternoon patient flow and administrative duties, including updating patient electronic records.",
+                        "geocode": {
+                            "lat": 37.7275826,
+                            "lng": -122.4520562,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 210,
+                        "location": "CCSF Student Health Services"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Perform end-of-day duties: sterilizing instruments, restocking supplies, and tidying the clinic.",
+                        "geocode": {
+                            "lat": 37.7275826,
+                            "lng": -122.4520562,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 30,
+                        "location": "CCSF Student Health Services"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Walk home, using the time to decompress from the workday and enjoy the neighborhood views.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Sunnyside & Noe Valley Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run on 24th street to grab fresh produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Whole Foods Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Prepare and cook a healthy dinner, like roasted chicken and vegetables, while listening to music.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Eat dinner while watching a new episode of a favorite show, followed by reading a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 125,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A structured and active day for Sarah, a Medical Assistant at CCSF. Her day is bookended by a healthy walking commute through her Noe Valley neighborhood, balancing a busy workday serving students with relaxing and restorative personal time in the evening.",
+                "home_address": "3983 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7433168,
+                    "lng": -122.4333334,
+                    "formatted_address": "3983 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1979",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

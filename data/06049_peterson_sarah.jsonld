@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Peterson",
+    "givenName": "Sarah",
+    "familyName": "Peterson",
+    "jobTitle": "Assistant Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Peterson\u2019s world spans a single square block of North Beach. Her commute is a 30-second walk down a creaking flight of stairs from her rent-controlled one-bedroom apartment to the front door of \u201cThe Modern Alchemist,\u201d the artisanal home goods boutique she helps manage. This proximity is both a comfort and a cage.\n\nRaised in the sprawling, predictable suburbs of Sacramento, Sarah saw San Francisco as an escape. In her early twenties, she fled the beige stucco and strip malls for the city's chaotic charm, enrolling at City College with no clear plan. She landed a part-time job at a retail store to pay her bills and discovered an unexpected talent for it\u2014a quiet competence in organizing stock, a knack for remembering a regular's name, and a patience for demanding customers. She eventually earned her Associate's degree in Liberal Arts, but by then, her true education was happening on the sales floor.\n\nHer career has been a slow, steady climb, not a rocket launch. She worked her way up from cashier to shift lead, and finally, a decade ago, to Assistant Manager. She\u2019s the store\u2019s steady anchor, the one who knows how to fix the finicky credit card machine and calm the owner during a bad sales week. A long-term relationship in her thirties ended amicably, leaving her with a profound sense of self-reliance and a quiet loneliness she rarely acknowledges.\n\nHer days follow a familiar rhythm: unlocking the shop, drinking coffee from the cafe next door where they know her order, managing inventory, and closing up long after the tourists have gone. Her social life is small and intertwined with her neighborhood\u2014dinners with a few other long-term residents, a book club that meets at a local bar. She\u2019s a fixture, a familiar face who has watched the neighborhood change through tech booms and busts.\n\nSarah\u2019s dream isn\u2019t grand. She hopes to one day buy out the aging owner of the boutique, making the space truly her own. More privately, she yearns for a partner to share her quiet evenings with, someone who understands the comfort of a life built not on grand ambitions, but on the steady, essential work of keeping a small corner of the world running smoothly."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, stretch, and complete a 10-minute guided meditation session.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Valencia Street Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a fresh pot of coffee and catch up on local news via the SFGate website.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Valencia Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Valencia Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Begin the morning walk to work, enjoying the quiet streets before the city fully wakes up.",
+                        "geocode": {
+                            "lat": 37.7483853,
+                            "lng": -122.4105833,
+                            "formatted_address": "Cesar Chavez St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Walk along Cesar Chavez Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udfec",
+                        "action": "Arrive at the gift shop, disable the alarm, review the daily plan, and assign morning tasks to the opening staff.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "ZSFG Hospital Gift Shop"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Receive a new shipment of magazines and snacks, update inventory levels in the POS system, and restock shelves.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "ZSFG Hospital Gift Shop Stockroom"
+                    },
+                    {
+                        "emoji": "\ud83d\ude4b",
+                        "action": "Manage the sales floor, assist customers looking for gifts, and adjust product displays for better visibility.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "ZSFG Hospital Gift Shop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk a few blocks for a quick and satisfying lunch break away from the hospital.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative duties: process daily sales reports, prepare the bank deposit, and respond to work emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Gift Shop Back Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct a brief end-of-day huddle with the closing shift to ensure a smooth handover.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "ZSFG Hospital Gift Shop"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Walk home, taking a slightly different route through the vibrant murals of Clarion Alley for a change of scenery.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Walk through the Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh produce for dinner and a few groceries for her mother.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Walk over to her elderly mother's nearby apartment to drop off groceries, help with a small task, and chat over tea.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Mom's Apartment in Potrero Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Prepare a simple and healthy dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Valencia Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Relax on the couch and read a few chapters of a novel she picked up recently.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Dog Eared Books"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Wind down for the night, watch a show on a streaming service, and get to bed.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Valencia Street Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for Sarah, balancing her retail management duties at the hospital with a walk through the Mission, grocery shopping, and a caring visit to her mother before unwinding at her Valencia Street home.",
+                "home_address": "3912 Valencia St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7668679,
+                    "lng": -122.4221057,
+                    "formatted_address": "Valencia St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1979",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Peterson Family"
+    }
+}

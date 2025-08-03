@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sophia Miller",
+    "givenName": "Sophia",
+    "familyName": "Miller",
+    "jobTitle": "Restaurant Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Hospitality"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sophia Miller\u2019s commute is the shortest in San Francisco. It\u2019s a single flight of stairs from her small apartment down to the bustling floor of \u201cThe Courtyard,\u201d the Hayes Valley bistro she has managed for the last twelve years. Her life is woven into the very fabric of the restaurant, a reality she chose over a more conventional path forty years ago.\n\nRaised in the quiet suburbs of Sacramento, Sophia\u2019s upbringing was stable but uninspiring. She was expected to go to college, get a sensible degree, and settle down. She enrolled at San Francisco State, ostensibly studying communications, but found her real education in the city itself. A part-time waitressing job to cover rent quickly became her passion. She was mesmerized by the controlled chaos of the kitchen, the immediate satisfaction of a happy customer, and the gritty camaraderie of the staff. She never finished her degree, trading textbooks for order pads and a deep dive into the hospitality world.\n\nHer career was a steady climb from server to bartender, then assistant manager at a tourist-trap spot on the Wharf before landing her current role. The journey wasn't without sacrifice; a serious long-term relationship in her thirties withered under the strain of her relentless late-night schedule. It was a key turning point, solidifying her choice to put her career and the found family of her staff first.\n\nNow, at 47, Sophia is the unflappable heart of The Courtyard. Her days start with inventory and scheduling and end long after the last table has been cleared. Her social circle is a tight-knit group of regulars and fellow industry veterans she meets for late-night drinks. She knows the neighborhood's every shift, from the rise of new condos to the struggles of legacy businesses. Her dream is no longer about finding a life outside the restaurant; it\u2019s about owning it. She\u2019s been saving diligently, hoping that when the current owner finally decides to retire, she\u2019ll be the one to buy the keys to the place that is already, in every way that matters, her home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a strong coffee, and check overnight emails from suppliers and the daily news.",
+                        "geocode": {
+                            "lat": 37.7971726,
+                            "lng": -122.442307,
+                            "formatted_address": "Cow Hollow, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Cow Hollow Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Morning yoga session in the living room using a fitness app to stretch and mentally prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7971726,
+                            "lng": -122.442307,
+                            "formatted_address": "Cow Hollow, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Cow Hollow Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in professional but comfortable attire, and pack a work bag.",
+                        "geocode": {
+                            "lat": 37.7971726,
+                            "lng": -122.442307,
+                            "formatted_address": "Cow Hollow, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (Cow Hollow Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, navigating the morning traffic down Van Ness Avenue.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Park in the monthly spot and walk to the office, grabbing a second coffee on the way.",
+                        "geocode": {
+                            "lat": 37.7801284,
+                            "lng": -122.4177535,
+                            "formatted_address": "355 McAllister St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 15,
+                        "location": "Civic Center Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Morning staff huddle at the 'City Hall Bistro' to review the daily specials, check inventory, and handle a scheduling conflict.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 120,
+                        "location": "San Francisco Dept Of Technology"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Manage the intense lunch rush, directing staff, ensuring quality, and grabbing a quick salad to eat at the counter.",
+                        "geocode": {
+                            "lat": 37.779275,
+                            "lng": -122.4192417,
+                            "formatted_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 150,
+                        "location": "City Hall Bistro"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Post-lunch administrative work: placing produce orders with a local distributor, finalizing payroll, and planning menus for the following week.",
+                        "geocode": {
+                            "lat": 37.779275,
+                            "lng": -122.4192417,
+                            "formatted_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 120,
+                        "location": "Office at City Hall Bistro"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, listening to a podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries and household essentials for the week.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Safeway on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk walk to unwind, heading down to the waterfront for some fresh air and views of the bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 40,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Prepare a simple but healthy dinner while listening to music and enjoying a glass of wine.",
+                        "geocode": {
+                            "lat": 37.7971726,
+                            "lng": -122.442307,
+                            "formatted_address": "Cow Hollow, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Cow Hollow Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watching a new series on a streaming platform.",
+                        "geocode": {
+                            "lat": 37.7971726,
+                            "lng": -122.442307,
+                            "formatted_address": "Cow Hollow, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Cow Hollow Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: tidying up the kitchen, laying out clothes for tomorrow, and reading a few chapters of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7971726,
+                            "lng": -122.442307,
+                            "formatted_address": "Cow Hollow, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home (Cow Hollow Apartment)"
+                    }
+                ],
+                "day_overview": "A busy but structured day for a hospitality manager, balancing the demands of running a government building's cafe with personal time for exercise, errands, and relaxation in her Cow Hollow neighborhood.",
+                "home_address": "1387 Union St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.79859769999999,
+                    "lng": -122.4219899,
+                    "formatted_address": "1387 Union St, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Tanaka",
+    "givenName": "Daniel",
+    "familyName": "Tanaka",
+    "jobTitle": "Office Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Administrative"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Tanaka\u2019s life is a study in quiet diligence, a narrative woven into the foggy avenues of San Francisco\u2019s western neighborhoods. A third-generation Japanese-American, he was raised in Daly City, where the values of hard work and filial duty were as constant as the coastal gloom. His parents, who ran a small gardening supply store, instilled in him a profound sense of responsibility over personal ambition. He was never the star student, but he was always reliable.\n\nHis educational path was pragmatic. While friends left for four-year universities, Daniel enrolled at City College of San Francisco after his father suffered a heart attack, requiring Daniel to work part-time and stay close to home. He earned an Associate's degree in Business Administration, a practical choice that felt more like a duty than a passion. His early dream of being a music journalist was quietly shelved. He began his career as an administrative assistant at a downtown tech firm, slowly climbing the ladder through sheer competence and consistency. For two decades, he was the dependable force in the background, the one who knew how to fix the printer and where every file was. Now, as an Office Manager, he orchestrates the logistics for a mid-sized consulting firm.\n\nThe COVID-19 pandemic was an unexpected turning point. His company transitioned to a permanent remote-first model, erasing his daily commute from his Inner Richmond apartment. This shift fundamentally altered his life. No longer bookended by crowded Muni rides, his days gained a new rhythm. His world shrank to his neighborhood, but in doing so, it deepened. He knows the owner of the corner bakery by name and has a regular table at his favorite Vietnamese restaurant on Clement Street.\n\nAt 43 and recently single after a decade-long relationship dissolved amicably, Daniel is taking stock. His life is stable, but a quiet yearning for the passion he once deferred has resurfaced. He has started a blog reviewing obscure vinyl records, a small nod to the journalist he once imagined becoming. His aspirations are not grand; he dreams of taking a long road trip through the Pacific Northwest with his camera, of finding a partner who appreciates quiet evenings, and of continuing to build a life of simple, meaningful contentment within the city that has always been his anchor."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Alarm goes off. Brews a pot of Peet's coffee and checks the morning news on his tablet.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Checks in on his elderly mother, helps prepare her breakfast, and discusses her appointments for the week.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Showers, gets dressed in business casual, and packs his work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Starts the commute, navigating morning traffic up Masonic Avenue and across Lombard to the waterfront.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrives at the office, reviews emails, sorts mail, and restocks the main coffee station.",
+                        "geocode": {
+                            "lat": 37.8072097,
+                            "lng": -122.4093793,
+                            "formatted_address": "100 North Point St, San Francisco, CA 94133, United States"
+                        },
+                        "duration": 90,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udd27",
+                        "action": "Coordinates with a technician from Bay Area Vending to service a malfunctioning snack machine on the 3rd floor.",
+                        "geocode": {
+                            "lat": 37.8072097,
+                            "lng": -122.4093793,
+                            "formatted_address": "100 North Point St, San Francisco, CA 94133, United States"
+                        },
+                        "duration": 45,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Drives to North Beach to pick up his favorite Italian combo sandwich for a quick lunch away from the office.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Works on the budget for the upcoming quarterly office-wide social event, comparing catering quotes.",
+                        "geocode": {
+                            "lat": 37.8072097,
+                            "lng": -122.4093793,
+                            "formatted_address": "100 North Point St, San Francisco, CA 94133, United States"
+                        },
+                        "duration": 120,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Conducts a walk-through of all office floors to check on facilities, cleanliness, and supply levels.",
+                        "geocode": {
+                            "lat": 37.8072097,
+                            "lng": -122.4093793,
+                            "formatted_address": "100 North Point St, San Francisco, CA 94133, United States"
+                        },
+                        "duration": 45,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Leaves work and drives home, dealing with the usual evening traffic heading south from the Wharf.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stops on the way home to pick up groceries for dinner and a prescription for his mother.",
+                        "geocode": {
+                            "lat": 37.7833698,
+                            "lng": -122.4478739,
+                            "formatted_address": "3 Masonic Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's - Masonic Ave"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cooks a simple dinner of salmon and roasted vegetables to share with his mom while they chat about their days.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Winds down by watching an episode of a crime drama series on television.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Checks his work calendar for the next day, lays out his clothes, and sets his alarm.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A structured day for Daniel, an office manager, balancing work responsibilities at Fisherman's Wharf with his role as a caregiver for his parent in their shared Anza Vista home.",
+                "home_address": "2522 Geary Blvd, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7829205,
+                    "lng": -122.4449946,
+                    "formatted_address": "2522 Geary Blvd, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

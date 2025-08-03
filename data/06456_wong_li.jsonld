@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Li Na Wong",
+    "givenName": "Li",
+    "familyName": "Wong",
+    "jobTitle": "Assembly Line Technician",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Li Na Wong\u2019s San Francisco is not one of postcards; it\u2019s a world measured in blocks, not vistas. Born in Guangzhou, China, to parents who worked on factory floors, Li Na learned the language of machinery and meticulousness from a young age. Her family saw America not as a dream of riches, but as a place of stability. They pooled their life savings to send her, at eighteen, to live with her aunt in the Sunset District.\n\nHer \"high school equivalent\" education from China didn't readily translate. Li Na\u2019s first years were a blur of ESL classes at City College and long hours working in a Richmond District dim sum restaurant. The turning point came through a connection from a classmate. A small, nondescript hardware startup needed technicians for its assembly line\u2014workers with steady hands and an unwavering focus. Li Na, with her inherited knack for detail, excelled. This wasn't the glamorous side of tech; it was the engine room, assembling the devices that others would use to build fortunes.\n\nNow 29, Li Na\u2019s life is defined by practicality. To save every possible dollar, she moved from her aunt\u2019s crowded house to a Single Room Occupancy (SRO) hotel in the Mission, just a three-minute walk from the unmarked Potrero Hill workshop where she works. Her 0.0-mile commute is the cornerstone of her frugal existence. Her daily routine is spartan: wake, walk to her sterile workstation, spend eight hours under fluorescent lights listening to Mandarin podcasts, and return to her room to cook on a shared hot plate.\n\nHer social life is quiet. She spends Sundays with her aunt, sharing meals and speaking her native Cantonese. Otherwise, her connections are the familiar nods to her SRO neighbors and the quiet camaraderie with her fellow technicians. Li Na\u2019s dream isn\u2019t to found a startup; it\u2019s to save enough to bring her parents to America. Her ambition is a one-bedroom apartment with her own kitchen. She is the invisible hand of Silicon Valley, a resident of its most famous city, whose hopes are grounded not in disruption, but in the simple, profound desire for security and reunion."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, scroll through phone notifications, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7944675,
+                            "lng": -122.4048082,
+                            "formatted_address": "Chinatown, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Chinatown Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Prepare a simple breakfast of congee and youtiao for herself and her parents.",
+                        "geocode": {
+                            "lat": 37.7944675,
+                            "lng": -122.4048082,
+                            "formatted_address": "Chinatown, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Chinatown Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from Chinatown to the Mission, dealing with the usual morning traffic on Broadway and Folsom St.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Find street parking and walk the last few blocks to the studio.",
+                        "geocode": {
+                            "lat": 37.7553074,
+                            "lng": -122.4112416,
+                            "formatted_address": "Alabama St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Alabama Street"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Clock in for the morning shift, assembling custom LED display components for interactive art installations.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 240,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Head out for a quick lunch, grabbing a carnitas burrito to-go.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Return for the afternoon shift, performing quality control checks and soldering on finished circuit boards.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 210,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Clock out, clean up workstation, and begin the journey home.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 15,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, navigating the heavy evening rush hour traffic heading north.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6c",
+                        "action": "Stop to pick up fresh bok choy, tofu, and fish for dinner from a familiar vendor.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Stockton Street Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Cook a family-style meal and eat dinner while catching up with her parents about their day.",
+                        "geocode": {
+                            "lat": 37.7944675,
+                            "lng": -122.4048082,
+                            "formatted_address": "Chinatown, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Chinatown Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddcb",
+                        "action": "Meet a friend for a walk and a boba tea.",
+                        "geocode": {
+                            "lat": 37.7944675,
+                            "lng": -122.4048082,
+                            "formatted_address": "Chinatown, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Teaspoon Chinatown"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down at home by watching a couple of episodes of a C-drama on her laptop.",
+                        "geocode": {
+                            "lat": 37.7944675,
+                            "lng": -122.4048082,
+                            "formatted_address": "Chinatown, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Chinatown Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Tidy up the kitchen, pack a lunch for tomorrow, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7944675,
+                            "lng": -122.4048082,
+                            "formatted_address": "Chinatown, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Chinatown Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for an assembly technician, balancing a demanding hands-on job in the Mission with family responsibilities and errands in her home neighborhood of Chinatown, all navigated by a challenging cross-city car commute.",
+                "home_address": "841 Stockton St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7937151,
+                    "lng": -122.4079806,
+                    "formatted_address": "841 Stockton St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

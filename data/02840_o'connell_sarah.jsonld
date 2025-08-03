@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah O'Connell",
+    "givenName": "Sarah",
+    "familyName": "O'Connell",
+    "jobTitle": "Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah O\u2019Connell\u2019s life is a study in quiet contrasts, much like the San Francisco fog that rolls into her Inner Sunset apartment. Raised in a pragmatic Boston suburb by an accountant father and a librarian mother, she inherited both a head for numbers and a heart for narratives. This duality defined her early life; she spent weekends lost in novels while acing her math classes. She pursued her passion at Boston University, earning a Bachelor's degree in English Literature with dreams of a career in publishing.\n\nThe turning point came during a post-graduation summer of unpaid internships and mounting student loan statements. On her father\u2019s advice, she took a financial certification course, discovering an unexpected aptitude for decoding market trends as if they were complex texts. The pivot felt like a concession, but it led her across the country to a promising financial analyst position in San Francisco\u2019s bustling Financial District. For several years, she embraced the corporate hustle, the BART commute, and the after-work drinks with colleagues.\n\nWhen the pandemic shifted her company to a permanent remote-work model, Sarah found an unforeseen sense of peace. The 0.0-mile commute became her reality. She traded her downtown desk for a sunlit corner of her apartment overlooking the green expanse of Golden Gate Park. Her days now follow a serene rhythm: a morning run through the park, hours spent analyzing data sets and building financial models, and evenings curled up with a book, the city lights twinkling below.\n\nHer social life has become more intentional, centered on a small, close-knit group of friends and neighbors. She is deeply connected to her neighborhood, frequenting the local bakery and the Sunday farmer's market. While she values the stability her career provides, Sarah\u2019s literary dream still flickers. Her secret aspiration is to use her financial independence to fund a small, independent press, to finally bridge the two halves of her identity. For now, she finds contentment in her ordered life, a storyteller who found her place not in words, but in numbers."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe recalls being ten, hiding in the stacks of the Boston library where her mother worked. The air smelled of paper and binding glue. While her mom quietly shelved books, Sarah sat on the floor, lost in a novel. It wasn't just reading; it was a feeling of absolute belonging, of being safe inside a world built from words. That deep, quiet comfort became the measure against which she would judge all future happiness. It was the foundation of the identity she almost left behind.\n\n2.\nIt was 2 AM in her post-college apartment, the week before her first financial certification exam. Surrounded by dry textbooks, she felt a wave of despair, mourning her literary ambitions. Then, a chart detailing a company\u2019s decline clicked into place. She saw the narrative arc\u2014the hubris, the rising action, the tragic fall. It wasn't poetry, but it was a story. In that moment of exhausted clarity, finance became not a surrender, but a different kind of language she could learn to speak.\n\n3.\nHer first year in San Francisco, after closing a difficult deal, her team celebrated at a loud, sleek bar in the Financial District. She felt a genuine thrill of pride as her boss raised a glass to her. But on the crowded BART ride home, the professional buzz faded, leaving a hollow echo. The achievement felt external, like an award for a role she was playing beautifully. That night, she understood the difference between being successful and being fulfilled.\n\n4.\nThe morning after her company announced a permanent remote model during the pandemic was a quiet revelation. Instead of her usual alarm, she was woken by sunlight hitting her apartment wall. She laced up her running shoes and stepped into a misty Golden Gate Park. With each breath of cool, eucalyptus-scented air, she felt chains of obligation dissolving. This wasn't just a change in commute; it was a profound reclamation of her time, her space, and her peace.\n\n5.\nJust last month, at the Sunday farmer\u2019s market, she bought a coffee and sat on a bench, watching her neighbors. A few stalls down, a young writer was selling a small, self-published book of poetry. A calm, powerful thought took root: Her financial stability wasn\u2019t the opposite of her dream, it was the engine. Spreadsheets could build a budget; a budget could build a small press. Her two lives didn't have to be separate. They could finally become one story."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a coffee from Philz beans, and review the day's calendar with her partner.",
+                        "geocode": {
+                            "lat": 37.7882504,
+                            "lng": -122.4023477,
+                            "formatted_address": "647 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (647 Market St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk jog along the Embarcadero waterfront to start the day with energy.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready for the workday, and eat a quick breakfast of Greek yogurt and berries.",
+                        "geocode": {
+                            "lat": 37.7882504,
+                            "lng": -122.4023477,
+                            "formatted_address": "647 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (647 Market St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet her colleague for their daily carpool, navigating the short distance down Market Street.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Market Street Carpool Pickup Spot"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle into her dedicated desk, grab a sparkling water, and triage morning emails and financial news alerts.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 30,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: Build a complex financial model in Excel for a potential Q4 tech investment.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a healthy, quick lunch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Join a team video conference call to present initial findings on market volatility.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 75,
+                        "location": "Mindspace Coworking Private Phone Booth"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon focus block: Write up performance summaries and create data visualizations for a client report.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 135,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udc4b",
+                        "action": "Pack up her laptop and meet her carpool partner for the quick ride home.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 20,
+                        "location": "Mindspace Coworking Lobby"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta, burrata, and produce for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7890895,
+                            "lng": -122.3920523,
+                            "formatted_address": "203 Folsom St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 40,
+                        "location": "Woodlands Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a delicious dinner with her partner while catching up on their respective days.",
+                        "geocode": {
+                            "lat": 37.7882504,
+                            "lng": -122.4023477,
+                            "formatted_address": "647 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (647 Market St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Meet up with another couple for cocktails and conversation.",
+                        "geocode": {
+                            "lat": 37.787097,
+                            "lng": -122.40136,
+                            "formatted_address": "662 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Novela Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with her evening skincare routine and read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7882504,
+                            "lng": -122.4023477,
+                            "formatted_address": "647 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (647 Market St)"
+                    }
+                ],
+                "day_overview": "A productive and balanced day for Sarah, a Financial Analyst in San Francisco. Her day involves focused work sessions at a downtown coworking space, a short carpool commute, and quality time spent cooking with her partner and socializing with friends in the evening.",
+                "home_address": "647 Market St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7882504,
+                    "lng": -122.4023477,
+                    "formatted_address": "647 Market St, San Francisco, CA 94105, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "O'Connell Family"
+    }
+}

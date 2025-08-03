@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Patel",
+    "givenName": "Liam",
+    "familyName": "Patel",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Patel\u2019s story began not in San Francisco, but in the sprawling, competitive suburbs of Fremont. The son of Gujarati immigrants, his name was a compromise\u2014Liam for an easier fit in America, Patel as a proud link to their roots. His parents, an engineer and a pharmacist, instilled in him the immigrant credo: stability through education, preferably in a STEM field. Liam excelled in the high-pressure academic environment, but felt a growing disconnect between the prescribed path of coding and medicine and his own quiet fascination with the *why* behind human behavior.\n\nHis quiet rebellion came at UC Santa Cruz, where, against his family\u2019s advice, he declared his major in Sociology. He was captivated by theories of social structure and urban dynamics, learning to see the invisible frameworks that shaped communities. This felt like his calling, but it offered no clear career path. The turning point was a senior seminar on quantitative research methods. Suddenly, the abstract world of social theory collided with the concrete logic of data. Liam realized he didn't have to choose; he could use the tools of tech to tell the human stories he cared about. He spent his final year teaching himself Python and SQL, building a bridge from his passion to a profession.\n\nNow 24, Liam works as a data analyst for a mid-sized tech company. His 0.0-mile commute is a blessing and a curse. From his apartment in the Inner Richmond, he logs in each morning, sifting through user data to find patterns. His sociology background gives him a unique edge; he sees narratives where others see only numbers.\n\nHis life is a structured routine. Mornings start with a walk to Blue Danube Coffee House for an oat latte, his one daily anchor to the outside world. Afternoons often involve a break for a run through Golden Gate Park, just blocks away, trading screen time for the scent of eucalyptus. Evenings are for his small, close-knit circle of friends\u2014a mix of college buddies and connections from a local bouldering gym\u2014for board games or exploring the neighborhood's dim sum restaurants.\n\nLiam feels a deep, if solitary, connection to San Francisco. He\u2019s an observer, analyzing the city\u2019s pulse from his window and on his walks. His dream is to eventually pivot, leveraging his data skills for a non-profit or city planning department, to analyze not user engagement, but housing inequality or public transit access. He wants to close the loop, using his career not just for a comfortable life, but to understand and improve the city that he now calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, browse news alerts and social media.",
+                        "geocode": {
+                            "lat": 37.7995265,
+                            "lng": -122.4153249,
+                            "formatted_address": "973 Union St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment, 973 Union St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Morning jog through the neighborhood hills down to Fort Mason for bay views.",
+                        "geocode": {
+                            "lat": 37.8047706,
+                            "lng": -122.4304005,
+                            "formatted_address": "Fort Mason Park, Bay St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Fort Mason Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7995265,
+                            "lng": -122.4153249,
+                            "formatted_address": "973 Union St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment, 973 Union St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and a quick breakfast of avocado toast.",
+                        "geocode": {
+                            "lat": 37.7995265,
+                            "lng": -122.4153249,
+                            "formatted_address": "973 Union St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen, 973 Union St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Start the workday: log on, check company Slack channels, and organize daily tasks in Jira.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Morning deep work: Pulling user engagement data with SQL and updating weekly KPI dashboards in Tableau.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a hearty salad and eat outside to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.797521,
+                            "lng": -122.4223179,
+                            "formatted_address": "2237 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn on Polk Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon focus session: Building a predictive model for user churn.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Team sync meeting via Google Meet to review Q3 project progress.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work: Push final code to GitHub and send out a summary email.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2642\ufe0f",
+                        "action": "Log off from work and decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7995265,
+                            "lng": -122.4153249,
+                            "formatted_address": "973 Union St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "Living Room, 973 Union St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Meet a friend for an after-work bouldering session.",
+                        "geocode": {
+                            "lat": 37.804171,
+                            "lng": -122.468189,
+                            "formatted_address": "924 Old Mason St, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 120,
+                        "location": "Movement Bouldering Gym, Presidio"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Grab casual dinner and drinks with a friend after the workout.",
+                        "geocode": {
+                            "lat": 37.8064484,
+                            "lng": -122.4321771,
+                            "formatted_address": "2 Marina Blvd BUILDING A, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "Radhaus at Fort Mason"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Walk home and call family to catch up.",
+                        "geocode": {
+                            "lat": 37.8001413,
+                            "lng": -122.4192681,
+                            "formatted_address": "Russian Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Russian Hill Neighborhood"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down for the night, watch an episode of a series on Netflix.",
+                        "geocode": {
+                            "lat": 37.7995265,
+                            "lng": -122.4153249,
+                            "formatted_address": "973 Union St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room, 973 Union St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a sci-fi novel before bed.",
+                        "geocode": {
+                            "lat": 37.7995265,
+                            "lng": -122.4153249,
+                            "formatted_address": "973 Union St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Apartment, 973 Union St"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a young Data Analyst, balanced with a morning run, a walk for lunch, and an evening bouldering session with a friend.",
+                "home_address": "973 Union St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7995265,
+                    "lng": -122.4153249,
+                    "formatted_address": "973 Union St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Patel Family"
+    }
+}

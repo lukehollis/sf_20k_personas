@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Lead Research Scientist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s world was once circumscribed by the quiet hum of her parents\u2019 Daly City laundromat, a place of steam and folded clothes where their Korean dreams were deferred, then funneled directly into her. Her father, an engineer in Seoul, pushed her towards math and science, seeing in his brilliant daughter the future he couldn't grasp in America. This relentless focus propelled Sarah through UC Berkeley and then to a Master's in Human-Computer Interaction from Stanford, where she found her calling: translating the messy chaos of human emotion into the clean logic of code.\n\nHer career was a swift, steep ascent. After a formative stint at a tech giant, she was poached by Aether Labs, a prestigious research firm. As a Lead Scientist, she now pioneers empathetic AI, designing systems that anticipate user needs with an almost psychic intuition. Her success, however, came at a cost. A five-year relationship with a non-tech partner fractured under the weight of her 80-hour workweeks, a turning point that led her to seek refuge entirely within her work.\n\nThis is how she found herself, at 41, living and working in a minimalist Mission Bay high-rise. Her commute is a ten-step walk from her bedroom to her standing desk, which overlooks the bay. Her days are a disciplined ritual: a 6 a.m. run along the Embarcadero, a meticulously prepared matcha latte, then hours of deep, uninterrupted focus, managing her team through screens. She is a leader to her colleagues but largely a stranger to her neighbors.\n\nConnection to San Francisco is a deliberate act. Saturday mornings are for the Ferry Building Farmers Market, a sensory anchor in her digital life. Her social circle is a small, curated set of former colleagues. While she tells herself the isolation is a choice\u2014a necessary component of her high-stakes work\u2014a deeper yearning has begun to surface. Sarah dreams of applying her research to assistive technologies for the elderly, a project inspired by her aging parents. More privately, she hopes to build a life where human connection isn\u2019t just a research variable, but the core of her own story, finally engineering a future that balances code with genuine belonging."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate, and gentle stretching to start the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of Greek yogurt and berries while brewing coffee in a French press.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Walk to the L Taraval Muni stop and take the train inbound towards the Financial District.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 65,
+                        "location": "L Taraval Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at office, organize desk, and review data from overnight model training runs.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 90,
+                        "location": "Chime Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Lead a daily sync meeting with the data science team to discuss project blockers and progress.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Conference Room 'Embarcadero'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk a few blocks to grab a quick, healthy lunch.",
+                        "geocode": {
+                            "lat": 37.7913266,
+                            "lng": -122.3963941,
+                            "formatted_address": "300 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "Mendocino Farms"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Collaborate with a product manager on a new feature, providing data-driven insights.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 75,
+                        "location": "Chime Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Focus block: Code a new statistical model in Python and document the methodology.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 120,
+                        "location": "Chime Headquarters"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work for the day, answer final emails, and plan tomorrow's priorities.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 25,
+                        "location": "Chime Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk back to the Muni Metro station and take the L Taraval train home to the Sunset.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "Downtown SF & L Taraval Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Quickly change into running clothes for some exercise and fresh air.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Go for a rejuvenating run along the water to de-stress from the day.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach bike path"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Meet a friend for a casual dinner and catch-up at a popular neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.7602689,
+                            "lng": -122.5050311,
+                            "formatted_address": "4001 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "Outerlands Restaurant"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down at home by reading a novel and listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A structured day for a Lead Research Scientist, balancing intense focus at her FiDi tech job with a commute involving walking and the Muni Metro, and rejuvenating with a run along Ocean Beach and dinner with a friend in her Outer Sunset neighborhood.",
+                "home_address": "1087 Taraval St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7427457,
+                    "lng": -122.4777976,
+                    "formatted_address": "1087 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

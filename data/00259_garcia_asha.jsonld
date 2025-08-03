@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Asha Garcia",
+    "givenName": "Asha",
+    "familyName": "Garcia",
+    "jobTitle": "Biotechnology Research Associate",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Asha Garcia\u2019s story began in a small apartment in the Richmond District, where the fog often wrapped around the iconic Golden Gate Bridge like a comforting blanket. Her mother was a Filipina immigrant who worked long hours as a nurse, and her father, a first-generation Mexican American, ran a small but popular taqueria. Their love story, though sometimes strained by the demands of survival in a costly city, instilled in Asha a deep appreciation for hard work and the richness of diverse cultures. She was often the translator for her grandparents, navigating the nuances of English and Tagalog, a skill that fostered her sharp mind and empathy.\n\nAsha blossomed in the challenging public schools of San Francisco, her inquisitive nature leading her to excel in science. She saw the intersection of biology and engineering as a pathway to tangible change, a desire fueled by witnessing the health struggles within her community. This passion propelled her through a rigorous Bioengineering program at UC Berkeley, funded by a patchwork of scholarships, grants, and late-night shifts in a campus lab.\n\nUpon graduation, the vibrant biotechnology scene in San Francisco beckoned. She landed a position as a Research Associate at a promising biotech firm in Mission Bay. The initial years were a whirlwind of long hours and steep learning curves, but the thrill of being on the cusp of scientific breakthroughs was a powerful motivator. A key turning point came when she contributed significantly to a project focused on developing affordable diagnostic tools, a direct reflection of her childhood experiences.\n\nHer personal life, while demanding, is anchored by a close-knit group of friends from her college days, their bonds solidified over shared study sessions and exploring the city\u2019s hidden gems. She also maintains a strong connection with her family, finding solace and laughter at weekly Sunday dinners at her grandparents\u2019 home in Visitacion Valley. While she\u2019s dated, the demanding nature of her work and the city\u2019s transient dating scene have kept serious relationships at bay for now.\n\nAsha\u2019s days begin with the rhythmic hum of her bicycle tires against San Francisco\u2019s hills as she commutes to work. Her modest income allows for comfortable living, but the city\u2019s cost of living means dreams of homeownership remain a distant, if not impossible, aspiration. Her current focus is on advancing her career, hoping to lead her own research project one day. Beyond work, she finds joy in exploring the city's diverse culinary scene, volunteering at science education programs for underprivileged youth, and seeking out quiet moments in Golden Gate Park. San Francisco is more than just a city to Asha; it's the tapestry of her identity, the place where her family's history converges with her own ambitions, and where the scent of salt in the air reminds her of how far she's come."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1. The first time Asha translated for her grandmother at the doctor\u2019s office, explaining complex medical terms. Fear tightened Grandmother's hand in hers, but seeing the doctor's understanding thanks to her words filled Asha with quiet power and a deep sense of responsibility, solidifying her desire to help. She must have been around ten.\n\n2. That Saturday, volunteering at a science fair in the Bayview, a shy young girl\u2019s eyes lit up watching adenine and thymine pairing. Asha remembered her own childhood curiosity and the lack of accessible science resources back then. A warmth spread through her; this was why she pursued bioengineering. This happened in her late twenties, post-graduation.\n\n3. The night her paper on diagnostic tool prototypes was accepted, celebrating with her lab team in a noisy Mission bar. Pushed past exhaustion, the validation of years of late nights and experiments hit her with a surge of elation. She felt the tangible impact of her work and the promise of her career. This was in her early thirties.\n\n4. Biking across the Golden Gate Bridge at sunrise, fog swirling below, the city skyline emerging like a dream. The vastness made her feel small yet connected to everything. A profound sense of belonging washed over her, recognizing the resilience and beauty of the city that shaped her, confirming her connection to home. This was a recurring feeling throughout her adult life.\n\n5. Sitting down to a Sunday dinner at her grandparents\u2019, the aroma of adobo and carne asada mingling. Laughter and Taglish filled the air. Surrounded by family, stories of resilience and hard work woven through the meal, she felt anchored, grounded, and reminded of the shoulders she stood on and the strength of her heritage. This was a constant comfort in her life."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a strong coffee with an AeroPress, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from Noe Valley to the Financial District, listening to a science podcast to catch up on industry news.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Commute to FiDi"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at a dedicated desk, check the team's Slack channels, and outline the day's research tasks.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 30,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\ud83e\uddec",
+                        "action": "Deep work session: analyzing genomic data sets from a recent experiment and identifying significant patterns.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Virtual sync-up meeting with the lead scientist via Zoom to present initial findings and discuss next steps.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 45,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy salad bowl for lunch and eat in the fresh air at the nearby Salesforce Park.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen - 1st St"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Afternoon research block: review recent scientific literature on cell therapy to inform upcoming experimental design.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 180,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\ud83d\ude29",
+                        "action": "Pack up and begin the evening commute, navigating traffic from downtown back to Noe Valley.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Commute to Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Stop for a Vinyasa flow class to decompress and stretch after a day of sitting.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Love Story Yoga - 24th Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Quick stop at the local market to pick up fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Noe Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Cook dinner with her partner, sharing stories from the day while making homemade tacos.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch with her partner to watch an episode of a new show.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night with a book (non-science fiction) and prepare for the next day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Noe Valley"
+                    }
+                ],
+                "day_overview": "A productive day for a biotech research associate balancing focused data analysis at a downtown coworking space with a mindful evening routine of yoga, cooking, and quality time with her partner in her Noe Valley neighborhood.",
+                "home_address": "250 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7583126,
+                    "lng": -122.437203,
+                    "formatted_address": "250 Diamond St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Garcia Family"
+    }
+}

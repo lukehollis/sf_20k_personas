@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Robert Lee",
+    "givenName": "Robert",
+    "familyName": "Lee",
+    "jobTitle": "Production Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Robert Lee\u2019s life story is baked into the very walls of his Dogpatch home. At 49, his 0.0-mile commute is no tech-industry perk; he lives in the apartment above the Golden Gate Fortune Cookie factory his parents bought in the late 1970s. His earliest memories are not of playgrounds, but of the sweet smell of vanilla and toasted flour, the rhythmic clatter of the folding machine a constant lullaby. He is a third-generation San Franciscan whose world has shrunk to a single city block.\n\nHis parents, immigrants from Hong Kong, poured their life savings and relentless labor into the business, viewing it as the foundation for their son\u2019s future. They pushed him towards education, and he dutifully earned a Bachelor\u2019s in Business Administration from San Francisco State University. For a few years, he fantasized about a different life\u2014perhaps in logistics for a global shipping company, a world away from the sticky floors and temperamental ovens he knew. But when his father\u2019s health began to fail in his late twenties, the choice was made for him. Robert stepped in, not out of passion, but out of profound, unspoken duty.\n\nThat turning point defined his life. His role as Production Manager is an official title for what he truly is: the inheritor. The responsibility consumed his youth; a serious relationship in his early thirties crumbled under the weight of 3 a.m. maintenance calls and his inability to ever truly leave work. He has remained single since, his most consistent companions being his long-time employees and the delivery drivers who greet him by name.\n\nHis daily routine is a testament to predictability. He wakes to the hum of the ventilation fans, walks downstairs to the factory floor, orchestrates the production of thousands of cookies for restaurants across the Bay Area, and ends his day handling invoices in the same apartment where he did his homework as a child.\n\nRobert\u2019s connection to San Francisco is one of an anchor, not an explorer. He\u2019s a living piece of the city\u2019s disappearing industrial past, watching the neighborhood transform into sterile biotech labs and luxury condos. His hope is not for escape, but for survival\u2014to keep the family legacy alive against rising costs. His quiet, personal dream is to one day perfect a new matcha-flavored cookie, a small, modern twist on his parents\u2019 tradition. It is his own quiet way of finally making the factory his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, start the coffee maker, and read the morning headlines on a tablet.",
+                        "geocode": {
+                            "lat": 37.7855611,
+                            "lng": -122.4224891,
+                            "formatted_address": "1184 Geary Blvd, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home at 1184 Geary Blvd"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Quick breakfast of yogurt and granola while checking personal emails with his partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7855611,
+                            "lng": -122.4224891,
+                            "formatted_address": "1184 Geary Blvd, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home at 1184 Geary Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Commute to work, navigating down Polk Street and cutting across to SoMa.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "San Francisco Bike Lanes"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Arrive at the office, lock up the bike, and grab a coffee while reviewing daily production reports.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the daily production stand-up meeting, reviewing team progress and identifying blockers for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Unity Conference Room 'Sputnik'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focused work session updating project management software (Jira) and adjusting production timelines.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Personal Desk at Unity"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to grab a gourmet sandwich for a quick and efficient lunch break.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Conduct one-on-one meetings with art and engineering leads to sync on upcoming milestone deliverables.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 90,
+                        "location": "Unity Breakout Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Final work block: respond to emails, review the latest software build, and prepare notes for tomorrow's meetings.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 110,
+                        "location": "Personal Desk at Unity"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2642\ufe0f",
+                        "action": "Commute home via bicycle, taking a slightly different route through the Tenderloin to avoid 5pm traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the grocery store to pick up fresh pasta and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7833698,
+                            "lng": -122.4478739,
+                            "formatted_address": "3 Masonic Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Trader Joe's on Masonic Ave"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner with his partner while listening to a podcast about film history.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Eat dinner and unwind, discussing their respective days and planning the upcoming weekend.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching an episode of a new sci-fi series together.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down routine: tidy up the kitchen, prep coffee for the morning, and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7855611,
+                            "lng": -122.4224891,
+                            "formatted_address": "1184 Geary Blvd, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home at 1184 Geary Blvd"
+                    }
+                ],
+                "day_overview": "A structured day for a tech Production Manager, balancing focused work and team collaboration with an active bike commute and a relaxing evening at home with his partner.",
+                "home_address": "1184 Geary Blvd, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7855611,
+                    "lng": -122.4224891,
+                    "formatted_address": "1184 Geary Blvd, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

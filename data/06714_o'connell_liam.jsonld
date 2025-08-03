@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam O'Connell",
+    "givenName": "Liam",
+    "familyName": "O'Connell",
+    "jobTitle": "Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam O\u2019Connell\u2019s life is contained within a ten-block radius of Hayes Valley, a world he both curates and is confined by. Born and raised in a working-class Irish-American neighborhood in South Boston, his upbringing was defined by practicality. His father, a union carpenter, and his mother, a school administrator, preached the value of a steady job and a college degree as the unquestionable path to stability.\n\nLiam dutifully enrolled in a business program at a state college, but his trajectory was derailed during his sophomore year when his father suffered a serious on-the-job injury. Liam dropped out to work full-time, helping his family navigate the financial and emotional fallout. The temporary measure became permanent; the momentum was lost. Once his father recovered, Boston felt too small, filled with the ghosts of a future he\u2019d been forced to abandon. Seeking anonymity and a fresh start, he followed a friend to San Francisco at age 22.\n\nHe landed a stockroom job at a high-end men's clothing boutique in Hayes Valley, a world away from the Boston docks. But his ingrained work ethic and natural, easygoing charm didn't go unnoticed. He moved to the sales floor, then became an assistant manager, and finally, at 26, the Store Manager. He now lives in a small apartment above a bakery just three blocks from work, making his commute a short, familiar stroll.\n\nHis daily routine is a ritual: the smell of fresh bread waking him, a coffee from his regular spot, the ten-hour shifts managing inventory and staff, and an after-work beer at a nearby bar where he knows the bartenders by name. His social circle is tight, a mix of fellow service industry workers who understand the grind.\n\nLiam is good at his job, but a quiet dissatisfaction simmers beneath the surface. At 27, he feels the weight of his \"some college\" status in a city obsessed with credentials. He dreams of finishing his degree online or, more ambitiously, leveraging his retail experience to open a small, unpretentious neighborhood bar of his own\u2014something with the soul of Boston in the heart of San Francisco. He loves the city for allowing him to reinvent himself, yet he often feels like an outsider looking in, managing the lifestyle for others while still figuring out how to build his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake Up & Go-To Coffee",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower and get dressed in a smart-casual outfit suitable for the shop floor.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Breakfast: Quick bowl of oatmeal with berries and a final check of personal emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute to Work: Walks to the bus stop and takes the MUNI 49 bus down Van Ness Ave.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "MUNI 49 Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Pre-Opening Duties: Arrives at his store, reviews overnight sales data, sets daily goals, and leads a morning huddle with the team.",
+                        "geocode": {
+                            "lat": 37.77606249999999,
+                            "lng": -122.4295929,
+                            "formatted_address": "Hayes Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Urban Thread Collective - Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Floor Management & Customer Service: Manages the sales floor during the initial lunch rush, assisting customers and coaching staff.",
+                        "geocode": {
+                            "lat": 37.77606249999999,
+                            "lng": -122.4295929,
+                            "formatted_address": "Hayes Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 125,
+                        "location": "Urban Thread Collective - Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch Break: Grabs a quick roasted chicken rice bowl to eat in the back office.",
+                        "geocode": {
+                            "lat": 37.7730967,
+                            "lng": -122.4389433,
+                            "formatted_address": "302 Broderick St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "RT Rotisserie"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon Admin & Merchandising: Processes new inventory, updates visual displays, and plans the upcoming weekly staff schedule.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Urban Thread Collective - Back Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udd12",
+                        "action": "Store Closing Procedures: Oversees end-of-day cleaning, cashes out registers, and prepares the bank deposit.",
+                        "geocode": {
+                            "lat": 37.77606249999999,
+                            "lng": -122.4295929,
+                            "formatted_address": "Hayes Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Urban Thread Collective - Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute Home: Hops back on the MUNI bus, listening to a podcast to decompress.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 35,
+                        "location": "MUNI Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick Grocery Stop: Picks up fresh pasta and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7929099,
+                            "lng": -122.4162614,
+                            "formatted_address": "1263 Leavenworth St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Le Beau Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and Eat Dinner: Prepares a simple but satisfying dinner at home.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a drink at a cozy neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.7943061,
+                            "lng": -122.4212502,
+                            "formatted_address": "1900 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Bell Tower"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Evening Wind-Down: Watches an episode of a new series on Max before getting ready for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 65,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A busy day for a retail store manager, balancing managerial duties and floor presence, followed by a quick errand and a relaxing evening catching up with a friend in his Nob Hill neighborhood.",
+                "home_address": "1264 Pacific Ave, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7959044,
+                    "lng": -122.4160404,
+                    "formatted_address": "1264 Pacific Ave, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "O'Connell Family"
+    }
+}

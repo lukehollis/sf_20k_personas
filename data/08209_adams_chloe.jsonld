@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Chloe Adams",
+    "givenName": "Chloe",
+    "familyName": "Adams",
+    "jobTitle": "Administrative Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Chloe Adams grew up in the predictable comfort of Sacramento's suburbs, the daughter of a high school history teacher and a dental hygienist. Her childhood was a stable landscape of cul-de-sacs and strip malls, a world she felt destined to escape. From a young age, she was the family\u2019s designated artist, her notebooks filled with intricate doodles and character sketches rather than class notes. San Francisco, just a two-hour drive away, felt like another planet\u2014a vibrant, creative world she yearned for.\n\nHer escape came in the form of an acceptance letter to San Francisco State University\u2019s graphic design program. For two years, Chloe thrived. She loved the city's foggy mornings, the creative energy of her classes, and the independence of her shared apartment. However, the city's relentless cost of living proved a formidable opponent. Juggling part-time retail work with a full course load became unsustainable. The turning point came when her rent increased sharply, forcing a difficult choice. She put her degree on hold, promising herself it was temporary, and took a full-time administrative assistant role at a mid-size tech startup.\n\nNow 25, Chloe\u2019s world is largely confined to the two-bedroom apartment in the Inner Richmond she shares with her roommate, Maya. Since her company went fully remote, her commute is a ten-step walk from her bed to her desk. Her days are a blur of scheduling meetings, managing expense reports, and responding to Slack messages. The stability is a relief, but a quiet melancholy often settles in as she stares out her window at the bustling city she rarely feels a part of.\n\nTo combat the digital isolation, she has cultivated a routine. Mornings are for walks in Golden Gate Park, coffee in hand, and twice a week, she takes a pottery class in the Mission, finding a tangible connection to the creativity she misses. Her relationship with San Francisco is complex; she loves its beauty and opportunity but resents the financial pressure that pushed her off her original path. Her dream of finishing her degree hasn't faded. She freelances small design projects on the side, slowly building a portfolio and saving money, hoping to one day merge her pragmatic reality with her creative soul and truly make the city her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Wake up, shower, get dressed, and listen to a podcast while making coffee.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of yogurt and granola while checking personal emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to the N Judah Muni stop and take the train downtown for the morning commute.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "N Judah Line (Cole Valley to Powell St)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab coffee from the kitchen, and review the day's meeting schedule for the executive team.",
+                        "geocode": {
+                            "lat": 37.7926995,
+                            "lng": -122.4051783,
+                            "formatted_address": "650 California St, San Francisco, CA 94108, United States"
+                        },
+                        "duration": 25,
+                        "location": "Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning work session: Manage calendars, respond to team requests on Slack, and order catering for an upcoming meeting.",
+                        "geocode": {
+                            "lat": 37.7926995,
+                            "lng": -122.4051783,
+                            "formatted_address": "650 California St, San Francisco, CA 94108, United States"
+                        },
+                        "duration": 180,
+                        "location": "Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Meet a friend for a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.7896219,
+                            "lng": -122.3918452,
+                            "formatted_address": "150 Folsom St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sweetgreen (Financial District)"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Afternoon work session: Process expense reports, book travel for a manager, and prepare presentation materials.",
+                        "geocode": {
+                            "lat": 37.7926995,
+                            "lng": -122.4051783,
+                            "formatted_address": "650 California St, San Francisco, CA 94108, United States"
+                        },
+                        "duration": 150,
+                        "location": "Hartford Building"
+                    },
+                    {
+                        "emoji": "\u2709\ufe0f",
+                        "action": "Final work tasks: Send out summary emails, organize digital files, and create a to-do list for the next morning.",
+                        "geocode": {
+                            "lat": 37.7926995,
+                            "lng": -122.4051783,
+                            "formatted_address": "650 California St, San Francisco, CA 94108, United States"
+                        },
+                        "duration": 60,
+                        "location": "Hartford Building"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Pack up and begin the commute home on the N Judah, listening to music.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 50,
+                        "location": "N Judah Line (Powell St to Cole Valley)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a de-stressing run to clear her head after the workday.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park (Panhandle)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop to pick up a few fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Cole Valley Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dish while FaceTiming with a family member.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner and relax on the couch watching a show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night: skincare routine, tidy up the kitchen, and read a few chapters of a book.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A typical weekday for Chloe, an admin assistant, balancing a busy work schedule in the Financial District with her commute from Cole Valley, and unwinding with a run in Golden Gate Park and a quiet evening at home.",
+                "home_address": "2267 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7601959,
+                    "lng": -122.4488527,
+                    "formatted_address": "2267 Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Adams Family"
+    }
+}

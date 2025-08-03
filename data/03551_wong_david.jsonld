@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Wong",
+    "givenName": "David",
+    "familyName": "Wong",
+    "jobTitle": "Field Service Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Indian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Wong is a San Francisco native, born and raised in the foggy avenues of the Sunset District. His parents, immigrants from Guangzhou, ran a small laundromat on Taraval Street, where the scent of warm linen and the rhythmic churn of machines formed the backdrop of his childhood. They instilled in him a quiet work ethic and a preference for tangible results over abstract theories. While his peers aimed for Lowell High and then a UC school, David was more interested in deconstructing old radios and VCRs, fascinated by the logic of circuit boards.\n\nForegoing the traditional four-year university path, David enrolled at City College of San Francisco, earning an Associate's degree in Electronics Technology. The hands-on program was a perfect fit, translating his hobby into a viable career. He was quickly hired as a field service technician for a company that maintains enterprise-level servers and networking hardware. His \"commute\" is zero miles because his home apartment is his base of operations. Each morning, he logs in, receives a list of service calls, and loads his van. His true office is the entire Bay Area, a shifting map of traffic patterns and client locations.\n\nA key turning point for David was watching the Dot-com boom and bust. He saw friends chase high-risk, high-reward startup dreams, while he found quiet satisfaction in his stable, essential role. He fixes the physical backbone that the digital world runs on, a fact that gives him a sense of grounded importance. His social life is rooted in his past; he plays basketball on weekends with the same friends from elementary school and maintains a weekly dim sum tradition with his parents.\n\nCurrently, David is saving aggressively. His dream isn't to create the next big app, but to buy a small two-bedroom condo in the Sunset, a goal that feels increasingly distant in the city he loves. He aspires to one day open his own specialized electronics repair shop, a modern version of his parents\u2019 neighborhood business. For David, success is not a disruptive IPO, but a well-repaired server, a short drive home against traffic, and the enduring comfort of knowing every corner of his city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe remembers the day the big commercial dryer at the laundromat went silent. He was ten, and his father\u2019s sigh of frustration filled the steamy room. While his dad called for a costly repair, David slipped behind the machine with a flashlight. He saw a single, disconnected wire, nudged it back into its terminal, and heard a satisfying *click*. The machine roared to life. In his father's surprised nod, he felt a deeper sense of worth than any A+ could provide. That\u2019s when he knew he\u2019d rather fix things than read about them.\n\n2.\nIt was 2002. His high school friend, once boasting about stock options at a flashy startup, sat across from him at a bar, recently laid off. He spoke of foosball tables and free lunches like relics from a lost civilization. David, whose hands were still grimy from replacing a failed RAID controller, listened quietly. He felt no smugness, only a profound sense of relief in his own path. He realized then he\u2019d always choose the tangible foundation over the ephemeral rocket ship, a choice that has guided his career ever since.\n\n3.\nHis first solo emergency call was to a sterile, freezing data center in San Jose at 2 AM. A whole server rack was down, threatening a major bank\u2019s operations. The silence was deafening, the pressure immense. For a second, he felt a crushing impostor syndrome. But then his training kicked in\u2014the diagnostic flowcharts, the muscle memory of the hardware. When the bank of green lights blinked back to life, no one was there to see it. But in that silent, humming room, he felt an indestructible sense of competence.\n\n4.\nAt their weekly dim sum, watching his mother\u2019s aging hands expertly handle the teapot, it clicked. His parents' laundromat and his dream of an electronics shop were the same thing. They had provided a tangible, essential service to their neighborhood. People came to them with a problem and left with a solution. His ambition wasn't just to tinker with circuits; it was to carry on that legacy of trust and reliability\u2014to be the person his corner of the city could count on when something was broken.\n\n5.\nHe was driving through the Sunset after a long day, the fog rolling in just right, when he saw a \"For Sale\" sign on a small two-bedroom condo. It was perfect. He pulled over and looked up the price online. The number felt like a physical blow, a figure so astronomical it seemed to belong to another world. That abstract goal of \"saving aggressively\" became a sharp, painful, and concrete reality. The city he loved felt like it was trying to push him out, hardening his resolve with every successful service call."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, shower, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7685015,
+                            "lng": -122.429059,
+                            "formatted_address": "157 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "157 Church St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and have a quick breakfast with his partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Review daily service tickets and plan the most efficient route on his work tablet.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\ude9a",
+                        "action": "Log in for the day and walk to the company van to organize tools for the first job.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Street Parking on Church St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Drive to first client site to perform a network hardware diagnostic and replacement.",
+                        "geocode": {
+                            "lat": 37.7900385,
+                            "lng": -122.4036451,
+                            "formatted_address": "220 Kearny St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 150,
+                        "location": "Veridian Dynamics SF Office (Financial District)"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Drive to the central depot to pick up a specialized part for the afternoon appointment.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Upside Artspace Depot (SoMa)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Grab a quick lunch to-go.",
+                        "geocode": {
+                            "lat": 37.7868587,
+                            "lng": -122.3987692,
+                            "formatted_address": "176 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Se\u00f1or Sisig Food Truck (SoMa)"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Drive to second client site to install new equipment and provide user training.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Apex Creative Agency (Potrero Hill)"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Complete daily reports in the van, log off, and walk back into his apartment.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Street Parking on Church St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Change clothes and go for a run to unwind from the day.",
+                        "geocode": {
+                            "lat": 37.76955100000001,
+                            "lng": -122.433214,
+                            "formatted_address": "Duboce Park, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Duboce Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walk over to the local market to grab fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.761345,
+                            "lng": -122.424711,
+                            "formatted_address": "3639 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bi-Rite Market (18th Street)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook dinner and eat with his partner, catching up on their respective days.",
+                        "geocode": {
+                            "lat": 37.7685015,
+                            "lng": -122.429059,
+                            "formatted_address": "157 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "157 Church St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a new movie release.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: tidy up, get ready for bed, and read for a bit.",
+                        "geocode": {
+                            "lat": 37.7685015,
+                            "lng": -122.429059,
+                            "formatted_address": "157 Church St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A busy day for David, a Field Service Technician, involving service calls across San Francisco, from the Financial District to the Mission. After work, he enjoys a run in a local park and a quiet evening at his Castro-Duboce Triangle home with his partner.",
+                "home_address": "157 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7685015,
+                    "lng": -122.429059,
+                    "formatted_address": "157 Church St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

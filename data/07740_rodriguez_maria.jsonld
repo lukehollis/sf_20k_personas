@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maria Rodriguez",
+    "givenName": "Maria",
+    "familyName": "Rodriguez",
+    "jobTitle": "IT Support Specialist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Latino Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maria Rodriguez was born into the vibrant, chaotic heart of San Francisco's Mission District in the early 1980s. The daughter of hardworking immigrants from Jalisco, Mexico, her childhood was a symphony of sputtering MUNI buses, the scent of fresh pan dulce, and the Spanish chatter that filled their small, rent-controlled apartment. Her father was a line cook, her mother cleaned rooms at a downtown hotel, and their world revolved around providing Maria with opportunities they never had.\n\nHer educational journey was practical rather than passionate. After graduating from a Daly City high school\u2014her family having been priced out of the Mission a decade earlier\u2014she attended City College of San Francisco. Unsure of a career path, she earned an Associate's degree in Business Administration. This led to a string of unfulfilling administrative assistant roles. The turning point came at 28 when she was laid off. Her younger brother, a natural tech whiz, pointed out that she had always been the family's go-to person for fixing computer problems. On his advice, she used her severance to get a CompTIA A+ certification, discovering a genuine talent for logical problem-solving.\n\nThis certification opened the door to the tech world. Maria started on a help desk and methodically worked her way up. Now, at 39, she is a trusted IT Support Specialist for a major software company. Her 0.0-mile commute is a testament to her fully remote role, a position she secured just before the pandemic. Her Inner Richmond apartment serves as both home and office, its bay window looking out onto the fog-laced avenues.\n\nHer days follow a comfortable rhythm: a strong coffee, logging into a queue of support tickets, and methodically untangling digital knots for unseen colleagues. Lunch is often a walk to a bakery on Clement Street or a quiet stroll through Golden Gate Park. Though she values her solitude, she maintains a small, tight circle of friends, meeting for a weekly trivia night at a local pub. She is comfortably single, having found that relationships often complicated her well-ordered life.\n\nLooking toward her 40s, Maria dreams of bridging her past and present. She hopes to leverage her professional skills to give back, envisioning a small non-profit that teaches essential tech literacy to elderly immigrants in the very neighborhood her family once called home. For Maria, San Francisco is not just a city; it\u2019s a living history of her family's struggle, her own reinvention, and her quiet, persistent hope for the future."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check phone notifications, and start the coffee maker.",
+                        "geocode": {
+                            "lat": 37.7438302,
+                            "lng": -122.4655282,
+                            "formatted_address": "74 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (74 Taraval St, Parkside)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Eat a quick breakfast of toast and avocado while listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7438302,
+                            "lng": -122.4655282,
+                            "formatted_address": "74 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (74 Taraval St, Parkside)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a business-casual tech outfit, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7438302,
+                            "lng": -122.4655282,
+                            "formatted_address": "74 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (74 Taraval St, Parkside)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across the city, listening to an audiobook to navigate the heavy traffic on Portola Drive and I-280 North.",
+                        "geocode": {
+                            "lat": 37.7706831,
+                            "lng": -122.3895903,
+                            "formatted_address": "Mission Bay, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Parkside to Mission Bay Commute"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Park in the company-sponsored garage and walk the final few blocks to the office building.",
+                        "geocode": {
+                            "lat": 37.7735659,
+                            "lng": -122.3949932,
+                            "formatted_address": "Mission Creek Park Waterfront, 285 Berry St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 10,
+                        "location": "Mission Bay Parking Garage"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle at desk, grab coffee from the kitchen, and review the overnight IT support ticket queue to prioritize issues.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, United States"
+                        },
+                        "duration": 45,
+                        "location": "Uber Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Handle urgent support requests, troubleshooting a VP's laptop connectivity and helping a remote employee via chat.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, United States"
+                        },
+                        "duration": 120,
+                        "location": "Uber Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83c\udf71",
+                        "action": "Eat lunch from the subsidized cafeteria and take a quick walk along the waterfront to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.8033934,
+                            "lng": -122.4008661,
+                            "formatted_address": "23 The Embarcadero, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 50,
+                        "location": "\"The Pier\" Cafeteria at Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Set up a new hire's complete workstation, including dual monitors, docking station, and software permissions.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, United States"
+                        },
+                        "duration": 90,
+                        "location": "Uber Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Attend a team meeting to discuss an upcoming system migration project.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, United States"
+                        },
+                        "duration": 60,
+                        "location": "Uber Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Finish remaining tickets, document solutions in the knowledge base, and send a daily status update.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, United States"
+                        },
+                        "duration": 45,
+                        "location": "Uber Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Navigate the dense evening traffic home, taking surface streets like 7th St and Lincoln Way.",
+                        "geocode": {
+                            "lat": 37.7425586,
+                            "lng": -122.4864558,
+                            "formatted_address": "Parkside, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Mission Bay to Parkside Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for ingredients for dinner and a few essentials for the week.",
+                        "geocode": {
+                            "lat": 37.7528602,
+                            "lng": -122.5035591,
+                            "formatted_address": "3701 Noriega St Unit A, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market, Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Change into comfortable clothes and take a brisk, refreshing walk along the path to clear her head.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner of salmon and roasted vegetables while listening to music.",
+                        "geocode": {
+                            "lat": 37.7438302,
+                            "lng": -122.4655282,
+                            "formatted_address": "74 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 55,
+                        "location": "Home (74 Taraval St, Parkside)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, stream a new episode of a favorite show, and catch up with friends via text.",
+                        "geocode": {
+                            "lat": 37.7438302,
+                            "lng": -122.4655282,
+                            "formatted_address": "74 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 100,
+                        "location": "Home (74 Taraval St, Parkside)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Lay out clothes for the next day, do a quick kitchen tidy-up, and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7438302,
+                            "lng": -122.4655282,
+                            "formatted_address": "74 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (74 Taraval St, Parkside)"
+                    }
+                ],
+                "day_overview": "A busy weekday for Maria, an IT support specialist, involving a cross-town SF commute, a focused day of technical problem-solving at Uber HQ, and an evening of decompressing with a walk by the ocean and cooking at home.",
+                "home_address": "74 Taraval St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7438302,
+                    "lng": -122.4655282,
+                    "formatted_address": "74 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

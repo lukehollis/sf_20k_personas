@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anya Sharma",
+    "givenName": "Anya",
+    "familyName": "Sharma",
+    "jobTitle": "Health Education Specialist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anya Sharma begins her days not with a frantic commute, but with the fog-laced quiet of San Francisco's Inner Richmond. The daughter of a physician and an engineer who settled in Fremont, Anya was raised on a steady diet of high expectations, groomed for a prestigious career in medicine. She dutifully followed the pre-med track at UC Davis, her path seemingly set in stone.\n\nThe turning point came during a summer volunteering at a free clinic in Oakland. While her peers were fascinated by complex surgeries, Anya was drawn to the waiting room, where she saw the real-world impact of misinformation and lack of access. She realized her passion wasn't in treating disease, but in preventing it. To her parents\u2019 initial bewilderment, she pivoted, enrolling in a Master of Public health program at UC Berkeley.\n\nNow, as a Health Education Specialist for a major healthcare provider, she develops digital wellness campaigns and patient education materials from her sunny apartment. The 0.0-mile commute has given her life a hyper-local rhythm. Mornings are for jogs through Golden Gate Park, followed by hours of crafting clear, accessible health content. Her work directly combats the confusion she once witnessed at the clinic, just on a much larger scale.\n\nHer life is deeply woven into her neighborhood. She knows the best spot for soup dumplings on Clement Street and is a regular at her local farmers' market. Her social circle consists of a tight-knit group of friends from grad school and her partner, Marco, an urban planner she met at a community meeting about bike lanes. They share a passion for building healthier, more equitable cities.\n\nAnya\u2019s ambition isn't corporate; it's communal. She dreams of spearheading a city-wide initiative focused on nutritional literacy for underserved youth. For Anya, San Francisco is more than a home; it\u2019s the community she is actively working to heal and strengthen, one evidence-based infographic at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.  She recalls the phone call to her parents in Fremont during her senior year at UC Davis. Announcing she was abandoning the MCAT for a Public Health masters felt like a confession. The silence on the other end was heavy, filled with their confusion and her fear. But as she explained her new passion\u2014not for curing disease, but for preventing the confusion that led to it\u2014the fear was replaced by a quiet, unshakeable certainty. That conversation was the first true affirmation of her own path.\n\n2.  It was an elderly woman at the Oakland free clinic, clutching a brochure full of medical jargon she couldn't decipher. \"They say it's my heart,\" she\u2019d whispered to Anya, \"but I don't know what to eat.\" In that instant, the allure of the operating theater vanished. Anya saw her future not in a surgeon\u2019s sterile gloves, but in creating a single, clear infographic that could have empowered this woman. That quiet desperation in the waiting room became the founding principle of her new career.\n\n3.  At a contentious community meeting about bike lanes, a man named Marco spoke. He wasn't just talking about traffic flow; he spoke about creating healthier environments and equitable access to green space for children. Anya felt a jolt of recognition. After the meeting, she approached him, and their conversation flowed from bike paths to food deserts. It was the first time she\u2019d met someone whose blueprints for the city perfectly aligned with her own vision for its people, and it felt like finding a missing piece.\n\n4.  One of her first mornings in the Inner Richmond, she went for a run in Golden Gate Park. The fog was so thick it muffled the city, leaving only the scent of eucalyptus and the quiet drip of condensation from the cypress trees. This wasn't the manicured suburbia of Fremont; it felt wild and ancient. Standing there, breathing in the cool, damp air that clung to her skin, she felt a profound sense of belonging. This was a quiet she had chosen, a solitude that felt like a sanctuary.\n\n5.  Last fall, she received a forwarded email from a primary care physician. It was from a patient, a recent immigrant who had used a multi-language digital guide Anya designed on managing diabetes. \"For the first time, I understand what to do for my health,\" he wrote. Reading those words, Anya felt a wave of validation so powerful it brought tears to her eyes. It was more fulfilling than any \"A\" in organic chemistry. This was the healing she had always wanted to practice."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, 10-minute guided meditation, and prepare a pour-over coffee.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Morning jog up to Douglass Park to watch the early morning fog over the city.",
+                        "geocode": {
+                            "lat": 37.7473543,
+                            "lng": -122.4388663,
+                            "formatted_address": "Douglass Playground Park, Douglass St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 40,
+                        "location": "Douglass Park Loop"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Shower, get ready for work, and have a quick breakfast of Greek yogurt with berries.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the corner and take the Muni 24 Divisadero bus northbound.",
+                        "geocode": {
+                            "lat": 37.74823,
+                            "lng": -122.43392,
+                            "formatted_address": "Castro St & 26th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Castro St & 26th St Muni Stop"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, check project management software for updates, and respond to emails.",
+                        "geocode": {
+                            "lat": 37.7247334,
+                            "lng": -122.4530269,
+                            "formatted_address": "Parking lot, Multi-Use Building, Parking lot, Health Education Department, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 30,
+                        "location": "Health Education Department, Kaiser Permanente"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa4",
+                        "action": "Lead a virtual workshop for a group of patients on 'Stress Management Techniques'.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 90,
+                        "location": "Conference Room B, Kaiser Permanente SF Medical Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a 'Green Goddess' salad and eat lunch while reading at a parklet.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "A Parklet on Divisadero Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focus time: Analyze data from a recent health campaign and begin drafting the quarterly impact report.",
+                        "geocode": {
+                            "lat": 37.7247334,
+                            "lng": -122.4530269,
+                            "formatted_address": "Parking lot, Multi-Use Building, Parking lot, Health Education Department, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 150,
+                        "location": "Health Education Department, Kaiser Permanente"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Take the Muni 24 bus southbound, listening to a public health podcast.",
+                        "geocode": {
+                            "lat": 37.7832608,
+                            "lng": -122.4394335,
+                            "formatted_address": "Geary Blvd & Divisadero St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Geary Blvd & Divisadero St Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Stop for a restorative Hatha yoga class to decompress and stretch.",
+                        "geocode": {
+                            "lat": 37.76105099999999,
+                            "lng": -122.436003,
+                            "formatted_address": "97 Collingwood St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Castro Yoga Collective"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh vegetables and tofu for dinner at the local market.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Noe Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Prepare a homemade tofu and broccoli stir-fry while catching up with family on the phone.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the evening by reading a novel on the couch with a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Noe Valley Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Anya, a Health Education Specialist, involving patient-facing workshops and program development, balanced with personal wellness activities like yoga and healthy eating in her Noe Valley neighborhood.",
+                "home_address": "3941 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7433168,
+                    "lng": -122.4333334,
+                    "formatted_address": "3941 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

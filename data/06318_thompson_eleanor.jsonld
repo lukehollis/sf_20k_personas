@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Eleanor Thompson",
+    "givenName": "Eleanor",
+    "familyName": "Thompson",
+    "jobTitle": "Senior Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Eleanor Thompson\u2019s life is a study in systems, both personal and public. Growing up in a sprawling, car-dependent Chicago suburb, she spent her youth feeling disconnected, observing how the built environment dictated social interaction\u2014or the lack thereof. This formative experience fueled a desire to build more humane, connected communities, leading her to pursue a Master's in Urban and Regional Planning from UC Berkeley. The move to the Bay Area in her early twenties felt like a pilgrimage to a place that valued density, walkability, and public transit.\n\nHer career began with an idealistic fervor. Eleanor climbed the ranks within San Francisco\u2019s public administration, leaving her mark on projects from protected bike lanes in the Mission to Muni Forward initiatives. For fifteen years, her life was intertwined with her partner, an architect, their shared world a blueprint of urban theory and weekend trips to explore cityscapes. The partnership\u2019s dissolution five years ago was a seismic event, leaving her professional life as the primary stable structure. She poured her energy into her work, earning the title of Senior Transportation Planner.\n\nNow, Eleanor lives with a profound irony: she, a planner of movement, rarely moves. Her commute is a ten-step journey from her bedroom to a home office in her Hayes Valley apartment. From her screen, she analyzes traffic data, models pedestrian flow, and holds Zoom meetings about the arteries of a city she experiences mostly through maps. To combat this digital detachment, her daily routine is rigidly analog after 5 PM. She forces herself outside, walking to the bakery, reading in Patricia\u2019s Green, or simply listening to the urban symphony of sirens, streetcars, and conversations drifting from outdoor cafes.\n\nHer social life consists of a small circle of colleagues and a weekly hiking group that tackles trails in the Marin Headlands. At 49, her aspirations have shifted from career advancement to legacy. She dreams not of a promotion, but of seeing a transformative project\u2014like a truly car-free Market Street\u2014come to fruition. Eleanor wants to leave behind a San Francisco that is more equitable and connected, a city that finally lives up to the ideals that first drew her here from half a country away."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a pot of coffee, and read the SF Chronicle's transportation section online.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home in Bernal Heights"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Morning yoga and stretching session with a view of the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Eat breakfast (avocado toast and fruit) with her partner, discussing their plans for the upcoming weekend.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack her work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "3239 Howard St, San Francisco, CA 94107"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the BART station, enjoying the morning buzz of the Mission District.",
+                        "geocode": {
+                            "lat": 37.7519917,
+                            "lng": -122.418722,
+                            "formatted_address": "2800 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "Walk to 24th St Mission BART Station"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Take the BART train downtown, listening to 'The War on Cars' podcast.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "BART Red Line (24th St to Montgomery)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning work session: Reviewing public feedback on the Geary Boulevard Improvement Project and prepping for a stakeholder meeting.",
+                        "geocode": {
+                            "lat": 37.7936253,
+                            "lng": -122.4027057,
+                            "formatted_address": "456 Montgomery St Piso cuarto, 456 Montgomery St #400, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 180,
+                        "location": "SF Public Administration Office, Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Meet a colleague for a healthy and quick lunch to discuss a cross-departmental initiative.",
+                        "geocode": {
+                            "lat": 37.79168980000001,
+                            "lng": -122.4023123,
+                            "formatted_address": "250 Montgomery St #101, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Plant Cafe Organic, Financial District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon focus block: Analyzing GIS data for future bike lane feasibility and drafting a report on Vision Zero progress.",
+                        "geocode": {
+                            "lat": 37.7936253,
+                            "lng": -122.4027057,
+                            "formatted_address": "456 Montgomery St Piso cuarto, 456 Montgomery St #400, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 210,
+                        "location": "SF Public Administration Office, Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Commute home on the BART, finishing a chapter of a book on urban design.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "BART Yellow Line (Montgomery to 24th St)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh bread, cheese, and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7639852,
+                            "lng": -122.4127726,
+                            "formatted_address": "2111 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market, Harrison Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook a Mediterranean-style dinner with her partner while talking about their workdays.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Take an evening constitutional walk with her partner up to the top of the hill for sweeping city views at dusk.",
+                        "geocode": {
+                            "lat": 37.7430272,
+                            "lng": -122.4136408,
+                            "formatted_address": "Bernal Heights Park, Bernal Heights Blvd, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Bernal Heights Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down for the evening by watching an episode of a British detective show.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Prepare for the next day, tidying up the kitchen and laying out clothes for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "3239 Howard St, San Francisco, CA 94107"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive day for Eleanor, balancing professional responsibilities in transportation planning with a healthy and engaged life at home in Bernal Heights with her partner.",
+                "home_address": "3239 Howard St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7703823,
+                    "lng": -122.417582,
+                    "formatted_address": "3239 Howard St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

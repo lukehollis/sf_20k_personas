@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jordan Miller",
+    "givenName": "Jordan",
+    "familyName": "Miller",
+    "jobTitle": "IT Support Specialist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Jordan Miller is a product of the Bay Area's cultural confluence. Born in Vallejo to an Irish-American shipwright and a Filipina immigrant nurse, his identity was never a simple checkbox. His upbringing was a blend of blue-collar pragmatism and the vibrant, communal warmth of his mother\u2019s heritage, usually centered around a table laden with lumpia and adobo.\n\nAcademically, Jordan pursued his passion, not a paycheck. At San Francisco State University, he lost himself in the past, earning a Bachelor's degree in History. He dreamed of a life in academia or museum curation, but the reality of Bay Area rent post-graduation was a brutal awakening. The turning point came during a six-month stint working at a bookstore, where he realized his history degree wasn't going to support him. On a friend\u2019s advice, he took a pragmatic pivot, enrolling in an IT certification program. He discovered an unexpected satisfaction in the clean, logical problem-solving of tech support\u2014a different kind of historical excavation, digging through digital logs instead of dusty archives.\n\nNow 28, Jordan is an IT Support Specialist for a downtown tech firm, though he\u2019s never seen the inside of his office. His 0.0-mile commute means his world is often confined to his cozy one-bedroom apartment in the Inner Richmond. His days are a disciplined routine: morning coffee, logging into the support queue, a midday walk to Golden Gate Park or for soup dumplings on Clement Street, and then back to the screen.\n\nHis social life is his anchor against the isolation of remote work. His core group consists of college friends, with whom he hosts a weekly Dungeons & Dragons game. It is here, as Dungeon Master, that his history degree finds its truest expression, as he meticulously crafts worlds and narratives for his friends to explore. He is content but not fully satisfied. His dream isn\u2019t to become a CTO, but to finally launch the history podcast he\u2019s been outlining for years, focusing on the forgotten stories of California. Jordan is a quiet, essential gear in San Francisco\u2019s tech engine, living a life of practical compromise while still hoping to one day write his own chapter back into the history he loves."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, check notifications, and make pour-over coffee while chatting with partner.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower, get dressed in casual tech attire, and pack bag for the day.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Cycle commute through the city, navigating the Valencia Street bike lanes.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Streets: North Beach to Mission"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at coworking space, grab a dedicated desk, and review the morning's support ticket queue.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 30,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning deep work: Remotely troubleshoot high-priority software and hardware issues for users.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 150,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Lunch break: Walk over to pick up a Carnitas Super Burrito to-go.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Afternoon work: Join a virtual team sync on Slack/Zoom and work on documenting a new onboarding process.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 120,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Final work block: Address lower-priority tickets and prepare a handover summary for the next day.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 105,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4",
+                        "action": "Bike commute home, tackling the hills heading back into North Beach.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Streets: Mission to North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh pasta and pesto for dinner.",
+                        "geocode": {
+                            "lat": 37.8016074,
+                            "lng": -122.4117736,
+                            "formatted_address": "716 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "The Italian Homemade Company"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Family time: Cook and eat dinner with partner, catching up on the day.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Go for a neighborhood walk and grab a scoop of gelato.",
+                        "geocode": {
+                            "lat": 37.79986299999999,
+                            "lng": -122.4092553,
+                            "formatted_address": "520 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Lush Gelato"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Decompress and stream a couple of episodes of a new sci-fi series.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Tidy up, check weather for tomorrow's ride, and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Apartment on Powell St"
+                    }
+                ],
+                "day_overview": "A typical weekday for a tech professional in SF, involving a scenic bike commute from North Beach to a coworking space in the Mission, a productive day of solving IT issues, and a relaxing evening enjoying the neighborhood with their partner.",
+                "home_address": "1716 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.80042359999999,
+                    "lng": -122.4108961,
+                    "formatted_address": "1716 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

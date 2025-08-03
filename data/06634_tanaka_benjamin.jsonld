@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Benjamin Tanaka",
+    "givenName": "Benjamin",
+    "familyName": "Tanaka",
+    "jobTitle": "Laboratory Assistant",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Benjamin Tanaka is a product of San Francisco's fog-laced avenues, a fourth-generation Japanese American whose family story is woven into the city\u2019s fabric. Raised in the quiet, residential grid of the Sunset District, his childhood was defined by the gentle scent of eucalyptus from Golden Gate Park and the pragmatic diligence of his parents\u2014a city accountant and a public-school teacher. They instilled in him a profound sense of duty and a quiet, observant nature.\n\nThe turning point came during his teens, watching his grandmother\u2019s slow fade from Alzheimer\u2019s disease. The experience was a crucible, transforming his general aptitude for science into a laser-focused mission. He pursued a degree in Molecular and Cell Biology at UC Berkeley, driven by a desperate need to understand the cellular betrayal that had stolen his grandmother\u2019s memories.\n\nUpon graduating, Benjamin bypassed more lucrative offers for a Laboratory Assistant position at a prestigious UCSF research institute in Mission Bay. He saw the role not as a final destination, but as a crucial foothold on the front lines of neurological research. His 0.0-mile commute is a testament to his dedication; he lives in the graduate student housing on campus, a sterile, modern apartment that stands in stark contrast to his family\u2019s weathered Sunset home.\n\nHis daily routine is monastic. He wakes before dawn, walks across the manicured plaza to the lab, and spends ten to twelve hours preparing slides, running polymerase chain reactions, and meticulously documenting data. His social life is confined to a small circle of fellow researchers who share late-night takeout and theories over microscopes.\n\nThough he is a native, his San Francisco has shrunk to the gleaming glass-and-steel enclave of Mission Bay. Benjamin\u2019s dream is to be accepted into UCSF\u2019s PhD program. Each carefully pipetted sample is a step toward that goal, a quiet promise to the memory of his grandmother. He hopes to one day contribute to a breakthrough, transforming his family's private grief into a public cure, and in doing so, finally connect the quiet boy from the Sunset with the man of science he is striving to become."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, shower, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Bernal Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare pour-over coffee and have a quick breakfast of yogurt and granola with his partner.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Bernal Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and ride the Muni 14R bus up Mission Street.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Muni Bus 14R"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Grab a morning latte to kickstart the workday.",
+                        "geocode": {
+                            "lat": 37.613747,
+                            "lng": -122.3851908,
+                            "formatted_address": "299 Domestic Terminals Departures Level, San Francisco, CA 94128, USA"
+                        },
+                        "duration": 15,
+                        "location": "Ritual Coffee Roasters"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at his dedicated desk; review overnight data uploads from the lab and update the sample tracking database.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 180,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk over to get a classic Mission-style super burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Attend a virtual team meeting via Zoom to discuss experiment results and plan the next batch of tests.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 75,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Compile a data summary report and create visualizations for the principal investigator's review.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 120,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up fresh pasta, bread, and cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, listening to a tech-bio podcast on the bus.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni Bus 14"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Unwind from the day and help his partner cook dinner.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Bernal Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf07",
+                        "action": "Take an evening walk with his partner to the top of the hill for sunset views of the city.",
+                        "geocode": {
+                            "lat": 37.7430272,
+                            "lng": -122.4136408,
+                            "formatted_address": "Bernal Heights Park, Bernal Heights Blvd, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Bernal Heights Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and stream an episode of a new drama series.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Bernal Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Read a few chapters of a novel before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Bernal Heights Apartment)"
+                    }
+                ],
+                "day_overview": "A productive day for Benjamin, a Lab Assistant, focusing on data analysis at a Mission coworking space. The day is balanced with classic SF food experiences, errands at a local market, and quality time with his partner, including a scenic evening walk in their Bernal Heights neighborhood.",
+                "home_address": "3669 Howard St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7831805,
+                    "lng": -122.4028545,
+                    "formatted_address": "Howard St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

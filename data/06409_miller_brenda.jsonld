@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Brenda Miller",
+    "givenName": "Brenda",
+    "familyName": "Miller",
+    "jobTitle": "Bus Operator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "None"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Transportation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Brenda Miller\u2019s identity is a map of the Pacific, a heritage she simply checks as \"Other\" on forms. Born in Pago Pago, American Samoa, to a Filipino mother who worked as a nurse and a Samoan father who was a fisherman, Brenda\u2019s upbringing was steeped in the values of family (`ohana`) and community service. Life was humble but rich with tradition. She completed her high school education on the island, but saw limited opportunities beyond its shores. At 19, she followed her older cousin to San Francisco, seeking a foothold in a city that felt like a different world.\n\nHer first decade in America was a blur of low-wage service jobs\u2014hotel housekeeping, late-night diner shifts, and stocking shelves at a grocery store in the Mission. The turning point came at age 28 when, tired of financial instability, she applied to be a Muni operator. Passing the rigorous training was the proudest moment of her life. The stable, union-protected job was her ticket to a secure future. It offered not just a pension, but a unique perspective on the city she now called home.\n\nFrom the driver\u2019s seat of her 45-foot coach, Brenda has watched San Francisco transform for over two decades. She's navigated the 22-Fillmore through gentrifying neighborhoods and driven the 9-San Bruno through protest marches and parades. She is a master of situational awareness, a quiet observer of the city\u2019s daily human drama.\n\nNever married and with no children, Brenda\u2019s life is anchored by a small, fiercely loyal circle of friends\u2014mostly other veteran drivers and a few neighbors from her Potrero Hill co-op. Her 0.0-mile commute is a blessing; she lives just a few blocks from the Islais Creek bus yard, allowing her to walk to her early morning shifts. Her days off are for simple pleasures: tending to her balcony garden, phone calls with her family back in Samoa, and walking down to Crane Cove Park to watch the water. Her dream isn\u2019t wealth, but freedom\u2014the freedom to one day retire comfortably, visit her mother\u2019s village in the Philippines, and help her nieces and nephews with their education. She is a steady, unassuming presence, one of the thousands of people who keep the city moving, her own life a quiet, resilient journey."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and listen to the morning news on KQED.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Brenda's Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get into uniform, and pack a lunch and thermos of coffee for the day.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Brenda's Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick and hearty breakfast of oatmeal and fruit.",
+                        "geocode": {
+                            "lat": 37.7829132,
+                            "lng": -122.4188995,
+                            "formatted_address": "652 Polk St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 15,
+                        "location": "Brenda's Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and commute to the bus yard.",
+                        "geocode": {
+                            "lat": 37.7907088,
+                            "lng": -122.3902304,
+                            "formatted_address": "12 Folsom St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "12 Folsom/Pacific Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Arrive at the depot, get route assignment, and perform a pre-trip safety inspection of the bus.",
+                        "geocode": {
+                            "lat": 37.7692984,
+                            "lng": -122.4070628,
+                            "formatted_address": "Division St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SFMTA Flynn Division"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8d",
+                        "action": "Begin morning shift, driving the 14-Mission bus route through heavy commuter traffic.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 240,
+                        "location": "On Route: Mission Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a scheduled lunch break at the end of the route, eating a packed lunch.",
+                        "geocode": {
+                            "lat": 37.70626,
+                            "lng": -122.46891,
+                            "formatted_address": "Daly City, 500 John Daly Blvd, Daly City, CA 94014, USA"
+                        },
+                        "duration": 45,
+                        "location": "Daly City BART Station Layover Zone"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8d",
+                        "action": "Continue afternoon shift, navigating the dense urban environment and assisting passengers.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 225,
+                        "location": "On Route: Mission Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Return bus to the depot, complete post-trip inspection, and submit daily reports.",
+                        "geocode": {
+                            "lat": 37.7692984,
+                            "lng": -122.4070628,
+                            "formatted_address": "Division St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SFMTA Flynn Division"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Commute home via Muni, transitioning from operator to passenger.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni Bus returning to North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly groceries and essentials.",
+                        "geocode": {
+                            "lat": 37.8050802,
+                            "lng": -122.4254187,
+                            "formatted_address": "North Point St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Trader Joe's - North Point"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and eat a simple, home-cooked dinner while unwinding.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Brenda's Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Call and catch up with her sister in Sacramento.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Living Room Couch"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a favorite crime drama series.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Brenda's Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prepare uniform for the next day and wind down by reading a novel.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Brenda's Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Head to bed early to ensure enough rest for another early start.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 515,
+                        "location": "Bedroom"
+                    }
+                ],
+                "day_overview": "An early start for a long day navigating the busy streets of San Francisco as a Muni operator, followed by a quiet evening of chores and relaxation in her North Beach neighborhood.",
+                "home_address": "129 Pacific Ave, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7979869,
+                    "lng": -122.3988184,
+                    "formatted_address": "129 Pacific Ave, San Francisco, CA 94111, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

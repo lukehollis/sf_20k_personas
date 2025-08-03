@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anastasia Williams",
+    "givenName": "Anastasia",
+    "familyName": "Williams",
+    "jobTitle": "Administrative Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anastasia Williams\u2019 story begins not in San Francisco\u2019s cool fog, but in the dry heat of Modesto. The eldest of two, she was raised in a practical, working-class family that valued stability above all else. They saw a college degree as the unbreakable key to a better life, and Anastasia dutifully enrolled at San Francisco State University, tentatively declaring a major in communications. However, the city's dizzying cost of living and a growing sense that she was following someone else\u2019s dream led her to drop out after three semesters. The \u201csome college\u201d on her resume became a quiet monument to a path not taken.\n\nNeeding to support herself, Anastasia fell into administrative work. She discovered a natural talent for organization and a quiet satisfaction in bringing order to chaos. She wasn\u2019t passionate about filing systems or scheduling meetings, but she was exceptionally good at it. A few years ago, her mid-sized tech-adjacent company went fully remote, turning her commute from a crowded MUNI ride into a zero-mile walk from her bed to her desk. This shift was a profound turning point. The city, once a daunting expanse, became her hyperlocal playground.\n\nToday, Anastasia lives in a rent-controlled apartment in the Inner Richmond, a neighborhood she loves for its tranquility and proximity to Golden Gate Park. Her daily routine is a gentle rhythm: logging into work as the morning fog burns off, taking a lunchtime walk to grab d-pan from a favorite Clement Street bakery, and signing off at 5 p.m. sharp. She is a digital ghost in the corporate world, an efficient name on emails, which allows her real life to flourish in private.\n\nHer social life consists of a tight-knit circle, including a couple of friends from a former restaurant job and a monthly book club. Anastasia\u2019s aspirations are no longer tied to a degree or a corporate ladder. She recently bought a used film camera and is teaching herself photography, capturing the subtle beauty of the park and the weathered facades of her neighborhood. Her dream is one of quiet contentment: to maintain her stable, remote life, cultivate her creative spark, and feel deeply rooted in the small, foggy corner of the city she has finally, and truly, made her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, shower, and get ready for the workday.",
+                        "geocode": {
+                            "lat": 37.7538865,
+                            "lng": -122.490299,
+                            "formatted_address": "2462 Noriega St, San Francisco, CA 94116"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Have a quick breakfast of coffee and oatmeal with her partner before they both start their day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Commute to work on her e-bike, taking a scenic and efficient route through Golden Gate Park.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Golden Gate Park Bike Path"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at UCSF, lock up her bike, and grab a tea from the cafeteria before heading to her desk.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, United States"
+                        },
+                        "duration": 15,
+                        "location": "UCSF Medical Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning work block: Manage department calendars, respond to urgent emails, and prepare documents for upcoming meetings.",
+                        "geocode": {
+                            "lat": 37.7815871,
+                            "lng": -122.4085589,
+                            "formatted_address": "982 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "UCSF Department Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk down to a nearby cafe to pick up a pre-ordered salad and sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.763954,
+                            "lng": -122.464751,
+                            "formatted_address": "627 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Pluto's on Irving"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Afternoon work block: Field phone calls, process supply orders, and perform data entry for patient records.",
+                        "geocode": {
+                            "lat": 37.7815871,
+                            "lng": -122.4085589,
+                            "formatted_address": "982 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "UCSF Department Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Wrap up the workday by organizing her to-do list for tomorrow and doing a final email check.",
+                        "geocode": {
+                            "lat": 37.7815871,
+                            "lng": -122.4085589,
+                            "formatted_address": "982 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "UCSF Department Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf05",
+                        "action": "Commute home on her e-bike, enjoying the cool evening air as she rides back toward the ocean.",
+                        "geocode": {
+                            "lat": 37.7467314,
+                            "lng": -122.4863492,
+                            "formatted_address": "Sunset District, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Sunset District Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to grab fresh vegetables and bread for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner with her partner, catching up on the day while making a chicken and veggie stir-fry.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Eat dinner and relax together, sharing stories from work and planning the upcoming weekend.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Wind down by watching an episode of a favorite show on the couch with her partner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 65,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: Get ready for bed, read a few pages of a novel, and set the alarm.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A typical weekday for Anastasia, an Administrative Assistant at UCSF. Her day involves an active e-bike commute from her Outer Sunset home, a structured workday, and a relaxed evening cooking and spending time with her partner.",
+                "home_address": "2462 Noriega St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7538865,
+                    "lng": -122.490299,
+                    "formatted_address": "2462 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Williams Family"
+    }
+}

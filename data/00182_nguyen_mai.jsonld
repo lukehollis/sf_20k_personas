@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mai Nguyen",
+    "givenName": "Mai",
+    "familyName": "Nguyen",
+    "jobTitle": "Production Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Spiritual but not religious"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mai Nguyen, at 26, navigates the intricate landscape of modern manufacturing in San Francisco as a Production Planner. Her story is rooted in a family that arrived in the city seeking opportunity.  Her parents, immigrants from Vietnam, ran a small, but always bustling, dry cleaning business in the Sunset District. Growing up surrounded by the hum of laundry machines and the rhythm of steam pressing, Mai internalized a deep respect for hard work and efficiency.\n\nEducation was paramount in the Nguyen household. Mai excelled in math and science, a natural inclination nurtured by her practical upbringing. She pursued a Bachelor's degree in Industrial Engineering from UC Berkeley, drawn to the idea of optimizing processes and problem-solving. This led her directly to her current role at a manufacturing firm in the Bayview, where she applies her skills daily to streamline production lines.\n\nA pivotal turning point in her young life was witnessing her parents' tireless dedication to their small business, an experience that ignited a desire for both financial stability and creative work. Securing her engineering degree felt like a significant milestone, not just for herself but as a testament to her parents' sacrifices.\n\nMai maintains close ties with her family, visiting the dry cleaner often. Her social circle is a blend of fellow engineers from work and friends from her university days, often meeting up in local cafes or exploring Golden Gate Park. Dating is an occasional pursuit, but her career takes precedence at this stage.\n\nHer hopes are modest but meaningful: to continue growing in her career, perhaps eventually moving into project management, and to one day own her own small place in the city. She dreams of having the financial freedom to support her parents in their retirement.\n\nHer current lifestyle is a study in efficiency. Her daily routine involves a familiar commute on public transportation from her apartment in the Richmond District, a neighborhood she chose for its affordability and proximity to both her family and work. Evenings are spent unwinding, reading industry journals, or connecting with friends.\n\nMai feels a strong connection to San Francisco. It\u2019s where her family built their life, where she received her education, and where she is building her career. The vibrant energy and diverse neighborhoods of the city resonate with her, a constant backdrop to her focused and purposeful life. Her Richmond neighborhood offers a quiet retreat after a busy day, a place where she feels a sense of belonging."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.  The smell of warm detergent and steam filled the air as a small, worn bill was pressed into her hand by her father, a reward for folding towels just so. A surge of pride washed over her, a first taste of earned accomplishment, solidifying the lesson that effort yields tangible results, a cornerstone of her future focus on efficiency. (Age 8)\n\n2.  Sitting on the steps of Doe Library at Berkeley, the acceptance letter clutched tight, tears blurred the words slightly. Relief and exhilaration mixed with a fierce sense of responsibility. She wasn't just getting a degree; she was validating her parents' belief and hard work, a foundation for her drive to succeed professionally. (Age 18)\n\n3.  Presenting a process improvement proposal in her first engineering role. The initial nervousness melted away as her carefully crafted slides and data-driven arguments were met with nods of agreement. A quiet confidence settled within, confirming she was in the right place, using her skills to make a tangible impact on the physical world. (Age 23)\n\n4.  Helping her mother translate complex medical forms felt like a small but vital act of support. Seeing the gratitude in her eyes cemented Mai's desire for financial stability, not just for herself, but so she could ease the burdens her parents carried for so long, a clear goal for her career trajectory. (Age 25)\n\n5.  Walking home through the Richmond District after a long day, the familiar street lights and the distant sound of foghorns brought a sense of peace. It wasn't about luxury, but belonging. This was *her* neighborhood, her city, a tangible reminder of the life she was building, modest but deeply rooted and fulfilling. (Present Day)"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew coffee with a French press, and eat a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7928229,
+                            "lng": -122.4464704,
+                            "formatted_address": "3036 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 3036 Broadway"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Walk to the corner to meet her carpool partner for the morning commute, listening to a tech news podcast on the way.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Carpool Commute to SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Arrive at the office, grab a tea from the kitchen, and review production dashboards and urgent emails.",
+                        "geocode": {
+                            "lat": 37.7846008,
+                            "lng": -122.398468,
+                            "formatted_address": "680 Folsom St, San Francisco, CA 94107, United States"
+                        },
+                        "duration": 45,
+                        "location": "Riverbed Technology LLC"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Attend the daily operations team stand-up meeting to discuss production targets and resolve any immediate bottlenecks.",
+                        "geocode": {
+                            "lat": 37.7923841,
+                            "lng": -122.4810057,
+                            "formatted_address": "Presidio of San Francisco, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Conference Room 'Presidio' - Riverbed Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session focused on analyzing demand forecasts and adjusting the master production schedule in the ERP system.",
+                        "geocode": {
+                            "lat": 37.7846008,
+                            "lng": -122.398468,
+                            "formatted_address": "680 Folsom St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "Open-Plan Desk - Riverbed Technology"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy lunch bowl with a coworker.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen - SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead a cross-functional meeting with engineering and sales to align on the timeline for an upcoming hardware release.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Conference Room 'Alcatraz' - Riverbed Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Finalize daily reports, send out schedule updates to stakeholders, and plan top priorities for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7846008,
+                            "lng": -122.398468,
+                            "formatted_address": "680 Folsom St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Open-Plan Desk - Riverbed Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Meet her carpool for the commute home, navigating the evening rush hour out of the city center.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Carpool Commute to Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "De-stress with a high-intensity interval training class to burn off the day's energy.",
+                        "geocode": {
+                            "lat": 37.7998524,
+                            "lng": -122.4387636,
+                            "formatted_address": "2246 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Barry's - Marina"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop by the local market on Union Street for fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Luke's Local"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Cook a healthy dinner at home while catching up with a friend on the phone.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind on the couch, watching an episode of a new series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room at Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: pack her gym bag, lay out clothes for tomorrow, and read a book before bed.",
+                        "geocode": {
+                            "lat": 37.7928229,
+                            "lng": -122.4464704,
+                            "formatted_address": "3036 Broadway, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - 3036 Broadway"
+                    }
+                ],
+                "day_overview": "A structured and productive weekday for Mai, balancing a demanding production planning role in SoMa with an active, healthy lifestyle centered around her Pacific Heights neighborhood.",
+                "home_address": "3036 Broadway, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7928229,
+                    "lng": -122.4464704,
+                    "formatted_address": "3036 Broadway, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1998",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Nguyen Family"
+    }
+}

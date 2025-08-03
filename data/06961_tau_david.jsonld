@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Tau",
+    "givenName": "David",
+    "familyName": "Tau",
+    "jobTitle": "Healthcare Administrator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Tau\u2019s life is a testament to quiet dedication, a world built within the very walls of his profession. The son of Taiwanese immigrants who ran a small, bustling bakery in San Francisco\u2019s Richmond District, David\u2019s childhood was steeped in the aromas of pineapple buns and the constant hum of hard work. His parents instilled in him a profound sense of duty and a pragmatic view of success: security and respectability were paramount. He was a dutiful son, suppressing a youthful interest in art history for a more practical path.\n\nHe pursued an undergraduate degree in business at San Francisco State University, but his career trajectory was irrevocably altered during his senior year. His grandfather suffered a stroke, leading to a frustrating and heartbreaking journey through the healthcare system\u2019s bureaucratic maze. Witnessing the impersonal nature of his grandfather\u2019s care ignited a new, unexpected passion in David. He pivoted, enrolling in a Master of Health Administration program, determined to build a system with more humanity.\n\nDavid\u2019s career was a steady, focused climb. He worked his way up through various administrative roles at San Francisco hospitals, earning a reputation for his sharp eye for efficiency and his unwavering focus on patient dignity. His ambition, however, came at a personal cost. His marriage frayed under the strain of his long hours and emotional investment in his work, ending in an amicable but lonely divorce a decade ago.\n\nThe turning point was his appointment as Executive Director of \"The Cypress View,\" a high-end continuing care community in Laurel Heights. The position came with a director's apartment on the campus, dissolving his commute to zero. Now, at 47, his life and work are completely intertwined. His day begins with a walk through the manicured gardens, greeting residents by name, and ends with reviewing reports in his apartment overlooking the facility. His connection to San Francisco is this curated microcosm he governs\u2014a peaceful, orderly island. He rarely leaves, save for weekly sourcing trips to the Ferry Building for the community\u2019s kitchen or a solitary meal in Japantown. His dream is no longer for himself, but for his work: to make Cypress View a national model for compassionate elder care. He hopes, quietly, for a personal connection that understands his mission, but for now, his devotion remains to the hundred lives that unfold just outside his door."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up & check industry news and high-priority emails on tablet.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Prepare and eat a quick, healthy breakfast of Greek yogurt and fruit.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed, and prepare work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7974338,
+                            "lng": -122.4115831,
+                            "formatted_address": "876 Broadway, San Francisco, CA 94123"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the designated carpool meeting spot.",
+                        "geocode": {
+                            "lat": 37.7978828,
+                            "lng": -122.4067074,
+                            "formatted_address": "Broadway & Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 10,
+                        "location": "Corner of Columbus and Broadway"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute to SoMa, listening to a healthcare management podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Morning huddle with the operations team to review patient care metrics and daily goals.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Upside Artspace - Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Focused work block: Finalizing the quarterly budget and reviewing staffing schedules.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Personal Desk at Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk and pick up a healthy lunch bowl from a nearby eatery.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "SoMa Greens & Grains"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead a strategic planning session with department heads on new software implementation.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Upside Artspace - Main Hall"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Process final emails for the day and create a priority list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "Personal Desk at Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Carpool commute back to North Beach, chatting with colleagues about their day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up fresh bread and cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Decompress with a full-body workout session at the gym.",
+                        "geocode": {
+                            "lat": 37.8050802,
+                            "lng": -122.4254187,
+                            "formatted_address": "North Point St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "24 Hour Fitness, North Point"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a light dinner and eat with his partner, sharing stories from the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the sofa and watch a historical documentary.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A structured day for a healthcare administrator, balancing a demanding job in SoMa with a healthy lifestyle and relaxing evenings in his North Beach neighborhood.",
+                "home_address": "876 Broadway, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7974338,
+                    "lng": -122.4115831,
+                    "formatted_address": "876 Broadway, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tau Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Lin",
+    "givenName": "Sarah",
+    "familyName": "Lin",
+    "jobTitle": "Production Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Lin\u2019s story began not in a gallery, but in the fog-dusted avenues of the Sunset District. The only child of pragmatic Taiwanese immigrants\u2014an engineer father and a bookkeeper mother\u2014her upbringing was a study in stability and expectation. Art was a decoration, not a career. To appease them, she pursued a Communications degree at UC Davis, a practical choice that felt like a responsible compromise.\n\nThe turning point came during a summer internship she took on a whim at a small, scrappy theater company in the Mission District. Surrounded by chaotic genius, impossible deadlines, and unfiltered passion, Sarah discovered her true talent: she was the eye of the storm. While artists dreamed, she built schedules, managed budgets, and translated abstract visions into tangible reality. She thrived on making the impossible happen.\n\nAfter graduation, she shunned corporate offers, instead taking low-paying gigs that immersed her in San Francisco's vibrant arts scene. She worked her way up from assistant stage manager to event coordinator for arts festivals, finally landing her current role as a Production Manager for a prominent arts organization. Her name became synonymous with calm competence, the person you called when a high-concept installation needed to be built on a pier in a week.\n\nNow 43, Sarah lives in a converted live/work loft in the Dogpatch, her 0.0-mile commute taking her from her coffee maker to the desk in her light-filled living space. Her days are a flurry of Zoom calls with artists, site visits to galleries, and meticulous spreadsheet management. Her social life is deeply intertwined with her work; her closest friends are curators, lighting designers, and sculptors she\u2019s collaborated with for years.\n\nThough fulfilled, she dreams of more. Her ultimate goal is to launch and direct her own city-wide public art festival, a project that would bring groundbreaking art into every neighborhood, making it accessible to all. For Sarah, San Francisco is not just a home; it's her canvas, and she is one of the essential, unseen hands ensuring its cultural vibrancy continues to be painted."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, light stretching, and a 10-minute meditation session to start the day centered.",
+                        "geocode": {
+                            "lat": 37.7601749,
+                            "lng": -122.4338485,
+                            "formatted_address": "Hartford St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 1819 Hartford St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee using beans from a local roaster and read industry news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Morning routine: shower, get dressed in smart-casual attire, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7832173,
+                            "lng": -122.4200368,
+                            "formatted_address": "750 Eddy St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - Bedroom & Bathroom"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Share a quick breakfast of avocado toast and yogurt with her partner before the commute.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Dining Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet the carpool driver (a neighbor) and navigate the morning traffic downtown, listening to an arts & culture podcast.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Carpool - Driving via Market Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Arrive at the office, settle in, and lead the morning production sync meeting with her team to review project status.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 90,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Conference call with a lighting designer and gallery curator to finalize tech specs for an upcoming installation.",
+                        "geocode": {
+                            "lat": 37.7246314,
+                            "lng": -122.4490018,
+                            "formatted_address": "Private Offices, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 75,
+                        "location": "Regus - Private Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a quick and healthy lunch bowl to eat at a nearby parklet.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn (on Montgomery St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focused work session: adjust production budgets in a spreadsheet and update project management software.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 150,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Meet carpool for the ride home, catching up on the day's events.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Carpool - Driving via Van Ness Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop to pick up fresh pasta, bread, and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market (on Church St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Change into workout clothes and head out for a brisk run through the hilly neighborhood to de-stress.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Noe Valley Streets & Douglass Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and eat a delicious homemade dinner with her partner, talking about their days.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Kitchen & Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a new drama series together.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: Tidy up, review tomorrow's calendar, and read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A productive weekday for an Arts Production Manager, balancing focused logistical work in the Financial District with personal wellness and quality time with her partner in her Noe Valley neighborhood.",
+                "home_address": "1819 Hartford St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7601749,
+                    "lng": -122.4338485,
+                    "formatted_address": "Hartford St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

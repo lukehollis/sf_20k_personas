@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Rodriguez",
+    "givenName": "Sarah",
+    "familyName": "Rodriguez",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Rodriguez\u2019s passion for urban mobility began not on a humming streetcar, but in the frustrating stillness of Central Valley traffic. Raised in Fresno by a logistics manager father and a nursing assistant mother, her childhood was defined by the family\u2019s reliance on their aging sedan. She watched her parents lose hours each day to commutes, a reality that planted a seed of frustration with car-centric design. This firsthand experience with urban sprawl and its human cost became the driving force of her academic and professional life.\n\nAt UC Davis, she eschewed more traditional paths and dove into Urban Studies. Here, the abstract concepts of walkable cities, transit equity, and sustainable infrastructure felt deeply personal. A pivotal senior-year internship with the San Francisco Municipal Transportation Agency (SFMTA) sealed her fate. The city\u2019s complex, interwoven network of buses, streetcars, and cable cars was a living puzzle she was desperate to help solve. After graduating, she accepted a full-time position as a Transportation Planner, a dream realized.\n\nNow 26, Sarah lives the life she helps design. Her 0.0-mile commute is a point of personal pride; she walks from her small Hayes Valley apartment, just blocks from City Hall. Her days are a mix of data analysis, community outreach meetings for new bike lanes, and drafting reports on transit efficiency. Her colleagues are also her friends, a tight-knit group of civic-minded idealists who often debate Muni routes over happy hour drinks.\n\nHer life is woven into the fabric of her neighborhood. Mornings start with a coffee from a local cafe on Hayes Street, and weekends are for exploring the city on foot, from Golden Gate Park to the Mission\u2019s vibrant murals. Her connection to San Francisco is both professional and deeply personal; she sees the city not just as a home, but as a project. Sarah dreams of one day leading a major initiative, like a new light rail corridor, that will tangibly improve the lives of thousands. For her, shaping the flow of San Francisco isn't just a job; it's a way of repaying the city that allowed her to build a life where she never has to be stuck in traffic again."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and do a 20-minute yoga flow session to start the day.",
+                        "geocode": {
+                            "lat": 37.8030504,
+                            "lng": -122.4101816,
+                            "formatted_address": "523 Lombard St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 523 Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for the office, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.8030504,
+                            "lng": -122.4101816,
+                            "formatted_address": "523 Lombard St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 523 Lombard St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Eat breakfast (avocado toast and coffee) with family before heading out.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk down the hill and take the 30 Stockton bus to the Montgomery Street Muni station.",
+                        "geocode": {
+                            "lat": 37.7992232,
+                            "lng": -122.4086742,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Columbus Ave Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Take the M-Ocean View Muni Metro line across the city to work.",
+                        "geocode": {
+                            "lat": 37.7140489,
+                            "lng": -122.4590591,
+                            "formatted_address": "Oceanview, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni Metro M-Ocean View Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at the office, answer urgent emails, and begin analyzing campus transportation survey data.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 120,
+                        "location": "SFSU Campus Planning & Design Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Attend a virtual meeting with SFMTA officials to discuss a new protected bike lane project on 19th Ave.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "SFSU Campus Planning & Design Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over for a quick lunch, picking up a 'Matt Cain' sandwich.",
+                        "geocode": {
+                            "lat": 37.72807299999999,
+                            "lng": -122.476737,
+                            "formatted_address": "3251 20th Ave Ste 250C, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Ike's Love & Sandwiches"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Conduct a pedestrian safety field survey, observing and counting interactions at a busy intersection.",
+                        "geocode": {
+                            "lat": 37.7210071,
+                            "lng": -122.4753887,
+                            "formatted_address": "19th Ave & Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Intersection of Holloway Ave & 19th Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Return to the office to compile field notes and begin drafting a findings report.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 135,
+                        "location": "SFSU Campus Planning & Design Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home, taking the M-Ocean View back downtown and catching the 45 Union/Stockton bus up the hill.",
+                        "geocode": {
+                            "lat": 37.7876808,
+                            "lng": -122.407091,
+                            "formatted_address": "200 Geary St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 70,
+                        "location": "Muni Metro & Bus"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Stop to pick up fresh pasta and bread for the family dinner.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Meet a friend for a jog through the neighborhood steps and along the waterfront for city views.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Russian Hill & The Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Enjoy a lively family dinner and catch up on everyone's day.",
+                        "geocode": {
+                            "lat": 37.8030504,
+                            "lng": -122.4101816,
+                            "formatted_address": "523 Lombard St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - 523 Lombard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a novel and listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.8030504,
+                            "lng": -122.4101816,
+                            "formatted_address": "523 Lombard St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - 523 Lombard St"
+                    }
+                ],
+                "day_overview": "A busy and productive day for Sarah, a young transportation planner, involving data analysis at SF State, a field survey, and a multi-modal commute across San Francisco. The evening is balanced with a scenic run with a friend, an errand in her North Beach neighborhood, and a relaxing family dinner at home in Russian Hill.",
+                "home_address": "523 Lombard St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8030504,
+                    "lng": -122.4101816,
+                    "formatted_address": "523 Lombard St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1998",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Nguyen Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "Principal Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka is a third-generation Japanese American, a man whose life has been shaped by the quiet diligence of his ancestors and the explosive growth of Silicon Valley. Born and raised in San Jose, his parents, a pharmacist and a high school teacher, instilled in him the values of education and stability\u2014a direct response to the upheaval their own parents endured in WWII internment camps. Kenji was the studious son, more comfortable with logic puzzles and math problems than with the social dynamics of his peers.\n\nHe pursued this analytical inclination to UC Davis, where he earned a Master's degree in Statistics. He entered the workforce in the late 90s, not as a \"data scientist\"\u2014a term not yet in vogue\u2014but as a quantitative analyst for a staid hardware company. The dot-com bust was his crucible; laid off and disillusioned, he pivoted, teaching himself new programming languages and diving into the nascent field of machine learning. This foresight paid off, landing him a role at a burgeoning startup and launching his trajectory toward becoming a Principal Data scientist.\n\nThe defining turning point in his personal life was the end of a decade-long relationship six years ago. His partner, an artist, found his predictable routines and devotion to a demanding career stifling. The breakup was amicable but profound, prompting Kenji to purchase his condo in the Inner Sunset. It became his sanctuary, a space of meticulously controlled order. His 0.0-mile commute means his days are a predictable rhythm: pour-over coffee, hours spent wrestling with complex data models, and a walk through Golden Gate Park in the late afternoon.\n\nHis connection to San Francisco is intimate and hyperlocal. He knows the best time to visit the Japanese Tea Garden to avoid crowds and has a standing weekly order at the local bakery. His social life consists of a small circle of professional peers and a monthly dinner with his sister, who lives in Oakland.\n\nAt 49, Kenji feels a quiet restlessness. Career success is achieved, but he wonders about his legacy. He has started mentoring junior scientists, finding unexpected fulfillment in it. His quiet dream is to take a sabbatical to visit his family's ancestral village in Kumamoto, Japan. He hopes to find a way to reconcile the precise, data-driven world he has mastered with the messier, undefined human connections he has, until now, kept at arm's length."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, followed by a brief meditation session using a mindfulness app to clear the mind before a day of complex problem-solving.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Kenji's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare a pour-over coffee using beans from a local roaster and read the latest industry news on TechCrunch and STAT News.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Kenji's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a light, healthy breakfast of Greek yogurt with berries and granola to fuel the morning commute.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Kenji's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Gear up for the commute: change into cycling attire, check bike tire pressure, and fill a water bottle.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Kenji's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5",
+                        "action": "Cycle from Noe Valley to Lower Nob Hill, tackling the hills via the Wiggle bike route for a challenging morning workout.",
+                        "geocode": {
+                            "lat": 37.7913493,
+                            "lng": -122.4208584,
+                            "formatted_address": "Polk St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Wiggle & Polk Street Climb"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Arrive at work, freshen up, and join the data science team's daily stand-up meeting to align on project priorities and blockers.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Health - Data Analytics Hub"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Begin a deep-work session, developing a predictive model for patient readmission rates using the hospital's electronic health records.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 150,
+                        "location": "Kenji's UCSF Workstation"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a nearby eatery for a quick and healthy lunch, picking up a custom salad bowl to eat at a parklet.",
+                        "geocode": {
+                            "lat": 37.78820899999999,
+                            "lng": -122.4168462,
+                            "formatted_address": "Lower Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Daily Cut (Lower Nob Hill)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udfeb",
+                        "action": "Lead a meeting with clinical researchers to present findings from a recent data analysis and scope out the next phase of a research project.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Nightingale Collaborative Space (UCSF)"
+                    },
+                    {
+                        "emoji": "\u2328\ufe0f",
+                        "action": "Perform a code review for a junior data scientist's work, providing constructive feedback and mentorship. Then, continue solo work on the predictive model.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 150,
+                        "location": "Kenji's UCSF Workstation"
+                    },
+                    {
+                        "emoji": "\ud83c\udfd9\ufe0f",
+                        "action": "Pack up and begin the mostly downhill bike ride home, enjoying the city views on the way back to the Mission/Noe area.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Hyde Street to Mission Street Descent"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at a local market to pick up fresh produce and fish for dinner.",
+                        "geocode": {
+                            "lat": 37.761345,
+                            "lng": -122.424711,
+                            "formatted_address": "3639 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bi-Rite Market on 18th"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Arrive home, shower, and prepare a home-cooked Japanese meal while listening to a podcast on AI ethics.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Kenji's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Work on a personal hobby project: creating a data visualization of SFMTA bus route efficiency using public data APIs.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Kenji's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the evening by reading a sci-fi novel and drinking a pot of genmaicha tea.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kenji's Noe Valley Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for a senior data scientist, balancing focused technical work on healthcare data at UCSF with a healthy, active lifestyle including a hilly bike commute and quiet personal time at his Noe Valley home.",
+                "home_address": "3190 Dolores St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7422429,
+                    "lng": -122.4243401,
+                    "formatted_address": "3190 Dolores St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

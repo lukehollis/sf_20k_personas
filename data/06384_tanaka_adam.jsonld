@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Adam Tanaka",
+    "givenName": "Adam",
+    "familyName": "Tanaka",
+    "jobTitle": "Operations Specialist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Adam Tanaka\u2019s life is a study in quiet efficiency, much like the sleek, minimalist apartment he works from in the Inner Richmond. A third-generation Japanese-American, he grew up in the suburban warmth of San Jose, the only child of a high school history teacher and a dental hygienist. His childhood was filled with meticulously assembled LEGO sets and model kits, early indicators of his innate talent for understanding how complex systems fit together.\n\nHis parents hoped he would follow a stable, professional path. Adam, ever the pragmatist with a romantic streak, chose to study History at UC Davis, fascinated by the rise and fall of civilizations. He graduated in 2010, armed with a deep understanding of the Roman Empire but few prospects in a recession-battered economy. On a whim, he took an entry-level customer support job at a logistics startup in San Francisco. This was his accidental turning point. Adam discovered he had a genius for untangling operational knots and creating streamlined processes. He didn't code, but he could orchestrate the workflows of those who did. Within five years, he had carved out a successful career as an Operations Specialist.\n\nNow 36, Adam\u2019s life is anchored to his neighborhood. His 0.0-mile commute means his world revolves around the few blocks surrounding his apartment. His days begin with a pour-over coffee, followed by a focused work session managing data pipelines and coordinating cross-functional teams via Slack. He often breaks for a walk through Golden Gate Park, his mind sorting through problems while his feet trace familiar paths. His social life is small but deep; a weekly dinner with a few close friends and quiet evenings with his long-term partner, a landscape architect who appreciates Adam's calm demeanor.\n\nHe feels a profound connection to San Francisco\u2014not the glitzy, disruptive version, but the city of fog-laced mornings and dependable neighborhood grocers. Yet, a quiet restlessness simmers beneath his contentment. Adam dreams of applying his operational skills to something more tangible, perhaps opening a small, perfectly organized Japanese knife shop or consulting for local non-profits. He has optimized his company\u2019s systems; now, he\u2019s beginning to wonder how to optimize his own purpose."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, hydrate, and do a quick 10-minute stretch.",
+                        "geocode": {
+                            "lat": 37.7911842,
+                            "lng": -122.4178261,
+                            "formatted_address": "1414 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (1414 California St)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee with beans from Ritual Coffee Roasters and check personal emails and news headlines.",
+                        "geocode": {
+                            "lat": 37.7911842,
+                            "lng": -122.4178261,
+                            "formatted_address": "1414 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (1414 California St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for the office, and pack a gym bag for later.",
+                        "geocode": {
+                            "lat": 37.7911842,
+                            "lng": -122.4178261,
+                            "formatted_address": "1414 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (1414 California St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from Nob Hill to the Mission district, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Adam's Car"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Settle in, grab a sparkling water from the office kitchen, review overnight system alerts and Slack channels.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 45,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Daily Operations Sync meeting to align on team priorities and address any blockers.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Miro Studios - Conference Room 'Mission'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focused work block: analyzing data for the quarterly operational review and updating process documentation.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 120,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk with coworkers to grab a Mission-style burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Collaborate with the engineering team on troubleshooting a recurring software integration issue.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 90,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Finalize tasks for the day, respond to emails, and plan tomorrow's to-do list on Asana.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 75,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, navigating the evening rush hour traffic on Van Ness Ave.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Adam's Car"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Stop for a strength and conditioning workout session to de-stress.",
+                        "geocode": {
+                            "lat": 37.7867765,
+                            "lng": -122.4213349,
+                            "formatted_address": "1200 Van Ness Ave, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "24 Hour Fitness - Van Ness Ave"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Make a quick dinner and eat while watching an episode of a series on HBO Max.",
+                        "geocode": {
+                            "lat": 37.7911842,
+                            "lng": -122.4178261,
+                            "formatted_address": "1414 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (1414 California St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Weekly check-in call with his parents to catch up.",
+                        "geocode": {
+                            "lat": 37.7911842,
+                            "lng": -122.4178261,
+                            "formatted_address": "1414 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (1414 California St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel before going to sleep.",
+                        "geocode": {
+                            "lat": 37.7911842,
+                            "lng": -122.4178261,
+                            "formatted_address": "1414 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1414 California St)"
+                    }
+                ],
+                "day_overview": "A productive day for a tech operations specialist, involving focused work and meetings in the Mission, followed by an evening of fitness and personal time back in his Nob Hill neighborhood.",
+                "home_address": "1414 California St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7911842,
+                    "lng": -122.4178261,
+                    "formatted_address": "1414 California St, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

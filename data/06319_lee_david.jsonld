@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Lee",
+    "givenName": "David",
+    "familyName": "Lee",
+    "jobTitle": "Policy Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Lee is a product of San Francisco's fog-dusted west side. Raised in the Sunset District by Cantonese immigrant parents who ran a small, beloved neighborhood dry-cleaning business, David\u2019s childhood was a mix of steamed buns, the drone of the N-Judah line, and the quiet but immense pressure to succeed. He was the studious son, the one who would transcend the family\u2019s working-class roots.\n\nHis path seemed clear and linear. He excelled at Lowell High School, then earned a B.A. in Political Economy from UC Berkeley. Feeling the pull of ambition and a desire to shape the world, he moved to Washington D.C., securing a Master's in Public Policy from Georgetown. He spent five years there, working for a federal regulatory agency, analyzing financial legislation. But the slow grind of bureaucracy and a growing homesickness for the specific character of SF\u2014the scent of eucalyptus after the rain, the vibrant chaos of a neighborhood festival\u2014wore him down. The turning point was a brief trip home, where the city\u2019s energy felt more tangible and real than the abstract power he wielded in D.C.\n\nHe returned to San Francisco and landed his current role as a Policy Analyst for a major fintech company headquartered downtown. With the post-pandemic shift to remote work, his commute became non-existent. Now, his world is his well-appointed apartment in Hayes Valley. His days are structured: a morning espresso from a local caf\u00e9, hours of analyzing global financial regulations from his standing desk, and a midday walk through Patricia's Green to clear his head.\n\nSocially, David maintains a tight circle of college friends. He\u2019s currently single, navigating the city\u2019s complex dating scene with a reserved patience. His connection to San Francisco is deep; he is both a native who understands its history and a returnee who appreciates its evolution. His dream is to one day pivot from the corporate world to a city-level position, perhaps at the SFMTA or the Planning Department, using his analytical skills to directly impact the home that shaped him. He wants to be more than a resident; he aspires to be a steward of the city's future."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check financial news headlines on phone, and do a 10-minute meditation.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Brew a pour-over coffee using beans from a local roaster and prepare a light breakfast.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to the Chinatown-Rose Pak Station and take the Muni T-Third line to Van Ness Station.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Muni Metro T-Third Line"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at coworking space, set up workstation, and review daily priorities.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 15,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Deep work session: Researching and analyzing new state-level financial regulations.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 180,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to Hayes Valley and grab a healthy, quick lunch bowl.",
+                        "geocode": {
+                            "lat": 37.77606249999999,
+                            "lng": -122.4295929,
+                            "formatted_address": "Hayes Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt Hayes Valley"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Afternoon tasks: Draft a policy memo and participate in a virtual team sync meeting via Zoom.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 150,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Pack up and begin the commute home, taking the T-Third line from Van Ness Station.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Muni Metro T-Third Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.8016074,
+                            "lng": -122.4117736,
+                            "formatted_address": "716 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "The Italian Homemade Company"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Change into workout clothes and go for a vigorous run up the Filbert Street Steps.",
+                        "geocode": {
+                            "lat": 37.8009425,
+                            "lng": -122.4052612,
+                            "formatted_address": "Telegraph Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Telegraph Hill"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner while listening to a podcast on economics.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Eat dinner and have a video call with family living on the East Coast.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the evening by reading a new book.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (North Beach Apartment)"
+                    }
+                ],
+                "day_overview": "A productive day for David, balancing deep-focus policy work at his Market St. coworking space with a scenic run through his North Beach neighborhood and a quiet evening at home.",
+                "home_address": "3279 Stockton St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.8051128,
+                    "lng": -122.4101492,
+                    "formatted_address": "3279 Stockton St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

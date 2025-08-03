@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Thompson",
+    "givenName": "Sarah",
+    "familyName": "Thompson",
+    "jobTitle": "Gallery Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Thompson\u2019s childhood in suburban Ohio was a world of beige tones and predictable rhythms, a life she quietly rebelled against by losing herself in library books on art and distant cultures. Her parents, a pragmatic accountant and a kind but conventional teacher, hoped she would follow a stable path. She compromised by earning a Bachelor\u2019s degree in Anthropology, a field that allowed her to study human creativity through a structured, academic lens.\n\nThe true turning point came at 22. A post-college road trip with no fixed destination ended in San Francisco, a city whose chaotic color palette and embrace of eccentricity felt like coming home. She fell into the service industry to survive, but her heart led her to the art scene. She began volunteering at a small, independent gallery in Hayes Valley, where her academic background gave her a unique ability to contextualize the work and connect with artists on a deeper level. Over a decade, her quiet competence and fierce passion saw her promoted from volunteer to assistant to Gallery Manager.\n\nNow 46, Sarah\u2019s life and work are inextricably linked. She lives in a cozy one-bedroom apartment directly above \"Studio // Context,\" the gallery she manages, making her commute a simple walk down a spiral staircase. A long, intense relationship with a mercurial painter ended years ago, teaching her the vital difference between loving art and living inside its chaos. Her social circle is now a carefully curated collection: the artists she champions, a few loyal patrons, and the gallery's elderly owner, who has become a mentor and father figure.\n\nHer days are a ritual of coffee from the cafe next door, preparing the gallery for visitors, and acting as a therapist, critic, and advocate for her artists. Evenings are often spent with a book and a glass of wine, surrounded by the quiet hum of the sleeping gallery below. Sarah\u2019s dream isn\u2019t one of fame or fortune, but of legacy. She hopes to one day purchase Studio // Context when its owner retires, ensuring this small, vital piece of San Francisco's creative soul continues to thrive under her devoted stewardship."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, do 15 minutes of mindfulness meditation, and check the daily arts news.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make a pour-over coffee and have a light breakfast of yogurt and fruit while reviewing personal emails.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc57",
+                        "action": "Shower and get dressed in a professional, artistic outfit for the gallery.",
+                        "geocode": {
+                            "lat": 37.7633747,
+                            "lng": -122.4775719,
+                            "formatted_address": "1821 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\udd50",
+                        "action": "Walk to the MUNI stop, grabbing a morning bun on the way.",
+                        "geocode": {
+                            "lat": 37.763405,
+                            "lng": -122.4664416,
+                            "formatted_address": "1331 9th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 15,
+                        "location": "Arizmendi Bakery"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute on the N Judah MUNI Metro, listening to an art history podcast.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "N Judah Line (Irving & 9th Ave to Church St Station)"
+                    },
+                    {
+                        "emoji": "\ud83d\uddbc\ufe0f",
+                        "action": "Open the gallery, review the day's schedule, and correspond with artists about upcoming shipment logistics.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Doorhaus Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Conduct a mid-morning meeting with the gallery assistant to plan social media content for the week.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Doorhaus Gallery Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break and walk to a favorite local spot for a torta.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Give a private tour of the current exhibition to a pair of visiting collectors.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Doorhaus Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focus on administrative tasks: processing recent sales invoices and updating the client database.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Doorhaus Gallery Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Commute home, reading a novel to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7634,
+                            "lng": -122.47703,
+                            "formatted_address": "19th Ave & Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "N Judah Line (Church St Station to Irving & 19th Ave)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up fresh produce and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7641474,
+                            "lng": -122.4711468,
+                            "formatted_address": "1200 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Andronico's Community Markets"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Cook a simple but healthy dinner while listening to music.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Take a brisk evening walk around the edge of the park to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down by watching an episode of a foreign film series and doing a nightly skincare routine.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A busy and culturally-rich day for an Inner Sunset gallery manager, balancing demanding work in the vibrant Mission district with a peaceful evening routine near Golden Gate Park.",
+                "home_address": "1821 Irving St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7633747,
+                    "lng": -122.4775719,
+                    "formatted_address": "1821 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

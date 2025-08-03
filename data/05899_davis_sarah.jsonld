@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Case Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Social Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s San Francisco life is a world away from her Central Valley upbringing. Raised in Fresno by practical, hardworking parents\u2014a mechanic and a school administrator\u2014she was taught the value of stability and a steady hand. Yearning for something more dynamic, she moved to the Bay Area for college, enrolling at San Francisco State University. She pursued a Bachelor's degree in English Literature, captivated by stories of human struggle and triumph but uncertain how to translate that passion into a career.\n\nAfter graduating, Sarah felt adrift. She worked a series of unfulfilling service jobs, from barista to bookstore clerk, feeling the city\u2019s vibrant energy but not her place within it. The turning point came during a volunteer shift at a women's shelter in the Mission. For the first time, the abstract compassion she felt in literature became tangible. She saw firsthand the complex web of poverty, trauma, and systemic failure that ensnared people, and she felt an undeniable pull to help untangle it.\n\nThis experience sparked a complete career pivot. Sarah enrolled in certificate programs and threw herself into learning the mechanics of social work. Now, at 40, she is a seasoned Case Manager. Her commute is a ten-step walk from her bed to the desk tucked into the corner of her Inner Richmond apartment. Her days are a marathon of phone calls, emails, and virtual meetings, advocating for clients navigating housing insecurity, mental health crises, and labyrinthine bureaucracy.\n\nHer social life is small but deep, consisting of a few close friends, mostly colleagues who understand the emotional weight of their work. They decompress over cheap pho on Clement Street or long, meditative walks through Golden Gate Park. Sarah\u2019s connection to San Francisco isn\u2019t defined by its tech boom or nightlife, but by the resilient, often invisible, communities she serves. Her dream isn\u2019t wealth or recognition, but a more sustainable future\u2014one where she can continue her vital work without succumbing to burnout, perhaps one day leading a small, specialized outreach program. She remains a quiet anchor in a city of constant flux, finding purpose in the steady, difficult work of helping one person at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, 15-minute guided meditation, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7875598,
+                            "lng": -122.4445777,
+                            "formatted_address": "California St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on California St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and drink coffee while reviewing personal emails and the day's headlines.",
+                        "geocode": {
+                            "lat": 37.7875598,
+                            "lng": -122.4445777,
+                            "formatted_address": "California St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Commute to work, navigating the downtown streets on a shared electric moped.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Revel Moped Ride from Nob Hill to SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc2",
+                        "action": "Settle in at desk, organize case files for the day, and coordinate with the studio art instructors.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Conduct a one-on-one progress meeting with a client, discussing their goals and challenges.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 90,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Complete and file detailed case notes and required documentation from the morning session.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 75,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a nearby food hall to grab a quick and healthy quinoa bowl for lunch.",
+                        "geocode": {
+                            "lat": 37.7766667,
+                            "lng": -122.4169444,
+                            "formatted_address": "1355 Market St suite 100, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Market on Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a weekly team meeting to discuss client caseloads and upcoming program events.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Facilitate a group session, supporting clients as they work on their art projects and social skills.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 120,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Commute home, taking a scenic route up the hill on the electric moped.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Revel Moped Ride from SoMa to Nob Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly grocery essentials before heading home.",
+                        "geocode": {
+                            "lat": 37.7780834,
+                            "lng": -122.4265022,
+                            "formatted_address": "555 Fulton St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's on California St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Decompress from the day with a Vinyasa yoga class at a neighborhood studio.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Flow SF - Nob Hill"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Prepare a simple dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7875598,
+                            "lng": -122.4445777,
+                            "formatted_address": "California St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and tidying up for the next morning.",
+                        "geocode": {
+                            "lat": 37.7875598,
+                            "lng": -122.4445777,
+                            "formatted_address": "California St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Apartment on California St"
+                    }
+                ],
+                "day_overview": "A demanding yet fulfilling day for a social services case manager, balancing client advocacy in SoMa with personal wellness and routine errands in her Nob Hill neighborhood.",
+                "home_address": "1042 California St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7917338,
+                    "lng": -122.4117115,
+                    "formatted_address": "1042 California St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

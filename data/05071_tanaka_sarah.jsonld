@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Tanaka",
+    "givenName": "Sarah",
+    "familyName": "Tanaka",
+    "jobTitle": "Management Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Spiritual but not religious"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Tanaka is a third-generation Japanese American, a product of the quiet ambition that settled in the East Bay suburbs. Her grandparents, who spoke more of resilience than of the internment camps they endured, instilled in her parents a fierce drive for stability. Sarah\u2019s upbringing in Walnut Creek was comfortable and disciplined, defined by academic excellence and the expectation that she would surpass the previous generation\u2019s achievements. Her path seemed pre-written: a sharp mind guided toward a lucrative, secure career.\n\nShe excelled, earning an economics degree from UC Berkeley before a two-year stint as a financial analyst confirmed her aptitude for the fast-paced world of finance. It was, however, impersonal and grueling. Seeking more strategic influence, she pursued an MBA at Stanford, a decision that catapulted her into the elite sphere of management consulting. Pre-pandemic, her life was a blur of airport lounges, client boardrooms in New York and London, and fleeting weekends in her sleek Hayes Valley apartment. She was successful, but her connection to San Francisco was superficial\u2014it was merely a home base between flights.\n\nThe turning point was the mandated halt of 2020. Grounded indefinitely, her 0.0-mile commute from her bedroom to her living room desk forced an uncomfortable intimacy with the life she had built but never truly inhabited. The constant travel that had defined her identity vanished. For the first time, Sarah\u2019s daily routine didn't involve a boarding pass. Instead, it became a morning run past the Painted Ladies at Alamo Square, grabbing coffee from her local barista who knew her name, and intense Zoom calls strategizing multi-million dollar mergers from her bay window.\n\nNow, at 30, Sarah is re-evaluating. The relentless climb to partner feels less urgent. She finds more joy in hosting small dinner parties for a close-knit circle of friends and volunteering her financial acumen for a local arts non-profit. Her ambition hasn't disappeared, but it has shifted. She dreams of leveraging her high-powered skill set for a venture with social impact or finding a way to build a life measured not just by financial returns, but by deep community ties in the city she is finally, truly, calling home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nAt 20, exhausted from Berkeley finals, she complained to her Obaachan about the pressure. Her grandmother simply nodded, then quietly mentioned planting a tiny daikon garden behind the barracks at Manzanar. \"You need something to grow,\" she'd said. The words landed with shocking force. Sarah suddenly saw her own ambition not as a burden, but as a fragile, privileged seed her family had endured so much to protect. It was a debt of hope she had to honor.\n\n2.\nShe recalls standing in a glass-walled boardroom overlooking the Thames, age 28. The client had just signed, a massive win for her team. A wave of cool, clinical satisfaction washed over her, immediately followed by an unnerving void. The city lights below felt like a postcard for a life someone else was living. In that moment of peak achievement, she felt profoundly foreign, not just to London, but to herself. It was the first hairline crack in her perfectly constructed ambition.\n\n3.\nIt was the fourth day of the lockdown. The silence in her Hayes Valley apartment was absolute, broken only by a distant siren. Her laptop screen, once a portal to the world, now just reflected her own tired face. She looked out her bay window, not at a taxi waiting to go to SFO, but at the afternoon light hitting the building across the street. For the first time, she noticed the intricate Victorian molding. She felt an unnerving stillness, the terrifying, clarifying calm of a ship run aground.\n\n4.\nMonths into the pandemic, she walked into her local coffee shop, and the barista started her oat milk latte without her asking. \"The usual, Sarah?\" he'd smiled. The simple act of being known, of having a \"usual\" in her own neighborhood, felt more validating than any client's praise. It was a tiny anchor, the first thread of connection to a place she\u2019d only ever used as a landing strip. She wasn\u2019t just a resident; she was becoming a regular.\n\n5.\nShe was 30, huddled over a spreadsheet in a cramped Mission District office, volunteering for an arts non-profit. The team was wrestling with a funding gap. Sarah saw a path forward, restructuring their model in a way that was second nature to her. As she explained it, she saw hope ignite in the director's eyes. In that moment, her MBA felt more valuable than it ever had in a corporate boardroom. She wasn't just maximizing profit; she was helping art survive in her city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, hydrate, and review daily calendar and priorities.",
+                        "geocode": {
+                            "lat": 37.7894318,
+                            "lng": -122.4016551,
+                            "formatted_address": "590 Market St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment at 590 Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Attend a high-intensity interval training (HIIT) class.",
+                        "geocode": {
+                            "lat": 37.7866201,
+                            "lng": -122.4043897,
+                            "formatted_address": "747 Market St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Equinox Market Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business professional attire, and do makeup.",
+                        "geocode": {
+                            "lat": 37.7894318,
+                            "lng": -122.4016551,
+                            "formatted_address": "590 Market St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment at 590 Market St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd50",
+                        "action": "Eat a quick protein-rich breakfast while skimming financial news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7894318,
+                            "lng": -122.4016551,
+                            "formatted_address": "590 Market St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment at 590 Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Board the Muni Metro K/L/M streetcar for the short ride to the office.",
+                        "geocode": {
+                            "lat": 37.7845286,
+                            "lng": -122.407737,
+                            "formatted_address": "Powell St. Station, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Montgomery St. Station to Powell St. Station"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Lead the morning project team stand-up to align on client deliverables.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Central Tower Office Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Join a video conference call with a key banking client to review project milestones.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 90,
+                        "location": "Central Tower Office Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Build out a complex financial model in Excel for a client projection.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 120,
+                        "location": "Central Tower Office Building"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick salad bowl to eat at her desk while catching up on emails.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt on Yerba Buena Lane"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Refine the client-facing presentation deck, incorporating new data.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 180,
+                        "location": "Central Tower Office Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Internal review meeting with a Senior Partner to get feedback on the presentation.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "Central Tower Office Building"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Take the Muni Metro streetcar from Powell St. back to her apartment building.",
+                        "geocode": {
+                            "lat": 37.7845286,
+                            "lng": -122.407737,
+                            "formatted_address": "Powell St. Station, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Powell St. Station to Montgomery St. Station"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Meet a former colleague for cocktails and appetizers to catch up.",
+                        "geocode": {
+                            "lat": 37.787097,
+                            "lng": -122.40136,
+                            "formatted_address": "662 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "Novela Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Weekly video call with her parents to check in.",
+                        "geocode": {
+                            "lat": 37.7894318,
+                            "lng": -122.4016551,
+                            "formatted_address": "590 Market St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment at 590 Market St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Unwind by listening to a true crime podcast and changing into comfortable clothes.",
+                        "geocode": {
+                            "lat": 37.7894318,
+                            "lng": -122.4016551,
+                            "formatted_address": "590 Market St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment at 590 Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5c",
+                        "action": "Lay out clothes and pack work bag for the following day.",
+                        "geocode": {
+                            "lat": 37.7894318,
+                            "lng": -122.4016551,
+                            "formatted_address": "590 Market St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment at 590 Market St"
+                    }
+                ],
+                "day_overview": "A fast-paced and demanding weekday for a management consultant, balancing intense client work with a high-energy workout and evening socializing in the city.",
+                "home_address": "590 Market St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7894318,
+                    "lng": -122.4016551,
+                    "formatted_address": "590 Market St, San Francisco, CA 94104, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

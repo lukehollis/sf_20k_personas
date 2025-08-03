@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Lee",
+    "givenName": "David",
+    "familyName": "Lee",
+    "jobTitle": "Quantitative Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Lee\u2019s story is woven into the very fabric of San Francisco. A son of Chinese immigrants, he grew up in the fog-dusted avenues of the Sunset District. His father, a civil engineer, and his mother, a pharmacist, instilled in him a profound respect for diligence and precision. From a young age, David wasn't talkative but observant, seeing the world as a series of complex, interconnected systems. While other kids played games, he found beauty in mathematical proofs and the elegant logic of the natural world, a quiet passion that led him to Lowell High School and then to UC Berkeley.\n\nHis undergraduate degree was in physics, a field that satisfied his curiosity about the universe's fundamental rules. However, during a summer internship at Lawrence Berkeley National Lab, a key turning point occurred. He felt the pace of academic research was agonizingly slow, the impact too abstract. Simultaneously, he saw friends in computer science and economics applying similar modeling skills to financial markets with immediate, quantifiable results. This pragmatic realization steered him toward a new path. He pursued a Master's in Applied Physics at Stanford, consciously building a bridge between theoretical science and high-stakes finance.\n\nNow 28, David lives a life of disciplined solitude in a modern Hayes Valley condo. His 0.0-mile commute takes him from his bedroom to a standing desk in his living room, where he builds and refines predictive trading algorithms for a major hedge fund. His days are a high-pressure blur of code, statistical analysis, and immense virtual capital. To decompress, he doesn\u2019t party; he embarks on punishing bicycle rides up Twin Peaks, the physical exertion a welcome antidote to the cerebral strain.\n\nThough financially successful, a quiet loneliness pervades his routine. His social circle is small, mostly old university friends who understand his introverted nature. David feels a strange disconnect from the city of his youth; the Sunset of his childhood feels a world away from the chic restaurants and boutiques of his current neighborhood. His dream is to eventually leverage his capital and intellect to start his own quantitative fund, one with an ethical thesis, proving that complex systems can be modeled not just for profit, but for progress. He hopes to one day build a tangible legacy beyond the ephemeral glow of his monitors."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe was nine, standing beside his father who was studying blueprints at the dining room table. Outside, the Sunset District fog consumed the street, erasing dimensions. His father explained how the lines on the paper corresponded to unseen forces\u2014water pressure, soil density, seismic stress. For David, it wasn't about the concrete or steel; it was a moment of profound revelation. He saw the world not as solid objects, but as a map of invisible, interconnected systems, a puzzle he was born to observe.\n\n2.\nAt Lowell High, during a sophomore math competition, David stared at a problem others found impossible. He felt a familiar calm as the solution appeared in his mind, not as a calculation, but as a perfectly logical, elegant structure. When he wrote it down, a quiet thrill ran through him, quickly followed by a sense of deep solitude. He understood something beautiful that he couldn't easily share. It was the moment he accepted that his greatest joys would likely be private ones.\n\n3.\nIt was the summer he turned 20, interning at the Berkeley Lab. He spent a week calibrating a sensor to detect a theoretical particle, the result of which wouldn't be known for years. That same evening, he saw his CS major friend\u2019s code model market behavior in milliseconds. A switch flipped inside him. The slow, noble pace of academic discovery felt agonizingly abstract. He felt a sudden, intense hunger for a system with immediate feedback, where his models could have a real, quantifiable impact *now*.\n\n4.\nLast month, reaching the summit of Twin Peaks on his bike, his lungs burned and his legs felt hollow. He stood over his city, a vantage point of total comprehension. He could see his sterile Hayes Valley condo and, across the city, the foggy avenues of his childhood. He was the master of this view, yet felt like a ghost haunting it\u2014a visitor in both his present and his past. The physical pain was a welcome anchor, a fleeting antidote to his profound displacement.\n\n5.\nLate one night a few weeks ago, watching his algorithm net a profit that felt more like a scorecard entry than real money, he felt a sudden emptiness. The number was huge but weightless. On another screen, he read an article about modeling climate change's effect on coastlines. A quiet but seismic shift occurred in his ambition. He saw that the same complex logic he used for profit could be used for progress, planting the seed of a future where his work could build something tangible."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Wake Up & Scan Markets: Check global indices and overnight trading performance on a tablet while still in bed.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Morning Routine: Make a pour-over coffee, quick shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to Work: Drive north through the city, listening to the 'Odd Lots' podcast to catch up on market news.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 40,
+                        "location": "Car on SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning Quant Session: Settle in with a second coffee and begin deep work on backtesting a new statistical arbitrage model.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 210,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Quick Lunch Run: Walk down the street to grab a popular chicken and rice bowl to eat back at the desk.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Souvla (Union Street)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon Data Analysis: Analyze large datasets for a new machine learning model and prepare visualizations for a team update.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 150,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Virtual Team Sync: Join a video call with the core team (based in NYC) to discuss model performance and upcoming projects.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 60,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "End-of-Day Wrap-Up: Finalize risk reports, push code updates, and organize tasks for the following day.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 60,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Commute Home: Navigate the evening rush hour traffic driving south back to Noe Valley.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Car on SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Grocery Run: Stop to pick up fresh ingredients for dinner and a few household essentials.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Whole Foods Market (24th Street)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook and Eat Dinner: Unwind by cooking a healthy meal while listening to a playlist, then eat while watching an episode of a tech documentary.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Climbing Session: Head to the climbing gym for a bouldering session to de-stress and get a full-body workout.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening Wind-Down: Read a few chapters of a non-fiction book and prep for the next day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (Noe Valley)"
+                    }
+                ],
+                "day_overview": "A focused day for a finance quant, balancing intense algorithmic work at a Cow Hollow coworking space with a traffic-filled commute from Noe Valley, and winding down with a neighborhood grocery run and a casual drink with a friend.",
+                "home_address": "2551 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7433168,
+                    "lng": -122.4333334,
+                    "formatted_address": "2551 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

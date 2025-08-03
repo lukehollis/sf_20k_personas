@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jensen",
+    "givenName": "Sarah",
+    "familyName": "Jensen",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jensen\u2019s identity was forged in the fog-draped hills of Daly City, a landscape of subtle contrasts much like her own heritage. Raised by a pragmatic Korean immigrant mother, a cardiac nurse, and a thoughtful Danish-American father, a high school history teacher, Sarah grew up navigating two cultures. Her home was filled with the aroma of kimchi jjigae, the sounds of classic rock from her father\u2019s stereo, and a shared emphasis on diligent, meaningful work. Her father\u2019s passion for finding narratives in the past inspired her, leading her to pursue a Bachelor's degree in History at UC Santa Cruz.\n\nUpon graduating, Sarah faced a familiar Bay Area crossroads: a humanities degree she loved and the economic reality of the region. The abstract appeal of historical analysis clashed with the concrete need for a viable career. This became her pivotal turning point. Refusing to abandon her analytical mind, she enrolled in an intensive data science bootcamp, discovering she could apply the same skills of pattern recognition and narrative construction from historical texts to complex datasets. She found a surprising satisfaction in making sense of numbers, a different kind of storytelling.\n\nNow 25, Sarah works as a data analyst for a mid-size tech company. Her commute is zero miles; her world is largely defined by the four walls of her meticulously organized apartment in Hayes Valley. Her days follow a disciplined rhythm: strong coffee, hours deciphering spreadsheets, and a mandatory afternoon walk to Patricia's Green to feel the city\u2019s pulse. She\u2019s an observer, appreciative of her neighborhood's boutiques and vibrant arts scene but often feeling one step removed from its core energy. Her social life consists of a small, tight-knit group of friends from her bootcamp days, with whom she explores new restaurants and commiserates about the surreal nature of work and dating in San Francisco.\n\nSarah\u2019s dream is to bridge the gap between her past and present. She hopes to eventually move into civic tech or data journalism, using her skills not just for corporate growth but to analyze social inequity or urban planning challenges. She wants her work to have a tangible, positive impact\u2014to find the human stories hidden within the data and, in doing so, fully write her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, light yoga, and stretching.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Third Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Third Street Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and a quick breakfast of toast and avocado.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Third Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute across town, listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.76049829999999,
+                            "lng": -122.3886835,
+                            "formatted_address": "Dogpatch, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 40,
+                        "location": "Cross-Town Commute (Dogpatch to Lake Merced)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in, check emails, and review the day's data analysis tasks.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "SFSU Institutional Research Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work: Cleaning and analyzing a dataset on student retention rates using SQL.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 150,
+                        "location": "SFSU Institutional Research Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk off-campus to grab a sandwich and coffee for lunch.",
+                        "geocode": {
+                            "lat": 37.76219,
+                            "lng": -122.4631335,
+                            "formatted_address": "1401 6th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Golden Bear Trading Company"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Team meeting to discuss progress on a longitudinal study dashboard.",
+                        "geocode": {
+                            "lat": 37.7211729,
+                            "lng": -122.4765701,
+                            "formatted_address": "Administration Building 354, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "SFSU Administration Building Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Build out new visualizations in Tableau based on morning's analysis.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 120,
+                        "location": "SFSU Institutional Research Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute home, navigating afternoon traffic while listening to an audiobook.",
+                        "geocode": {
+                            "lat": 37.76049829999999,
+                            "lng": -122.3886835,
+                            "formatted_address": "Dogpatch, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 50,
+                        "location": "Cross-Town Commute (Lake Merced to Dogpatch)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Decompress from the day with a rock climbing session.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Dogpatch Boulders"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Quick phone call with parents to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Third Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Shower and change before reheating leftovers for dinner.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Third Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch an episode of a new series on streaming.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Third Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: Pack lunch for tomorrow, read a book before sleep.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Third Street Apartment"
+                    }
+                ],
+                "day_overview": "A productive weekday for Sarah, involving a deep dive into university data, a significant cross-town commute, and unwinding with a social dinner in her Dogpatch neighborhood.",
+                "home_address": "1670 3rd St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7683422,
+                    "lng": -122.389716,
+                    "formatted_address": "1670 3rd St, San Francisco, CA 94158, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jensen Family"
+    }
+}

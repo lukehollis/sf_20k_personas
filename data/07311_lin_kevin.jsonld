@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Lin",
+    "givenName": "Kevin",
+    "familyName": "Lin",
+    "jobTitle": "Health Program Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Lin\u2019s story is woven into the fabric of San Francisco\u2019s Sunset District, where he was born and raised. The son of Taiwanese immigrants who ran a small, bustling grocery store, his childhood was a blend of American schooling and the steadfast expectations of his parents. For them, success was a clear path: a doctor. Kevin, diligent and eager to please, dutifully pursued a pre-med track at UC Berkeley, his future seemingly set in stone.\n\nThe turning point came not in an organic chemistry lab, but during a volunteer year at a community health clinic in Oakland. There, he witnessed firsthand the systemic barriers his own parents had quietly navigated for years: language difficulties, insurance complexities, and a palpable lack of preventative care for marginalized communities. He saw suffering that couldn't be fixed with a prescription alone. This revelation was profound. He realized his passion wasn't in treating individual sickness, but in healing the broken system that allowed it to fester. He broke the news to his disappointed but ultimately supportive parents and pivoted, enrolling in a Master of Public Health program.\n\nNow 31, Kevin is a Health Program Manager for a major Bay Area healthcare provider. His commute is a ten-step walk from his bedroom to his desk in the bright, airy NOPA apartment he shares with his partner, Maya, an architect. His work-from-home life has deepened his connection to his immediate neighborhood. His days are structured by Zoom calls and data analysis, but punctuated by rituals: a morning walk to his favorite cafe for an oat milk latte, a midday jog through the Panhandle, and quiet evenings cooking with Maya.\n\nWhile he loves the city\u2019s energy, his work reminds him of its deep inequalities. Kevin's ambition is to design and launch a city-wide digital health literacy program aimed at immigrant and elderly populations, a project born directly from his family\u2019s experience. He dreams of a future where he can make a tangible impact on the city that raised him, while also building a stable, long-term life with Maya, a goal that feels both achievable and perpetually just out of reach in the ever-expensive landscape of San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, quick stretch, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7992232,
+                            "lng": -122.4086742,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Columbus Ave"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Have a simple breakfast of oatmeal and coffee with his parents before heading out.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Begin the commute by walking to the bus stop and taking the 30 Stockton bus towards downtown.",
+                        "geocode": {
+                            "lat": 37.7948162,
+                            "lng": -122.4078892,
+                            "formatted_address": "Bus Stop, 944 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 20,
+                        "location": "Stockton & Columbus Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Transfer to the MUNI Metro M-Ocean View line, listen to a public health podcast during the ride.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Powell Street MUNI Station"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at campus, settle in at his desk, and review the day's priorities and emails.",
+                        "geocode": {
+                            "lat": 37.7228987,
+                            "lng": -122.4830046,
+                            "formatted_address": "Student Health Center, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Student Health Services Office, SFSU"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Lead a weekly team meeting to coordinate the upcoming 'Student Wellness Week' events.",
+                        "geocode": {
+                            "lat": 37.7225174,
+                            "lng": -122.4787258,
+                            "formatted_address": "1650 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Cesar Chavez Student Center Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy lunch to-go and eat at a bench on campus.",
+                        "geocode": {
+                            "lat": 37.7863092,
+                            "lng": -122.4104046,
+                            "formatted_address": "336 O'Farrell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Halal Guys - Stonestown Galleria"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work session: Analyzing program feedback data and preparing a report for the department head.",
+                        "geocode": {
+                            "lat": 37.7228987,
+                            "lng": -122.4830046,
+                            "formatted_address": "Student Health Center, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 150,
+                        "location": "Student Health Services Office, SFSU"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct a one-on-one meeting with a student health advocate to plan outreach strategies.",
+                        "geocode": {
+                            "lat": 37.7213768,
+                            "lng": -122.4780886,
+                            "formatted_address": "1630 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Peet's Coffee, SFSU"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final tasks, clear inbox, and pack up before heading home.",
+                        "geocode": {
+                            "lat": 37.7228987,
+                            "lng": -122.4830046,
+                            "formatted_address": "Student Health Center, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Student Health Services Office, SFSU"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Start the long commute home, reading a novel on the MUNI train.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 70,
+                        "location": "SF State MUNI Station"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Post-commute de-stress with a jog along the waterfront to clear his head.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Embarcadero Promenade"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Sit down for dinner and conversation with his parents, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch an episode of a show, and text with friends to make weekend plans.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A busy day for Kevin, managing health programs at the university. His day is bookended by a long cross-city MUNI commute from his family home in North Beach, and concludes with a refreshing run by the water and a family dinner.",
+                "home_address": "1929 Columbus Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8067925,
+                    "lng": -122.4195657,
+                    "formatted_address": "1929 Columbus Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

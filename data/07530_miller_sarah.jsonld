@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "School Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s calling was born in the quiet, tree-lined suburbs of Walnut Creek. Growing up, she was the fierce advocate for her younger brother, whose struggles with a speech impediment were often met with impatience by the school system. It was in those parent-teacher conferences, translating not just his words but his frustrations, that Sarah found her purpose. This path led her to UC Santa Cruz for an undergraduate degree in psychology and then to San Francisco State University for a Master of Social Work, cementing her commitment to the city.\n\nShe began her career with the San Francisco Unified School District, thriving in the chaotic, vibrant energy of a middle school in the Mission District. She was a physical presence\u2014a calm port in the storm of adolescent hormones, family crises, and systemic neglect. Then, the world shifted. The pandemic pushed her job into the digital realm, and even as schools reopened, budget restructurings and new remote-work protocols kept her there. Her commute became zero miles.\n\nNow, from her small, second-floor apartment in the Inner Richmond, Sarah manages a caseload of students scattered across the city. Her day is a sequence of video calls, her screen a mosaic of troubled faces, anxious parents, and overworked administrators. She grapples with digital empathy fatigue, fighting for resources and mediating crises through a connection that often feels fragile.\n\nTo counteract the isolation, she has built a life within a few square blocks. Mornings start with a foggy walk through Golden Gate Park, followed by a strong coffee from a favorite cafe on Clement Street. Evenings are for a book club with other social workers or volunteering at a community garden, anything to feel grounded and connected to something tangible. Her closest friends are a lifeline, understanding the unique weight she carries.\n\nSarah loves San Francisco, but she misses feeling its pulse through her work. Her deepest aspiration is to get back into a school building, to trade the sterile quiet of her apartment for the ringing of a school bell and the messy, unscripted reality of the children she is so determined to serve."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, hydrate, and do a 10-minute guided meditation using a mindfulness app to mentally prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and do a quick skincare and makeup routine.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a quick breakfast of avocado toast and an espresso with her Nespresso machine.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from Pac Heights to the Mission, listening to the 'Sounds Like A Cult' podcast while navigating traffic on Van Ness and finding street parking.",
+                        "geocode": {
+                            "lat": 37.7433848,
+                            "lng": -122.4029681,
+                            "formatted_address": "301 Barneveld Ave b, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 40,
+                        "location": "Sarah's Car"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at work, review the day's student schedule, and respond to urgent emails from teachers and parents.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Doorhaus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Hold back-to-back one-on-one counseling sessions with high-need students.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Doorhaus Counseling Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk down the block to grab a 'Mission Dolores' turkey sandwich and eat at a parklet to decompress from the morning.",
+                        "geocode": {
+                            "lat": 37.7599804,
+                            "lng": -122.4215917,
+                            "formatted_address": "800 Valencia St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Rhea's Deli & Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead a small group session on conflict resolution with middle schoolers.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Doorhaus Group Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Complete detailed case notes and mandatory reporting paperwork, a critical and time-consuming part of the job.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Doorhaus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, listening to an indie folk playlist to disconnect from the emotional weight of the workday.",
+                        "geocode": {
+                            "lat": 37.7433848,
+                            "lng": -122.4029681,
+                            "formatted_address": "301 Barneveld Ave b, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 45,
+                        "location": "Sarah's Car"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38",
+                        "action": "Change and head to a heated Vinyasa flow class to stretch and release physical and mental tension.",
+                        "geocode": {
+                            "lat": 37.79832409999999,
+                            "lng": -122.4271696,
+                            "formatted_address": "1694 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Pad Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the neighborhood market to pick up a bottle of wine and some snacks for later in the week.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mollie Stone's Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Meet a friend on Fillmore Street for dinner and cocktails to socialize and catch up.",
+                        "geocode": {
+                            "lat": 37.79083809999999,
+                            "lng": -122.4343963,
+                            "formatted_address": "2301 Fillmore St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 120,
+                        "location": "The Snug"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down at home by tidying up, calling her parents for a quick chat, and reading a chapter of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A demanding yet balanced day for Sarah, a school social worker. Her day involves navigating SF traffic, managing challenging cases with students in the Mission, decompressing with yoga, and unwinding with a friend in her Pacific Heights neighborhood.",
+                "home_address": "2149 California St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7891966,
+                    "lng": -122.4297589,
+                    "formatted_address": "2149 California St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

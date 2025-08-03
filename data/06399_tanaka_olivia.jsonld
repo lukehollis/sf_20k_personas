@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Olivia Tanaka",
+    "givenName": "Olivia",
+    "familyName": "Tanaka",
+    "jobTitle": "Management Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Consulting"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Olivia Tanaka is a product of Silicon Valley's quiet ambition. A third-generation Japanese-American, she grew up in the meticulously planned suburbs of Cupertino, the child of a pragmatic software engineer father and a meticulous pharmacist mother. Her upbringing was a stable, predictable world of high expectations, advanced placement courses, and the unspoken assumption that success was a matter of linear progression.\n\nWhile her parents' world was one of circuits and chemistry, Olivia was fascinated by human motivation. She excelled at UC Berkeley, but it was during her Master's in Behavioral Economics at Stanford that she found her calling. The program was her key turning point, providing a framework for her intuitive understanding of why people\u2014and by extension, companies\u2014make the choices they do. This specialized degree made her a prime candidate for a top-tier management consulting firm, which she joined immediately after graduating.\n\nNow, at 25, her world is a brightly-lit apartment in Hayes Valley. Her 0.0-mile commute means her professional and personal lives unfold within the same square footage. Her days are a blur of intense focus: back-to-back video calls, complex data models, and crafting strategy slides for clients on the East Coast. Her routine is disciplined, bookended by a pre-dawn run through the quiet Panhandle and a late-night wind-down with a podcast.\n\nHer social life consists of efficient meetups with a tight-knit circle of equally driven friends from grad school, often for a quick dinner at a new restaurant that doubles as a networking opportunity. Dating is a sporadic series of app-based conversations that rarely survive the demands of her project deadlines.\n\nOlivia\u2019s connection to San Francisco is hyperlocal. She chose the city to escape the suburban sprawl of her youth, and she experiences it not through grand vistas, but through the familiar faces at her local coffee shop and the rhythm of life outside her window. Her ultimate ambition extends beyond just making Partner. She dreams of one day leveraging her expertise to launch her own boutique consultancy focused on building ethical, human-centric corporate cultures\u2014proving that understanding people is the most valuable business asset of all."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, morning hygiene, and get into workout clothes.",
+                        "geocode": {
+                            "lat": 37.7642759,
+                            "lng": -122.4652132,
+                            "formatted_address": "682 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 682 Irving St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a rejuvenating run through the nearby botanical gardens.",
+                        "geocode": {
+                            "lat": 37.7677096,
+                            "lng": -122.4693109,
+                            "formatted_address": "San Francisco Botanical Garden, 1199 9th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "San Francisco Botanical Garden"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7642759,
+                            "lng": -122.4652132,
+                            "formatted_address": "682 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - 682 Irving St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Enjoy a quick breakfast and coffee with her partner before the day begins.",
+                        "geocode": {
+                            "lat": 37.7642759,
+                            "lng": -122.4652132,
+                            "formatted_address": "682 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 682 Irving St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk up the hill to the UCSF campus, listening to a business news podcast.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Irving St to Parnassus Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the project 'war room', review daily objectives, and answer urgent emails.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Parnassus Campus - Consultant Project Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead a progress meeting with the UCSF hospital administration stakeholders.",
+                        "geocode": {
+                            "lat": 37.7627927,
+                            "lng": -122.4580873,
+                            "formatted_address": "San Francisco, CA 94131, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Medical Sciences Building Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy grain bowl to-go and eat at a bench with a view.",
+                        "geocode": {
+                            "lat": 37.763954,
+                            "lng": -122.464751,
+                            "formatted_address": "627 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 50,
+                        "location": "Pluto's on Irving Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: analyzing patient flow data and building a resource allocation model.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 180,
+                        "location": "UCSF Parnassus Campus - Consultant Project Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Internal team sync to align on findings and prepare the slide deck for the weekly client steering committee.",
+                        "geocode": {
+                            "lat": 37.7633027,
+                            "lng": -122.4590156,
+                            "formatted_address": "530 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 75,
+                        "location": "UCSF Kalmanovitz Library Study Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk home, leaving work thoughts behind and enjoying the Inner Sunset evening air.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 15,
+                        "location": "Parnassus Ave to Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery stop to pick up fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7641474,
+                            "lng": -122.4711468,
+                            "formatted_address": "1200 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Andronico's Community Markets"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Cook a healthy dinner and chat about the day with her partner.",
+                        "geocode": {
+                            "lat": 37.7642759,
+                            "lng": -122.4652132,
+                            "formatted_address": "682 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 682 Irving St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet up with a friend for a glass of wine and to catch up.",
+                        "geocode": {
+                            "lat": 37.7955411,
+                            "lng": -122.4215032,
+                            "formatted_address": "2032 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Inner Fog Wine Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down, watch an episode of a show with her partner.",
+                        "geocode": {
+                            "lat": 37.7642759,
+                            "lng": -122.4652132,
+                            "formatted_address": "682 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 682 Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: skincare, tidying up, and reading a few pages of a book before sleep.",
+                        "geocode": {
+                            "lat": 37.7642759,
+                            "lng": -122.4652132,
+                            "formatted_address": "682 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 682 Irving St"
+                    }
+                ],
+                "day_overview": "A demanding but efficient day for Olivia, balancing high-stakes client work at UCSF with a refreshing morning run in Golden Gate Park and quality evening time with her partner in their Inner Sunset home.",
+                "home_address": "682 Irving St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7642759,
+                    "lng": -122.4652132,
+                    "formatted_address": "682 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

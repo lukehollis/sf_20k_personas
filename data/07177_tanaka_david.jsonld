@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Tanaka",
+    "givenName": "David",
+    "familyName": "Tanaka",
+    "jobTitle": "Laboratory Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Tanaka\u2019s life is a study in quiet precision, much like the meticulously prepared microscope slides he analyzes daily. A third-generation San Franciscan, or *Sansei*, he was raised in the fog-laced avenues of the Outer Richmond. His parents, a postal worker and a seamstress, instilled in him a deep sense of duty and the quiet resilience characteristic of a family whose grandparents had been interned during WWII. They encouraged education not as a path to wealth, but to stability.\n\nHis educational journey was pragmatic. After graduating from high school, David enrolled at City College of San Francisco with plans to transfer to a four-year university. However, his mother's sudden diagnosis with a chronic illness altered his course. Needing to enter the workforce sooner to help with mounting expenses, he pivoted to a more direct career path, earning an Associate's degree in Medical Laboratory Technology. It was a practical choice, one he has never regretted but sometimes wonders about.\n\nThe key turning point was accepting a lab technician position at the UCSF Medical Center at Parnassus. The job offered not just stability, but a life contained within a few city blocks. He found a small, rent-controlled apartment in the Inner Sunset, making his commute a short, ten-minute walk. For over fifteen years, his world has been this small, predictable loop: his tidy apartment, the bustling hospital lab, and the familiar shops of 9th and Irving.\n\nSocially, David is reserved. He maintains friendly but distant relationships with colleagues and has a weekly phone call with his now-widowed father in the Richmond. His closest connection was a long-term relationship that ended five years ago; his partner had craved a bigger, more spontaneous life than David\u2019s routine could offer.\n\nNow at 43, David finds comfort in his work's exactness and his lifestyle\u2019s consistency. Yet, a quiet dream persists: to one day visit the small village in Kumamoto, Japan, from which his grandparents emigrated. It isn\u2019t a desire to escape his life, but to understand its foundations. He hopes to find a deeper connection, not just to his past, but perhaps with someone who appreciates the profound beauty of a quiet, well-ordered life."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\udd71",
+                        "action": "Wake up, start coffee maker, and do a quick 10-minute stretching routine.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in work clothes, and pack a change of shirt for after the commute.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Eat a simple breakfast of toast with avocado and a hard-boiled egg while scrolling through morning headlines.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Prep for the ride: fill water bottle, check bike tire pressure, and put on helmet.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4",
+                        "action": "Commute to work, cycling east along the Panhandle and using the 'Wiggle' route to navigate hills towards downtown.",
+                        "geocode": {
+                            "lat": 37.7893087,
+                            "lng": -122.3925971,
+                            "formatted_address": "San Francisco, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF Bike Routes"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the lab, lock up the bike in the building's storage, and change into work attire.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Montgomery Street Diagnostics"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Begin morning shift: run quality control checks on analyzers and start processing the first batch of patient samples.",
+                        "geocode": {
+                            "lat": 37.7652548,
+                            "lng": -122.4184863,
+                            "formatted_address": "2948 16th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 185,
+                        "location": "The Laboratory"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to pick up a 'Dutch Crunch' turkey sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83e\uddea",
+                        "action": "Afternoon work session: conduct hematology tests, enter results into the LIS, and perform weekly maintenance on the centrifuge.",
+                        "geocode": {
+                            "lat": 37.7652548,
+                            "lng": -122.4184863,
+                            "formatted_address": "2948 16th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 210,
+                        "location": "The Laboratory"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5",
+                        "action": "Begin the bike commute home, taking a slightly more scenic route through the Presidio for a change of pace.",
+                        "geocode": {
+                            "lat": 37.8021445,
+                            "lng": -122.4585086,
+                            "formatted_address": "Presidio Promenade Trail, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 45,
+                        "location": "Presidio Promenade Trail"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh bok choy, tofu, and other essentials for dinner.",
+                        "geocode": {
+                            "lat": 37.7827054,
+                            "lng": -122.4668356,
+                            "formatted_address": "707 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "New May Wah Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Unwind at home after the ride, putting away groceries and having a quick snack.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a former colleague for a happy hour pint and to catch up.",
+                        "geocode": {
+                            "lat": 37.7833159,
+                            "lng": -122.4605441,
+                            "formatted_address": "116 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Plough and the Stars"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Cook and eat a simple tofu and vegetable stir-fry for dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching an episode of a crime drama and tidying up the kitchen before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A structured day for David, a lab technician, balancing a focused workday in the Financial District with a vigorous cross-city bike commute from his home in the Richmond, and wrapping up with neighborhood errands and a casual social meet-up.",
+                "home_address": "1897 Clement St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7822713,
+                    "lng": -122.4795353,
+                    "formatted_address": "1897 Clement St, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

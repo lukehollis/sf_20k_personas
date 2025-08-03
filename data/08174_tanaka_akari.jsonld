@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Akari Tanaka",
+    "givenName": "Akari",
+    "familyName": "Tanaka",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Born and raised in the suburban quiet of San Jose, Akari Tanaka was the dutiful daughter of Japanese immigrants who prized stability and education. Her childhood was one of piano lessons, academic excellence, and the expectation that she would follow a secure, traditional path. However, a quiet curiosity about the mechanics of human choice led her to UC Davis, where she pursued a Bachelor's degree in Cognitive Science, fascinated by the \u201cwhy\u201d behind people's decisions.\n\nHer key turning point came during a summer internship. Tasked with analyzing user engagement metrics for a small startup, Akari discovered a passion for finding stories within spreadsheets. The abstract patterns of clicks, scrolls, and shares told a compelling narrative of human behavior. This revelation charted her career path; she could blend her analytical mind with her interest in human psychology. Upon graduation, she landed a coveted position as a Data Analyst for a major SF-based tech company.\n\nMoving to San Francisco was an act of quiet rebellion\u2014a trade of suburban sprawl for the vibrant density of her new Hayes Valley apartment. However, her company\u2019s embrace of permanent remote work became a double-edged sword. Her 0.0-mile commute means her world is often a hyperlocal loop: her bright, minimalist apartment is her office, a walk to Ritual Coffee Roasters is her break, and Patricia's Green is her backyard.\n\nAkari\u2019s social life is a delicate balance. She maintains a long-distance relationship with her college boyfriend who works in Sacramento, their connection sustained through nightly video calls. While she has a few friends in the city, the isolation of remote work makes spontaneous connection difficult. Her days are structured by data queries and virtual meetings, her evenings by home-cooked meals and streaming series.\n\nLately, Akari has felt a growing desire to break the digital bubble. She dreams of one day leading a data science team, but her more immediate aspiration is to put down deeper roots. She has started looking into local pottery classes and running clubs, hoping to find a community beyond her screen. Akari wants to close the gap between residing in San Francisco and truly belonging to it, transforming its iconic fog and hills from a backdrop into the texture of her own life story."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up to alarm, check social media and news notifications.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Quick morning yoga session following a YouTube video.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, skincare routine, and get dressed for the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bathroom"
+                    },
+                    {
+                        "emoji": "\ud83c\udf75",
+                        "action": "Prepare and eat a quick breakfast of matcha yogurt bowl and coffee.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and ride the 43 Masonic bus north.",
+                        "geocode": {
+                            "lat": 37.7817574,
+                            "lng": -122.4479401,
+                            "formatted_address": "43 Masonic Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 35,
+                        "location": "SFMTA 43 Masonic Bus"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at work, grab a cold brew from the office tap, and review daily priorities and emails.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 30,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Run SQL queries and clean a large dataset for an upcoming user engagement report.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 150,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk with a coworker to grab a healthy lunch bowl.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Participate in a team meeting to discuss data pipeline improvements.",
+                        "geocode": {
+                            "lat": 37.8098999,
+                            "lng": -122.4977005,
+                            "formatted_address": "Golden Gate, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "WSI Conference Room 'Golden Gate'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Build out visualizations in Tableau for the user engagement report.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 135,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home on the 43 Masonic, listening to a true crime podcast.",
+                        "geocode": {
+                            "lat": 37.7817574,
+                            "lng": -122.4479401,
+                            "formatted_address": "43 Masonic Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 40,
+                        "location": "SFMTA 43 Masonic Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udca8",
+                        "action": "Change into comfortable clothes and sort through the day's mail.",
+                        "geocode": {
+                            "lat": 37.7581269,
+                            "lng": -122.4439812,
+                            "formatted_address": "2626 Clayton St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (2626 Clayton St)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick walk to the local market for fresh pasta and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Cole Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat dinner while catching up on a new episode of a favorite show.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Call a friend to catch up and make plans for the upcoming weekend.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, read a few chapters of a novel, and set alarm.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive day for a young data analyst, balancing focused work on performance reports with a social lunch in the Marina, followed by a quiet evening of chores and relaxation in her Cole Valley neighborhood.",
+                "home_address": "2626 Clayton St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7589818,
+                    "lng": -122.4463397,
+                    "formatted_address": "2626 Clayton St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

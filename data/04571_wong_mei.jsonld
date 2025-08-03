@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Ling Wong",
+    "givenName": "Mei",
+    "familyName": "Wong",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Ling Wong\u2019s San Francisco story began not in a sleek tech campus, but amidst the fog-laced avenues of the Outer Sunset. The only child of first-generation immigrants from Hong Kong, she grew up stocking shelves and running the register at her parents\u2019 small neighborhood grocery store. Watching the lumbering Muni buses and the logistical tangle of delivery trucks, she developed an early, intense fascination with how a city moves\u2014and how it often fails to.\n\nThis ground-level view of urban inefficiency fueled her academic journey. She pursued an undergraduate degree in geography at UC Davis before earning a Master of Urban Planning from UC Berkeley. While many of her peers aimed for positions with city government, Mei Ling felt a pull towards the private sector\u2019s promise of rapid innovation. A turning point came during a graduate seminar where a guest lecturer from a major tech firm presented a vision for autonomous, on-demand public transit. Seeing a path to solve the very problems she observed as a child, she pivoted her career focus.\n\nNow 41, Mei Ling is a lead Transportation Planner for a major technology company, designing the logic for future autonomous vehicle networks. Her 0.0-mile commute is to a meticulously organized home office in her Inner Richmond apartment, where she spends her days analyzing data flows and modeling traffic patterns for cities that don't yet exist.\n\nHer life is a study in contrasts. Professionally, she is at the vanguard of urban futures, yet her personal life is deeply rooted in the San Francisco of her past. She remains fiercely devoted to her retired parents, visiting them for weekly dim sum in the Sunset. Her social circle consists of a tight-knit group of friends from grad school, providing a welcome escape from the intense, data-driven nature of her work.\n\nThough comfortable and successful, Mei Ling feels a growing disconnect. She spends her days digitally mapping cities but craves reconnection with her own. Her hope is to one day lead a project that directly benefits San Francisco, bridging the gap between its technological promise and the lived realities of its residents. For now, she finds balance in morning walks through Golden Gate Park and quiet evenings exploring the restaurants on Clement Street, grounding her digital world in the tangible, vibrant life of her neighborhood."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was eleven, standing on an overturned milk crate to see over the grocery store counter. A delivery truck was double-parked, blocking the L Taraval streetcar. The drivers yelled, the Muni bell clanged, and her father sighed, knowing his produce order was stuck in the mess. Mei Ling felt a hot knot of frustration, not at the delay, but at the sheer inefficiency of it all. The tangled street stopped being just a street; it became a puzzle she felt a sudden, intense need to solve.\n\n2.\nThe lecture hall at UC Berkeley was stuffy, but she leaned forward, captivated. The guest speaker clicked to a slide showing an elegant, flowing network of autonomous pods. It was a key turning in a lock she hadn\u2019t known existed. This wasn't just theory; it was the solution to the stalled trucks and angry drivers of her childhood. In that silent, academic space, watching the clean lines of a theoretical future, her own path suddenly became intensely clear and deeply personal.\n\n3.\nHer first major project simulation ran flawlessly. From her monitor, she watched thousands of digital vehicles navigate a complex interchange she\u2019d designed\u2014a perfect, frictionless ballet. A surge of intellectual pride hit her, sharp and satisfying. But as the clean data points flowed, she felt a flicker of emptiness. The model lacked the chaotic, messy, human pulse of a real city street. The success was brilliant, but it also felt strangely and unnervingly hollow.\n\n4.\nLast Sunday at dim sum, her father meticulously divided a shrimp dumpling with his chopsticks, placing a piece in her bowl without a word. The clatter of dishes and loud Cantonese chatter filled the silence left by a week of optimizing abstract data flows. They didn\u2019t ask about algorithms; they asked if she was eating enough. In that simple, grounding gesture, she felt a profound sense of belonging, a reminder that her oldest identity was not as a planner, but as their daughter.\n\n5.\nA few mornings ago in Golden Gate Park, she watched the fog drift through the cypress trees near Stow Lake. An elderly man practiced Tai Chi, his movements slow and deliberate, perfectly in tune with the quiet world around him. The sight caused a deep, poignant ache in her chest. She realized she spent her days designing for speed, but what she craved\u2014for herself and her city\u2014was the space for these kinds of quiet, inefficient, utterly human moments."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, quick stretch, and check the news.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk run along the waterfront.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Embarcadero Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of oatmeal and coffee while checking MUNI transit alerts.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and commute to the Financial District.",
+                        "geocode": {
+                            "lat": 37.7487621,
+                            "lng": -122.4045423,
+                            "formatted_address": "Bayshore Blvd, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "MUNI 8 Bayshore Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning work session: Analyze employee commute survey data for the new quarter.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 185,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy lunch bowl with a work colleague.",
+                        "geocode": {
+                            "lat": 37.7903917,
+                            "lng": -122.4037873,
+                            "formatted_address": "240 Kearny St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "MIXT on Montgomery Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon work: Lead a meeting on proposed new e-bike subsidy program.",
+                        "geocode": {
+                            "lat": 37.7933827,
+                            "lng": -122.4026176,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 150,
+                        "location": "Wells Fargo Corporate Office Conference Room"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final emails and organize desk for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 30,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Take the scenic, historic streetcar for the commute home.",
+                        "geocode": {
+                            "lat": 37.8029524,
+                            "lng": -122.400997,
+                            "formatted_address": "F Market and Wharves, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "MUNI F-Market & Wharves Streetcar"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries for the next few days.",
+                        "geocode": {
+                            "lat": 37.8054852,
+                            "lng": -122.4137755,
+                            "formatted_address": "401 Bay St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Trader Joe's at North Point"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Settle in, cook a homemade dinner, and listen to an urban planning podcast.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the sofa with a good book and a cup of tea.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: Tidy up, lay out clothes for tomorrow, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment on Powell St"
+                    }
+                ],
+                "day_overview": "A productive day for Mei Ling, combining detailed analysis on corporate transportation initiatives with a refreshing run along the Embarcadero and a quiet evening spent cooking and relaxing in her North Beach home.",
+                "home_address": "3761 Powell St, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8084677,
+                    "lng": -122.4125037,
+                    "formatted_address": "3761 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

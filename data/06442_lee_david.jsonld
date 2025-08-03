@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Lee",
+    "givenName": "David",
+    "familyName": "Lee",
+    "jobTitle": "Retail Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Lee\u2019s life is a story told in city blocks. Born in Oakland to first-generation Chinese immigrants who ran a small neighborhood grocery store, his childhood was a blur of stocking shelves and translating for customers after school. He absorbed his parents' tireless work ethic, viewing it as the only path to stability. With their encouragement, he enrolled at San Francisco State University, aiming for a business degree that felt more like a duty than a passion. His world was planned out, predictable.\n\nThe plan fractured during his sophomore year when his father suffered a major health crisis. Without hesitation, David left school, trading textbooks for inventory ledgers to keep the family store afloat. For two years, he was the pillar his family needed. When his father recovered enough to sell the business and retire, David found himself at a crossroads. At 22, with a resume full of practical retail experience but no degree, returning to school felt like a step backward. Instead, he leaned into what he knew, taking an entry-level job at a large retail chain in San Francisco.\n\nOver the next decade, David\u2019s pragmatism and quiet competence saw him rise steadily through the ranks. He is now the manager of a sleek, minimalist home goods store in Hayes Valley. His defining life choice is his 0.0-mile commute; he lives in a modern apartment two floors above the shop. His daily routine is a hyperlocal loop: coffee from the barista he knows by name, a brief walk downstairs to work, and an after-work drink at the corner bar with a few colleagues. His social circle is small but loyal, a mix of old friends from high school and a few fellow retail lifers.\n\nThough content, David quietly nurtures a dream that feels like a refined echo of his parents' journey. He saves meticulously, hoping to one day open his own small, curated menswear boutique in the very neighborhood he now calls home. It\u2019s a vision of honoring his family\u2019s entrepreneurial spirit, but this time, charting a course that is entirely his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, start the coffee maker, and check the morning fog over the neighborhood.",
+                        "geocode": {
+                            "lat": 37.753519,
+                            "lng": -122.4886205,
+                            "formatted_address": "2323 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 2323 Noriega St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Quick jog in the morning mist to clear the head before the day begins.",
+                        "geocode": {
+                            "lat": 37.7508727,
+                            "lng": -122.5081839,
+                            "formatted_address": "Great Hwy, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Great Highway Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.753519,
+                            "lng": -122.4886205,
+                            "formatted_address": "2323 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 2323 Noriega St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Walk to the bus stop and begin the commute, catching the 28 19th Avenue bus and transferring to the 38R Geary.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 55,
+                        "location": "Muni Bus (28 & 38R Lines)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Arrive at the shop. Review previous day's sales, check inventory levels, and assign morning tasks to the team.",
+                        "geocode": {
+                            "lat": 37.793157,
+                            "lng": -122.3966238,
+                            "formatted_address": "298 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Back Office, Kaiser Permanente Gift & Flower Shop"
+                    },
+                    {
+                        "emoji": "\ud83d\udc90",
+                        "action": "Manage the sales floor, assist customers looking for gifts, and handle a new shipment of floral arrangements.",
+                        "geocode": {
+                            "lat": 37.793157,
+                            "lng": -122.3966238,
+                            "formatted_address": "298 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 210,
+                        "location": "Kaiser Permanente Gift & Flower Shop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Step out for a quick lunch break to grab a sandwich and get some fresh air away from the hospital.",
+                        "geocode": {
+                            "lat": 37.7520859,
+                            "lng": -122.4191545,
+                            "formatted_address": "3329 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "La Mejor Bakery"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focus on administrative duties: create the work schedule for next week, place vendor orders, and respond to emails.",
+                        "geocode": {
+                            "lat": 37.793157,
+                            "lng": -122.3966238,
+                            "formatted_address": "298 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 210,
+                        "location": "Back Office, Kaiser Permanente Gift & Flower Shop"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home on the Muni, listening to a podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7456268,
+                            "lng": -122.4232287,
+                            "formatted_address": "38 28th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Muni Bus (38R & 28 Lines)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop by the local market to pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7633011,
+                            "lng": -122.4806025,
+                            "formatted_address": "2101 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "22nd & Irving Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Cook a simple but satisfying dinner and enjoy it while catching up on personal messages.",
+                        "geocode": {
+                            "lat": 37.753519,
+                            "lng": -122.4886205,
+                            "formatted_address": "2323 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 70,
+                        "location": "Home - 2323 Noriega St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind on the couch, watching a new series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.753519,
+                            "lng": -122.4886205,
+                            "formatted_address": "2323 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "Living Room, 2323 Noriega St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: tidy up the kitchen, lay out clothes for tomorrow, and read a few chapters of a book before bed.",
+                        "geocode": {
+                            "lat": 37.753519,
+                            "lng": -122.4886205,
+                            "formatted_address": "2323 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - 2323 Noriega St"
+                    }
+                ],
+                "day_overview": "A busy day for David, a retail manager, involving a cross-town Muni commute from his Outer Sunset home to the hospital gift shop, managing daily operations, and winding down with a quiet evening at home.",
+                "home_address": "2323 Noriega St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.753519,
+                    "lng": -122.4886205,
+                    "formatted_address": "2323 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Priya Sharma",
+    "givenName": "Priya",
+    "familyName": "Sharma",
+    "jobTitle": "Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Priya Sharma was born not in the fog of San Francisco, but under the relentless sun of Fremont. The daughter of a software engineer father and a mother who turned her love of cooking into a small, successful catering business, Priya grew up surrounded by the quiet hum of ambition. She inherited her father's affinity for logic and patterns, not in code, but in the elegant, often chaotic, dance of the stock market. This fascination led her to UC Berkeley, where she pursued a demanding Master's degree in Financial Engineering, a field that satisfied her need for both quantitative rigor and real-world impact.\n\nHer early career was a baptism by fire in the heart of San Francisco's Financial District. She thrived on the pressure, but the 2008 financial crisis was her defining crucible. Witnessing the collapse of seemingly infallible institutions firsthand instilled in her a profound sense of caution and a deep-seated skepticism of corporate hubris. It was a turning point that shaped her professional ethos: from a young, aggressive analyst to a meticulous, risk-averse strategist valued for her unflappable calm and foresight.\n\nNow, Priya\u2019s world is centered in her serene NoPa apartment, which doubles as her office. The 0.0-mile commute is a deliberate choice, allowing for a structured and peaceful lifestyle. Her days begin with a disciplined run through the Panhandle into Golden Gate Park, the city still quiet and cool. Work is an intense period of deep focus, analyzing global markets from her sunlit desk. Evenings are for herself\u2014reading historical fiction, trying a new recipe inspired by her mother, or meeting her small, tight-knit circle of friends for dinner in Hayes Valley. These friends, a mix of tech professionals and artists, are her chosen family.\n\nDeliberately single, Priya has built a life rich in independence and purpose. While content, she isn't stagnant. She dreams of mentoring young women entering the often-intimidating world of finance, helping them navigate the landscape she once found so treacherous. Her ultimate aspiration is to leverage her savings to launch a boutique financial advisory firm, one founded on principles of ethics and long-term stability rather than reckless growth. For Priya, wealth isn't the goal; it's the tool for building a legacy of wisdom and independence."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Wake up and scan overnight global market data on a tablet.",
+                        "geocode": {
+                            "lat": 37.7900348,
+                            "lng": -122.4022212,
+                            "formatted_address": "95 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 25,
+                        "location": "95 Montgomery St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Morning video call with parents in India while sipping tea.",
+                        "geocode": {
+                            "lat": 37.7900348,
+                            "lng": -122.4022212,
+                            "formatted_address": "95 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 20,
+                        "location": "95 Montgomery St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get dressed for the office, and have a quick breakfast.",
+                        "geocode": {
+                            "lat": 37.7900348,
+                            "lng": -122.4022212,
+                            "formatted_address": "95 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 35,
+                        "location": "95 Montgomery St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Short commute to work via Muni Metro from Montgomery to Powell Station.",
+                        "geocode": {
+                            "lat": 37.7895433,
+                            "lng": -122.401063,
+                            "formatted_address": "Montgomery St. Station, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Montgomery St. Station"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning deep work: Analyze overnight equity performance and update financial models.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Attend the weekly team stand-up to discuss market trends and strategy.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Central Tower Office Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break: Pick up a pre-ordered kale Caesar salad.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "Mixt Yerba Buena"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Afternoon work: Draft quarterly performance reports for institutional clients.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbc",
+                        "action": "Conference call with an East Coast client to review their portfolio.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Final hour of work: Respond to urgent emails and plan for the next day's tasks.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Leave the office and attend a post-work Pilates class to decompress.",
+                        "geocode": {
+                            "lat": 37.7866201,
+                            "lng": -122.4043897,
+                            "formatted_address": "747 Market St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Equinox Market Street"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute home via Muni Metro from Powell to Montgomery Station.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 15,
+                        "location": "Powell St. Station"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up groceries for a simple dinner.",
+                        "geocode": {
+                            "lat": 37.7766667,
+                            "lng": -122.4169444,
+                            "formatted_address": "1355 Market St suite 100, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "The Market at Bespoke"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Prepare and eat dinner while listening to a finance podcast.",
+                        "geocode": {
+                            "lat": 37.7900348,
+                            "lng": -122.4022212,
+                            "formatted_address": "95 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "95 Montgomery St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the sofa, reading a novel and disconnecting from work.",
+                        "geocode": {
+                            "lat": 37.7900348,
+                            "lng": -122.4022212,
+                            "formatted_address": "95 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 70,
+                        "location": "95 Montgomery St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: Prepare for the next day, skincare, and wind down before bed.",
+                        "geocode": {
+                            "lat": 37.7900348,
+                            "lng": -122.4022212,
+                            "formatted_address": "95 Montgomery St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 30,
+                        "location": "95 Montgomery St Apartment"
+                    }
+                ],
+                "day_overview": "A structured and productive day for a Financial Analyst, balancing intense market analysis and client reporting with personal wellness, including a post-work fitness class and a quiet evening at her downtown apartment.",
+                "home_address": "95 Montgomery St, San Francisco, CA 94111",
+                "home_geocode": {
+                    "lat": 37.7900348,
+                    "lng": -122.4022212,
+                    "formatted_address": "95 Montgomery St, San Francisco, CA 94104, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

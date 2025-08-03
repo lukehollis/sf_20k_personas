@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Li Chen",
+    "givenName": "Li",
+    "familyName": "Chen",
+    "jobTitle": "Data Scientist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Li Chen\u2019s story is woven into the very fabric of San Francisco. She was born and raised in the city\u2019s foggy Sunset District, the daughter of first-generation immigrants from Shanghai. Her parents, who ran a small but beloved neighborhood dry-cleaning business, instilled in her the values of diligence and pragmatism. Her childhood was a quiet landscape of fog-laced avenues, rigorous studies at Lowell High School, and Sunday dim sum with family. While her parents hoped for a straightforward career in medicine or engineering, Li found her passion in the elegant logic of language itself.\n\nHer academic journey was her first quiet rebellion. At UC Berkeley, she initially pursued computer science to appease her parents but discovered a fascination with how machines could understand human expression. This led her to a Master\u2019s in Computational Linguistics from Stanford, a compromise that beautifully melded her parents\u2019 pragmatism with her personal passion. It was here she learned to find the poetry in algorithms, crafting models that could decipher nuance and intent from text.\n\nNow 27, Li is a Data Scientist for a growing tech startup. Her 0.0-mile commute is a testament to her modern career; her \"office\" is a meticulously organized corner of her Hayes Valley apartment. Her days begin not with a frantic commute, but with a mindful walk to a local cafe for an oat milk latte. She spends her hours immersed in a symphony of code and syntax, building the intricate systems that power natural language processing. Evenings are for unwinding at a nearby yoga studio or exploring the Mission\u2019s culinary scene with a tight-knit circle of friends from college.\n\nWhile she has built a life distinct from her upbringing, Li remains deeply connected to her roots, visiting her parents every weekend in the Sunset. San Francisco is not just her home; it\u2019s a city of dualities she embodies\u2014the quiet, familial Sunset of her past and the vibrant, ambitious Hayes Valley of her present. Her dream is to one day lead a project that uses her skills for social good, perhaps developing AI to assist with mental health diagnostics. For Li, the ultimate goal is to write her own code, both professionally and personally, creating a life that is as meaningful as it is successful."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, hydrate, and listen to a tech news podcast while making coffee.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment, Bernal Heights"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Breakfast of oatmeal and fruit, while reviewing personal project code on GitHub.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen, Bernal Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack a gym bag for after work.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment, Bernal Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Walk to the J Church line and commute to the Montgomery St. station.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "SFMTA J Church Line"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Arrive at the office, grab a coffee from the kitchen, and join the daily team stand-up meeting.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Unity Technologies, SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep Work: Data cleaning and feature engineering for a user behavior prediction model.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Workstation at Unity Technologies"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break with colleagues, grabbing a quick and healthy bowl.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt, Yerba Buena Lane"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon Work: Collaborate with a product manager to review A/B test results and create data visualizations.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Huddle Room at Unity Technologies"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Final hour of work: Respond to emails and plan tasks for the next day.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 60,
+                        "location": "Workstation at Unity Technologies"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Commute home, reading a book on the Muni.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "SFMTA J Church Line"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Evening bouldering session to de-stress and get some exercise.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs Climbing & Fitness"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Meet a friend for dinner and catch up.",
+                        "geocode": {
+                            "lat": 37.7696277,
+                            "lng": -122.4221285,
+                            "formatted_address": "211 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Burma Love, Valencia Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Wind down at home, watch an episode of a documentary series, and prep for bed.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment, Bernal Heights"
+                    }
+                ],
+                "day_overview": "A productive day for a data scientist in SoMa, balancing deep work on predictive models with a bouldering session at Mission Cliffs and a social dinner in the Mission District.",
+                "home_address": "3025 Dolores St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7424163,
+                    "lng": -122.4239835,
+                    "formatted_address": "3025 Dolores St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Chen Family"
+    }
+}

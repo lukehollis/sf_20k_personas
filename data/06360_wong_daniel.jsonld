@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Wong",
+    "givenName": "Daniel",
+    "familyName": "Wong",
+    "jobTitle": "Logistics Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Logistics"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Wong\u2019s world is a meticulously organized grid contained within the walls of his Outer Sunset apartment. Born and raised in this very neighborhood, Daniel is the son of Hong Kong immigrants who ran a small, bustling laundromat in the Richmond District. He grew up surrounded by the scent of warm cotton and the constant hum of machinery, learning the value of relentless work and quiet duty from his parents. They envisioned a stable future for him, one marked by a suit and a downtown office.\n\nFollowing their wishes, Daniel pursued a practical Bachelor\u2019s in Business Administration at San Francisco State University. He was a dutiful student, but the corporate ladder felt hollow. He discovered his true calling not in management theory, but in the complex, puzzle-like world of logistics. It was a field that rewarded his innate talent for seeing patterns and creating order out of chaos. After a few years in a traditional office, a key turning point arrived with the global shift to remote work. Daniel seized the opportunity, transitioning to a fully remote Logistics Manager role, effectively making his commute a 0.0-mile walk from his bedroom to his spare-room office.\n\nHis days are a quiet rhythm of coordinating global shipments, a digital puppet master moving containers across oceans from his foggy corner of the city. The soundtrack to his work is not office chatter, but the distant cry of gulls and the mournful symphony of foghorns. To decompress, Daniel walks to Ocean Beach, his camera in hand. He\u2019s become an adept amateur photographer, obsessed with capturing the fleeting light as it breaks through the marine layer. This hobby is his private rebellion\u2014an pursuit of unscripted beauty that contrasts sharply with his regimented profession.\n\nHis social life is small but meaningful, anchored by a weekly trivia night with two college friends at a dive bar on Taraval Street. While his parents don\u2019t fully grasp his version of success, they see he is content. Daniel\u2019s aspiration isn\u2019t a promotion, but to perfect his craft: to one day capture a photo of the Farallon Islands on a perfectly clear day, a rare and unpredictable moment of clarity in his beloved, foggy city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Wake up, make coffee, and catch up on news with his partner before starting the day.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Residence on Church St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Walk to the Church & 24th St station and take the Muni downtown, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "J Church Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Arrive at the office, grab a tea from the kitchen, and review the overnight shipment status on the global logistics dashboard.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead the daily logistics team stand-up meeting to discuss carrier capacity and potential bottlenecks.",
+                        "geocode": {
+                            "lat": 37.90062169999999,
+                            "lng": -122.514445,
+                            "formatted_address": "33 Reed Blvd, Mill Valley, CA 94941, USA"
+                        },
+                        "duration": 30,
+                        "location": "Meeting Room: The Portal"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: analyzing last quarter's freight costs and preparing a performance report for leadership.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a healthy grain bowl to-go for lunch.",
+                        "geocode": {
+                            "lat": 37.8066623,
+                            "lng": -122.4321059,
+                            "formatted_address": "Building A, 2 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "SoMa Greens"
+                    },
+                    {
+                        "emoji": "\u26a0\ufe0f",
+                        "action": "Handle an urgent escalation: a key hardware shipment is held up in customs. Involves calls to freight forwarders and internal stakeholders.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Collaborate with the supply chain team to plan inventory allocation for the upcoming quarter.",
+                        "geocode": {
+                            "lat": 37.77742629999999,
+                            "lng": -122.4933877,
+                            "formatted_address": "615 33rd Ave, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 75,
+                        "location": "Project War Room: Atlas"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Wrap up the day's tasks, answer final emails, and head back to Montgomery Station for the commute home.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "J Church Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market after getting off the train to pick up fresh bread and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Church Street Produce"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a pasta dinner with his partner, sharing stories from their respective days.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Residence on Church St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a new documentary together on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Wind down for the night: tidying up, packing his bag for tomorrow, and reading a few pages of a novel.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Residence on Church St"
+                    }
+                ],
+                "day_overview": "A productive weekday for a logistics manager, balancing data-driven work and team collaboration in SoMa with a relaxing evening routine and quality time with his partner in their Noe Valley neighborhood.",
+                "home_address": "2511 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7422243,
+                    "lng": -122.4263674,
+                    "formatted_address": "2511 Church St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1991",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

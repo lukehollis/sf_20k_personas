@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Javier Garcia",
+    "givenName": "Javier",
+    "familyName": "Garcia",
+    "jobTitle": "Research Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Professional Networking Groups"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Javier Garcia exists in a world of digital phantoms and elegant algorithms, a stark contrast to the one he was born into. The son of immigrants from Oaxaca, Mexico, he grew up in San Jose amidst the scent of his mother\u2019s baking and the grease from his father\u2019s auto shop. His parents built a life with calloused hands and tireless labor, instilling in Javier a profound work ethic. While they saw the world in tangible things\u2014engines, flour, rent\u2014Javier was captivated by the unseen logic humming inside a donated family computer. A quiet, intensely curious child, he spent more time deconstructing hardware and writing simple code than playing outside.\n\nThis early passion became a clear path. A scholarship took him to UC Berkeley for computer science, where he graduated top of his class. He was then accepted into Stanford\u2019s prestigious Ph.D. program, specializing in machine learning and neural networks. His turning point came during his dissertation, where he developed a novel framework for more transparent and ethical AI decision-making. A major tech firm recruited him before he even defended his thesis, offering him a research scientist position with near-total autonomy.\n\nNow 30, Javier lives and works in a minimalist SOMA loft, his commute a ten-step walk from his bed to his high-powered workstation. His daily routine is a monastic cycle of deep work: waking before dawn, brewing strong coffee, and immersing himself in data sets and theoretical models until midday. He breaks for a run along the Embarcadero, the bay breeze a necessary reset from the sterile air of his apartment. His social life is small but meaningful; weekly video calls with his parents, who are proud but don\u2019t fully grasp his work, and occasional drinks with a few former colleagues. A recent breakup with a partner who tired of competing with his research has left him feeling more isolated than ever.\n\nJavier\u2019s connection to San Francisco is primarily through his window and his running shoes\u2014he sees the city as a living system, a complex network of energy and ambition. He dreams not of wealth, but of a breakthrough. His singular goal is to create AI that serves humanity equitably, a digital tool as reliable and helpful as the wrenches in his father\u2019s shop. He hopes to one day bridge the gap between his abstract code and the tangible world, proving that his quiet labor can build a better future."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake Up & Check Notifications",
+                        "geocode": {
+                            "lat": 37.7984793,
+                            "lng": -122.4473617,
+                            "formatted_address": "3243 Lombard St, San Francisco, CA 94123"
+                        },
+                        "duration": 15,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Morning Run along the Waterfront",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and Get Ready for the Day",
+                        "geocode": {
+                            "lat": 37.7984793,
+                            "lng": -122.4473617,
+                            "formatted_address": "3243 Lombard St, San Francisco, CA 94123"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Breakfast: Greek Yogurt, Granola, and French Press Coffee",
+                        "geocode": {
+                            "lat": 37.7984793,
+                            "lng": -122.4473617,
+                            "formatted_address": "3243 Lombard St, San Francisco, CA 94123"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning \"Commute\" to Home Office",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Deep Work: Coding & Data Analysis for a Route Optimization Model",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 180,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch: Walk to Grab a Power Salad",
+                        "geocode": {
+                            "lat": 37.8000397,
+                            "lng": -122.4410062,
+                            "formatted_address": "3258 Scott St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Pluto's on Chestnut"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Afternoon Work: Virtual Team Sync & Reviewing Research Papers",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "End of Workday: Log Off and Tidy Desk",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7\u200d\u2642\ufe0f",
+                        "action": "De-stress with an Evening Bouldering Session",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Movement Marina"
+                    },
+                    {
+                        "emoji": "\ud83c\udf54",
+                        "action": "Meet a Friend for Dinner and Drinks",
+                        "geocode": {
+                            "lat": 37.8003429,
+                            "lng": -122.4420181,
+                            "formatted_address": "2346 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 120,
+                        "location": "Causwells"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Weekly Catch-up Call with Parents",
+                        "geocode": {
+                            "lat": 37.7984793,
+                            "lng": -122.4473617,
+                            "formatted_address": "3243 Lombard St, San Francisco, CA 94123"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind Down: Read a Chapter of a Sci-Fi Novel",
+                        "geocode": {
+                            "lat": 37.7984793,
+                            "lng": -122.4473617,
+                            "formatted_address": "3243 Lombard St, San Francisco, CA 94123"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a research scientist, balanced with a scenic morning run in the Marina, a focused afternoon of data analysis, and an evening of bouldering and socializing with a friend.",
+                "home_address": "3243 Lombard St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7984793,
+                    "lng": -122.4473617,
+                    "formatted_address": "3243 Lombard St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Garcia Family"
+    }
+}

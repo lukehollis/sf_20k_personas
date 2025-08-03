@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Process Engineer",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life has been a study in bridging disparate worlds. The daughter of a pragmatic Indian immigrant mother and a free-spirited American father from Ohio, she grew up in the quiet, ordered suburbs of Fremont. Her childhood was a blend of meticulous Diwali preparations and Fourth of July barbecues, a duality that taught her to appreciate both structure and spontaneity. This innate ability to see how different parts form a whole led her, unexpectedly, to a Bachelor's in Environmental Studies, where she became fascinated by complex ecosystems and human-designed systems.\n\nAfter graduating, Sarah found that a degree in environmental theory didn\u2019t translate directly into the fast-paced Bay Area job market. Her turning point came during a temp job doing data entry for a burgeoning startup. She was horrified by the chaotic, inefficient workflows that wasted time and energy. Driven by an obsessive need to fix things, she spent her evenings and weekends teaching herself process mapping, automation tools, and Agile methodologies. She created a proposal to streamline her team\u2019s entire workflow, which so impressed management that they created a junior Process Engineer role for her.\n\nNow 28, Sarah has carved out a distinct life in San Francisco\u2019s vibrant Mission District. Her 0.0-mile commute means her rent-controlled one-bedroom apartment doubles as her office. Her days are structured: a morning run to Dolores Park, followed by deep focus work optimizing engineering pipelines for her tech firm. She breaks for lunch at a local taqueria, deliberately leaving her apartment to feel the neighborhood's pulse. Her social life revolves around a tight-knit group of friends\u2014her chosen family\u2014met through a local climbing gym.\n\nSarah\u2019s connection to San Francisco is one of intentional creation. She left the predictable comfort of the suburbs to build a life on her own terms. While she excels at making tech companies more efficient, she dreams of applying her skills to a larger cause, perhaps by starting a consulting firm that helps non-profits or city governments optimize their social and environmental impact. For Sarah, life isn't just a path to follow, but a complex system to be understood, improved, and ultimately, perfected."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up to alarm, check news headlines and work notifications on phone.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Sarah's Apartment on Taraval"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning hygiene routine: shower, skincare, and get dressed for the office.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Sarah's Apartment on Taraval"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of avocado toast and make a large coffee in a travel mug for the commute.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Sarah's Apartment on Taraval"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute to work by walking to the nearest stop and taking the L Taraval train inbound, listening to a tech industry podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "L Taraval Muni Metro"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, settle at desk, organize daily tasks on a project management tool like Asana.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "SF Department of Technology Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep Work Session: Analyze performance metrics from a recently implemented workflow, building out a data visualization dashboard.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "SF Department of Technology Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Weekly Project Sync: Attend a meeting to discuss project milestones, identify blockers, and align on next steps with the team.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Department of Technology Office Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd59",
+                        "action": "Lunch Break: Walk over to Hayes Valley and grab a falafel wrap to eat outside at the park.",
+                        "geocode": {
+                            "lat": 37.7765267,
+                            "lng": -122.4249906,
+                            "formatted_address": "517 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Souvla - Hayes Valley"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Afternoon Collaboration: Work with another engineer to draft technical documentation for a new software integration process.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "SF Department of Technology Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Commute Home: Walk back to Civic Center Station and take the L Taraval outbound, reading a novel on a Kindle.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "L Taraval Muni Metro"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Evening Yoga Session: Decompress from the day with a vinyasa flow class at a neighborhood studio.",
+                        "geocode": {
+                            "lat": 37.7467314,
+                            "lng": -122.4863492,
+                            "formatted_address": "Sunset District, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Green Yogi - Sunset"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Pick up a specialty loaf of bread for the week on the way home from yoga.",
+                        "geocode": {
+                            "lat": 37.763405,
+                            "lng": -122.4664416,
+                            "formatted_address": "1331 9th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 15,
+                        "location": "Arizmendi Bakery - 9th Ave"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a simple dinner at home, like a large salad with grilled chicken.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Sarah's Apartment on Taraval"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax and Wind Down: Watch an episode of a trending series on a streaming service and scroll through social media.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sarah's Apartment on Taraval"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Prepare for the next day by packing a lunch and laying out an outfit before getting ready for bed.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Sarah's Apartment on Taraval"
+                    }
+                ],
+                "day_overview": "A structured and productive weekday for a tech professional balancing focused work near Civic Center with a manageable Muni commute, and unwinding with a social dinner and relaxation in her Outer Sunset neighborhood.",
+                "home_address": "3282 Taraval St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7420889,
+                    "lng": -122.5013322,
+                    "formatted_address": "3282 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

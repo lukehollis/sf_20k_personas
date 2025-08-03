@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jones",
+    "givenName": "Sarah",
+    "familyName": "Jones",
+    "jobTitle": "Medical Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jones\u2019s life is framed by the fog that rolls through her Inner Richmond window. Born and raised in a quiet Oregon town, her path was forged not by ambition, but by necessity. Her younger brother\u2019s chronic childhood illness plunged their family into a world of bewildering hospital corridors, insurance paperwork, and hushed, clinical conversations. It was there, watching a compassionate social worker navigate the chaos for her parents, that Sarah found her calling. She saw a way to bring order and empathy to people\u2019s most vulnerable moments.\n\nThis drive led her to pursue a Master of Social Work at San Francisco State University, trading Oregon\u2019s green expanse for the city\u2019s dense, vibrant grid. She began her career at a large downtown hospital, thriving on the fast-paced, high-stakes environment. She was excellent at her job: a steady presence who could coordinate discharge plans, connect uninsured patients with resources, and hold a family\u2019s hand through a devastating diagnosis.\n\nThe turning point was the pandemic-era shift to remote work. What began as a temporary measure became permanent. Her 0.0-mile commute means her office is now a corner of her one-bedroom apartment, her patients reduced to voices on a headset and faces on a screen. The apartment, once a sanctuary from the emotional toll of her job, now contains it. Her world has become both efficient and profoundly isolating.\n\nHer social life exists in quiet pockets. A weekly video call with her brother, now a healthy adult in Portland; sporadic dinners with a few fellow social worker friends who are just as exhausted as she is. Her most consistent companion is Leo, a perpetually unimpressed ginger cat. Her connection to San Francisco is felt on her daily walks through Golden Gate Park, where she trades the sterile glow of her monitor for the damp smell of eucalyptus and the expanse of Ocean Beach.\n\nSarah, at 38, yearns for a life less curated by a work calendar. She doesn't dream of changing the world, but of re-entering it. Her hope is small, tangible: to join a pottery class, to feel the slick, grounding texture of clay in her hands, and to create something for no one\u2019s benefit but her own, in a room full of strangers who might just become friends."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and practice a 15-minute guided meditation to mentally prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Living Room, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew coffee and have a light breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Kitchen, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower, get dressed into comfortable but professional clothes for video calls.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Begin the 'commute' by settling into the home office, booting up the laptop, and logging into work systems.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office Nook, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Review patient caseload, respond to urgent emails, and prioritize the day's tasks.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 80,
+                        "location": "Home Office (Miro Studios Virtual)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\u2695\ufe0f",
+                        "action": "Conduct a telehealth video session with a new patient to complete an initial psychosocial assessment.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Secure Telehealth Platform (Miro Studios)"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Complete extensive documentation from the assessment in the patient's electronic health record.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office (Miro Studios Virtual)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Step away from the screen for a lunch break walk to pick up a classic Italian sub.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe5",
+                        "action": "Participate in a virtual interdisciplinary team meeting with doctors and nurses to coordinate patient care plans.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Microsoft Teams (Miro Studios)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Make advocacy and resource calls on behalf of a patient to arrange in-home support services.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office (Miro Studios Virtual)"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0c",
+                        "action": "End the 'commute' home by logging off all work applications, closing the laptop, and tidying the desk.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office Nook, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Decompress from the workday with a challenging run up and down the iconic Filbert Street Steps.",
+                        "geocode": {
+                            "lat": 37.8018004,
+                            "lng": -122.4056399,
+                            "formatted_address": "Filbert St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Filbert Street Steps"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Cook a healthy dinner with partner, using fresh vegetables from a local market.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "Home Kitchen, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfac",
+                        "action": "Relax and connect with her partner, catching up on their days and watching a movie.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 100,
+                        "location": "Living Room, North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a book and a cup of herbal tea before bed.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bedroom, North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A structured work-from-home day for a Medical Social Worker in North Beach, balancing demanding virtual patient care with neighborhood walks, a challenging outdoor workout, and quality time with her partner.",
+                "home_address": "1025 Stockton St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7953326,
+                    "lng": -122.4083634,
+                    "formatted_address": "1025 Stockton St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Singh Family"
+    }
+}

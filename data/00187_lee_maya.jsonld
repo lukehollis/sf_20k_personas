@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maya Lee",
+    "givenName": "Maya",
+    "familyName": "Lee",
+    "jobTitle": "Assistant Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maya Lee\u2019s story began in the Sunset District, where she was raised by hardworking immigrant parents who ran a small dry-cleaning business. Their long shifts and dedication instilled in Maya a strong work ethic from a young age. Summer afternoons were often spent helping fold laundry or making deliveries, forging a practical understanding of small business realities.\n\nAcademically, Maya was bright but struggled with conventional schooling structures. She enrolled at San Francisco State intending to pursue a Business Administration degree, hoping to one day open her own shop. However, the theoretical coursework felt disconnected from the tangible world she knew. After two years, financial pressures and a compelling opportunity led her to leave college and take a full-time position at a popular retail chain's downtown location.\n\nThis was a turning point. Maya found her niche in direct customer interaction and the fast-paced environment. She quickly rose through the ranks, her practicality and problem-solving skills proving invaluable. An unexpected health scare with her father several years ago solidified her desire to stay close to her family and contribute financially, further shelving her degree aspirations.\n\nCurrently, Maya is the assistant store manager, a role that demands long hours but offers a sense of accomplishment. She lives in a modest Inner Sunset apartment, a familiar neighborhood providing a comforting sense of community. Her days are a rhythm of early morning commutes on the Muni, managing staff, engaging with customers, and handling inventory. Evenings are often quiet, spent reading, catching up with her parents, or occasionally meeting a friend for dinner in the Richmond.\n\nMaya's primary social circle consists largely of colleagues and a few long-standing friends from high school. Romantic relationships have been infrequent, her demanding schedule often making deep connections challenging.\n\nDespite the daily grind, Maya holds onto a quiet ambition. She dreams of eventually managing her own store, perhaps within the same company, leveraging her years of experience. Beyond that, she harbors a subtle desire for more independence, maybe even travelling outside of California someday. San Francisco, with its diverse neighborhoods and resilient spirit, is more than just a city for Maya; it\u2019s her ingrained reality, a place where her past and present are intimately intertwined, and where her future, however uncertain, feels intrinsically rooted."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.  The day she convinced a skeptical customer to buy the perfect outfit, seeing their smile transformed her own exhaustion into quiet pride. This success solidified her passion for retail and her ability to connect with people, reinforcing the value of her practical skills over a theoretical degree. It happened in her early years at the retail chain.\n\n2.  Sitting by her father\u2019s hospital bed, his hand weakly holding hers, the quiet strength in his eyes spoke volumes of his love and sacrifice. The fear was immense, but the moment cemented her commitment to family and staying rooted in San Francisco, a priority that easily overshadowed academic pursuits. This was several years ago.\n\n3.  Helping her mother fold piles of freshly cleaned shirts, the rhythmic motion and familiar scent of the dry cleaner felt like an extension of home. It wasn\u2019t glamorous, but the shared labor and unspoken understanding of responsibility instilled a deep work ethic and appreciation for and gratitude for their effort since childhood.\n\n4.  Walking through Golden Gate Park on a rare day off, the sunlight filtering through the trees made her pause. A pang of longing for something more, something outside the predictable rhythm of work, stirred within her. This quiet moment of reflection hinted at her subtle desire for travel and independence beyond San Francisco. This happens occasionally during her free time.\n\n5.  Receiving her first assistant manager name tag felt heavier than she expected. It wasn\u2019t the dream of her own shop, but it was a tangible step forward, a recognition of her dedication and skill. The weight of responsibility was real, but so too was the feeling of quiet accomplishment and hope for future growth within the company. This happened when she was promoted."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to alarm, scroll through Instagram, and check the weather before getting out of bed.",
+                        "geocode": {
+                            "lat": 37.7856757,
+                            "lng": -122.3958433,
+                            "formatted_address": "303 2nd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 15,
+                        "location": "Maya's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning hygiene routine: shower, skincare, and get dressed into her professional retail attire.",
+                        "geocode": {
+                            "lat": 37.7856757,
+                            "lng": -122.3958433,
+                            "formatted_address": "303 2nd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Maya's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Share a quick breakfast of jook (congee) and tea with her parents in the kitchen.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Family Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk down the hill to the bus stop and catch the Muni 30-Stockton towards Union Square.",
+                        "geocode": {
+                            "lat": 37.7931905,
+                            "lng": -122.4077467,
+                            "formatted_address": "Stockton St & Sacramento St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 20,
+                        "location": "Stockton & Sacramento St Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Clock in for her shift. Review previous day's sales reports and current inventory levels in the back office.",
+                        "geocode": {
+                            "lat": 37.7842834,
+                            "lng": -122.40712,
+                            "formatted_address": "865 Market St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Westfield Centre - Store Manager's Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the morning team huddle on the sales floor, outlining daily promotions and sales goals.",
+                        "geocode": {
+                            "lat": 37.7842834,
+                            "lng": -122.40712,
+                            "formatted_address": "865 Market St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Westfield Centre - Main Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Manage the floor during peak morning hours, assisting with customer service and supporting staff.",
+                        "geocode": {
+                            "lat": 37.7842834,
+                            "lng": -122.40712,
+                            "formatted_address": "865 Market St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "Westfield Centre - Main Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick poke bowl for lunch and eat in the staff breakroom while chatting with coworkers.",
+                        "geocode": {
+                            "lat": 37.770734,
+                            "lng": -122.3914545,
+                            "formatted_address": "601 Mission Bay Boulevard North, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 45,
+                        "location": "Poke Delish at Westfield Food Court"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle afternoon administrative duties: create the staff schedule for next week and respond to corporate emails.",
+                        "geocode": {
+                            "lat": 37.7842834,
+                            "lng": -122.40712,
+                            "formatted_address": "865 Market St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Westfield Centre - Store Manager's Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Perform a final walkthrough of the store, ensuring displays are neat and addressing any last-minute issues before her shift ends.",
+                        "geocode": {
+                            "lat": 37.7842834,
+                            "lng": -122.40712,
+                            "formatted_address": "865 Market St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Westfield Centre - Main Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Take the Muni bus home, listening to a podcast to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 25,
+                        "location": "Market St & 4th St Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6c",
+                        "action": "Stop by the local market to pick up fresh bok choy and roast duck for the family dinner.",
+                        "geocode": {
+                            "lat": 37.7463161,
+                            "lng": -122.4026625,
+                            "formatted_address": "Produce Market, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Chinatown Produce Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Help her mother prepare dinner while catching up on neighborhood gossip and family news.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Family Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Sit down for dinner with her family, a lively and important part of her daily routine.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Family Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83e\uddcb",
+                        "action": "Meet up with a friend for a walk through North Beach and a late-night boba.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St #100, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 75,
+                        "location": "Plentea"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Wind down for the night: watch a show, do her evening skincare routine, and set her alarm for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7856757,
+                            "lng": -122.3958433,
+                            "formatted_address": "303 2nd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 40,
+                        "location": "Maya's Apartment"
+                    }
+                ],
+                "day_overview": "A busy but structured day for Maya, balancing her responsibilities as a retail manager at a bustling downtown store with cherished family time and social connections in her vibrant Chinatown neighborhood.",
+                "home_address": "1057 Powell St, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.7944988,
+                    "lng": -122.4099008,
+                    "formatted_address": "1057 Powell St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

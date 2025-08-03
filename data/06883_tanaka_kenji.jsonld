@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "Assistant Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "San Francisco Resident"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka\u2019s life is measured in the 14 steps it takes to get from his apartment door to the back entrance of \"Richmond Hardware & Goods,\" the store he helps manage. Living in the small flat above the shop where he grew up, his 0.0-mile commute is both a convenience and a cage. A second-generation Japanese American, Kenji was raised in the foggy avenues of the Inner Richmond, his childhood soundtrack the clang of the key-cutting machine and his father\u2019s friendly chatter with neighborhood regulars.\n\nHe was supposed to be the one to break the mold. After graduating from Lowell High School, Kenji enrolled at San Francisco State University, his sketchbooks filled with architectural designs and dreams of building something grander than meticulously organized aisles of nuts and bolts. But during his sophomore year, his father\u2019s health began a steep decline. Kenji\u2019s classes became secondary to helping his mother run the store. \"Just for a semester,\" he told himself. That semester bled into a year, and after his father passed, the temporary responsibility became a permanent, unspoken inheritance.\n\nNow 31, Kenji is a cornerstone of the neighborhood, though few know the depth of the sacrifice that keeps him there. He knows which customers need help reaching the top shelf and who prefers which brand of gardening gloves. These small, daily interactions form the bedrock of his social life, replacing the college friendships that faded with time. A past relationship with a nurse named Maya frayed under the strain of his constant proximity to work; he could never truly leave his duties behind, even for a weekend.\n\nHis days are a predictable rhythm: unlock the store at 8 AM, manage inventory, assist customers, and lock up at 7 PM. In the quiet solitude of his apartment, surrounded by his father\u2019s old records and his own forgotten art supplies, Kenji dreams not of escape, but of synthesis. He hopes to one day modernize the store, perhaps launching an online shop with a logo he designs himself. His aspiration isn\u2019t to leave his father\u2019s legacy behind, but to finally build something of his own upon the foundation he so dutifully maintains."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check phone notifications, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.750971,
+                            "lng": -122.4343157,
+                            "formatted_address": "1314 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - 1314 Castro St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Morning walk to grab a large coffee and a pastry.",
+                        "geocode": {
+                            "lat": 37.7710697,
+                            "lng": -122.4320952,
+                            "formatted_address": "201 Steiner St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Reveille Coffee Co."
+                    },
+                    {
+                        "emoji": "\ud83e\udd50",
+                        "action": "Eat breakfast at home while catching up on the morning news.",
+                        "geocode": {
+                            "lat": 37.750971,
+                            "lng": -122.4343157,
+                            "formatted_address": "1314 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 1314 Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning 'commute' - organize home office desk and plan the workday.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office - Castro Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Work Block 1: Respond to urgent customer service emails and review previous day's online sales reports.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office - Castro Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Virtual weekly sync-up meeting with the store manager and floor staff.",
+                        "geocode": {
+                            "lat": 37.7884637,
+                            "lng": -122.3965434,
+                            "formatted_address": "500 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Office - via Slack/Zoom"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Lunch Break: Walk down the street to grab a classic Italian deli sandwich.",
+                        "geocode": {
+                            "lat": 37.7620262,
+                            "lng": -122.4354437,
+                            "formatted_address": "426 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Rossi's Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Work Block 2: Create and distribute next week's staff schedule and manage online inventory levels.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 180,
+                        "location": "Home Office - Castro Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "End of Day 'Commute': Finalize daily sales report, shut down work computer, and tidy up the desk.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office - Castro Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "De-stress with a strength and conditioning workout at the local gym.",
+                        "geocode": {
+                            "lat": 37.7637395,
+                            "lng": -122.4334293,
+                            "formatted_address": "2301 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF - Castro"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Quick stop for fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Prepare and eat dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.750971,
+                            "lng": -122.4343157,
+                            "formatted_address": "1314 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 1314 Castro St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Meet up with a friend for a cocktail and conversation.",
+                        "geocode": {
+                            "lat": 37.7672597,
+                            "lng": -122.4295904,
+                            "formatted_address": "2124 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Blackbird"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down at home, watch an episode of a show on streaming.",
+                        "geocode": {
+                            "lat": 37.750971,
+                            "lng": -122.4343157,
+                            "formatted_address": "1314 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - 1314 Castro St"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for an assistant retail manager, focused on administrative tasks, balanced with a neighborhood walk for lunch, an evening gym session, and catching up with a friend for a drink in the Castro.",
+                "home_address": "1314 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.750971,
+                    "lng": -122.4343157,
+                    "formatted_address": "1314 Castro St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Marketing Coordinator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s story began not in the San Francisco fog, but under the wide, humid skies of suburban Ohio. The son of an accountant and a teacher, his passion for the abstract was a gentle rebellion against his parents\u2019 pragmatism. He pursued an Art History degree, a choice that satisfied his soul but left his career path ambiguous. After a brief, soul-crushing stint in corporate sales post-college, he vowed to align his work with his passion, even if it meant less financial security.\n\nLured by the city\u2019s romantic, bohemian promise, he arrived in San Francisco in his late twenties, finding his footing in the non-profit arts world. He worked his way up from gallery assistant to his current role as a Marketing Coordinator for a prominent arts foundation. The key turning point in his life was not a promotion, but the end of a decade-long relationship four years ago. The breakup was gut-wrenching, forcing him into a period of deep introspection and reshaping his definition of a successful life.\n\nToday, David\u2019s world is a curated one, centered in his rent-controlled Inner Richmond apartment, which doubles as his office. His \"commute\" is a ten-foot walk from his coffee maker to his laptop. His routine is a comforting ritual: a morning walk through the misty avenues of Golden Gate Park, hours spent writing press releases and managing social media for upcoming exhibitions, and an evening spent with a novel or a foreign film. His social circle is small but deep, consisting of a few trusted friends from the arts scene whom he meets for trivia at a neighborhood pub or dim sum on Clement Street.\n\nDavid\u2019s connection to San Francisco is intimate and neighborhood-focused. He\u2019s uninterested in the frantic energy of downtown, preferring the quiet hum of his local community. He harbors a quiet ambition: to curate a small-scale exhibition for emerging Bay Area artists, giving them the platform he feels they deserve. More than anything, he hopes to find a lasting partnership built on shared quietude and mutual appreciation for life\u2019s subtle textures. He didn\u2019t find a gold rush in San Francisco, but something more valuable: a life of sustainable meaning."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew coffee, and eat a quick breakfast of toast and avocado while listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.7538326,
+                            "lng": -122.4863661,
+                            "formatted_address": "Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment on Noriega"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for the office, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7538326,
+                            "lng": -122.4863661,
+                            "formatted_address": "Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Noriega"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across the city, listening to a local history podcast to make the traffic more bearable.",
+                        "geocode": {
+                            "lat": 37.8078325,
+                            "lng": -122.42082,
+                            "formatted_address": "Hyde St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Cross-City Commute (Noriega St to Hyde St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office, review the day's calendar, and respond to urgent emails from artists and hospital staff.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Saint Francis Hospital Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a planning meeting to coordinate the upcoming installation of a new sculpture in the hospital's main atrium.",
+                        "geocode": {
+                            "lat": 37.7847222,
+                            "lng": -122.4016667,
+                            "formatted_address": "720 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Hospital Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy grain bowl for lunch to recharge for the afternoon.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Daily Beet Cafe"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Focused work session: drafting marketing copy for the hospital's annual 'Art for Healing' fundraising gala.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Saint Francis Hospital Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uddbc\ufe0f",
+                        "action": "Walk through the patient floors to check on the condition of current art displays and gather feedback from nursing staff.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 40,
+                        "location": "Patient Wings, Saint Francis Hospital"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Drive home, navigating the evening rush hour while listening to an indie rock playlist to decompress.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Evening Cross-City Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly groceries, picking up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Take a brisk walk along the coast to clear his head and enjoy the sunset over the Pacific.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a salmon and roasted vegetable dinner while catching up with his sister on the phone.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching the latest episode of a popular drama series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a novel before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A busy weekday for David, balancing a cross-city commute and his marketing role in the arts at a hospital, with a relaxing evening spent enjoying the natural beauty of his Outer Sunset neighborhood.",
+                "home_address": "729 Noriega St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7552247,
+                    "lng": -122.471589,
+                    "formatted_address": "729 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

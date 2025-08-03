@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Samuel Miller",
+    "givenName": "Samuel",
+    "familyName": "Miller",
+    "jobTitle": "Production Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Samuel Miller\u2019s story is a quiet study in adaptation. Raised in Sacramento by a pragmatic accountant father and a librarian mother, he was a thoughtful, introspective child. To his parents' gentle bewilderment, he pursued a Bachelor's degree in Philosophy at UC Santa Cruz, drawn to questions of logic and meaning over practical career paths. He rarely mentions his degree now, feeling it makes him an outlier among the engineering and business majors who dominate his professional world.\n\nHe stumbled into the Bay Area tech scene during the first dot-com boom of the late 90s. Lacking coding skills, he found his niche in organizing the chaos. His philosophy background, surprisingly, gave him a unique ability to deconstruct complex problems and communicate clearly between creative and technical teams. He started in quality assurance, moved to project coordination, and eventually climbed to his current role as a Production Manager, a stable, well-compensated position he\u2019s held through multiple industry cycles. His career turning point was surviving the 2008 financial crisis, where his calm efficiency made him indispensable while others were let go.\n\nToday, Samuel lives alone in a meticulously kept condo in the Inner Richmond. His commute is a ten-step walk from his kitchen to his home office, a reality that has cemented a quiet, solitary routine. His days are a blur of video calls, Gantt charts, and product roadmaps. A short-lived marriage in his thirties ended amicably, a casualty of long work hours and divergent life goals. His social circle is small, consisting of a few old friends from his early tech days.\n\nSan Francisco, for Samuel, exists in the margins of his workday. He finds solace not in the city\u2019s frantic energy but in its quiet corners. Every morning before logging on, he walks through the misty trails of Golden Gate Park, and his weekends are often spent driving out to the Marin Headlands. He feels a growing disconnect from his digital career and dreams of something more tangible. His secret aspiration isn't a promotion, but to one day buy a small plot of land in Sonoma, learn woodworking, and build things with his hands\u2014a quiet rebellion against a life spent managing pixels and deadlines."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe remembers the silence of the office in late 2008. The team had been halved overnight, but his project board remained full. Methodically updating tasks, the quiet felt heavy with departed colleagues. In that sterile space, he felt no triumph, only a grim resolve. He wasn't the brilliant visionary; he was the one who kept the lights on. His calm pragmatism hardened from a skill into a shield, a defining moment that secured his place in a precarious world.\n\n2.\nHe sat in the McHenry Library at UCSC, a book on Kant open before him. The dense logic felt like a puzzle he was finally solving. He looked up, through the towering glass windows, at the ancient redwoods standing silently in the afternoon light. In that instant, the abstract structure of reason on the page and the organic structure of the forest outside merged into a single, profound truth. It was a feeling of pure, quiet clarity he has chased ever since.\n\n3.\nThe end of his marriage wasn\u2019t a fight, but a quiet conversation over takeout. His wife spoke of travel, of children, of a life beyond their condo. He listened, looking at his laptop, still glowing on the counter with an urgent Slack notification. He saw her future stretching out like an open road, while his was a Gantt chart of predictable milestones. The love was still there, but it was overshadowed by a sad, amicable acceptance that their paths simply no longer ran parallel.\n\n4.\nOn a walk last week, the fog in Golden Gate Park was so thick it muted all sound. He stopped by a cluster of ferns, their fronds heavy and dripping with moisture. He ran a finger along one, feeling the cool, damp texture and the intricate, living pattern. The sensation was immediate and real in a way his morning\u2019s product roadmap could never be. It was a fleeting moment of rebellion, choosing the tangible world over the digital one waiting for him ten steps away.\n\n5.\nTwo years ago, visiting an old colleague\u2019s house in Sonoma, he ran his hand over a bookshelf. His friend mentioned he\u2019d built it himself from reclaimed redwood. Samuel felt the subtle imperfections, the sturdy joinery, the scent of the wood. It was a simple object, yet it held more substance and meaning than any digital product he had ever managed. The quiet dream of building something real, not with code or charts but with his own hands, took root in that moment and began to grow."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, morning hygiene, and get dressed into comfortable home-office attire.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Divisadero Residence"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Brew a pour-over coffee and review the day's headlines on a tablet.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Divisadero Residence Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning 'commute' to the home office. Power up the workstation, check calendar, and organize tasks for the day.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Command Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Triage overnight emails and Slack messages from the UCSF team. Prioritize critical production issues.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office Command Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the daily virtual stand-up meeting with the development team, reviewing progress on current sprints.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Office Command Center (via Zoom)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Deep work session: Draft the project charter and resource allocation plan for a new UCSF departmental app.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Command Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy lunch to break up the day. Pick up a chicken salad and frozen Greek yogurt.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Souvla"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Review system performance metrics and troubleshoot a reported bug with the lead engineer.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office Command Center (via Teams)"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Finalize daily progress reports for UCSF stakeholders and plan tomorrow's key objectives.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office Command Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "End-of-day 'commute.' Log off all systems, tidy the desk, and consciously switch from 'work mode' to 'home mode'.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Command Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a refreshing run through the park to clear the head, taking in the city views from the top.",
+                        "geocode": {
+                            "lat": 37.79120899999999,
+                            "lng": -122.4377047,
+                            "formatted_address": "Alta Plaza Park, Jackson St. &, Steiner St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Alta Plaza Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for weekly groceries, picking up fresh produce and essentials.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mollie Stone's Markets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Weekly catch-up call with his elderly parents to check in.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Divisadero Residence"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Prepare and eat a simple, healthy dinner at home while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Divisadero Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a chapter of a non-fiction book and prepare for the next day.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Divisadero Residence"
+                    }
+                ],
+                "day_overview": "A structured work-from-home day for a seasoned tech production manager, balancing deep work for UCSF with local activities like a park run for exercise and a casual drink with a friend in his Pacific Heights neighborhood.",
+                "home_address": "1961 Divisadero St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7879258,
+                    "lng": -122.4407095,
+                    "formatted_address": "1961 Divisadero St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

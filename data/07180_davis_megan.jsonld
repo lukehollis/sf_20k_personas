@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Megan Davis",
+    "givenName": "Megan",
+    "familyName": "Davis",
+    "jobTitle": "Quality Control Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Megan Davis\u2019s life is a study in controlled variables, a stark contrast to the unpredictable city she calls home. Raised in a quiet, orderly suburb of Minneapolis, she was the daughter of an accountant and a librarian\u2014parents who valued stability and clear paths. Megan absorbed this, excelling in structured environments. She pursued a Bachelor's degree in Sociology at the University of Wisconsin-Madison, fascinated by the systems that govern human behavior but unsure how to translate that into a career.\n\nAfter graduating, she drifted into an administrative role at a healthcare company. It was here, while sorting through disorganized patient feedback data, that she found her calling. On her own initiative, she created a system to categorize and track issues, identifying patterns the development team had missed. This act of bringing order to chaos was her turning point. A manager recognized her innate talent, and she pivoted into a quality assurance role.\n\nDrawn by the industry's epicenter, Megan moved to San Francisco twelve years ago for a job at a mid-size tech firm. She embraced the demanding work culture, her methodical nature making her a natural at identifying flaws in complex software. She steadily climbed the ladder from analyst to her current position as a Quality Control Manager.\n\nNow 38, Megan\u2019s life is contained within the few blocks around her NoPa apartment, her commute a zero-mile walk from her bedroom to her standing desk. Her days are a sequence of back-to-back Zoom meetings, managing her remote team, and meticulously analyzing bug-tracking dashboards. To counteract the digital confinement, she has a rigid routine: a pre-dawn run through the Panhandle, a mid-day coffee from her favorite corner cafe, and an evening yoga class. A significant breakup three years ago left her more self-reliant but also more insulated. Her social life is small but deep, centered on a few friends from work and her yoga studio.\n\nWhile she has achieved professional success, Megan dreams of applying her skills elsewhere. She feels a growing pull to leave the corporate treadmill and use her process-oriented mind for social good, perhaps consulting for non-profits to help them streamline their operations. For now, she remains in her controlled world, a woman who builds orderly systems amidst the beautiful chaos of San Francisco, quietly searching for the next bug to fix\u2014both in code and in life."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, hydrate, and get into workout clothes.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Morning jog with views of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8036909,
+                            "lng": -122.4685139,
+                            "formatted_address": "Crissy Field Ave, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 50,
+                        "location": "Marina Green & Crissy Field Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and do a quick skincare routine.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make an espresso and a protein smoothie for breakfast while listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Commute to the home office; settle in, review the day's calendar, and check Slack notifications.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": " h\u1ecdp",
+                        "action": "Lead the daily QC team stand-up meeting to discuss project statuses and testing blockers.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Google Meet"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Deep Work: Audit performance testing results for a new city services mobile app.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy lunch to get some fresh air and a break from the screen.",
+                        "geocode": {
+                            "lat": 37.8003111,
+                            "lng": -122.4377083,
+                            "formatted_address": "3344 Steiner St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn on Chestnut Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Review and provide feedback on user acceptance testing (UAT) scripts submitted by junior analysts.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "One-on-one meeting with a direct report to discuss career growth and current project challenges.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Google Meet"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Finalize weekly bug report and respond to outstanding high-priority emails before logging off.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Log off work and tidy the workspace, officially ending the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Attend a restorative yoga class to de-stress and unwind.",
+                        "geocode": {
+                            "lat": 37.79832409999999,
+                            "lng": -122.4271696,
+                            "formatted_address": "1694 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Pad Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Call parents for a quick chat while walking back home from yoga.",
+                        "geocode": {
+                            "lat": 37.7849584,
+                            "lng": -122.4347507,
+                            "formatted_address": "Steiner St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Walking on Steiner Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet up with a friend for dinner and drinks at a neighborhood favorite spot.",
+                        "geocode": {
+                            "lat": 37.7976128,
+                            "lng": -122.4326619,
+                            "formatted_address": "2030 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 120,
+                        "location": "Flores on Union Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Evening wind-down: Watch an episode of a drama series and read a book.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a tech manager in the Marina, balancing focused work on city projects with a neighborhood fitness class, a social dinner, and a call with family.",
+                "home_address": "3909 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8060726,
+                    "lng": -122.4401602,
+                    "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

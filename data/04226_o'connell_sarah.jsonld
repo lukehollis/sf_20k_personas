@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah O'Connell",
+    "givenName": "Sarah",
+    "familyName": "O'Connell",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah O\u2019Connell was raised on dog-eared pages and the scent of rain-soaked Douglas firs in a small Oregon town. The daughter of a history professor and a librarian, her childhood was a quiet exploration of narratives. It surprised no one when she pursued a Bachelor's degree in Comparative Literature, delving into the structural patterns of global stories. After graduating, however, she found the real world had little use for deconstructionist theory. Adrift in Portland, working as a barista, she felt her own story lacked a clear plot.\n\nThe turning point came not from a book, but from a screen. To channel her analytical mind, she started a blog analyzing publishing trends, teaching herself basic web scraping to gather data on cover art and keywords. She was mesmerized. The patterns she once sought in novels were alive in the data, telling a dynamic, real-time story of human behavior. This discovery sparked a feverish period of self-study; online courses and a data analytics bootcamp became her new curriculum. She found her literary background gave her a unique edge: she could translate cold numbers into compelling narratives that executives understood.\n\nThis new skill set brought her to San Francisco three years ago, recruited by a mid-size tech firm. She now works as a data analyst entirely from her one-bedroom apartment in the Inner Richmond. Her 0.0-mile commute means her days are a disciplined cycle of deep work sessions fueled by Philz coffee, followed by long, head-clearing runs through Golden Gate Park to feel connected to something tangible beyond her datasets.\n\nWhile professionally fulfilled, she sometimes feels the isolation of remote work. Her social life is a curated collection of close friends from her bootcamp days and a monthly book club that keeps her tethered to her literary roots. Sarah dreams of eventually leading an insights team, using data to predict cultural trends. More privately, she hopes to find a relationship that values both the analytical and the romantic sides of her personality, and to finally feel as rooted in the complex, ever-shifting narrative of San Francisco as she once felt in the pages of a beloved novel."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers the sticky, gritty feeling of spilled espresso grounds on her hands. It was a bleak Tuesday in Portland, the gray light filtering through the cafe window making everything feel washed out. Holding her Comp Lit degree felt like a bitter joke as she swept up the mess. That specific wave of humiliation wasn't just about the spill; it was the feeling of her own life\u2019s plot dissolving into meaningless, repetitive tasks. It was the rock bottom that made her search for a new story, for anything with structure and purpose.\n\n2.\nIt was 2 AM in her cramped Portland apartment. After a week of wrestling with Python, her first web scraping script finally ran without error. Numbers, titles, and keywords flooded her screen, arranging themselves into a primitive chart. It wasn't just data; it was a living constellation of shared taste and desire. She felt a jolt, a shiver of pure discovery, realizing the narrative patterns she\u2019d hunted for in Faulkner were right here, glowing on her screen. In that moment, the path from barista to analyst was illuminated.\n\n3.\nHer first night in San Francisco, she stood in her empty Inner Richmond apartment with nothing but a suitcase and an air mattress. She pressed her forehead against the cool glass of the bay window, watching the N Judah train spark along the tracks below as fog swallowed the streetlights. The feeling was a terrifying, exhilarating cocktail: she had a job, a key, a place of her own in this impossibly expensive city. This wasn't a story she was reading; it was one she had written into existence herself.\n\n4.\nDuring a draining work week last year, she pushed herself on a run deep into Golden Gate Park, stopping at the Dutch Windmill just as the fog began to pour over the coastline. After a day spent in the clean logic of her code, the scent of damp eucalyptus and the sight of the massive, silent arms of the windmill felt profoundly real. It was a moment of perfect, aching solitude\u2014a reminder of both why she needed these escapes and how isolated her digital life could be.\n\n5.\nAt her book club two months ago, discussing a messy, passionate novel, a friend was baffled by a character\u2019s choice. Without thinking, Sarah found herself explaining it through the lens of predictive behavioral modeling, describing how seemingly irrational decisions follow their own hidden logic. The table went quiet, but then her friend\u2019s eyes lit up in understanding. For the first time, her two worlds\u2014the literary and the analytical\u2014melded into a single, cohesive identity. She felt, for a moment, completely and uniquely *seen*."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, scroll through notifications, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and have a quick breakfast of Greek yogurt with granola.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from Dogpatch to the Mission, including the challenging search for street parking near the office.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into the coworking space, organize desk, and review daily tasks on Asana.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 20,
+                        "location": "coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Virtual daily stand-up meeting with the data team to discuss project progress and blockers.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Zoom"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Writing and executing complex SQL queries to pull user behavior data for a quarterly report.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 130,
+                        "location": "coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to get a classic Mission-style carne asada burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon work block: Cleaning the pulled data in Python and building a new visualization dashboard in Tableau.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 150,
+                        "location": "coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Walk to a nearby yoga studio for a vinyasa flow class to decompress and stretch after a day of sitting.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive home from the Mission, with the evening traffic starting to ease up.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat dinner: a simple salad with grilled chicken while watching an episode of a new series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Video call with her parents to catch up on their week and share updates.",
+                        "geocode": {
+                            "lat": 37.6130617,
+                            "lng": -122.3893709,
+                            "formatted_address": "S Airport Blvd, San Francisco, CA 94128, USA"
+                        },
+                        "duration": 30,
+                        "location": "FaceTime"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Evening wind-down: Tidy up the kitchen, listen to a true-crime podcast, and browse online.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Night routine: Skincare, brush teeth, and read a few chapters of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive day for a Data Analyst, balancing focused work at a Mission coworking space with a relaxing yoga session, a classic SF burrito lunch, and a catch-up call with family.",
+                "home_address": "2703 2nd St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7824736,
+                    "lng": -122.3928773,
+                    "formatted_address": "2nd St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "O'Connell Family"
+    }
+}

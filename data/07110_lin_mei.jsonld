@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Lin",
+    "givenName": "Mei",
+    "familyName": "Lin",
+    "jobTitle": "Senior Biostatistician",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Lin was born and raised under the cool, foggy skies of San Francisco's Outer Sunset district. The only child of Chinese immigrants\u2014a meticulous accountant mother and a quiet civil engineer father\u2014her childhood was a structured world of academic excellence and unspoken expectations. From a young age, success was defined not by happiness, but by stability and prestige. She was a quintessential product of this environment: studious, disciplined, and obedient, excelling at Lowell High School before heading to UC Berkeley to study statistics.\n\nHer educational journey was a straight, upward line. She completed her Master's in Biostatistics at UCLA, driven by a familial sense of duty rather than genuine passion. She landed a job at a leading Bay Area healthcare firm right after graduation and climbed the ladder with astonishing speed. The turning point wasn't a promotion, but a project. Tasked with analyzing clinical trial data for a new Alzheimer's drug, the numbers on her screen ceased to be abstract figures. They became stories, potential years restored to families, memories preserved. For the first time, her work felt profound, and a quiet passion ignited within her.\n\nNow 29 and a Senior Biostatistician, Mei\u2019s life is centered in her sleek NoPa apartment, which doubles as her office. Her zero-mile commute means her world is hyperlocal. Mornings begin with a walk to The Mill for an almond milk latte before she dives into complex datasets. Her work is solitary and intense, so she actively seeks connection elsewhere. She breaks up the day with a run through the Panhandle and spends her evenings at a bouldering gym in the Dogpatch, finding community among fellow climbers.\n\nThough she has a close circle of friends from college, dating in the city feels like another dataset to optimize, often leaving her unfulfilled. She is deeply proud of the independent life she has built, a stark contrast to her parents' world in the Sunset, whom she visits for dim sum every Sunday. Her dream is to one day lead a research division, but a quieter, more personal aspiration is taking shape: to take a six-month sabbatical and learn photography while backpacking through Vietnam, a world away from the structured data that defines her days."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up and do a guided 15-minute meditation with a mindfulness app.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Diamond St. Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Quick breakfast of Greek yogurt and berries, while reviewing personal emails and the day's headlines.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Diamond St. Apartment Kitchen"
+                    },
+                    {
+                        "emoji": "\u27a1\ufe0f",
+                        "action": "Commute to work by walking into the spare bedroom, opening the laptop, and organizing the digital workspace for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Noe Valley Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep focus session: analyzing patient data from a new clinical trial using SAS and preparing preliminary data tables.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Noe Valley Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Lunch break: walk to pick up a fresh sourdough loaf and cheese for a sandwich.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley Bakery"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Eat lunch on her small patio while listening to a data science podcast.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Diamond St. Apartment Balcony"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Team Sync: Join a Zoom call with UCSF principal investigators to present initial findings and discuss statistical methodology.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Noe Valley Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon work: Writing R scripts to generate data visualizations for an upcoming research publication.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Noe Valley Home Office"
+                    },
+                    {
+                        "emoji": "\u2b05\ufe0f",
+                        "action": "Commute home by closing all work-related applications, muting Slack notifications, and shutting the home office door.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Noe Valley Home Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Change into running gear and go for a challenging, hilly run to clear her head.",
+                        "geocode": {
+                            "lat": 37.7473543,
+                            "lng": -122.4388663,
+                            "formatted_address": "Douglass Playground Park, Douglass St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 50,
+                        "location": "Douglass Park Loop"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Walk down to the Castro to meet a friend for dinner and cocktails.",
+                        "geocode": {
+                            "lat": 37.764962,
+                            "lng": -122.4325827,
+                            "formatted_address": "2272 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 120,
+                        "location": "Canela Bistro & Wine Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for specialty teas and a few household essentials on the walk home.",
+                        "geocode": {
+                            "lat": 37.7660322,
+                            "lng": -122.4290198,
+                            "formatted_address": "300 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 15,
+                        "location": "Church Street Groceteria"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind on the couch, watching an episode of a limited series on streaming.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Diamond St. Apartment Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Bedtime routine: skincare, tidying up the kitchen, and reading a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7474373,
+                            "lng": -122.4359661,
+                            "formatted_address": "Diamond St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Diamond St. Apartment"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a biostatistician, involving deep data analysis, balanced with a neighborhood walk, a run with city views, and a social dinner in the nearby Castro district.",
+                "home_address": "348 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7567538,
+                    "lng": -122.4370449,
+                    "formatted_address": "348 Diamond St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Olsen",
+    "givenName": "Sarah",
+    "familyName": "Olsen",
+    "jobTitle": "Senior Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Olsen\u2019s life story is one of pragmatic ambition. Raised in a quiet, middle-class suburb of Columbus, Ohio, by a high school history teacher and a dental hygienist, Sarah was instilled with a belief in studious, consistent effort. She excelled in school, driven by a desire to see a world beyond the Midwest\u2019s predictable horizons. This ambition led her to pursue a Master\u2019s in Public Policy from UC Berkeley, where she arrived with idealistic visions of crafting legislation to solve systemic inequality.\n\nHer turning point came during a poorly paid, soul-crushing internship in Sacramento. Surrounded by bureaucracy and political gridlock, she realized that the power to enact change often followed the flow of capital. Disillusioned but not defeated, Sarah pivoted. She leveraged her analytical skills, took finance certification courses, and clawed her way into an entry-level position at a San Francisco investment firm. Without an MBA or an Ivy League pedigree, she had to outwork everyone, her Midwestern work ethic serving as her greatest asset.\n\nNow 37, Sarah is a Senior Financial Analyst who has earned her place. Her 0.0-mile commute is to the desk in the second bedroom of her tidy Russian Hill apartment, overlooking a sliver of the Bay. Her days are a disciplined cycle of market analysis, complex modeling, and virtual meetings, the quiet hum of her laptop a constant companion. The intense focus of her job has left her social circle small but fiercely loyal, consisting mainly of a few friends from her grad school days who good-naturedly tease her about \"selling out.\"\n\nSarah\u2019s connection to San Francisco is now more personal than professional. Weekends are for shedding her analyst persona. She finds solace in long, steep walks through her neighborhood, runs in the Presidio, and losing herself in the crowds at the Ferry Building Farmers Market. Having achieved financial security, her original idealism is resurfacing. Her dream is no longer just climbing the corporate ladder but transitioning into impact investing, hoping to use her hard-won financial acumen to fund the very type of social and environmental enterprises she once hoped to support through policy."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, 15-minute guided meditation, and a quick bodyweight workout in the living room.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Shower, get dressed for work, and have a quick breakfast of Greek yogurt and coffee while reviewing personal emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the designated carpool pickup spot to meet her colleague.",
+                        "geocode": {
+                            "lat": 37.7614353,
+                            "lng": -122.4261863,
+                            "formatted_address": "Dolores St & 18th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 10,
+                        "location": "Corner of 18th & Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute to work, listening to an economics podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, review overnight emails, and begin deep work: analyzing quarterly budget variance reports for several UCSF departments.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to a nearby cafe to grab a healthy, quick lunch.",
+                        "geocode": {
+                            "lat": 37.7647781,
+                            "lng": -122.4495144,
+                            "formatted_address": "1000 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 50,
+                        "location": "La Boulangerie de San Francisco - Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon project work: Building a new financial model to forecast revenue for an upcoming clinical trial.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Attend a weekly finance team meeting to discuss project timelines and year-end closing procedures.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Conference Room 3A"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final tasks, set priorities for tomorrow, and log off to meet the carpool.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute home, chatting with her colleague about their day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up ingredients for dinner and some household essentials.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Unwind at home by cooking a salmon and quinoa dinner while listening to music.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet a friend for a post-dinner drink and catch-up.",
+                        "geocode": {
+                            "lat": 37.7564917,
+                            "lng": -122.4191194,
+                            "formatted_address": "2534 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Foreign Cinema"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, read a few chapters of a novel, and prepare her bag for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A busy and structured day for a Senior Financial Analyst, balancing demanding work at UCSF with personal wellness and errands, utilizing a carpool for her commute from her home in the Mission.",
+                "home_address": "3450 18th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7619721,
+                    "lng": -122.4205092,
+                    "formatted_address": "3450 18th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Olsen Family"
+    }
+}

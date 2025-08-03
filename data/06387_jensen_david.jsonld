@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Jensen",
+    "givenName": "David",
+    "familyName": "Jensen",
+    "jobTitle": "Restaurant Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Hospitality"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Jensen\u2019s life is measured in reservation blocks and inventory sheets, a world away from his upbringing under the wide, flat skies of suburban Illinois. Raised in a working-class family\u2014his father a factory foreman, his mother a bank teller\u2014he was taught the value of practicality and a steady paycheck. He pursued that path at a local community college, studying business administration, but the theory felt disconnected from reality. The real education was happening at his part-time job waiting tables at a bustling local steakhouse, where he discovered a natural talent for managing chaos and reading people.\n\nHe never finished his degree. At 22, he chose the restaurant floor over the lecture hall, quickly working his way up to a supervisory role in Chicago. But he felt a ceiling approaching. The turning point came at 28, when a mentor told him, \"If you're serious about this, you go to San Francisco.\" He sold what he could, packed a suitcase, and moved to a city he\u2019d only seen in pictures, drawn by its reputation as a culinary mecca.\n\nNow 47, David is the quintessential restaurant manager. His 0.0-mile commute is the short walk downstairs from his rent-controlled apartment to the polished brass doors of \"The Cypress Table,\" a well-regarded North Beach institution he has managed for over a decade. His life is a routine dictated by the restaurant's pulse: morning coffee while checking the previous night\u2019s receipts, placating vendors, a pre-service staff meeting, and then the nine-hour performance of dinner service.\n\nHis staff is his family. He\u2019s the firm but fair patriarch to a rotating cast of ambitious young chefs and career servers. A serious relationship dissolved nearly a decade ago, a casualty of his all-consuming career, leaving a quiet void he fills with work. His connection to San Francisco is street-level; he knows the names of the produce delivery drivers, the owner of the laundromat, and the old men who play chess in Washington Square Park. He dreams of one day owning a small percentage of The Cypress Table\u2014not for wealth, but for a true stake in the world he helped build. His quietest hope is for a future that includes a partner who understands his life, and perhaps a Sunday morning that doesn't smell faintly of garlic and marinara sauce."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, shower, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7627422,
+                            "lng": -122.4916525,
+                            "formatted_address": "3131 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Quick jog to clear his head before the busy day.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Grab a 'Snowy Plover' coffee and a breakfast pastry to-go.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Andytown Coffee Roasters"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute downtown, reading industry news on his phone.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "N Judah Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at his hot desk, review nightly sales reports from all locations, and answer urgent emails.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 180,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over for a quick, no-fuss lunch. Gets the daily special roast beef sandwich.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Participate in a conference call with beverage suppliers to negotiate new contract pricing.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 90,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Travel to and conduct a weekly check-in with the on-site General Manager to address staffing issues.",
+                        "geocode": {
+                            "lat": 37.7599424,
+                            "lng": -122.435178,
+                            "formatted_address": "558 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Fable Restaurant & Bar"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Head back to the office to finalize payroll and send out the weekly management memo.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 60,
+                        "location": "Mindspace Coworking"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute home, listening to a podcast to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "N Judah Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up fresh produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7821992,
+                            "lng": -122.4927823,
+                            "formatted_address": "375 32nd Ave, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 25,
+                        "location": "Andronico's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Prepare and eat a simple but satisfying pasta dish while catching up on the news.",
+                        "geocode": {
+                            "lat": 37.7627422,
+                            "lng": -122.4916525,
+                            "formatted_address": "3131 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk down the block to catch up with an old industry friend over a pint.",
+                        "geocode": {
+                            "lat": 37.741581,
+                            "lng": -122.505349,
+                            "formatted_address": "3639 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Riptide"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Wind down for the night, watch an episode of a crime drama, and get his clothes ready for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7627422,
+                            "lng": -122.4916525,
+                            "formatted_address": "3131 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A busy day for David, balancing administrative duties for his restaurant group at a downtown co-working space with an on-site visit. His commute on the N Judah provides a buffer before and after work, and he unwinds with a home-cooked meal and a beer with a friend in his Outer Sunset neighborhood.",
+                "home_address": "3131 Irving St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7627422,
+                    "lng": -122.4916525,
+                    "formatted_address": "3131 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jensen Family"
+    }
+}

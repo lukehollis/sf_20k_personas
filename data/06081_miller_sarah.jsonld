@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Director of Supply Chain Optimization",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s world is one of elegant systems and controlled variables, a stark contrast to her upbringing in the sprawling, unpredictable suburbs of Cleveland, Ohio. The daughter of a pragmatic high school history teacher and a meticulous craftswoman who sold quilts at local fairs, Sarah grew up understanding that success was a product of diligence and planning. She watched her mother meticulously map out patterns and manage her small inventory, an early, unwitting lesson in supply chain management.\n\nDriven by a desire for a world larger than her hometown, she pursued an undergraduate degree in economics. However, a key turning point came during her senior year when a global logistics crisis nearly bankrupted a beloved local chocolatier she worked for part-time. Seeing the chaos firsthand ignited a passion; she realized she could build a career imposing order on such disarray. This revelation led her to pursue a Master of Science in Supply Chain Management from a prestigious East Coast university, a degree that became her golden ticket to the tech world.\n\nSarah was recruited directly into a Bay Area tech giant, lured by the promise of solving massive, complex logistical puzzles. She thrived in the data-driven environment, rapidly ascending the corporate ladder. Now, as Director of Supply Chain Optimization, her daily reality unfolds within the clean, modern lines of her Hayes Valley apartment, which doubles as her office. Her 0.0-mile commute offers peak efficiency but demands intentional effort to engage with the city.\n\nHer routine is a finely tuned machine: a 6 a.m. run through the quiet streets, followed by deep work until noon. Afternoons are for cross-functional meetings and a mandatory walk to a favorite cafe for a change of scenery. Socially, she maintains a small, tight circle of friends from her rock-climbing gym and a former colleague, valuing deep connection over broad networks.\n\nThough professionally fulfilled, Sarah dreams of applying her skills more personally. Her long-term goal is to launch a consulting firm that helps small, sustainable businesses\u2014the kinds of enterprises her mother would admire\u2014optimize their operations to compete with corporate behemoths. She hopes to build a life where personal relationships are as intentionally nurtured and fulfilling as the complex systems she perfects for a living."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udca7",
+                        "action": "Wake up, get into workout clothes, and have a glass of water.",
+                        "geocode": {
+                            "lat": 37.7628296,
+                            "lng": -122.4984047,
+                            "formatted_address": "3768 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 15,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a refreshing morning run through the park to clear the mind before a busy day.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7628296,
+                            "lng": -122.4984047,
+                            "formatted_address": "3768 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make pour-over coffee and have a quick breakfast while briefly syncing up with her partner.",
+                        "geocode": {
+                            "lat": 37.7628296,
+                            "lng": -122.4984047,
+                            "formatted_address": "3768 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from the Outer Sunset to work, navigating Parnassus Heights traffic and finding parking.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Parnassus Parking Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the daily team huddle, reviewing inventory KPIs and priorities, followed by email triage.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 75,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Deep-dive analysis on a Q4 logistics optimization project for an upcoming leadership presentation.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Walk to a nearby Japanese spot to grab a quick lunch away from the desk.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Wo Ramen"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Join a cross-departmental meeting with Finance and Clinical Ops to align on a new inventory system rollout.",
+                        "geocode": {
+                            "lat": 37.7627927,
+                            "lng": -122.4580873,
+                            "formatted_address": "San Francisco, CA 94131, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Medical Sciences Building Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udfeb",
+                        "action": "Conduct a one-on-one mentoring session with a junior analyst on the team.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Parnassus Campus Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Drive home, listening to a supply chain podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "The streets of San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7821992,
+                            "lng": -122.4927823,
+                            "formatted_address": "375 32nd Ave, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 25,
+                        "location": "Andronico's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner and catch up with her partner about their respective days.",
+                        "geocode": {
+                            "lat": 37.7628296,
+                            "lng": -122.4984047,
+                            "formatted_address": "3768 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch to watch an episode of a show together.",
+                        "geocode": {
+                            "lat": 37.7628296,
+                            "lng": -122.4984047,
+                            "formatted_address": "3768 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7628296,
+                            "lng": -122.4984047,
+                            "formatted_address": "3768 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A demanding but balanced day for a Supply Chain Director, involving strategic meetings at UCSF, a solo commute, and unwinding with her partner by cooking dinner and relaxing in their Outer Sunset home.",
+                "home_address": "3768 Irving St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7628296,
+                    "lng": -122.4984047,
+                    "formatted_address": "3768 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

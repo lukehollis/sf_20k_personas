@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Restaurant Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Food Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story is not one of dramatic upheaval, but of a slow, steady migration toward a life that finally felt like her own. Raised in Modesto, she was surrounded by the flat landscapes and predictable rhythms of California\u2019s Central Valley. Her family, loving but practical, instilled in her a formidable work ethic, expecting she would follow a stable path: community college, a sensible degree, and a quiet life nearby.\n\nShe tried. Sarah enrolled in a business administration program at a state college, but the lectures felt abstract and disconnected from the world. The turning point came during a weekend trip to San Francisco at age 20. The city\u2019s chaotic energy\u2014the clatter of cable cars, the diverse chorus of languages in the Mission, the fog rolling over Twin Peaks\u2014was a revelation. It felt more real and alive than anything she had ever known. Within a year, she dropped out of college, packed a single suitcase, and moved into a cramped room in a shared Richmond district apartment, finding immediate work as a server.\n\nThe restaurant industry wasn't a placeholder; it was a calling she hadn't known she had. Sarah thrived on the pressure, the camaraderie, and the tangible satisfaction of a perfectly executed service. She was observant and tireless, quickly moving from server to bartender, then to shift lead. Her big break came when she was hired as an assistant manager at \"The Fennel,\" a beloved, bustling bistro in Hayes Valley. The owner, a woman nearing retirement, saw Sarah\u2019s innate talent for managing both people and chaos.\n\nThree years ago, when the manager position opened up, the owner offered it to Sarah with a unique perk: the small, rent-controlled one-bedroom apartment directly above the restaurant. Now, at 32, Sarah\u2019s life is defined by a 0.0-mile commute. Her days begin with the faint sounds of prep cooks chopping below and end long after the last table has paid. Her social life is woven into her profession; her staff is her surrogate family, and her closest friends are other industry lifers. While relationships have been fleeting and difficult to maintain against her demanding schedule, she finds deep connection in the community she serves. Her dream is to one day leverage her experience to open her own small wine bar in a quiet neighborhood, a place that embodies the sense of belonging she worked so hard to build for herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check phone for any overnight staff messages or supplier updates.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "1620 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (1620 Cole St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Quick morning jog around the neighborhood to clear her head before the day begins.",
+                        "geocode": {
+                            "lat": 37.7669182,
+                            "lng": -122.4561008,
+                            "formatted_address": "670 Kezar Dr, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Kezar Stadium Track"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "1620 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1620 Cole St)"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Eat a quick breakfast of yogurt and granola while reviewing the day's menu.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "1620 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (1620 Cole St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to the station and take the Muni train to work.",
+                        "geocode": {
+                            "lat": 37.768237,
+                            "lng": -122.389366,
+                            "formatted_address": "Ucsf / Chase Center (16th Street), San Francisco, CA 94158, USA"
+                        },
+                        "duration": 35,
+                        "location": "N Judah Muni Metro (Carl & Cole to UCSF/Chase Center)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Arrive at work, conduct a pre-shift huddle with the kitchen and front-of-house staff.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "'The Hub' Cafe at Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Supervise the end of breakfast service and oversee final preparations for the lunch rush.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "'The Hub' Cafe at Uber HQ"
+                    },
+                    {
+                        "emoji": " bustling_cafe",
+                        "action": "Manage the floor during the intense lunch rush, assisting staff and ensuring a smooth service for Uber employees.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "'The Hub' Cafe at Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick bite for lunch while placing food and beverage orders for the following day.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Manager's Office, Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative duties: finalize staff schedules, update inventory, and reply to emails.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 125,
+                        "location": "Manager's Office, Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Take the Muni train back home to Cole Valley.",
+                        "geocode": {
+                            "lat": 37.765666,
+                            "lng": -122.4500958,
+                            "formatted_address": "Cole St & Carl St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 35,
+                        "location": "N Judah Muni Metro (UCSF/Chase Center to Carl & Cole)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh pasta and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7650139,
+                            "lng": -122.4496722,
+                            "formatted_address": "960 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Luke's Local, Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Unwind from the day by cooking dinner and listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "1620 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 55,
+                        "location": "Home (1620 Cole St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd42",
+                        "action": "Meet a friend for a post-work drink and catch up.",
+                        "geocode": {
+                            "lat": 37.7652949,
+                            "lng": -122.4501391,
+                            "formatted_address": "937 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Finnegans Wake"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Walk home, relax on the couch, and watch an episode of a favorite show.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "1620 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (1620 Cole St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: brush teeth, lay out clothes for tomorrow, and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "1620 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1620 Cole St)"
+                    }
+                ],
+                "day_overview": "A demanding day for a corporate restaurant manager, navigating a bustling lunch service at Uber's Mission Bay campus. The day is bookended by a predictable public transit commute on the Muni and a relaxing evening enjoying the local spots in her Cole Valley neighborhood.",
+                "home_address": "1620 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7601959,
+                    "lng": -122.4488527,
+                    "formatted_address": "1620 Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

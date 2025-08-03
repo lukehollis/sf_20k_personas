@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "Urban Planner",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka is a product of two different worlds. Raised in the sprawling, sun-baked suburbs of San Jose, he was the son of a pragmatic Honda engineer and a landscape-designing mother. His upbringing was comfortable and ordered, a world of manicured lawns and predictable futures. While his parents encouraged his artistic talent, they saw it as a hobby, nudging him toward a more stable career in architecture or graphic design. The true turning point came during a post-college trip to Japan. Standing amidst the seamless integration of art, design, and public transit in Tokyo's Shinjuku Station, Kenji had an epiphany: the city itself could be a canvas.\n\nThis realization propelled him to UC Berkeley, where he pursued a Master of Urban and Regional Planning, specializing in arts and cultural districts. He wrote his thesis on using temporary public art installations to revitalize underutilized urban spaces. Upon graduating, he landed a coveted role as a planner for the \"SF Public Art Trust,\" a non-profit dedicated to weaving creativity into the city's fabric. Now, he's the person who navigates city permits for a new mural in the Mission, negotiates with developers to include sculpture gardens in their plans, and helps map out art walks through Hayes Valley.\n\nKenji\u2019s life is deeply embedded in his SoMa neighborhood. He lives and works in a converted warehouse loft, his drafting table and monitors occupying one end of the airy space, his living quarters the other. His 0.0-mile commute gives him more time for his routine: mornings fueled by coffee from a local roaster while reviewing proposals, afternoons on his bike doing site visits across the city. His social circle consists of fellow creatives\u2014architects, gallery curators, and musicians\u2014who share his anxiety and hope for the city's future.\n\nHis primary aspiration is to create a permanent, city-funded art corridor stretching from the downtown core into the western neighborhoods, a vibrant testament to San Francisco's creative soul. For Kenji, his work is more than a job; it\u2019s a form of activism. He fights to ensure that amidst the waves of tech capital, the colorful, chaotic, and artistic spirit that first drew him to San Francisco has a permanent and protected place to thrive."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, make pour-over coffee, and check the morning news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7664598,
+                            "lng": -122.4479304,
+                            "formatted_address": "Clayton St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Clayton St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd50",
+                        "action": "Morning walk with his partner to grab pastries and enjoy the neighborhood before the workday begins.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "La Boulangerie de San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in comfortable work-from-home attire, and prep for the day.",
+                        "geocode": {
+                            "lat": 37.7664598,
+                            "lng": -122.4479304,
+                            "formatted_address": "Clayton St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Clayton St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Home office 'commute': set up the workstation, organize notes, and review the day's tasks.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Deep work session using GIS software to map cultural assets for a new public art initiative in the Mission District.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Virtual team meeting on Zoom to discuss project milestones and coordinate with the community outreach lead.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Step out for lunch, picking up a signature sandwich to eat at a nearby parklet.",
+                        "geocode": {
+                            "lat": 37.7660671,
+                            "lng": -122.449803,
+                            "formatted_address": "856 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Say Cheese"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Drafting a policy brief on preserving affordable artist studios in rapidly developing neighborhoods.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "End-of-day wrap-up: respond to final emails, submit daily progress report on Slack, and plan tomorrow's priorities.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Decompress from the workday with a strenuous trail run for panoramic city views.",
+                        "geocode": {
+                            "lat": 37.7599053,
+                            "lng": -122.447707,
+                            "formatted_address": "Tank Hill Park, Twin Peaks Blvd, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Tank Hill Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery stop to pick up fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Luke's Local"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner with his partner, experimenting with a new pasta recipe and catching up on the day.",
+                        "geocode": {
+                            "lat": 37.7664598,
+                            "lng": -122.4479304,
+                            "formatted_address": "Clayton St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Clayton St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Relax on the couch, reading a book on creative placemaking while listening to a vinyl record.",
+                        "geocode": {
+                            "lat": 37.7664598,
+                            "lng": -122.4479304,
+                            "formatted_address": "Clayton St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Clayton St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: tidy the apartment, pack a bag for the gym tomorrow, and wind down before bed.",
+                        "geocode": {
+                            "lat": 37.7664598,
+                            "lng": -122.4479304,
+                            "formatted_address": "Clayton St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Clayton St Apartment"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Kenji, an arts-focused Urban Planner in Cole Valley, balancing deep work on cultural district projects with a refreshing neighborhood run, quality time with his partner, and quiet evening relaxation.",
+                "home_address": "3396 Clayton St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.75811300000001,
+                    "lng": -122.4439564,
+                    "formatted_address": "3396 Clayton St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1998",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

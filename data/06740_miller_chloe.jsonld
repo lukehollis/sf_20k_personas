@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Chloe Miller",
+    "givenName": "Chloe",
+    "familyName": "Miller",
+    "jobTitle": "Office Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Administrative"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Chloe Miller\u2019s story is one of quiet rebellion against expectation. Raised in Daly City by first-generation Chinese immigrant parents, her childhood was defined by a singular focus: security. Her parents, who had sacrificed immensely, envisioned a stable, respectable career for her, preferably in nursing. Chloe dutifully enrolled at San Francisco State University, but the sterile predictability of the path felt like a cage. The pressure mounted until, during her third year, she made the difficult decision to drop out, a choice that created a painful rift with her family who saw it as a profound failure.\n\nTo prove she could succeed on her own terms, Chloe leaned into her natural talents for organization and empathy. She took a temp job as a receptionist and quickly demonstrated an uncanny ability to be the calm, essential hub of a chaotic office. This led to a full-time position and, eventually, her current role as the Office Manager for a mid-sized marketing tech startup. Though the company is headquartered downtown, her position has been fully remote since the pandemic, a fact that fundamentally shapes her life.\n\nChloe\u2019s world is contained within her cozy one-bedroom apartment in the Inner Sunset. Her 0.0-mile commute means her days are self-structured: a morning coffee on her small balcony overlooking the fog-laced avenues, hours spent coordinating schedules and payroll from her laptop, and a mandatory lunchtime walk to a cafe on Irving Street to feel connected to the city's pulse. Her social life is intentional, built around a tight-knit circle of friends for weekly trivia nights and long weekend jogs through Golden Gate Park to Ocean Beach.\n\nWhile she has found the stability her parents always wanted, her relationship with them remains a work in progress, slowly healing as they see her independence. Chloe\u2019s dream, however, lies beyond spreadsheets. Late at night, she works on a graphic design certificate online, reigniting a creative passion she\u2019d long suppressed. Her ultimate aspiration is to transition into freelance design, to build a career that is not just stable, but deeply fulfilling\u2014a life truly of her own making in the city she calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, hydrate, and check personal notifications.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Quick breakfast of oatmeal and fruit while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Get dressed, pack work bag, and prep bicycle for the commute.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5\u200d\u2640\ufe0f",
+                        "action": "Morning commute via bicycle, navigating through SoMa and up towards Anza Vista.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, United States"
+                        },
+                        "duration": 40,
+                        "location": "SF Bike Network: Division St & The Wiggle"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, change clothes, and organize desk for the day ahead.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Office Manager's Desk, Kaiser Permanente"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Morning administrative block: Sort mail, respond to urgent emails, and manage the office supply inventory.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Administrative Wing, Kaiser Permanente"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Coordinate with the facilities team about a leaky faucet in the breakroom.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Facilities Office, Kaiser Permanente"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to a nearby sandwich shop for a quick lunch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni Corner Market & Deli"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Afternoon work session: Process expense reports and prepare onboarding materials for a new hire.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Office Manager's Desk, Kaiser Permanente"
+                    },
+                    {
+                        "emoji": "\ud83d\udda8\ufe0f",
+                        "action": "Assist staff with various ad-hoc requests and troubleshoot a jammed printer.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Various Departments, Kaiser Permanente"
+                    },
+                    {
+                        "emoji": "\ud83c\udfd9\ufe0f",
+                        "action": "Pack up and begin the bike commute home, enjoying the downhill ride.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, United States"
+                        },
+                        "duration": 35,
+                        "location": "SF Bike Network: Masonic Ave & Folsom St"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up ingredients for dinner and a few essentials.",
+                        "geocode": {
+                            "lat": 37.7742958,
+                            "lng": -122.3914108,
+                            "formatted_address": "1101 4th St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market, Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Unwind at home, put away groceries, and have a FaceTime call with her parents.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a healthy dinner of salmon, quinoa, and roasted vegetables.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Apartment Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while watching an episode of a trending show on Netflix.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Tidy up, prepare work outfit for tomorrow, and read a book before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A busy and productive day for Chloe, balancing her demanding role as an Office Manager at a hospital with her active lifestyle, including a challenging bike commute and winding down with a home-cooked meal and family catch-up.",
+                "home_address": "2156 2nd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7878834,
+                    "lng": -122.3996558,
+                    "formatted_address": "2nd St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Medical Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life has always been guided by a quiet but fierce empathy, a trait forged in the calm, tree-lined streets of Davis, California. The daughter of a librarian and a community college professor, her upbringing was full of books and intellectual curiosity. The key turning point came at seventeen when her grandfather suffered a debilitating stroke. Sarah watched her family navigate the labyrinthine healthcare system, overwhelmed and under-supported. It wasn\u2019t the doctors or nurses who left the deepest impression, but the lone social worker who helped them find resources, manage expectations, and grieve. In that experience, Sarah found her calling.\n\nShe pursued her undergraduate degree at UC Davis before moving to the Bay Area for her Master of Social Work at UC Berkeley. The transition to urban life was a shock, but the city\u2019s complex social tapestry fascinated her. Upon graduating, she accepted a demanding position as a Medical Social Worker at a major San Francisco hospital. Her career is a daily tightrope walk of compassion and bureaucracy, advocating for patients facing life-altering diagnoses while dealing with insurance denials and resource shortages.\n\nNow 28, Sarah lives in a small, rent-controlled apartment in NOPA, just a few blocks from her hospital. Her zero-mile commute is both a blessing and a curse; her world can feel small, confined to the emotional radius of her work. Her daily routine involves a morning walk to a local cafe for an oat milk latte before diving into a caseload that is emotionally taxing but deeply meaningful. She decompresses by running through the Panhandle or meeting her small circle of friends\u2014mostly fellow social workers\u2014for cheap pho in the Richmond.\n\nSarah's connection to San Francisco is complicated. She is confronted daily by the city's starkest inequalities, a reality that fuels her professional drive but also feeds a simmering burnout. She dreams of a future with better work-life balance, maybe a supervisory role where she can mentor new social workers. Personally, she hopes for a lasting relationship and the seemingly impossible dream of owning a small piece of the city she serves. For now, she finds solace in the little things: the view from Alamo Square, a perfect burrito, and the knowledge that, one patient at a time, she is making a difference."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditation using a mindfulness app to prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7757272,
+                            "lng": -122.4424773,
+                            "formatted_address": "North of the Panhandle, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment - NOPA"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Share a quick breakfast of toast and coffee with her partner.",
+                        "geocode": {
+                            "lat": 37.7757272,
+                            "lng": -122.4424773,
+                            "formatted_address": "North of the Panhandle, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment - NOPA"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7757272,
+                            "lng": -122.4424773,
+                            "formatted_address": "North of the Panhandle, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment - NOPA"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet carpool partner and drive to work, listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Carpool to The Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Team huddle to review high-priority patient cases and allocate tasks.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 60,
+                        "location": "Doorhaus Co-working Space"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Intensive client support calls: coordinating with insurance, scheduling medical transport, and counseling.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 150,
+                        "location": "Doorhaus Co-working Space"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy, quick lunch.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Travel to and conduct an in-person assessment with an elderly client.",
+                        "geocode": {
+                            "lat": 37.7671661,
+                            "lng": -122.4223403,
+                            "formatted_address": "390 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Valencia Gardens Assisted Living"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Return to the office to write and file detailed case notes from the client visit.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 105,
+                        "location": "Doorhaus Co-working Space"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Carpool commute home, chatting with her coworker to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7757272,
+                            "lng": -122.4424773,
+                            "formatted_address": "North of the Panhandle, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Carpool to NOPA"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Unwind and de-stress at an evening vinyasa yoga class.",
+                        "geocode": {
+                            "lat": 37.79832409999999,
+                            "lng": -122.4271696,
+                            "formatted_address": "1694 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Pad Studios"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner and eat with her partner, sharing stories from their day.",
+                        "geocode": {
+                            "lat": 37.7757272,
+                            "lng": -122.4424773,
+                            "formatted_address": "North of the Panhandle, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Apartment - NOPA"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching an episode of a show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7757272,
+                            "lng": -122.4424773,
+                            "formatted_address": "North of the Panhandle, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment - NOPA"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: skincare, tidying up, and preparing for the next day.",
+                        "geocode": {
+                            "lat": 37.7757272,
+                            "lng": -122.4424773,
+                            "formatted_address": "North of the Panhandle, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment - NOPA"
+                    }
+                ],
+                "day_overview": "A demanding but structured day for Sarah, a medical social worker, balancing intensive client work in the Mission with personal well-being and partner time in her NOPA neighborhood.",
+                "home_address": "1302 Divisadero St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7817253,
+                    "lng": -122.4389719,
+                    "formatted_address": "1302 Divisadero St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Tanaka",
+    "givenName": "Sarah",
+    "familyName": "Tanaka",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Tanaka is a daughter of the fog, born and raised in San Francisco\u2019s Sunset District. A third-generation Japanese-American, her childhood was shaped by the pragmatic values of her Nisei parents, who owned a small neighborhood nursery. Sarah, however, was a dreamer, immersing herself in art and literature, a stark contrast to her parents\u2019 world of soil and ledgers.\n\nShe enrolled at San Francisco State University, her mind set on an Art History degree. For two years, she was alive with the discovery of Renaissance frescoes and Japanese woodblock prints. But this chapter closed abruptly when her father suffered a major stroke. Sarah dropped out of college to help her mother run the nursery and manage her father's care. The future she had sketched out for herself was erased, replaced by the immediate demands of family.\n\nAfter her father passed away a few years later, her mother sold the business. Now in her late twenties, Sarah\u2019s formal education was a distant memory, but her experience managing the nursery gave her a solid foundation in retail. She took a job at a department store downtown, slowly working her way up from the sales floor to assistant manager.\n\nThe key turning point came fifteen years ago when she was hired to manage \u201cThe Gilded Page,\u201d a small, independent stationery and gift shop in the Inner Richmond. The position came with a perk that defined her modern life: a small apartment directly above the store. Her commute became a single flight of stairs.\n\nNow at 53, Sarah\u2019s life is a curated routine. She opens the shop at 10 a.m., the chime of the door a familiar greeting. She knows her regulars by name and takes pride in sourcing unique paper goods and artisan crafts, a small nod to the art history student she once was. Her apartment is her quiet sanctuary, filled with books and a view of the bustling street she presides over. Her social life is woven into the neighborhood\u2014dinners with other local shop owners and weekly visits to her elderly mother, who still lives in her childhood home.\n\nHer dreams are quieter now. She hopes to one day visit the temples in Kyoto she only ever saw in textbooks and perhaps find a companion to share the city\u2019s quiet moments with. More than anything, she hopes to keep The Gilded Page afloat, a small anchor of craft and human connection in an ever-changing San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up and assist elderly father with his morning medications and mobility.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Pacific Ave Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare breakfast for two, get ready for work, and pack a lunch.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Pacific Ave Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the designated carpool meeting point.",
+                        "geocode": {
+                            "lat": 37.7913493,
+                            "lng": -122.4208584,
+                            "formatted_address": "Polk St, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Polk Street Sidewalk"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet carpool partner and begin the cross-town commute, navigating morning traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "San Francisco City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Open the bookstore, review daily sales goals, and check in with the morning shift staff.",
+                        "geocode": {
+                            "lat": 37.7223905,
+                            "lng": -122.4785732,
+                            "formatted_address": "1650 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 90,
+                        "location": "SF State University Bookstore"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Manage the sales floor during the pre-lunch student rush and assist with a new merchandise display.",
+                        "geocode": {
+                            "lat": 37.7223905,
+                            "lng": -122.4785732,
+                            "formatted_address": "1650 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 150,
+                        "location": "SF State University Bookstore"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a quick lunch break, eating a packed lunch and listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7221404,
+                            "lng": -122.4783149,
+                            "formatted_address": "1650 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Malcolm X Plaza"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative duties: process invoices, plan next week's staff schedule, and respond to emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Bookstore Manager's Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Perform end-of-day cash-out procedures and brief the closing shift manager.",
+                        "geocode": {
+                            "lat": 37.7223905,
+                            "lng": -122.4785732,
+                            "formatted_address": "1650 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF State University Bookstore"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Carpool home, catching up with the colleague about their day. Traffic is heavy.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "San Francisco City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up a prescription and a few groceries for dinner.",
+                        "geocode": {
+                            "lat": 37.7702206,
+                            "lng": -122.4476072,
+                            "formatted_address": "1530 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market - Haight St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook and eat dinner with her father, discussing their days.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Pacific Ave Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Watch the evening news and a favorite TV game show with her father.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Pacific Ave Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Tidy up the kitchen, lay out clothes for the next day, and read a few pages of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7944033,
+                            "lng": -122.4265522,
+                            "formatted_address": "Pacific Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Pacific Ave Apartment)"
+                    }
+                ],
+                "day_overview": "A busy day for Sarah, managing the university bookstore during a typically active period, while also caring for her elderly father. The day is structured around her carpool commute, balancing demanding retail work with family responsibilities and personal errands.",
+                "home_address": "1201 Pacific Ave, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.79571,
+                    "lng": -122.41518,
+                    "formatted_address": "1201 Pacific Ave, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1971",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

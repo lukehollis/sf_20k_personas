@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Miller",
+    "givenName": "Liam",
+    "familyName": "Miller",
+    "jobTitle": "Lab Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Miller\u2019s world is a self-contained loop, defined by the sleek, modern lines of Mission Bay. The son of first-generation Chinese immigrants, he grew up in the fog-laced avenues of the Richmond District. His parents, who ran a small, bustling dry-cleaning business, preached the gospel of stability. They had hoped for a doctor, but Liam, a quiet and observant boy, recoiled from the pressure and chaos of patient interaction. He was never a standout student, but he possessed a deep, methodical patience that often went unnoticed.\n\nHis turning point came in a biology class at City College of San Francisco. While his peers groaned through lectures, Liam was captivated by the cellular world under the microscope\u2014a universe of intricate, predictable order. It was here he found his calling. He earned an Associate's degree in Medical Laboratory Technology, a practical path that satisfied his parents' desire for a career in healthcare while allowing him to work within his comfort zone.\n\nUpon graduating, he landed a coveted lab technician position at a UCSF research facility. To simplify his life, he moved into one of the campus-affiliated apartments, reducing his commute to a five-minute walk across a manicured plaza. For the past decade, this has been his reality. His days are a rhythm of running diagnostics, preparing slides, and calibrating sensitive equipment. He is good at his job, valued for his precision and reliability.\n\nLiam\u2019s social life is minimal, orbiting his work. He shares polite lunches with colleagues and occasionally joins them for a happy hour, but he mostly retreats to his solitary world after hours. His evenings are spent with complex video games, meticulously assembling Gundam model kits, and watching historical documentaries. A relationship a few years ago ended when his girlfriend grew tired of his predictable routine, a heartbreak that only reinforced his insular tendencies.\n\nHis San Francisco is not the vibrant, chaotic city of tourists, but a quiet, functional enclave. Yet, he harbors a quiet dream. Pinned to a corkboard above his desk is a picture of the Arashiyama Bamboo Grove in Kyoto. He hopes to one day break his routine, save enough money, and travel to a place whose beauty he imagines is as serene and orderly as the microscopic world he navigates every day."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up to the alarm, check news headlines and personal notifications on the phone.",
+                        "geocode": {
+                            "lat": 37.7930878,
+                            "lng": -122.3965893,
+                            "formatted_address": "191 Market St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 15,
+                        "location": "Apartment at 191 Market St"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Shower, brush teeth, and get dressed for the workday.",
+                        "geocode": {
+                            "lat": 37.7930878,
+                            "lng": -122.3965893,
+                            "formatted_address": "191 Market St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment at 191 Market St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee and toast a bagel for a quick breakfast.",
+                        "geocode": {
+                            "lat": 37.7930878,
+                            "lng": -122.3965893,
+                            "formatted_address": "191 Market St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment at 191 Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from his downtown apartment to the Mission Bay office, navigating traffic along The Embarcadero.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Settle in at his workstation, grab a complimentary kombucha, and review the daily sample queue.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Uber Health Labs, Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Run calibration checks on lab equipment and begin processing employee wellness screening samples.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "Uber Health Labs, Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd59",
+                        "action": "Take a break to get some fresh air and grab a healthy falafel bowl for lunch.",
+                        "geocode": {
+                            "lat": 37.7707793,
+                            "lng": -122.3914307,
+                            "formatted_address": "601 Mission Bay Boulevard North, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sparks Social SF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Enter results from the morning's sample run into the Lab Information Management System (LIMS).",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "Uber Health Labs, Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Attend a brief team huddle to discuss the rollout of a new testing protocol.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "'The Petri Dish' Conference Room, Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Clean and sanitize the workspace, stock reagents, and prepare the lab for the next day's operations.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Uber Health Labs, Uber HQ"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive back home, listening to a tech podcast to unwind during the evening commute.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Change into activewear and drive to the gym for a post-work bouldering session.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Dogpatch Boulders"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce and chicken for dinner on the way home.",
+                        "geocode": {
+                            "lat": 37.7742958,
+                            "lng": -122.3914108,
+                            "formatted_address": "1101 4th St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market, Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a stir-fry, eat dinner, and clean up the kitchen.",
+                        "geocode": {
+                            "lat": 37.7930878,
+                            "lng": -122.3965893,
+                            "formatted_address": "191 Market St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Apartment at 191 Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a few episodes of a new documentary series.",
+                        "geocode": {
+                            "lat": 37.7930878,
+                            "lng": -122.3965893,
+                            "formatted_address": "191 Market St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 90,
+                        "location": "Apartment at 191 Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Get ready for bed and read a few chapters of a novel before turning in.",
+                        "geocode": {
+                            "lat": 37.7930878,
+                            "lng": -122.3965893,
+                            "formatted_address": "191 Market St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment at 191 Market St"
+                    }
+                ],
+                "day_overview": "A structured and productive day for a lab technician, balancing detailed work at Uber's Mission Bay campus with an active evening of bouldering and a relaxing night in his downtown apartment.",
+                "home_address": "191 Market St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7930878,
+                    "lng": -122.3965893,
+                    "formatted_address": "191 Market St, San Francisco, CA 94111, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

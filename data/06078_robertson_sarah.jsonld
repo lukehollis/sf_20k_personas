@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Robertson",
+    "givenName": "Sarah",
+    "familyName": "Robertson",
+    "jobTitle": "Senior Management Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Robertson\u2019s life is a masterclass in pragmatism, a path she never intended to walk. Raised in a quiet, academic household in Portland, Oregon, she was nourished on literature and history. Her parents, a librarian and a history professor, encouraged intellectual curiosity above all else, which led Sarah to pursue her one true love: art. She completed a Master\u2019s degree in Art History, specializing in the Dutch Golden Age, envisioning a life spent in the hallowed, dusty halls of a museum.\n\nThe turning point came when stark financial reality collided with her passion. Facing a mountain of student debt and a barren academic job market, she took a temporary data-entry job at a financial firm in her late twenties, simply to make rent. There, a senior partner noticed her unique ability to identify patterns and synthesize vast amounts of complex information\u2014the same skills she had honed analyzing Vermeer\u2019s use of light, but applied to market trends. He became her mentor, encouraging her to pivot. Reluctantly at first, then with a surprising ferocity, Sarah leaned into this new world. She found an unexpected satisfaction in untangling corporate chaos and creating elegant, profitable solutions.\n\nNow 48, Sarah is a Senior Management Consultant, a sought-after mind who helps stabilize struggling financial institutions. For the past fifteen years, her home has been a sleek, minimalist apartment in Russian Hill. The 0.0-mile commute from her bedroom to her standing desk, which overlooks Alcatraz, has become permanent. Her days are a blur of intense Zoom calls, complex spreadsheets, and reports that dictate the fates of companies. Her social life is small and curated, consisting of a few industry colleagues and a weekly dinner with her friend from a disastrous pottery class she tried last year.\n\nLately, however, the ghost of her former passion has returned. On quiet evenings, after the final email is sent, she scrolls through online auctions for 17th-century etchings. Sarah has achieved the financial security her younger self desperately needed, but she dreams of a different kind of wealth\u2014the time and freedom to open a small, private gallery somewhere quiet, perhaps in Sonoma, and finally return to the world of art she once left behind."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, meditate, and review daily headlines on a tablet.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Share a quick coffee and breakfast with her partner while discussing their respective schedules.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and get dressed in business casual attire for a client-facing day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bathroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the corner of Cesar Chavez St & Folsom St to catch the bus.",
+                        "geocode": {
+                            "lat": 37.7483853,
+                            "lng": -122.4105833,
+                            "formatted_address": "Cesar Chavez St, San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Cesar Chavez Street"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute on the Muni #12 bus, reading industry news on her phone.",
+                        "geocode": {
+                            "lat": 37.7717388,
+                            "lng": -122.4169322,
+                            "formatted_address": "12th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "SF Muni Bus #12"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab an oat milk latte, and have a quick sync with her project team.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Sightglass Coffee inside Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead a 2-hour virtual strategy session with a major banking client to finalize Q4 financial modeling.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Miro Studios - Conference Room 'Alamo'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a quick, healthy lunch to take back to her desk.",
+                        "geocode": {
+                            "lat": 37.7583991,
+                            "lng": -122.4210941,
+                            "formatted_address": "901 Valencia St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "MIXT on Valencia Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Conduct a one-on-one mentorship call with a junior analyst, reviewing their work on a merger valuation.",
+                        "geocode": {
+                            "lat": 37.7246314,
+                            "lng": -122.4490018,
+                            "formatted_address": "Private Offices, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "Miro Studios - Private Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Dedicate focused time to personally edit and refine a high-stakes client presentation.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 150,
+                        "location": "Miro Studios - Her Desk"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, listening to a podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "SF Muni Bus #27"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Change into workout clothes and go for a brisk jog to the top of the hill for sunset views.",
+                        "geocode": {
+                            "lat": 37.7430272,
+                            "lng": -122.4136408,
+                            "formatted_address": "Bernal Heights Park, Bernal Heights Blvd, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Bernal Heights Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh ingredients and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7389034,
+                            "lng": -122.4167345,
+                            "formatted_address": "448 Cortland Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "The Good Life Grocery on Cortland Ave"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner with her partner, catching up on the details of their day over a glass of wine.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a crime drama, and plan a weekend winery trip.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prepare for the next day and read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A demanding but balanced day for a senior management consultant, blending high-stakes client work in the Mission with personal time, exercise, and quality connection with her partner in their Bernal Heights neighborhood.",
+                "home_address": "3856 Howard St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7831805,
+                    "lng": -122.4028545,
+                    "formatted_address": "Howard St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Robertson Family"
+    }
+}

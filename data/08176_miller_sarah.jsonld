@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Warehouse Associate",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story began not in San Francisco, but thousands of miles away, on a humid afternoon near a U.S. naval base in the Philippines. The daughter of a Filipina mother and a white American serviceman, her identity was a tapestry from the start. Her early childhood was a blend of two cultures, but the threads began to fray when her family relocated to a drab military town in California\u2019s Central Valley. The transition was jarring. Her father struggled to adapt to civilian life, and her mother felt isolated, a world away from her home. Their strained marriage created a quiet tension that defined Sarah\u2019s upbringing.\n\nSchool was a place of quiet observation, not academic ambition. She completed her high school equivalency but saw no clear path forward. The dream of college felt like a luxury reserved for other families. At nineteen, after a final, fracturing argument at home, Sarah packed a single duffel bag and bought a one-way bus ticket to San Francisco, a city she knew only from postcards. It was an act of pure survival, a desperate grasp for a life that was solely her own.\n\nShe found work where she could, eventually landing a job as a warehouse associate for a large retail company. The position offered stability disguised as monotony. Her life is now dictated by the rhythmic beep of scanners and the weight of boxes. Her 0.0-mile commute is a product of necessity; she lives in a small, spartan Single Room Occupancy (SRO) in the Dogpatch, just a few blocks from the warehouse. Her world is a compact, walkable loop: the warehouse floor, the corner market, her tiny room.\n\nDespite the physical exhaustion, Sarah remains a keen observer. During her breaks, she sketches the industrial landscapes and the distant gleam of the downtown skyline in a weathered notebook. She has few close friends, mostly colleagues who share her weariness, but she finds a quiet camaraderie in their shared experience. Her dream isn't grand; it\u2019s tangible. She\u2019s painstakingly saving money, hoping to one day enroll in a graphic design course at City College. For Sarah, San Francisco isn't about glamor; it's about the promise of a second draft, a chance to design a future that finally feels like hers."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, silence alarm, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Bedroom, Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Gentle stretching and yoga to prepare for a physical workday.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Living Room, Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in work-appropriate clothes, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bathroom, Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a quick, high-energy breakfast of oatmeal and coffee.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Kitchen, Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the Muni 27 bus to Lower Nob Hill.",
+                        "geocode": {
+                            "lat": 37.7616419,
+                            "lng": -122.4149807,
+                            "formatted_address": "Folsom St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "18th & Folsom Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Clock in, grab a scanner, and review the day's delivery manifest and priority supply requisitions.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "UCSF Hospital Supply Warehouse"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Unload morning shipments of medical supplies, scan items into inventory, and operate a pallet jack to stock shelves.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 225,
+                        "location": "Hospital Loading Dock & Warehouse"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Eat a packed lunch while listening to a podcast to rest and save money.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Saint Francis Hospital Staff Breakroom"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick and pack orders for various hospital departments, ensuring accuracy for critical patient care items.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 240,
+                        "location": "UCSF Hospital Supply Warehouse"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Clock out and begin the bus commute back home to the Mission.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Hyde & Bush Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop for ingredients for dinner and lunch tomorrow.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf36\ufe0f",
+                        "action": "Cook a simple but hearty dinner, like black bean bowls, while listening to music.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Kitchen, Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while watching a new episode of a favorite show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room, Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Chat with roommates about their day and text friends to coordinate weekend plans.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Living Room, Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf92",
+                        "action": "Pack lunch for the next day, set out work clothes, and tidy up the kitchen.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home, Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Wind down with personal hygiene routine and reading a few chapters of a book before bed.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bedroom, Howard St Apartment"
+                    }
+                ],
+                "day_overview": "A typical weekday for Sarah, balancing a physically demanding warehouse job with a public transit commute and relaxing evenings in her Mission District neighborhood.",
+                "home_address": "2251 Howard St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7703823,
+                    "lng": -122.417582,
+                    "formatted_address": "2251 Howard St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

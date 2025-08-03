@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Office Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story is written in the gentle, persistent gray fog of San Francisco\u2019s Inner Richmond, the neighborhood where she was born and still resides. As the only daughter of Chinese immigrants who ran a small corner grocery, her childhood was a blend of American schooling and filial duty. Her parents, valuing security above all, dreamed of her becoming a pharmacist or an accountant\u2014a stable profession with a clear path. Sarah enrolled at San Francisco State University, aiming to please them with a business degree.\n\nThe turning point came during her sophomore year. Her mother was diagnosed with a long-term illness, and the family\u2019s modest savings quickly evaporated. Without a second thought, Sarah dropped out of college to take a full-time receptionist job, her own ambitions shelved for the sake of her family. That job, however, revealed her innate talent for organization and managing chaos. She was methodical, preternaturally calm, and found satisfaction in making complex systems run smoothly.\n\nOver two decades, she methodically climbed the administrative ladder. She moved from receptionist to executive assistant to, finally, Office Manager at a thriving mid-size tech company. She is the anchor in a sea of ambitious, twenty-something engineers who see San Francisco as a temporary launchpad. Sarah, in contrast, is the city itself: enduring, practical, and deeply rooted. She inherited her parents\u2019 small, two-story home, the reason she can afford to stay.\n\nHer 0.0-mile commute means her workday unfolds in a spare room overlooking her meticulously tended garden. Her days are a quiet rhythm of Zoom calls, managing logistics, and soothing frayed nerves over Slack. Her social life is a small, tight circle of friends from high school, most of whom have also remained in the Bay Area.\n\nAt 45, a quiet yearning has begun to surface. With her parents gone and her career stable, Sarah feels the pull of her own unclaimed dreams. She finds herself browsing online courses for the Art History degree she once fantasized about. Her aspiration isn\u2019t to change careers, but to finally complete a journey for herself\u2014to add a chapter to her life that is purely about her own passion, not her duty to others."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check news headlines and personal notifications on phone.",
+                        "geocode": {
+                            "lat": 37.7277164,
+                            "lng": -122.3931774,
+                            "formatted_address": "Bayview, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 15,
+                        "location": "Sarah's Apartment, Bayview"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Follow a guided morning yoga and stretching video in the living room.",
+                        "geocode": {
+                            "lat": 37.7277164,
+                            "lng": -122.3931774,
+                            "formatted_address": "Bayview, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 20,
+                        "location": "Sarah's Apartment, Bayview"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for the office, and do skincare/makeup routine.",
+                        "geocode": {
+                            "lat": 37.7277164,
+                            "lng": -122.3931774,
+                            "formatted_address": "Bayview, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 40,
+                        "location": "Sarah's Apartment, Bayview"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and toast with avocado for a quick breakfast.",
+                        "geocode": {
+                            "lat": 37.7277164,
+                            "lng": -122.3931774,
+                            "formatted_address": "Bayview, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 20,
+                        "location": "Sarah's Apartment, Bayview"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Walk to the designated pickup spot and join carpool for the cross-town drive to the Marina District.",
+                        "geocode": {
+                            "lat": 37.7255362,
+                            "lng": -122.3943573,
+                            "formatted_address": "3rd St & Carroll Ave, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 55,
+                        "location": "Carpool Pickup at 3rd St & Carroll Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, sort through emails, review the day's calendar, and create a priority task list.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "WebScale Innovations (WSI) Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Coordinate logistics with a catering vendor for an upcoming all-hands meeting and restock the office snack bar.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "WebScale Innovations (WSI) Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a walk to grab a turkey sandwich and escape the office bustle.",
+                        "geocode": {
+                            "lat": 37.8000926,
+                            "lng": -122.4410224,
+                            "formatted_address": "2299 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Marina Deli on Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf89",
+                        "action": "Research and contact potential venues for the quarterly team-building event.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "WebScale Innovations (WSI) Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfe",
+                        "action": "Process a stack of employee expense reports and vendor invoices.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "WebScale Innovations (WSI) Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Meet carpool for the evening commute back home, catching up with coworker about the day.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Carpool Pickup on Van Ness Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh produce and chicken for dinner.",
+                        "geocode": {
+                            "lat": 37.7463161,
+                            "lng": -122.4026625,
+                            "formatted_address": "Produce Market, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bayview Produce Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a lemon-herb chicken and vegetable dinner while listening to a true crime podcast.",
+                        "geocode": {
+                            "lat": 37.7277164,
+                            "lng": -122.3931774,
+                            "formatted_address": "Bayview, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sarah's Apartment, Bayview"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch the latest episode of a popular streaming series.",
+                        "geocode": {
+                            "lat": 37.7277164,
+                            "lng": -122.3931774,
+                            "formatted_address": "Bayview, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 70,
+                        "location": "Sarah's Apartment, Bayview"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7277164,
+                            "lng": -122.3931774,
+                            "formatted_address": "Bayview, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 45,
+                        "location": "Sarah's Apartment, Bayview"
+                    }
+                ],
+                "day_overview": "A busy but structured weekday for Sarah, balancing her demanding role as an Office Manager with a long cross-city commute, ending with a quiet evening at her Bayview home.",
+                "home_address": "3705 3rd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7173637,
+                    "lng": -122.3982549,
+                    "formatted_address": "3705 3rd St, San Francisco, CA 94124, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1979",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam O'Connell",
+    "givenName": "Liam",
+    "familyName": "O'Connell",
+    "jobTitle": "Junior Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam O\u2019Connell\u2019s name has always been a conversation starter. Adopted as an infant from Seoul, South Korea, he was raised in Daly City by loving, second-generation Irish-American parents. His childhood was a unique blend of cultures: pungent kimchi sharing fridge space with soda bread, and long discussions about his birth heritage alongside boisterous St. Patrick\u2019s Day celebrations. His father, a union plumber, and his mother, a school administrator, instilled in him a solid, working-class ethic and an appreciation for the diverse tapestry of the Bay Area.\n\nHis intellectual curiosity led him to UC Berkeley, where he initially felt adrift. He found his calling not in a single subject, but in the space between them, graduating with a degree in Cognitive Science. A key turning point was a summer internship where he was tasked with analyzing user engagement data for a small educational app. It was a revelation; within the seemingly endless rows of numbers, Liam discovered patterns of human behavior, narratives of frustration and delight. He realized he could tell stories with data, a skill that felt both analytical and deeply human.\n\nNow, at 24, Liam lives a life defined by digital proximity. His 0.0-mile commute takes him from his bed to a desk tucked into the corner of his small studio apartment in the Mission District. As a junior data scientist for a FinTech startup, his days are spent wrangling datasets, building predictive models, and communicating his findings over Slack. To break the monotony, he takes midday walks to Dolores Park, grabbing a burrito from a favorite taqueria on the way back. His social circle is a tight-knit group from his Berkeley days, with whom he explores the city's breweries and indie music venues.\n\nLiam\u2019s ambition transcends his job title. He dreams of eventually applying his skills to social-impact projects, perhaps analyzing patterns in urban displacement or optimizing resources for non-profits. He feels a profound connection to San Francisco\u2014not as a transplant chasing a tech dream, but as a local who has witnessed its constant evolution. He is a product of its global reach and its neighborhood sensibilities, a young man finding his own unique story within the city's complex data set."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, start the coffee maker, and scroll through tech news and social media.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "1884 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1884 Howard St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower, get dressed in a casual tech-office outfit, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "1884 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1884 Howard St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the #12 Muni bus to the office.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Howard St & 14th St Muni Stop"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab a coffee from the kitchen, and triage emails and Slack messages.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend the daily data science team stand-up meeting to discuss project progress and blockers.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83e\uddf9",
+                        "action": "Deep work session: Writing Python scripts to clean and pre-process a large customer dataset.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 165,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Grab lunch with coworkers at a popular Korean-fusion spot.",
+                        "geocode": {
+                            "lat": 37.7997581,
+                            "lng": -122.4080012,
+                            "formatted_address": "532 Green St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "HRD"
+                    },
+                    {
+                        "emoji": "\ud83e\udd16",
+                        "action": "Afternoon focus: Building and training a machine learning model to predict user churn.",
+                        "geocode": {
+                            "lat": 37.77451070000001,
+                            "lng": -122.4109279,
+                            "formatted_address": "1246 Folsom St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 180,
+                        "location": "Arc Studios & Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8f",
+                        "action": "Commute home, taking the Muni bus back towards the Mission.",
+                        "geocode": {
+                            "lat": 37.77514000000001,
+                            "lng": -122.40984,
+                            "formatted_address": "Folsom St & 8th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Folsom St & 8th St Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.76922570000001,
+                            "lng": -122.4148782,
+                            "formatted_address": "1745 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Rainbow Grocery Cooperative"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "De-stress with an after-work bouldering session at the local climbing gym.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner while listening to a data science podcast.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "1884 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (1884 Howard St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udca1",
+                        "action": "Wind down for the night: Watch a streaming series and do a little work on a personal coding project.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "1884 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (1884 Howard St)"
+                    }
+                ],
+                "day_overview": "A productive weekday for a young data scientist in San Francisco, balancing focused work in SoMa with a classic SF climbing session and errands in the Mission.",
+                "home_address": "1884 Howard St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7703823,
+                    "lng": -122.417582,
+                    "formatted_address": "1884 Howard St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "O'Connell Family"
+    }
+}

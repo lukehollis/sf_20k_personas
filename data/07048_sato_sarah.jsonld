@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Sato",
+    "givenName": "Sarah",
+    "familyName": "Sato",
+    "jobTitle": "Medical Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Sato\u2019s story began not in the coastal fog of San Francisco, but under the flat, predictable skies of Cincinnati, Ohio. Raised in a quiet suburb by a stoic accountant father and a kind but conventional mother, Sarah felt a persistent pull toward a life less ordinary. This yearning propelled her west for graduate school, where she enrolled in UC Berkeley\u2019s Master of Social Work program, instantly captivated by the Bay Area\u2019s vibrant, eclectic energy.\n\nIt was during her early career, working in a bustling San Francisco hospital, that she met Kenji Sato, a charismatic Japanese-American architect. They married, and she took his name, embracing a partnership that felt as dynamic as the city itself. For fifteen years, their life was a whirlwind of dinner parties, gallery openings, and shared dreams. But as they entered their forties, their paths diverged. The divorce was amicable but profound, a quiet earthquake that reshaped her life\u2019s landscape.\n\nNow 48, Sarah lives alone in a cozy one-bedroom apartment in the Inner Sunset. The pandemic shifted her demanding job as a medical social worker in oncology to a fully remote model, resulting in her 0.0-mile commute. Her days are a structured blend of profound emotional labor and quiet solitude. Mornings start with a walk to a local cafe on Irving Street, a ritual that separates home from work. Then, from her small desk overlooking a neighbor's garden, she provides telehealth counseling to patients and families navigating the terrifying terrain of cancer diagnosis and end-of-life care.\n\nTo decompress, she takes long walks through Golden Gate Park, the vast green space her saving grace. Her social life is small but deep, consisting of a few close friends from her former life with Kenji. Having spent two decades guiding others through their final chapters, Sarah is beginning to contemplate her own future. She dreams not of grand romance, but of rediscovering herself outside of her professional identity\u2014perhaps by finally taking that trip to Japan, a country whose name she carries but has never seen, to write a new chapter that is entirely her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, hydrate, and do a 15-minute guided meditation to center herself before the day.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Brannan St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare a simple, healthy breakfast of oatmeal with fruit and coffee while listening to the morning news.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Brannan St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the long morning walk to work, listening to a social work podcast to stay current on industry topics.",
+                        "geocode": {
+                            "lat": 37.77606249999999,
+                            "lng": -122.4295929,
+                            "formatted_address": "Hayes Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "SF Streets (SoMa to Hayes Valley)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf75",
+                        "action": "Stop for a quick green tea to-go before tackling the second half of the walk.",
+                        "geocode": {
+                            "lat": 37.77286429999999,
+                            "lng": -122.4234767,
+                            "formatted_address": "8 Octavia St UNIT 308, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 10,
+                        "location": "The Boba Guys (Hayes Valley)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Continue walking to work, crossing through Lower Pac Heights and into the Marina district.",
+                        "geocode": {
+                            "lat": 37.77606249999999,
+                            "lng": -122.4295929,
+                            "formatted_address": "Hayes Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Streets (Hayes Valley to Cow Hollow)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into her reserved desk, organize her schedule and begin returning urgent patient voicemails and emails.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Step out to grab a healthy salad for lunch, eating at a communal table in the parklet outside.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Souvla (Union Street)"
+                    },
+                    {
+                        "emoji": "\ud83d\udda5\ufe0f",
+                        "action": "Conduct virtual patient consultations and discharge planning sessions via a secure telehealth platform.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 90,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Handle challenging calls with insurance providers to secure authorizations for patient care.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 90,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83c\udf06",
+                        "action": "Begin the walk home, using the time to mentally decompress from the emotionally taxing workday.",
+                        "geocode": {
+                            "lat": 37.7846321,
+                            "lng": -122.4313039,
+                            "formatted_address": "Japantown, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "SF Streets (Cow Hollow to Japantown)"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Stop by her mother's apartment to drop off groceries, help with mail, and share a cup of tea.",
+                        "geocode": {
+                            "lat": 37.7846321,
+                            "lng": -122.4313039,
+                            "formatted_address": "Japantown, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Mother's Apartment (Japantown)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf09",
+                        "action": "Complete the last leg of her walk home, enjoying the evening air along the Embarcadero.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Embarcadero Path"
+                    },
+                    {
+                        "emoji": "\ud83e\udd62",
+                        "action": "Prepare a simple dinner of salmon and roasted vegetables while catching up on a phone call with a friend.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Brannan St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind by reading her book club's latest novel on the couch with a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.7771219,
+                            "lng": -122.3980923,
+                            "formatted_address": "Brannan St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Brannan St)"
+                    }
+                ],
+                "day_overview": "A structured day for a dedicated Medical Social Worker, balancing a demanding caseload with a long, meditative walking commute and caring for her elderly mother.",
+                "home_address": "3321 Brannan St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7801007,
+                    "lng": -122.3943276,
+                    "formatted_address": "Brannan St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sato Family"
+    }
+}

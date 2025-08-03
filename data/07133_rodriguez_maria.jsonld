@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maria Rodriguez",
+    "givenName": "Maria",
+    "familyName": "Rodriguez",
+    "jobTitle": "Store Supervisor",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Spiritual but not religious"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maria Rodriguez is woven into the very fabric of San Francisco\u2019s Mission District, a neighborhood she has called home for all of her 34 years. The daughter of Salvadoran immigrants who arrived in the 1980s, she grew up in a vibrant, cramped apartment filled with the scent of pupusas and the sounds of cumbia music mingling with the city\u2019s foghorns. Her parents, who worked tirelessly in restaurant kitchens and cleaning services, instilled in her a profound sense of duty and a formidable work ethic.\n\nShe was the first in her family to attend college, enrolling at San Francisco State University with dreams of becoming a graphic designer. For two years, she thrived, her world expanding beyond the Mission's familiar blocks. However, her journey was cut short when her mother fell seriously ill. Without hesitation, Maria dropped her classes to work full-time and help manage the household, a sacrifice that quietly reshaped her future. The part-time retail job she held at a local boutique became her career.\n\nOver the next decade, Maria\u2019s reliability and innate ability to connect with people saw her rise from sales associate to store supervisor. The boutique is her domain, and with a 0.0-mile commute, her life is a testament to neighborhood loyalty; she lives in a small apartment directly above the shop. Her daily routine is a familiar rhythm: unlocking the store gates, arranging new inventory, and greeting regulars by name. She is the steady heartbeat of her block, a familiar face to everyone from the mail carrier to the owners of the taqueria next door.\n\nWhile content, Maria feels the ghost of her artistic ambitions. She channels her creativity into intricate window displays and sketches logos on stray receipts during quiet moments. Her social life is deeply local, consisting of her recovered mother, a younger brother she helped raise, and a tight-knit circle of neighborhood friends. Maria dreams of one day merging her worlds\u2014perhaps by creating her own online brand or turning the boutique into a space that also features local artists. She sees her future not as an escape from the Mission, but as a deeper investment in the community that raised her."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, make coffee, and get ready for the day while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Pack bag, text carpool partner, and walk to the designated pickup corner.",
+                        "geocode": {
+                            "lat": 37.7864402,
+                            "lng": -122.4080661,
+                            "formatted_address": "Powell St & O'Farrell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 15,
+                        "location": "Corner of Powell & O'Farrell"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute, navigating SoMa traffic to get to Mission Bay.",
+                        "geocode": {
+                            "lat": 37.4904743,
+                            "lng": -122.2991676,
+                            "formatted_address": "I-280, California, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Surface Streets & I-280"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Arrive at work, grab a subsidized coffee, and conduct pre-opening duties: review daily sales goals and check new inventory.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Uber Company Store @ Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the morning team huddle and open the store for Uber employees.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "The Uber Company Store @ Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Manage the sales floor, assist employees with purchases, and handle customer service issues.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 135,
+                        "location": "The Uber Company Store @ Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83c\udf55",
+                        "action": "Lunch break with a work friend, grabbing a slice at a popular local spot.",
+                        "geocode": {
+                            "lat": 37.773688,
+                            "lng": -122.3916514,
+                            "formatted_address": "1170 4th St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 60,
+                        "location": "Casey's Pizza"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Afternoon shift management: train a new associate on the POS system and process a new shipment of merchandise.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "The Uber Company Store @ Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Perform closing supervisor duties, including reconciling the cash drawer and writing the end-of-day report.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Uber Company Store @ Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Clock out and commute home with the carpool, catching up on the day's events.",
+                        "geocode": {
+                            "lat": 37.787552,
+                            "lng": -122.4066183,
+                            "formatted_address": "Union Square, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mission Bay to Downtown"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Get dropped off and make a quick stop for groceries and household essentials.",
+                        "geocode": {
+                            "lat": 37.7853239,
+                            "lng": -122.4055518,
+                            "formatted_address": "10 4th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Trader Joe's at 4th and Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Arrive home, unpack groceries, and cook a simple pasta dinner while watching the news.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf79",
+                        "action": "Meet a friend for a post-dinner cocktail at a stylish lounge nearby.",
+                        "geocode": {
+                            "lat": 37.787992,
+                            "lng": -122.404294,
+                            "formatted_address": "46 Geary St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 90,
+                        "location": "Hawthorn Lounge"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Evening wind-down: stream a new episode of a favorite show and browse online before bed.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Apartment on Powell St"
+                    }
+                ],
+                "day_overview": "A busy but balanced day for a retail supervisor, juggling work responsibilities at a major tech campus, navigating the city via carpool, and balancing errands with a social evening in her vibrant downtown neighborhood.",
+                "home_address": "35 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7850045,
+                    "lng": -122.4083533,
+                    "formatted_address": "35 Powell St, San Francisco, CA 94102, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

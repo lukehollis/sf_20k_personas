@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Leah Cohen",
+    "givenName": "Leah",
+    "familyName": "Cohen",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Leah Cohen\u2019s fascination with cities began in the monotonous sprawl of suburban Chicago, where a two-hour round-trip commute was the norm for her accountant father. She saw the automobile not as a symbol of freedom, but as a cage. This early observation fueled her academic path, leading her from a state university to UCLA for a Master's in Urban Planning. It was there, immersed in data analytics and transit theory, that she realized the future of planning wasn't in city hall, but in Silicon Valley.\n\nUpon graduating, Leah was recruited by a major tech firm in San Francisco to join their nascent autonomous mobility division. She bypassed traditional city planning for a role where she could analyze vast datasets to design efficient, dynamic transportation systems. Her move to SF was both a career choice and a personal mission. She settled into a modern one-bedroom apartment in Hayes Valley, a neighborhood whose walkability and vibrant street life represented everything her childhood lacked. Her commute is zero; she works from a standing desk overlooking Patricia's Green, her days dictated by virtual meetings and complex routing algorithms.\n\nLeah\u2019s life is deeply integrated into her neighborhood. Mornings start with a run through the Panhandle, followed by coffee from a local roaster. She thrives on the energy of the city, yet her social circle is a tight-knit group of fellow planners, tech colleagues, and a few friends from a pottery class she joined to disconnect from screens. A recent breakup has sharpened her focus on her career, pushing her deeper into her work.\n\nHer core ambition is to bridge the gap between Big Tech's profit motives and genuine public good. Leah dreams of leading a project that creates a truly equitable transit system, one that serves the underserved communities of the Bay Area, not just the affluent corridors. She sees her role as a necessary infiltration\u2014using the immense resources of the tech world to build the sustainable, human-centric city she\u2019s always envisioned. San Francisco, for her, is not just a home; it's a living laboratory for her life's work."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nOn her first Saturday in Hayes Valley, Leah stood on her apartment balcony, watching people crisscross Patricia's Green. The soundscape wasn't the isolating drone of highways she knew, but a vibrant mix of conversations, laughter, and the distant clang of a cable car. It was a profound, physical relief\u2014the exact inverse of her childhood cage. This single moment solidified her mission; the city wasn't just a place to work, but the very theory she was here to prove. This happened three years ago, just after she moved.\n\n2.\nA year into her job, a VP displayed a simulation map where her algorithm created a glowing web of transit between affluent neighborhoods, leaving areas like the Bayview dark. A cold anger settled in her gut; it was digital redlining disguised as efficiency. The moment stripped away her corporate idealism, replacing it with a quiet, strategic resolve. She wasn't just an employee anymore. She was an infiltrator, learning the system she was determined to one day bend toward true equity.\n\n3.\nA few months ago, in the hollow silence two weeks after the breakup, Leah found herself working at 2 AM. Instead of feeling lonely, she looked out her window at the streetlights on Octavia and felt a strange sense of companionship with the quiet, breathing city. The complex routing data on her screen was a puzzle that made more sense than her heartache. In that moment, her career became more than ambition; it became her anchor, a purposeful obsession that promised a clearer path forward.\n\n4.\nOne morning last year, she walked into her usual coffee shop on Linden Alley. Before she could speak, the barista started her oat milk latte and asked how the vase from her pottery class had turned out. The simple, personal question landed with surprising weight. In that moment, she wasn\u2019t just a transient tech worker in a rapidly changing city; she was a local, a regular. It was a tiny thread of connection, but it was the very human-scale fabric she had moved across the country to find.\n\n5.\nSix months ago, researching transit gaps on her own time, she rode the T Third into the Bayview. She watched an elderly woman with a cane struggle through a multi-bus transfer for a doctor\u2019s appointment. The woman\u2019s weary sigh as she finally sat down was more damning than any dataset. The abstract problem of \"underserved communities\" suddenly had a face and a name. That brief encounter transformed her professional ambition into a visceral, personal crusade. It was no longer about algorithms; it was about her."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check weather and daily transit alerts on phone.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Pre-commute stretching and a quick bodyweight workout.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get dressed, and make a quick breakfast of coffee and oatmeal with berries.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Morning commute by bicycle across the city, enjoying views from the Presidio Promenade Trail.",
+                        "geocode": {
+                            "lat": 37.8021445,
+                            "lng": -122.4585086,
+                            "formatted_address": "Presidio Promenade Trail, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 50,
+                        "location": "Presidio Promenade Bike Trail"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Arrive at work, settle in, and analyze user data from a recent bike-share pilot program.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 120,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to grab a Banh Mi sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7827006,
+                            "lng": -122.474388,
+                            "formatted_address": "1408 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Breadbelly Bakery"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Eat lunch while reading planning articles at a bench with a view of the ocean.",
+                        "geocode": {
+                            "lat": 37.7774816,
+                            "lng": -122.5105772,
+                            "formatted_address": "Sutro Heights, 846 Point Lobos Ave, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 40,
+                        "location": "Sutro Heights Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon focus session: preparing a presentation on smart traffic light implementation for a city partner.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 150,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Collaborative whiteboard session with a product manager to brainstorm a new carpool matching algorithm.",
+                        "geocode": {
+                            "lat": 37.776055,
+                            "lng": -122.419937,
+                            "formatted_address": "77 Van Ness Ave APT 302, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "CIQ Gallery Whiteboard Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2640\ufe0f",
+                        "action": "Evening commute home by bicycle, ascending the Arguello hill and cruising through the Marina.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 55,
+                        "location": "Arguello Blvd to Marina Green Bike Path"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop to pick up fresh pasta and pesto for dinner.",
+                        "geocode": {
+                            "lat": 37.8016074,
+                            "lng": -122.4117736,
+                            "formatted_address": "716 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "The Italian Homemade Company"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Meet a friend for a happy hour Negroni to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and eat dinner while listening to an urbanism podcast.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and tidying up before bed.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Leah, blending data-driven work as a Transportation Planner with a vigorous cross-city bike commute, and capped off with a social evening in her vibrant North Beach neighborhood.",
+                "home_address": "2180 Grant Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8071897,
+                    "lng": -122.4089267,
+                    "formatted_address": "2180 Grant Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Cohen Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Preschool Teacher's Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Education"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s journey to San Francisco began not with a career plan, but with a leap of faith for a love that eventually faded. Raised in a quiet Ohio town by a mechanic father and a librarian mother, her world was one of practicality and modest ambition. She earned an Associate's degree in Graphic Design, imagining a life of creativity, but a whirlwind romance in her early twenties brought her to the West Coast, leaving her plans and family behind.\n\nWhen the relationship dissolved a year later, Sarah was left unmoored in a city that felt both vast and indifferent. She survived on a string of service jobs\u2014barista, bookstore clerk, dog walker\u2014her design portfolio gathering dust. The turning point came unexpectedly. A flyer at a local coffee shop advertised an assistant position at a small, family-run preschool in the Inner Richmond. On a whim, she applied. In the chaotic, joyful world of four-year-olds, surrounded by finger paints and story time, Sarah discovered a profound sense of purpose she\u2019d never found in design.\n\nFor the past fifteen years, she has been the steadfast assistant at Little Sprouts Preschool. Her life is woven into the very fabric of the building; she lives in a small, rent-stabilized apartment directly above the school, making her commute a simple walk down a flight of stairs. This rare arrangement is the anchor that allows her to remain in a city that often pushes out those without high-tech salaries. Her social life is a constellation of the school's community: the parents she greets daily, the other teachers, and the owner, a woman who has become a mentor and friend.\n\nSarah\u2019s aspirations are grounded and heartfelt. She dreams not of wealth_ _but of someday completing her bachelor\u2019s degree to become a lead teacher. She finds joy in simple routines: morning walks in Golden Gate Park before the children arrive, tending to the small herb garden in the school\u2019s backyard, and quiet evenings with a library book. Sarah Miller is a quiet cornerstone of her neighborhood, a testament to a different kind of San Francisco success story\u2014one measured not in stock options, but in the sticky handprints on her smock and the sound of laughter rising from the yard below."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and start coffee maker.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Enjoy coffee while eating a quick breakfast of yogurt and granola. Pack a lunch and snacks for the day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Shower and get dressed in comfortable clothes suitable for biking and working with children.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bathroom/Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5\u200d\u2640\ufe0f",
+                        "action": "Final check of bike tires and lights, fill water bottle, and start the commute.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home - Garage"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Cycle from the Outer Richmond, entering Golden Gate Park and heading east through the Panhandle and the Wiggle.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Golden Gate Park & The Wiggle Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83c\udfeb",
+                        "action": "Arrive at work, park bike, and chat with the lead teacher about the day's lesson plan.",
+                        "geocode": {
+                            "lat": 37.7773082,
+                            "lng": -122.4196412,
+                            "formatted_address": "Civic Center, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 20,
+                        "location": "Civic Center Play & Learn Preschool"
+                    },
+                    {
+                        "emoji": "\ud83c\udfb6",
+                        "action": "Assist with morning circle time, lead a sing-along, and help children with a guided sensory bin activity.",
+                        "geocode": {
+                            "lat": 37.7773082,
+                            "lng": -122.4196412,
+                            "formatted_address": "Civic Center, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 220,
+                        "location": "Civic Center Play & Learn Preschool"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break, eating a packed sandwich and apple while enjoying some fresh air and people-watching.",
+                        "geocode": {
+                            "lat": 37.77949290000001,
+                            "lng": -122.4176986,
+                            "formatted_address": "Civic Center Plaza, 335 McAllister St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Civic Center Plaza"
+                    },
+                    {
+                        "emoji": "\ud83e\udd2b",
+                        "action": "Supervise children's nap time, quietly tidying the classroom and preparing materials for the afternoon art project.",
+                        "geocode": {
+                            "lat": 37.7773082,
+                            "lng": -122.4196412,
+                            "formatted_address": "Civic Center, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 90,
+                        "location": "Civic Center Play & Learn Preschool"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Lead the afternoon session, including supervising outdoor playground time and helping children with a painting project.",
+                        "geocode": {
+                            "lat": 37.7773082,
+                            "lng": -122.4196412,
+                            "formatted_address": "Civic Center, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 150,
+                        "location": "Civic Center Play & Learn Preschool"
+                    },
+                    {
+                        "emoji": "\ud83c\udf06",
+                        "action": "Begin the bike commute home, taking the same route back towards the Richmond District.",
+                        "geocode": {
+                            "lat": 37.7742823,
+                            "lng": -122.4359741,
+                            "formatted_address": "Fell St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Fell Street Bike Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a few essential groceries for dinner and the next day's lunch.",
+                        "geocode": {
+                            "lat": 37.7827054,
+                            "lng": -122.4668356,
+                            "formatted_address": "707 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "New May Wah Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Arrive home, put away groceries, and prepare a simple dinner of stir-fried vegetables and tofu.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Walk to a local cafe to meet with her weekly book club to discuss this month's novel.",
+                        "geocode": {
+                            "lat": 37.7759728,
+                            "lng": -122.4958428,
+                            "formatted_address": "3434 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 90,
+                        "location": "Simple Pleasures Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching an episode of a favorite show on a streaming service to unwind.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udecf\ufe0f",
+                        "action": "Tidy up the kitchen, lay out clothes for the next day, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7758188,
+                            "lng": -122.4924945,
+                            "formatted_address": "3129 Balboa St, San Francisco, CA 94121"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A physically active day for Sarah, a preschool teacher's assistant, involving a long bike commute from the Outer Richmond to her job near Civic Center, a busy day with children, and a relaxing evening spent at a neighborhood book club.",
+                "home_address": "3129 Balboa St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7758188,
+                    "lng": -122.4924945,
+                    "formatted_address": "3129 Balboa St, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

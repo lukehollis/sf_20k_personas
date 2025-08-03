@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Wong",
+    "givenName": "Sarah",
+    "familyName": "Wong",
+    "jobTitle": "Logistics Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Wong is a quiet pillar of a city that often prizes noise. Born and raised in the Inner Sunset, she is the daughter of Cantonese immigrants who ran a small laundry service on Irving Street. From them, she inherited not a desire for wealth, but a profound appreciation for stability and meticulous work. Her childhood was defined by the rhythmic hum of washing machines and the scent of steamed press, a world where precision and reliability were the highest virtues.\n\nHer educational journey was practical. After graduating from Lowell High School, she attended City College of San Francisco, earning an Associate's degree in Office Administration. It wasn't a degree of passion, but a tool for employment. This pragmatic approach landed her an entry-level position at a downtown financial firm in the late 1980s. For over three decades, Sarah has remained with the same company, witnessing its evolution from paper ledgers to digital platforms. She never chased a corner office, instead finding her niche as a Logistics Coordinator. She is the unseen gear, the quiet force ensuring that critical documents, compliance reports, and complex account transfers move flawlessly through the firm's arteries.\n\nA key turning point in Sarah\u2019s life was the passing of her mother a decade ago, which cemented her role as the family's anchor. Unmarried and without children of her own, she is the devoted aunt who never forgets a birthday and the steady presence for her older brother. The COVID-19 pandemic brought another profound shift: her commute vanished. The daily MUNI ride downtown was replaced by a 0.0-mile walk to the desk in her spare bedroom.\n\nNow, at 52, Sarah\u2019s life is a study in quiet contentment. Her day begins with a walk in the fog-laced quiet of Golden Gate Park, a comfort she has known since childhood. She works diligently from her rent-controlled apartment, the same one she has lived in for twenty years, its windows overlooking the familiar neighborhood rooftops. Her social life is a small circle of long-time friends and family. Aspired dreams of European travel have softened into more immediate hopes: perfecting her sourdough starter and planning a road trip to the Oregon coast. Sarah Wong\u2019s connection to San Francisco isn\u2019t in its glittering skyline, but in the steady, dependable rhythm of a life well-lived within a single, cherished neighborhood."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf05",
+                        "action": "Wake up and assist parent with morning routine and medication.",
+                        "geocode": {
+                            "lat": 37.7975013,
+                            "lng": -122.4083485,
+                            "formatted_address": "689 Broadway, San Francisco, CA 94115"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\udd62",
+                        "action": "Prepare a simple breakfast of congee and tea for herself and her parent.",
+                        "geocode": {
+                            "lat": 37.7975013,
+                            "lng": -122.4083485,
+                            "formatted_address": "689 Broadway, San Francisco, CA 94115"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7975013,
+                            "lng": -122.4083485,
+                            "formatted_address": "689 Broadway, San Francisco, CA 94115"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from North Beach to the Marina, navigating traffic on Van Ness Avenue.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "In Transit"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at her desk, review overnight emails, and prioritize the day's logistics tasks for equipment shipments.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 150,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a walk to grab a healthy salad bowl for lunch.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Union Street Provisions"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Participate in a video conference call with the finance team to coordinate logistics for an upcoming corporate event.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 60,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focus on tracking spreadsheets and making calls to vendors to confirm delivery schedules.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up the workday, organize her desk, and plan tasks for the next day.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 15,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive back home, dealing with the evening commute.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "In Transit"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at a neighborhood grocery store to pick up fresh produce and fish for dinner.",
+                        "geocode": {
+                            "lat": 37.8017741,
+                            "lng": -122.411641,
+                            "formatted_address": "725 Greenwich St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "North Beach Farmers' Market Stand"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Cook dinner and eat with her parent, catching up on their respective days.",
+                        "geocode": {
+                            "lat": 37.7975013,
+                            "lng": -122.4083485,
+                            "formatted_address": "689 Broadway, San Francisco, CA 94115"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Watch a Cantonese drama series on television with her parent.",
+                        "geocode": {
+                            "lat": 37.7975013,
+                            "lng": -122.4083485,
+                            "formatted_address": "689 Broadway, San Francisco, CA 94115"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a book and a cup of herbal tea before bed.",
+                        "geocode": {
+                            "lat": 37.7975013,
+                            "lng": -122.4083485,
+                            "formatted_address": "689 Broadway, San Francisco, CA 94115"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A busy and structured day for Sarah, balancing her demanding logistics role at a coworking space with her responsibilities as a caretaker for her elderly parent in their North Beach home.",
+                "home_address": "689 Broadway, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7975013,
+                    "lng": -122.4083485,
+                    "formatted_address": "689 Broadway, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1972",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

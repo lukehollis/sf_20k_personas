@@ -1,0 +1,278 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Thompson",
+    "givenName": "Sarah",
+    "familyName": "Thompson",
+    "jobTitle": "Environmental Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Environmental Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Thompson\u2019s environmentalism was born not in a classroom, but in the misty evergreen forests of the Oregon coast. Raised by a logger father and a practical-minded mother, her passion for preserving the natural world was a quiet rebellion. While her family saw the forest as a resource, Sarah saw it as a complex, living system. This perspective propelled her to pursue an undergraduate degree in Biology at the University of Oregon.\n\nHer ambition, however, outgrew the Pacific Northwest. Drawn by the epicenter of environmental policy and innovation, she moved to the Bay Area for her Master's in Environmental Management at UC Berkeley. The transition was jarring but invigorating. After graduating, she joined a large environmental services firm in downtown San Francisco. For a decade, she navigated corporate structures, writing impact reports and compliance plans. The turning point came at 38; exhausted by the soul-crushing bureaucracy and ethically gray projects, she resigned. It was a terrifying leap, but she used her savings and network to launch her own consultancy from her apartment.\n\nNow 43, Sarah has carved out a life of professional integrity and personal peace. She lives in a bright, plant-filled one-bedroom apartment in the Inner Sunset. Her zero-mile commute means her day begins not with traffic, but with a run through Golden Gate Park, which she considers her backyard. She works with a select group of non-profits and municipalities, choosing projects that align with her values. Her social life revolves around a close-knit group of friends\u2014a mix of former colleagues and neighbors\u2014with whom she enjoys hiking trips to Marin and quiet dinners.\n\nThough content, Sarah still dreams of making a larger impact. Her ultimate goal is to play a key role in a major urban ecological restoration project, perhaps helping to rehabilitate a local watershed. She came to San Francisco for an education but stayed for its ethos\u2014a city that, despite its flaws, still feels like a place where one person can fight to make a tangible difference."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembered her first semester at Berkeley, around age 23. Overwhelmed, she\u2019d hiked the fire trails alone. As the fog burned off, the entire Bay Area unfolded below\u2014a sprawling, concrete watershed. It wasn't the green hush of Oregon; it was a challenge. That vista wasn't just a view; it was a promise of a new scale of work. In that moment of awe, she knew her quiet rebellion had found its battlefield, a place big enough for her ambition.\n\n2.\nAt 36, she recalled the slick feel of the pen before she signed off on the Marsh Landing report. The document, technically compliant, was a masterpiece of omission, glossing over the fate of a nesting ground for threatened sandpipers. Her father saw trees as lumber; her bosses saw this marsh as a line item. The nausea that rose in her throat wasn't just guilt; it was the cold, hard realization that her compliance had made her one of them. It was a betrayal she couldn't unknow.\n\n3.\nThe decision came at 38, not in her office, but on a bench by Stow Lake. After a brutal meeting, she\u2019d fled to the park, her corporate blazer feeling like a cage. Watching a cormorant dry its wings, she felt a profound sense of clarity. She could spend another decade trading her soul for a salary, or she could leap. The terror was immense, but the thought of staying was worse. She took a deep breath of damp, earthy air and for the first time in years, felt free.\n\n4.\nShe was 39, sitting at her small kitchen table\u2014her new world headquarters. The email arrived without fanfare: \"PROJECT APPROVED: Sausalito Creek Restoration.\" It was a tiny contract, barely enough to cover rent. But as she read the words, a wave of profound relief washed over her. It was the proof. She had built this. Working from her plant-filled apartment, she felt more powerful than she ever had in a downtown skyscraper. Her work finally belonged to her, and to the earth.\n\n5.\nJust last year, on a windswept ridge in the Marin Headlands, her friend handed her a thermos of tea. Below them, the Golden Gate Bridge stitched the city to the wildlands. In that moment, surrounded by the small, loyal circle she\u2019d built, Sarah felt a deep sense of contentment. This was the life she had forged: work that mattered, friendships that nourished, and a view that reminded her that the urban and the wild were not separate. She had found her ecosystem, both personal and professional."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up and do a short guided meditation to start the day with focus.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Go for a brisk walk to a local cafe for a morning latte.",
+                        "geocode": {
+                            "lat": 37.7523548,
+                            "lng": -122.4143034,
+                            "formatted_address": "3101 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Philz Coffee (Mission District)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Bathroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the designated carpool meeting point while listening to a news podcast.",
+                        "geocode": {
+                            "lat": 37.7525194,
+                            "lng": -122.4141161,
+                            "formatted_address": "Folsom St & 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 10,
+                        "location": "Corner of Folsom & 24th Street"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute across the city, catching up with a colleague.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at work, power up the computer, and review the day's priorities.",
+                        "geocode": {
+                            "lat": 37.7721557,
+                            "lng": -122.4201507,
+                            "formatted_address": "2 Gough St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Kaiser Permanente - Environmental Services Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead a sustainability committee meeting regarding the hospital's new waste reduction targets.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 75,
+                        "location": "Kaiser Permanente - Conference Room 3"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze energy consumption data from the past quarter to identify areas for efficiency improvements.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Her Desk at Kaiser Permanente"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to a nearby deli to pick up a sandwich and eat at a small parklet.",
+                        "geocode": {
+                            "lat": 37.7840703,
+                            "lng": -122.4536504,
+                            "formatted_address": "Laurel Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Laurel Heights Deli"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Conduct a site walk-down of the surgical wing to audit environmental compliance for recently installed equipment.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Kaiser Permanente - Surgical Department"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Respond to emails and draft a report based on the morning's audit findings.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 105,
+                        "location": "Her Desk at Kaiser Permanente"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet her carpool partner for the evening commute back to the Mission.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Decompress after work by changing clothes and tidying up the apartment.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Go to a neighborhood yoga class to stretch and unwind from the day.",
+                        "geocode": {
+                            "lat": 37.764927,
+                            "lng": -122.419086,
+                            "formatted_address": "2973 16th St 5th Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Yoga to the People - Mission"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the market to pick up fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7639852,
+                            "lng": -122.4127726,
+                            "formatted_address": "2111 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market (Harrison St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Prepare and eat dinner while listening to music.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch and read a few chapters of a novel for her book club.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: skincare, brush teeth, and prepare outfit for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Bathroom"
+                    }
+                ],
+                "day_overview": "A productive day for environmental consultant Sarah, balancing focused project work at Kaiser Permanente with a healthy lifestyle, local errands in the Mission, and relaxing personal time at home.",
+                "home_address": "2896 Folsom St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7510199,
+                    "lng": -122.414245,
+                    "formatted_address": "2896 Folsom St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

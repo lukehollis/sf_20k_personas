@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Kim",
+    "givenName": "David",
+    "familyName": "Kim",
+    "jobTitle": "Principal Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Kim\u2019s life has been a study in calculated pivots. The only son of Korean immigrants who ran a meticulous dry-cleaning business in Cupertino, David grew up surrounded by the quiet hum of machinery and the expectation of academic excellence. He fulfilled that promise, but not in the way his parents imagined. He eschewed medicine or law for the abstract beauty of the cosmos, earning a Ph.D. in Astrophysics from Stanford. For years, his world was theoretical models and distant starlight.\n\nThe crucial turning point came during his post-doctoral research. While his peers in Silicon Valley were building companies, David was grappling with shrinking grant funding and the solitary, slow pace of academia. A friend, working at a startup, showed him how they were using statistical models\u2014not unlike his own\u2014to predict user behavior. The pragmatism was seductive. In a move that felt like a betrayal of his younger self, he left academia. He retooled his skills, trading nebulae for neural networks, and quickly ascended the ranks in tech.\n\nNow 38, David is a Principal Data Scientist living in a minimalist condo in Hayes Valley. His 0.0-mile commute is a walk from his bedroom to his standing desk, a command center overlooking the neighborhood\u2019s lively streets. His days are a disciplined routine: an early morning espresso from a local cafe, hours of intense, focused coding, and a midday run through the Panhandle to deconstruct complex problems. He lives alone, the silence of his apartment a stark contrast to the data streams he wrangles daily, a silence made more profound since his long-term relationship ended last year, a casualty of his demanding career.\n\nHis connection to San Francisco is both intimate and detached; he loves the city\u2019s energy from the comfort of his home but rarely feels part of its pulse. Though financially secure, a subtle disquiet lingers. David aspires to pivot one last time\u2014to apply his analytical prowess to something more tangible than ad revenue, perhaps climate change or urban inequality. He dreams of a life where the problems he solves have a human, not just a statistical, impact."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe remembers being twelve, the air thick with the chemical tang of the family dry cleaners. He watched his father, back bowed, guide a dress shirt through a roaring press, his movements precise and silent. It wasn't just steam; it was a life distilled into methodical, repetitive action. That image of contained, earthly labor sparked in him a desperate yearning for the opposite: the infinite, silent expanse of space. It was the first problem he wanted to escape, not solve.\n\n2.\nHe was 26, cold in the Stanford observatory dome. After weeks of noise, the data from a distant nebula finally resolved on his monitor, a faint spectral line confirming his model. It wasn\u2019t a headline, just a private whisper of cosmic truth. For a moment, the universe felt knowable, beautiful, and profoundly personal. He remembers the quiet awe, a feeling of pure discovery he now chases in lines of code but never quite finds.\n\n3.\nAt 31, he sat in a sterile South Park caf\u00e9, the grant rejection email burning in his pocket. Across the table, his friend scrolled through a dashboard, brightly colored graphs tracking user clicks. \u201cWe\u2019re predicting desire,\u201d his friend said, glowing. David saw the clean math, the immediate feedback, the undeniable *result*. In that moment, the starlight felt impossibly far away, and the logic of the market felt like the only gravity that mattered. It was a surrender.\n\n4.\nLast year, the morning after she left for good, his body remembered the routine before his mind did. He ground beans for two, frothed milk for two, and placed a perfect latte in her favorite ceramic mug. He stood there for a full minute, staring at the cooling cup on the marble countertop, the silence in his Hayes Valley condo suddenly absolute and deafening. He realized the system he\u2019d optimized had a fatal flaw: it had no variable for another person.\n\n5.\nOn a run through the Panhandle a few months ago, he saw city workers spray-painting red X\u2019s on drought-stricken trees. He stopped, breathing hard, looking at the data points marked for death. A sudden, sharp clarity cut through his usual detachment. He could model this. He could predict water stress, optimize irrigation, find patterns the human eye might miss. For the first time in years, a problem felt both achingly real and beautifully solvable. It felt like home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a pour-over coffee with Andytown beans, and review tech news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Navigate the cross-town commute from the Sunset to the Mission, listening to a data science podcast.",
+                        "geocode": {
+                            "lat": 36.778261,
+                            "lng": -119.4179324,
+                            "formatted_address": "California, USA"
+                        },
+                        "duration": 45,
+                        "location": "On the Road"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, organize daily tasks, and begin a deep work session on tuning a new recommendation algorithm.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 150,
+                        "location": "Doorhaus HQ - Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the daily Data Science team stand-up meeting to review progress and unblock team members.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Doorhaus HQ - Conference Room 'Dolores'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk with a coworker to grab a torta for lunch and take a mental break from the screen.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Present the Q3 user behavior forecast model to product and marketing stakeholders.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Doorhaus HQ - Mission District"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udfeb",
+                        "action": "Conduct a 1-on-1 mentoring session with a junior data scientist, including a code review of their latest pull request.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Doorhaus HQ - Mission District"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, navigating the heavy evening traffic from the Mission back west to the Outer Sunset.",
+                        "geocode": {
+                            "lat": 36.778261,
+                            "lng": -119.4179324,
+                            "formatted_address": "California, USA"
+                        },
+                        "duration": 60,
+                        "location": "On the Road"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a de-stressing run to clear his head along the Great Highway trail.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Ocean Beach Running Path"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for some quick grocery shopping for tonight's dinner and the next couple of days.",
+                        "geocode": {
+                            "lat": 37.7528602,
+                            "lng": -122.5035591,
+                            "formatted_address": "3701 Noriega St Unit A, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 35,
+                        "location": "Gus's Community Market - Noriega"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a healthy dinner at home while listening to music.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a technical book, tidying up the kitchen, and prepping the coffee maker for the morning.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Outer Sunset"
+                    }
+                ],
+                "day_overview": "A demanding but structured day for a Principal Data Scientist, balancing intense focus at his Mission-based tech job with a cross-town solo commute and evening self-care routines like an ocean-side run and cooking in his Outer Sunset neighborhood.",
+                "home_address": "2563 Noriega St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7533858,
+                    "lng": -122.4913047,
+                    "formatted_address": "2563 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Kim Family"
+    }
+}

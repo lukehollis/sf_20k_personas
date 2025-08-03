@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jenkins",
+    "givenName": "Sarah",
+    "familyName": "Jenkins",
+    "jobTitle": "Project Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jenkins\u2019 story is a quiet testament to adaptation. Raised in Grand Rapids, Michigan, by a practical accountant father and a high school teacher mother, her choice to major in English Literature at the University of Michigan was seen as a romantic, if slightly aimless, indulgence. Post-graduation, she moved to Chicago, finding work as a copyeditor for a small marketing firm, a role that honed her knack for clarifying complex ideas.\n\nThe real turning point came in the early 2000s. Lured by the siren song of the burgeoning tech industry and a promising job offer, she moved west. Sarah discovered her humanities degree was an unexpected asset in a world of engineers. She excelled at translating technical jargon into human language, naturally bridging the gap between development teams and clients. This skill paved her path from technical writer to her current role as a Senior Project Manager, where she orchestrates product launches with a calm authority that belies the chaos.\n\nHer personal life has been shaped by the city's rhythms. She was married for seven years to an ambitious software engineer she met at a startup, a relationship that eventually buckled under the weight of 80-hour work weeks and divergent priorities. The amicable divorce in her late 30s was a reset, prompting her to buy her own condo in Cole Valley.\n\nNow 43, Sarah\u2019s life is defined by a hard-won balance. Her commute is a zero-mile journey from her bedroom to the standing desk in her living room. Her days are a blur of Zoom calls and Jira tickets, but she starts each morning with a walk with her rescue terrier, Buster, in Golden Gate Park, and ends most evenings by closing her laptop and walking to a local restaurant to meet her tight-knit group of friends. San Francisco is no longer a career stepping stone but her home. Her ambitions have shifted from climbing the corporate ladder to finding a role at a mission-driven company. She dreams of a future with more travel and less screen time, a life where her projects have a tangible, positive impact beyond the digital realm."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check phone for notifications and scan news headlines.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Bedroom, Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Quick morning workout with a 20-minute guided yoga session on her tablet.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Living Room, Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home, Noe Valley"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and a quick breakfast of yogurt and granola; pack a lunch and snacks for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen, Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from Noe Valley to City College, listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7507469,
+                            "lng": -122.4217006,
+                            "formatted_address": "280 San Jose Avenue, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "San Jose Ave & I-280"
+                    },
+                    {
+                        "emoji": "\ud83d\udda5\ufe0f",
+                        "action": "Arrive at work, settle in at her desk, and review the project's Trello board for the day's priorities.",
+                        "geocode": {
+                            "lat": 37.7257567,
+                            "lng": -122.4502151,
+                            "formatted_address": "Cloud Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 45,
+                        "location": "Office in Cloud Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead the daily virtual stand-up meeting with the development and QA teams to track progress and blockers.",
+                        "geocode": {
+                            "lat": 37.7257567,
+                            "lng": -122.4502151,
+                            "formatted_address": "Cloud Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 45,
+                        "location": "Office in Cloud Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Deep work session focused on drafting a project scope document for a new campus-wide software integration.",
+                        "geocode": {
+                            "lat": 37.7257567,
+                            "lng": -122.4502151,
+                            "formatted_address": "Cloud Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 120,
+                        "location": "Office in Cloud Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to the campus cafeteria to meet a colleague for lunch and a quick break from the screen.",
+                        "geocode": {
+                            "lat": 37.7240962,
+                            "lng": -122.4509256,
+                            "formatted_address": "52-82 Cloud Cir, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "Ram Plaza Cafe, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Facilitate a stakeholder meeting with faculty representatives to gather requirements for the upcoming system update.",
+                        "geocode": {
+                            "lat": 37.726945,
+                            "lng": -122.4492893,
+                            "formatted_address": "Batmale Hall, Cloud Cir, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 90,
+                        "location": "Conference Room, Batmale Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Finalize tasks for the day: update project tickets, respond to slack messages, and send out meeting minutes.",
+                        "geocode": {
+                            "lat": 37.7257567,
+                            "lng": -122.4502151,
+                            "formatted_address": "Cloud Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 45,
+                        "location": "Office in Cloud Hall, CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, navigating the evening traffic on Monterey Blvd.",
+                        "geocode": {
+                            "lat": 37.7315839,
+                            "lng": -122.4530492,
+                            "formatted_address": "Monterey Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Monterey Blvd, San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Church Street Produce"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and eat dinner while catching up with her family about their day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen, Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Take an evening walk around the neighborhood to decompress and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley Neighborhood Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a novel and tidying up before bed.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home, Noe Valley"
+                    }
+                ],
+                "day_overview": "A productive workday for a tech project manager, balancing project deadlines at City College with evening errands and family time in her Noe Valley neighborhood.",
+                "home_address": "3744 Dolores St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7520879,
+                    "lng": -122.4252869,
+                    "formatted_address": "Dolores St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jenkins Family"
+    }
+}

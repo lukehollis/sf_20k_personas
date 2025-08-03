@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Caleb Miller",
+    "givenName": "Caleb",
+    "familyName": "Miller",
+    "jobTitle": "Healthcare Navigator Assistant",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Caleb Miller\u2019s journey to his small Inner Richmond apartment began not in a bustling city, but in the sprawling, sun-baked suburbs of Fresno. Raised by a pragmatic accountant father and a kind but reserved dental hygienist mother, his upbringing was stable yet emotionally quiet. Seeking a world of bigger ideas, Caleb escaped to UC Santa Cruz, losing himself in the coastal fog and the abstract ethics of a Philosophy degree. He imagined a future in academia, debating grand concepts far from the monotonous landscape of his youth.\n\nThe turning point came during his senior year. His father suffered a sudden, severe stroke, and Caleb was thrust into the role of family coordinator. The abstract world of philosophy dissolved into the brutal reality of navigating the American healthcare system. He spent months on the phone, fighting with insurance agents, deciphering medical jargon, and coordinating care between overwhelmed specialists. The experience was harrowing, but it ignited a purpose within him that his studies never had. His father eventually recovered, but Caleb was fundamentally changed.\n\nAfter graduating, he abandoned his academic ambitions, feeling they were hollow. He moved to San Francisco, drawn by its progressive energy, and took a job that made perfect, practical sense: a Healthcare Navigator Assistant. His 0.0-mile commute means his life is hyper-local. His day starts with a foggy walk to a cafe on Clement Street and is then filled with the quiet intensity of his work-from-home job, patiently untangling bureaucratic knots for frightened patients over the phone.\n\nHis life is not glamorous. He shares his apartment to afford rent, and his social circle is a small, tight-knit group he meets for trivia at a neighborhood pub. Yet, he feels more connected to his purpose than ever. Caleb dreams of earning a Master's in Public Health and working in policy reform, wanting to fix the broken system he battles daily. For now, he finds quiet satisfaction in his work, a young man who once debated the meaning of a good life and now spends his days helping others simply live."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, stretch, and check morning fog over the Haight.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "Caleb's Bedroom, Haight-Ashbury"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make pour-over coffee and have a quick breakfast of toast and avocado while chatting with a parent.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Family Kitchen, Haight-Ashbury"
+                    },
+                    {
+                        "emoji": "\ud83c\udf92",
+                        "action": "Pack lunch, fill water bottle, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "2371 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4",
+                        "action": "Begin the daily bike commute, entering Golden Gate Park near the Conservatory of Flowers and heading west.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Golden Gate Park Bike Path"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Arrive at work, greet colleagues, and join the morning huddle to review the day's client appointments and urgent tasks.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 15,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Sit down for a block of focused work: answering client emails and making phone calls to help people navigate insurance paperwork.",
+                        "geocode": {
+                            "lat": 37.7781174,
+                            "lng": -122.4065081,
+                            "formatted_address": "1026 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "Desk at CIQ Gallery"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Break for lunch, biking a few blocks to grab takeout Borsch and Piroshki.",
+                        "geocode": {
+                            "lat": 37.77743299999999,
+                            "lng": -122.4636615,
+                            "formatted_address": "436 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Cinderella Bakery & Cafe, Richmond District"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Hold an in-person consultation with a local artist who needs help applying for a healthcare subsidy program.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 90,
+                        "location": "Private Office, Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Log notes from the afternoon meeting, update client records in the database, and prepare tomorrow's schedule.",
+                        "geocode": {
+                            "lat": 37.7781174,
+                            "lng": -122.4065081,
+                            "formatted_address": "1026 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Desk at CIQ Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5",
+                        "action": "Cycle home, taking a slightly longer route to loop around Stow Lake for some decompression time.",
+                        "geocode": {
+                            "lat": 37.76888,
+                            "lng": -122.472555,
+                            "formatted_address": "E Stow Lake Path, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 40,
+                        "location": "Stow Lake Loop, Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh bread and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7702206,
+                            "lng": -122.4476072,
+                            "formatted_address": "1530 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market, Haight Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Eat dinner with his family, sharing stories from the day over a home-cooked meal.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Family Dining Room, Haight-Ashbury"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk down the street to meet a friend for a pint of a local IPA.",
+                        "geocode": {
+                            "lat": 37.7719042,
+                            "lng": -122.4312295,
+                            "formatted_address": "547 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Toronado Pub, Lower Haight"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Wind down at home by listening to a music podcast and tidying up his room.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Caleb's Bedroom, Haight-Ashbury"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a sci-fi novel before going to sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bed"
+                    }
+                ],
+                "day_overview": "A typical weekday for Caleb, balancing his fulfilling work as a Healthcare Navigator with an active, scenic bike commute through Golden Gate Park. His evening involves a mix of family time, chores, and socializing with friends in his vibrant Haight-Ashbury neighborhood.",
+                "home_address": "2371 Haight St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.769184,
+                    "lng": -122.4535654,
+                    "formatted_address": "2371 Haight St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

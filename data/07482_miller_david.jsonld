@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Lead Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s world exists almost entirely within the four walls of his Hayes Valley apartment. From this digital fortress, he commands a team of data scientists for a major tech firm, his commute a 0.0-mile journey from his bed to his standing desk. This highly structured life is a far cry from his upbringing in suburban Ohio, where his parents\u2014a high school history teacher and a dental hygienist\u2014fostered a love for tangible knowledge and clear-cut answers. David, however, was always drawn to the intangible patterns, the invisible architecture of systems, which first manifested as a teenage obsession with complex strategy games.\n\nHis academic path was a pursuit of this obsession. He enrolled in a PhD program in Computational Sociology at a prestigious East Coast university, aiming to model human behavior on a grand scale. But the slow, theoretical pace of academia grew frustrating. A turning point came during a conference when a recruiter described a role in San Francisco not as a job, but as a chance to \"decode the live-streaming nervous system of society.\" The siren call was irresistible. He left his PhD program with a master\u2019s degree and moved west.\n\nNow 32, David has found the professional success he craved. His days are a disciplined routine of virtual meetings, deep-focus coding sessions fueled by pour-over coffee, and managing project pipelines. His personal life provides a crucial counterbalance. He met his partner, Clara, an urban planner, not through an app, but at a board game night at a local cafe. She pulls him out of his data-driven bubble and into the physical city, grounding him with conversations about architecture and public spaces.\n\nHis connection to San Francisco is intensely hyperlocal. He rarely ventures beyond his neighborhood, experiencing the city through walks to Patricia's Green, picking up takeout from a favorite Thai spot, and browsing the curated shops on Hayes Street. While he appreciates the city\u2019s innovative spirit, his dream is to reconnect his work with his original passion. He aspires to use his expertise to build a data model that can identify and mitigate societal biases in AI, a project that would finally merge the sociologist he almost was with the data scientist he has become."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Wake up and go for a refreshing morning run along the waterfront.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and get ready for the day, preparing a quick breakfast.",
+                        "geocode": {
+                            "lat": 37.8006487,
+                            "lng": -122.4076115,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Grant Ave Apartment, North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the office, grabbing a high-quality coffee en route.",
+                        "geocode": {
+                            "lat": 37.7961181,
+                            "lng": -122.3939851,
+                            "formatted_address": "1 Ferry Building #7, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Blue Bottle Coffee, Ferry Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Settle in, review overnight data pipeline results, and plan daily tasks for the team.",
+                        "geocode": {
+                            "lat": 37.7940487,
+                            "lng": -122.3973037,
+                            "formatted_address": "50 California St #1500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 50,
+                        "location": "Regus Office - California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Lead the daily data science team stand-up meeting to align on priorities.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Regus Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: Focus on developing a new machine learning model.",
+                        "geocode": {
+                            "lat": 37.7940487,
+                            "lng": -122.3973037,
+                            "formatted_address": "50 California St #1500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 135,
+                        "location": "Regus Office - California St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy salad bowl for lunch and eat at a nearby rooftop park.",
+                        "geocode": {
+                            "lat": 37.7897395,
+                            "lng": -122.3961656,
+                            "formatted_address": "Salesforce Park, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "Salesforce Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Mentor a junior data scientist and review their feature engineering code.",
+                        "geocode": {
+                            "lat": 37.7940487,
+                            "lng": -122.3973037,
+                            "formatted_address": "50 California St #1500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 90,
+                        "location": "Regus Office - California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Meet with product managers to present A/B test findings and strategize next steps.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Regus Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udc32",
+                        "action": "Walk home, taking a scenic route through the iconic Chinatown gate.",
+                        "geocode": {
+                            "lat": 37.7907,
+                            "lng": -122.4056,
+                            "formatted_address": "500 Bush St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 25,
+                        "location": "Chinatown Dragon Gate"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for some fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7681986,
+                            "lng": -122.4292219,
+                            "formatted_address": "172 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Golden Produce Market"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7\u200d\u2640\ufe0f",
+                        "action": "Head out for a weekly bouldering session with a friend to de-stress.",
+                        "geocode": {
+                            "lat": 37.804171,
+                            "lng": -122.468189,
+                            "formatted_address": "924 Old Mason St, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 120,
+                        "location": "Movement SF - The Presidio"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and eat a late dinner while catching up with parents on the phone.",
+                        "geocode": {
+                            "lat": 37.8006487,
+                            "lng": -122.4076115,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Grant Ave Apartment, North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a sci-fi novel and prepping for the next day.",
+                        "geocode": {
+                            "lat": 37.8006487,
+                            "lng": -122.4076115,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Grant Ave Apartment, North Beach"
+                    }
+                ],
+                "day_overview": "A productive day for a Lead Data Scientist, balancing focused technical work with team leadership. The day is framed by scenic walks and capped off with a bouldering session to unwind.",
+                "home_address": "3078 Grant Ave, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.80529420000001,
+                    "lng": -122.4085475,
+                    "formatted_address": "3078 Grant Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

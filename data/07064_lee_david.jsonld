@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Lee",
+    "givenName": "David",
+    "familyName": "Lee",
+    "jobTitle": "Public Health Program Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Lee\u2019s San Francisco story began not in a gleaming downtown office, but amidst the foggy avenues of the Outer Sunset. A second-generation Chinese-American, he grew up helping his parents at their small neighborhood grocery store. From behind the counter, he watched the community\u2019s rhythms\u2014the elderly Cantonese-speaking grandmothers on their morning walks, the families struggling to make ends meet, and the subtle but persistent health disparities that marked their lives. This firsthand observation of systemic challenges planted a seed that would define his future.\n\nWhile his parents hoped he\u2019d pursue a more lucrative career, David felt a pull toward service. He attended UC Berkeley, initially undeclared, but a class on health equity ignited his passion. Witnessing his own grandparents navigate the bewildering American healthcare system with limited English solidified his path. He pursued a Master of Public Health, focusing on community health and education, determined to build bridges where he had seen walls. His early career involved grassroots outreach, working directly with immigrant communities before he steadily climbed the ladder to his current role as a Public Health Program Manager for a major healthcare provider.\n\nThe pandemic was a pivotal turning point, shifting his role to be fully remote. Now, his 0.0-mile commute anchors him to his Duboce Triangle apartment, a quiet, orderly sanctuary he shares with his partner, Alex, an architect, and their scruffy terrier, Mochi. His days are a mix of Zoom meetings with city health officials, analyzing data on health outcomes, and writing grants for wellness programs.\n\nHis connection to San Francisco is deep and protective. He\u2019s not a transplant chasing a trend; he is part of the city's fabric. His mornings start with a walk to Duboce Park, and evenings often involve cooking with Alex or meeting a small circle of old friends. Though his work is demanding, his greatest aspiration is to launch a city-wide, multilingual health navigation program\u2014a direct tribute to the community that raised him. For David, success isn't a title or salary, but the quiet, profound satisfaction of improving the city that is, and always has been, his home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2642\ufe0f",
+                        "action": "Wake up, hydrate, and do a 10-minute mindfulness meditation.",
+                        "geocode": {
+                            "lat": 37.7431691,
+                            "lng": -122.4691107,
+                            "formatted_address": "291 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home at 291 Taraval St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Morning jog along the coast to clear the head before the workday.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach Great Highway Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Shower and prepare a healthy breakfast of greek yogurt and coffee.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Commute to the home office and review the day's priorities.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze program data and draft a progress report on a community vaccination initiative.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead a virtual project stakeholder meeting via Zoom with a community clinic partner.",
+                        "geocode": {
+                            "lat": 37.7869417,
+                            "lng": -122.3996013,
+                            "formatted_address": "149 New Montgomery St 4th Floor, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Virtual Meeting Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Lunch Break: Walk down the street to grab a banh mi for a quick screen break.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Dinosaurs Sandwiches on Taraval"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Afternoon focus session: Write and edit a grant application for a new food security program.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work: Clear email inbox, respond to Slack messages, and finalize tomorrow's to-do list.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Commute 'home' by shutting down the work computer and tidying the desk.",
+                        "geocode": {
+                            "lat": 37.7431691,
+                            "lng": -122.4691107,
+                            "formatted_address": "291 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home at 291 Taraval St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Head out for a bouldering session to decompress and get some exercise.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "Dogpatch Boulders Climbing Gym"
+                    },
+                    {
+                        "emoji": "\ud83c\udf55",
+                        "action": "Meet up with a friend for a casual pizza and beer dinner.",
+                        "geocode": {
+                            "lat": 37.7594917,
+                            "lng": -122.3881833,
+                            "formatted_address": "2347 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Long Bridge Pizza Co. in Dogpatch"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: Read a few chapters of a non-fiction book and listen to a podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room Couch"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare for the next day and head to bed.",
+                        "geocode": {
+                            "lat": 37.7431691,
+                            "lng": -122.4691107,
+                            "formatted_address": "291 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home at 291 Taraval St"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Public Health Program Manager living in the Parkside neighborhood, balancing data-driven work with a healthy routine including a morning beach run, an afternoon climbing session, and a social dinner in the Richmond District.",
+                "home_address": "291 Taraval St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7431691,
+                    "lng": -122.4691107,
+                    "formatted_address": "291 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

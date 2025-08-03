@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maria Johnson",
+    "givenName": "Maria",
+    "familyName": "Johnson",
+    "jobTitle": "Preschool Teacher Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Education"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maria Johnson\u2019s life is a quiet testament to the unexpected paths that shape a person. Born and raised in Sacramento, she was the dutiful daughter of working-class parents who preached pragmatism over passion. Following their advice, she enrolled at San Jose State in the early 90s to study business, a sensible track for a stable future. However, midway through her sophomore year, her mother received a serious cancer diagnosis. Without a second thought, Maria left school and returned home, becoming a primary caregiver. This period, filled with hospital visits and quiet support, fundamentally rewired her ambitions. The world of spreadsheets and marketing plans felt hollow compared to the tangible, vital work of caring for someone.\n\nAfter her mother went into remission, returning to her old life felt impossible. Seeking a fresh start, Maria moved to San Francisco in her late twenties. Without a degree but with a newfound purpose, she found work that resonated with her nurturing spirit: a teacher's assistant at a small, private preschool. By a stroke of luck that feels like fate, a rent-controlled apartment opened up in the same building. For over two decades, her commute has been a single flight of stairs.\n\nNow at 50, Maria is a beloved fixture in her Inner Richmond neighborhood. Her life is woven into the fabric of the community. Her daily routine begins with the sound of children arriving downstairs. Her social circle is a tight-knit web of the lead teacher she adores, grateful parents who have become friends, and neighbors she shares greetings with over the mailboxes. She knows the baristas at her local cafe by name and is a regular at the branch library. Her apartment, filled with collected books and photos of former students, is her sanctuary from the city's frantic pace.\n\nContent but not complacent, Maria dreams of completing an associate's degree in early childhood education online\u2014not for a promotion, but for herself. Her greatest hope, however, is simpler: to remain in her stable haven, to continue offering a steady, calming presence in the chaotic first years of a child\u2019s life, and to watch the city she loves grow and change from her own quiet, cherished corner of it."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and do some light stretching to prepare for a physically active day.",
+                        "geocode": {
+                            "lat": 37.776735,
+                            "lng": -122.4714884,
+                            "formatted_address": "1191 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1191 Balboa St)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Enjoy a cup of coffee and read the news with her partner before the day begins.",
+                        "geocode": {
+                            "lat": 37.776735,
+                            "lng": -122.4714884,
+                            "formatted_address": "1191 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1191 Balboa St)"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Shower, get dressed in comfortable clothes, and pack her lunch and work bag.",
+                        "geocode": {
+                            "lat": 37.776735,
+                            "lng": -122.4714884,
+                            "formatted_address": "1191 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (1191 Balboa St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the Muni 28 line, listening to a podcast during the ride.",
+                        "geocode": {
+                            "lat": 37.7975642,
+                            "lng": -122.4307288,
+                            "formatted_address": "1901 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 50,
+                        "location": "Fulton St & 12th Ave Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Arrive at work, sanitize surfaces, and set up the morning's art activity: leaf rubbing.",
+                        "geocode": {
+                            "lat": 37.7243056,
+                            "lng": -122.4836535,
+                            "formatted_address": "100 State Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "SFSU Early Childhood Education Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udfb6",
+                        "action": "Welcome the children and lead the morning circle time with songs and a story.",
+                        "geocode": {
+                            "lat": 37.7243056,
+                            "lng": -122.4836535,
+                            "formatted_address": "100 State Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 90,
+                        "location": "SFSU Early Childhood Education Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38",
+                        "action": "Supervise the children during outdoor free play, encouraging sharing and teamwork.",
+                        "geocode": {
+                            "lat": 37.7243056,
+                            "lng": -122.4836535,
+                            "formatted_address": "San Francisco State University, A.S. Early Childhood Education Center, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "ECEC Playground"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to campus to grab a pre-made salad for lunch and eat at a bench.",
+                        "geocode": {
+                            "lat": 37.7228539,
+                            "lng": -122.4802905,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Cafe Rosso at SFSU"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Help the children settle in for nap time, then quietly prepare for the afternoon lesson.",
+                        "geocode": {
+                            "lat": 37.7243056,
+                            "lng": -122.4836535,
+                            "formatted_address": "100 State Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 90,
+                        "location": "SFSU Early Childhood Education Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Lead afternoon activities including a puppet show and sensory table play.",
+                        "geocode": {
+                            "lat": 37.7243056,
+                            "lng": -122.4836535,
+                            "formatted_address": "100 State Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 90,
+                        "location": "SFSU Early Childhood Education Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udc4b",
+                        "action": "Tidy the classroom with the children and chat with parents during pick-up.",
+                        "geocode": {
+                            "lat": 37.7243056,
+                            "lng": -122.4836535,
+                            "formatted_address": "100 State Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "SFSU Early Childhood Education Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk from work to catch the Muni bus for the commute home.",
+                        "geocode": {
+                            "lat": 37.7975642,
+                            "lng": -122.4307288,
+                            "formatted_address": "1901 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 50,
+                        "location": "19th Ave & Holloway Ave Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Stop to pick up fresh sourdough bread for dinner.",
+                        "geocode": {
+                            "lat": 37.7750046,
+                            "lng": -122.3888101,
+                            "formatted_address": "1070 Bridgeview Way, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 20,
+                        "location": "Arsicault Bakery"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and cook a simple pasta dinner while catching up with her partner.",
+                        "geocode": {
+                            "lat": 37.776735,
+                            "lng": -122.4714884,
+                            "formatted_address": "1191 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (1191 Balboa St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Take a leisurely evening walk with her partner through the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a favorite British mystery show.",
+                        "geocode": {
+                            "lat": 37.776735,
+                            "lng": -122.4714884,
+                            "formatted_address": "1191 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (1191 Balboa St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Wind down for the night with a cup of herbal tea and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.776735,
+                            "lng": -122.4714884,
+                            "formatted_address": "1191 Balboa St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home (1191 Balboa St)"
+                    }
+                ],
+                "day_overview": "A typical weekday for Maria, a dedicated preschool teacher assistant, involving a multi-modal commute from the Richmond District to SFSU, a busy and fulfilling day with young children, followed by neighborhood errands and a relaxing evening with her partner.",
+                "home_address": "1191 Balboa St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.776735,
+                    "lng": -122.4714884,
+                    "formatted_address": "1191 Balboa St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1974",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Johnson Family"
+    }
+}

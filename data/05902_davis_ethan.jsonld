@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Davis",
+    "givenName": "Ethan",
+    "familyName": "Davis",
+    "jobTitle": "Research Scientist (Biotech)",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Biotechnology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ethan Davis wasn't raised for the city. He grew up in a quiet Oregon town where the scent of pine and damp earth was the daily constant. His father, a carpenter, and his mother, a grade-school teacher, instilled in him a love for tangible, understandable things. That world was upended when his younger sister was diagnosed with a rare autoimmune disorder at age eight. Ethan, then twelve, spent countless hours in sterile hospital waiting rooms, trading his outdoor curiosity for a fixation on the mystifying, cellular war being waged inside his sister. This became his life's turning point; he vowed to understand the enemy he couldn't see.\n\nHis path became a straight line. He devoured biology texts, graduating top of his class and earning a spot in Stanford\u2019s prestigious Computational Biology program. There, he traded wet labs for the elegant, sterile logic of genetic code and protein folding simulations. The tangible world of his childhood was replaced by terabytes of data. Upon graduating, a position at a cutting-edge Mission Bay startup was a natural fit, allowing him to work on predictive models for immunological therapies.\n\nNow 27, Ethan\u2019s life is contained within the glass walls of his sleek but impersonal Mission Bay high-rise. His commute is a ten-step walk from his bed to his desk. His days are a disciplined cycle of coffee, coding, and data analysis, broken only by solitary runs along the Embarcadero, the Bay Bridge a stoic, geometric constant in his view. His social life consists of a tight-knit circle of equally driven friends from grad school, with conversations often circling back to research.\n\nWhile he appreciates the clean efficiency of his neighborhood, he sometimes feels disconnected from the city's vibrant, chaotic soul. Ethan\u2019s dream isn't fame or fortune, but a single, tangible breakthrough: an algorithm that leads to a viable treatment, a success that would make his family, especially his sister who manages her condition daily, proud. He hopes to one day lead his own research team, but is slowly realizing he must first learn to build a life outside the elegant confines of his data."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\udd71",
+                        "action": "Wake up, check notifications, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Morning coffee and a quick breakfast of yogurt and granola while reviewing personal emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Begin the long commute walk to work, listening to a biotech industry podcast.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "North Beach / Pacific Heights neighborhoods"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Arrive at the lab, change into a lab coat, and check on overnight cell cultures under the microscope.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Parnassus Research Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Attend the weekly lab meeting to present recent data and discuss experimental progress with the team.",
+                        "geocode": {
+                            "lat": 37.7622159,
+                            "lng": -122.4577569,
+                            "formatted_address": "2634A011, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Health Sciences Building Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\uddea",
+                        "action": "Run a series of protein assays (Western Blot) for an ongoing experiment.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Parnassus Research Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\udd59",
+                        "action": "Grab a quick falafel wrap for lunch and eat it outside on a bench.",
+                        "geocode": {
+                            "lat": 37.8807056,
+                            "lng": -122.2689222,
+                            "formatted_address": "1475 Shattuck Ave., Berkeley, CA 94709, USA"
+                        },
+                        "duration": 45,
+                        "location": "Saul's Deli & Restaurant"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Analyze datasets on the computer and update lab notebook with morning's results.",
+                        "geocode": {
+                            "lat": 37.7664196,
+                            "lng": -122.3902655,
+                            "formatted_address": "1825 4th St Third Floor, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 150,
+                        "location": "Personal Desk at UCSF Lab"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Begin the commute walk home, switching to an audiobook to unwind.",
+                        "geocode": {
+                            "lat": 37.7641277,
+                            "lng": -122.4641936,
+                            "formatted_address": "Inner Sunset, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "Inner Sunset / Haight-Ashbury neighborhoods"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta, pesto, and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.8016074,
+                            "lng": -122.4117736,
+                            "formatted_address": "716 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "The Italian Homemade Company"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner while listening to music and tidying up the kitchen.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Phone call with parents to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a documentary on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, read a few chapters of a sci-fi novel, and set alarm.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A long but productive day for Ethan, a UCSF Research Scientist. His day is framed by a significant walking commute from his North Beach apartment to the Parnassus campus, which serves as his primary form of exercise. The workday is filled with focused lab experiments, data analysis, and collaboration, followed by an evening of simple errands, cooking, and relaxation at home.",
+                "home_address": "328 Union St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.80107539999999,
+                    "lng": -122.404956,
+                    "formatted_address": "328 Union St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Rahul Sharma",
+    "givenName": "Rahul",
+    "familyName": "Sharma",
+    "jobTitle": "Process Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Indian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Rahul Sharma\u2019s life has been a study in planned trajectories. Raised in the quiet, manicured suburbs of Cupertino by first-generation Indian immigrants, his path was paved with high expectations. His father, a software engineer, and his mother, a math tutor, instilled in him the values of diligence and academic excellence. Rahul dutifully followed this script, excelling in science and math, seeing it as the surest route to a stable, respectable future.\n\nHis world expanded when he enrolled in the Chemical Engineering program at UC Berkeley. It was there, amidst the diverse, intellectually charged environment, that his perspective shifted. The coursework was no longer just a means to an end; he discovered a genuine passion for optimizing complex systems. This academic awakening coincided with a personal one. Weekend trips across the Bay Bridge introduced him to the vibrant, chaotic energy of San Francisco, a stark contrast to his structured suburban upbringing.\n\nUpon graduating, Rahul secured a position as a Process Engineer at a burgeoning biotech firm. The 0.0-mile commute on his profile is no mistake; he works entirely from his sleek, minimalist apartment in Hayes Valley. This remote setup gives him flexibility but also a sense of isolation. His days are a disciplined cycle of virtual meetings, data analysis, and process simulations, often broken up by a solitary walk to a local coffee shop or a run through Alamo Square.\n\nAt 27, Rahul stands at a crossroads. He feels a quiet pride in his career but yearns for a deeper sense of purpose and connection. He is caught between the values he inherited and the person he wants to become. He spends his weekends exploring the city\u2019s distinct neighborhoods, from the murals of the Mission to the windy trails of Lands End, searching for a community to call his own. His quiet hope is to one day apply his engineering skills to a cause he\u2019s truly passionate about, perhaps in sustainable technology. For now, he finds his identity not in his past or his profession, but in the ongoing, hopeful exploration of his chosen city, San Francisco."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe remembers his first solo trip to the Mission as a Berkeley sophomore. Stepping off the BART, the air was thick with the smell of pan dulce and roasting corn. Spanish chatter and the rumble of the MUNI bus replaced the hushed quiet of Cupertino. He felt a jolt\u2014not of fear, but of exhilarating chaos. For the first time, he understood that life\u2019s most interesting systems weren\u2019t on a spreadsheet. This was the moment he decided he had to live on this side of the bridge.\n\n2.\nHe was in the Bechtel library, staring at a fluid dynamics problem at 2 AM. His dad would have seen it as a step toward a good job. But as Rahul sketched the flow diagram, something clicked. He saw not just equations, but an elegant, living system. It was a moment of pure, unadulterated intellectual joy, entirely his own. That night, Chemical Engineering stopped being his father\u2019s dream for him and became his own genuine passion, the first time his future felt like a choice.\n\n3.\nIt was a Tuesday evening, six months into his new job. From his window, he watched a group of friends laughing on their way to a restaurant in Hayes Valley. The only sounds in his own apartment were the hum of his ergonomic chair and a Slack notification. The pride he felt in his efficient, remote life suddenly curdled into a profound loneliness. That hollow feeling became the catalyst, pushing him to walk the city\u2019s streets not just for exercise, but in search of a place to belong.\n\n4.\nHe was walking the coastal trail at Lands End last spring, the wind whipping his jacket. The fog rolled in, partially obscuring the Golden Gate Bridge, turning it into a ghostly orange specter. He felt anonymous, small, and utterly at peace. It wasn't about achievement or networking; it was a quiet communion with the city's raw edge. In that moment, his ambition shifted from just succeeding in the city to possibly doing something to preserve its beauty, solidifying a new, deeper purpose.\n\n5.\nLast month, he\u2019d volunteered at a community garden in the Panhandle, hoping to connect. He tried to join a conversation about composting, explaining the chemical breakdown with engineering precision. The group just stared, smiled politely, and turned back to their casual chat about a TV show. He felt the familiar heat of social awkwardness. It was a humbling reminder that connecting with people wasn't a problem he could solve with logic. It was a skill he still had to learn, one much harder than any simulation."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, 10-minute meditation, shower, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Castro Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a quick breakfast of coffee and oatmeal with fruit.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Castro Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to Castro Muni Station and take the M-line inbound to Montgomery Station.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SFMTA Muni Metro"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Settle in at his dedicated desk, grab a complimentary coffee, and review Slack messages and emails.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 25,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: analyzing Q2 efficiency data using SQL and building a performance dashboard.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Daily remote stand-up meeting with the engineering team to sync on project statuses and blockers.",
+                        "geocode": {
+                            "lat": 37.75087389999999,
+                            "lng": -122.4162826,
+                            "formatted_address": "1398 S Van Ness Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mindspace Phone Booth"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over and pick up a 'Not So Fried' Chicken Sandwich for a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.7913266,
+                            "lng": -122.3963941,
+                            "formatted_address": "300 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "Mendocino Farms"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Collaborative session with a product manager, whiteboarding a new automation process flow.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mindspace Meeting Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Final work block: documenting the new process in Confluence and responding to final emails.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 80,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude86",
+                        "action": "Pack up and commute home, taking the K-line from Montgomery Station back to Castro.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SFMTA Muni Metro"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Stop at the local gym for a full-body strength training workout to de-stress.",
+                        "geocode": {
+                            "lat": 37.7637395,
+                            "lng": -122.4334293,
+                            "formatted_address": "2301 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery run to pick up fresh produce and chicken for dinner.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mollie Stone's Markets"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5b",
+                        "action": "Cook and eat a healthy dinner while catching up on a new series on streaming.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "Castro Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night: tidy the apartment, pack gym bag for tomorrow, and read a book.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Castro Street Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a process engineer balancing focused work at a Financial District coworking space with an evening fitness routine and domestic errands in his Castro neighborhood.",
+                "home_address": "2044 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7451786,
+                    "lng": -122.4337535,
+                    "formatted_address": "2044 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

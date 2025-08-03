@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jensen",
+    "givenName": "Sarah",
+    "familyName": "Jensen",
+    "jobTitle": "Medical Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jensen\u2019s world is contained within four square blocks of San Francisco\u2019s Inner Richmond. Raised in the sun-baked plains of Modesto, her upbringing was practical and without frills. Her father was a mechanic, her mother a bookkeeper, and life was about reliable work and family dinners. Sarah was the first to aim for a four-year university, enrolling at UC Davis with a vague interest in communications. However, her path was derailed during her sophomore year when her mother received a diagnosis of early-onset Parkinson's disease.\n\nSarah left school without a second thought, returning home to help manage the confusing maze of doctor's appointments, medications, and physical therapy. In the sterile waiting rooms and quiet clinics, witnessing the blend of efficiency and empathy in medical assistants, she discovered an unspoken calling. The abstract world of university felt distant; this was tangible, immediate, and important. Instead of returning to Davis, she enrolled in a vocational program and earned her Medical Assistant certification in a year.\n\nThe move to San Francisco was a leap of faith, driven by a unique job offer at a small geriatric practice. The position came with a rare city perk: a small, rent-stabilized apartment directly above the clinic, solving the city\u2019s housing and commute problems in one stroke.\n\nNow 28, Sarah\u2019s life follows a calm rhythm. Her commute is a single flight of stairs. Her days are spent taking vitals, scheduling appointments, and offering a comforting presence to her elderly patients, many of whom remind her of her own parents. Her social life is small but meaningful\u2014a bi-weekly book club with nurses from a nearby hospital and long weekend walks through Golden Gate Park. She doesn\u2019t frequent the trendy downtown bars; her San Francisco is the steam from a Clement Street bakery and knowing the names of the local grocers.\n\nHer dream isn't a startup or a corner office. She hopes to one day return to school and become a registered nurse, but for now, her focus is on saving. She yearns to take her mother, whose condition has stabilized, on a trip to Hawaii\u2014a small, sun-drenched reward for a life of quiet, dedicated service."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Bedroom"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Have a quick breakfast of yogurt and granola while chatting with her mom.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the designated pickup spot to meet her carpool partner, Maria.",
+                        "geocode": {
+                            "lat": 37.8078325,
+                            "lng": -122.42082,
+                            "formatted_address": "Hyde St, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Corner of Pacific & Hyde"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool through city traffic from Nob Hill to the Mission District.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Clock in, review the day's patient appointments, and prep the exam rooms.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Doorhaus Clinic"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Perform patient intake: taking vitals, recording medical histories, and updating charts.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Doorhaus Exam Rooms"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Grab a quick lunch from a favorite local spot in the Mission.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83e\ude79",
+                        "action": "Assist physicians with minor in-office procedures and administer vaccinations.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Doorhaus Procedure Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udce0",
+                        "action": "Handle administrative tasks: calling patients with lab results and processing prescription refills.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 105,
+                        "location": "Doorhaus MA Station"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Carpool commute home, listening to a podcast to unwind from the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the neighborhood market to pick up fresh pasta and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7929099,
+                            "lng": -122.4162614,
+                            "formatted_address": "1263 Leavenworth St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Le Beau Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat dinner with her parents, catching up on their days.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Unwind with a gentle yoga flow in her room to ease back tension.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a favorite show, and scroll through social media.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A busy but structured day for Sarah, a Medical Assistant, balancing a demanding healthcare job in the Mission with family life and personal time in her Nob Hill neighborhood.",
+                "home_address": "765 Pacific Ave, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.796663,
+                    "lng": -122.4081422,
+                    "formatted_address": "765 Pacific Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jensen Family"
+    }
+}

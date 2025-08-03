@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Urban Planning"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a rebellion against the sprawl she grew up in. Raised in a quiet, car-dependent Sacramento suburb, her childhood was defined by waiting for rides and the monotonous landscape of strip malls. The bus was unreliable, and cycling was a recreational activity, not a form of transport. This early experience forged in her a deep-seated belief that communities should be built for people, not vehicles.\n\nShe arrived in San Francisco at 21, not for a prestigious university, but for the freedom of a city where she didn\u2019t need a driver's license to live a full life. Lacking a formal degree, Sarah\u2019s education came from the city itself. She became a passionate observer, volunteering for the SF Bicycle Coalition and attending countless city planning meetings. Her sharp, practical insights on pedestrian safety and transit flow, born from lived experience rather than academic theory, got her noticed. A local community planning non-profit hired her, valuing her on-the-ground perspective over a traditional resume.\n\nA key turning point was helping design the city\u2019s first \"slow street\" in her own neighborhood during the pandemic. Seeing families reclaim the asphalt from cars solidified her life's mission. Now 36, Sarah lives and breathes her work. Her 0.0-mile commute is a point of pride; she works from a sunlit desk in her Mission District apartment, overlooking a vibrant mural. Her daily routine is a testament to her ideals: a morning walk to a local bakery, video calls with city officials, and an evening stroll with her partner, Alex, a graphic designer she met at a neighborhood cleanup.\n\nSarah's connection to San Francisco is woven into the fabric of her neighborhood. She knows the names of the shop owners on her block and has a favorite bench in Dolores Park. Her dream isn\u2019t to climb a corporate ladder but to see a future where every San Franciscan has the same freedom she found: the ability to access everything they need within a short, safe, and pleasant walk from their front door."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers the diesel sigh of the 14-Mission bus pulling away, leaving her at age 21 with her last suitcase. Standing on the corner, the city wasn't a destination; it was a living organism she could join just by walking. For the first time, she wasn\u2019t waiting for a ride in a silent suburb. This wasn\u2019t emptiness, it was pure potential. The feeling cemented her conviction: a life without a car wasn't just possible, it was preferable. She had arrived not just in a city, but in her own life.\n\n2.\nAt 25, in a stuffy community room, her heart hammered. After academics presented complex traffic models, she raised a shaking hand. \"People don't cross there,\" she said, her voice small but clear, \"they cross here, because the light is too short for my elderly neighbor.\" The lead planner looked not at the chart, but at her, and nodded. \"Tell me more.\" In that moment, her imposter syndrome evaporated. She realized her lived experience wasn't a deficit; it was expertise. She belonged in that room.\n\n3.\nIt was a sunny Saturday cleanup when she was 30, wrestling a discarded scooter from a planter box. A hand offered her a trash grabber, and she looked up to see Alex. They spent the next hour talking, not about their jobs, but about the lazy graffiti on the wall and the best pupusas on the block. She saw in his eyes the same quiet appreciation for the small details that make a neighborhood a home. It was the comforting recognition of a kindred spirit, one who also found beauty in caring for their small patch of the world.\n\n4.\nThe first evening her street officially became a Slow Street during the pandemic, she watched from her window, anxious. Then, it happened: a family on bikes, a toddler chasing a chalk-drawn line, neighbors setting out chairs. She was 33. The asphalt, once a channel for cars, had become a shared public square. The sound of children's laughter replacing engine noise brought tears to her eyes. This was the \"why\" of her work, made tangible and beautiful. It wasn\u2019t about policy; it was about this reclaimed joy.\n\n5.\nLast week, walking home with Alex, the scent of night-blooming jasmine filled the air. They paused to let a neighbor pass with her groceries. A memory of her teenage self surfaced\u2014bored, isolated, waiting endlessly in a car. A profound sense of peace washed over her at 36. She hadn't just escaped that life; she had actively built its opposite, right here. This simple, fragrant walk wasn't a special event; it was the destination itself, a daily affirmation of a dream fully realized."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check SFMTA alerts and morning headlines while sipping water.",
+                        "geocode": {
+                            "lat": 37.7648646,
+                            "lng": -122.4283323,
+                            "formatted_address": "385 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (385 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Morning jog through the neighborhood and around the park.",
+                        "geocode": {
+                            "lat": 37.76955100000001,
+                            "lng": -122.433214,
+                            "formatted_address": "Duboce Park, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 35,
+                        "location": "Duboce Park"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get ready, and have a quick breakfast of yogurt and coffee at home.",
+                        "geocode": {
+                            "lat": 37.7648646,
+                            "lng": -122.4283323,
+                            "formatted_address": "385 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (385 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, listening to a podcast on transit-oriented development.",
+                        "geocode": {
+                            "lat": 37.6536906,
+                            "lng": -122.4069257,
+                            "formatted_address": "US-101, South San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Car on US-101 South"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office and begin focused work: analyzing GIS data for a proposed 3rd Street corridor improvement project.",
+                        "geocode": {
+                            "lat": 37.7273474,
+                            "lng": -122.3653746,
+                            "formatted_address": "103 Horne Ave, San Francisco, CA 94124, United States"
+                        },
+                        "duration": 120,
+                        "location": "Hunters Point Art Studios"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Team coordination meeting to discuss community outreach strategies for the Bayview Transportation Plan.",
+                        "geocode": {
+                            "lat": 37.7273474,
+                            "lng": -122.3653746,
+                            "formatted_address": "103 Horne Ave, San Francisco, CA 94124, United States"
+                        },
+                        "duration": 60,
+                        "location": "Hunters Point Art Studios"
+                    },
+                    {
+                        "emoji": "\ud83e\udd59",
+                        "action": "Walk over for a quick lunch of a falafel wrap and an iced tea.",
+                        "geocode": {
+                            "lat": 37.7320465,
+                            "lng": -122.3753514,
+                            "formatted_address": "888 Innes Ave, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 50,
+                        "location": "Cafe Alma"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Conduct a site visit to assess pedestrian and cyclist access points for the new Candlestick Point development.",
+                        "geocode": {
+                            "lat": 37.7127107,
+                            "lng": -122.3815252,
+                            "formatted_address": "Candlestick Point State Recreation Area, 500 Hunters Point Expy, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 90,
+                        "location": "Candlestick Point State Recreation Area"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Return to the office to write up site visit notes and respond to afternoon emails.",
+                        "geocode": {
+                            "lat": 37.7273474,
+                            "lng": -122.3653746,
+                            "formatted_address": "103 Horne Ave, San Francisco, CA 94124, United States"
+                        },
+                        "duration": 70,
+                        "location": "Hunters Point Art Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive home, navigating the usual evening traffic getting back into the city center.",
+                        "geocode": {
+                            "lat": 37.7323739,
+                            "lng": -122.4307687,
+                            "formatted_address": "I-280, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Car on I-280 North"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up fresh pasta, kale, and parmesan for dinner.",
+                        "geocode": {
+                            "lat": 37.761345,
+                            "lng": -122.424711,
+                            "formatted_address": "3639 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Bi-Rite Market on 18th"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Unwind and stretch out the day's stress at a heated vinyasa flow class.",
+                        "geocode": {
+                            "lat": 37.7749971,
+                            "lng": -122.4014666,
+                            "formatted_address": "586 6th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Ritual Hot Yoga"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner while listening to music, then eat while reading a book on urban sociology.",
+                        "geocode": {
+                            "lat": 37.7648646,
+                            "lng": -122.4283323,
+                            "formatted_address": "385 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (385 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the sofa, watch an episode of a favorite show, and do a final check of tomorrow's calendar.",
+                        "geocode": {
+                            "lat": 37.7648646,
+                            "lng": -122.4283323,
+                            "formatted_address": "385 Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home (385 Church St)"
+                    }
+                ],
+                "day_overview": "A productive day for Sarah, a Transportation Planner, involving data analysis for a bike lane project, a site visit to Candlestick Point, and unwinding with a yoga class and home-cooked meal in her Castro neighborhood.",
+                "home_address": "385 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7648646,
+                    "lng": -122.4283323,
+                    "formatted_address": "385 Church St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

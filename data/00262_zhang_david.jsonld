@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Zhang",
+    "givenName": "David",
+    "familyName": "Zhang",
+    "jobTitle": "Project Coordinator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Richmond District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Zhang, at 35, is a study in quiet pragmatism, his life a steady current flowing through the complex landscape of San Francisco. Despite his surname, David's family heritage is resolutely white. He grew up in a modest, two-bedroom home in a suburb south of the city, the only child of parents who worked tirelessly in blue-collar professions. His father was a union carpenter, his mother a bookkeeper. Their emphasis was on stability, hard work, and keeping your head down \u2013 values David absorbed deeply.\n\nHis educational path mirrored this pragmatic outlook. High school was a means to an end. He excelled in the subjects that came easily, passing his general studies with respectable, but not outstanding, grades. College wasn't discussed; it was a financial stretch and seemed less crucial than getting a job and contributing. He spent several years working in various administrative support roles, slowly honing his organizational skills and an ability to navigate office politics.\n\nA significant turning point came in his late twenties. Dissatisfied with the lack of upward mobility and inspired by a chance conversation with a colleague, he enrolled in a part-time certificate program focused on project management basics. This modest investment in his education opened doors. He landed his current role as a Project Coordinator in a professional scientific management firm, a position that offers a comfortable stability and a sense of purpose he hadn't experienced before.\n\nDavid\u2019s personal life is as understated as his professional one. He maintains a few close friendships from high school and one or two colleagues. Romantic relationships have been sporadic and haven't led to anything long-term yet. He values honesty and quiet companionship, preferring intimate conversations over large social gatherings. His connection to San Francisco is deeply rooted, though not necessarily outwardly expressive. He moved to the city for work and found a rhythm he appreciates. He lives in a small apartment in the Outer Sunset, drawn to its relatively affordable rent and proximity to the beach. His daily routine is predictable: a quick breakfast, a commute via the Muni bus, a full workday, and evenings spent cooking, reading, or watching documentaries.\n\nHis hopes are simple: continued stability in his career, perhaps a small salary increase to make saving easier, and finding a genuine connection with a partner. He dreams not of grand adventures, but of building a comfortable life, perhaps eventually owning a small property outside the city. David Zhang is a man finding his footing in the world, his story one of quiet resilience and a dedication to building a life of substance, one measured step at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.  The worn fabric of the Muni 28 bus seat pressed against his back as the Golden Gate Bridge emerged from the fog. That afternoon, after a particularly draining day coordinating project timelines, seeing the bridge stand strong against the unpredictable weather was a quiet comfort, a reminder that stability could exist even amidst the chaos. It solidified his appreciation for the city's steady presence in his life.\n\n2.  Sharing takeout pho with Sarah, a high school friend, on her tiny Valencia Street stoop, the city hum a soft backdrop. They talked about nothing important and everything at once, the easy silence between them as meaningful as their words. It felt like coming home, a rare sense of being truly seen and accepted for exactly who he was.\n\n3.  Receiving his certificate in project management in the mail, a simple piece of paper that felt heavier than lead. It represented hundreds of late nights, sacrificed weekends, and a hopeful gamble. Holding it, he felt a surge of quiet pride, a sense that he had finally taken a step towards a better future, not just for himself, but eventually for the comfortable life he envisioned.\n\n4.  Sitting alone on Ocean Beach at sunset, the vastness of the Pacific stretching before him. The cold wind whipped his hair, and the sound of the waves was a constant, soothing roar. It was in these moments of solitude that he felt most at peace, a quiet sense of groundedness washing over him, reinforcing his appreciation for simple, enduring things.\n\n5.  Watching his father meticulously repair a squeaky door hinge, the silent focus and steady hands a familiar sight. There was a quiet dignity in his father's work, a dedication to fixing things right. It instilled in David a deep respect for practical skills and the satisfaction of tangible results, a value now reflected in his own methodical approach to his career."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\udd71",
+                        "action": "Wake up and do a quick 15-minute stretch while listening to a daily news podcast.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Valencia St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Walk to grab a pour-over coffee to properly start the day.",
+                        "geocode": {
+                            "lat": 37.7670234,
+                            "lng": -122.4217806,
+                            "formatted_address": "375 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Four Barrel Coffee"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning 'commute' from the kitchen to the desk; organize workspace and review the day's priorities.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Clear morning emails and join the virtual team stand-up on Slack and Zoom to discuss project progress.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Deep work session: update project timelines in Asana and draft communication for stakeholders.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Step out for lunch, grabbing a super burrito to go and eating it at a bench in Dolores Park.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria & Dolores Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead a cross-functional alignment meeting to resolve dependencies for an upcoming feature launch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Focus block on creating process documentation and updating the project's internal wiki page.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc4b",
+                        "action": "Wrap up work for the day, sending out a final status update and planning tasks for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a jog through the neighborhood, looping past the murals in Clarion Alley for inspiration.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mission District Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Call parents for a daily check-in and to chat about their week.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Valencia St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up a few specific groceries needed for dinner and the next day's breakfast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple dinner while listening to a podcast, then eat while watching YouTube reviews.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Valencia St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down for the night by watching a movie on a streaming service and tidying up the apartment.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Valencia St Apartment"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a tech project coordinator, balanced with local Mission District food, a run through the vibrant neighborhood, and a check-in with family before relaxing in the evening.",
+                "home_address": "2587 Valencia St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7481888,
+                    "lng": -122.4202994,
+                    "formatted_address": "2587 Valencia St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Zhang Family"
+    }
+}

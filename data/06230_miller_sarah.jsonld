@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Office Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Administrative"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story is one of quiet resilience, a life shaped by practical choices that momentarily eclipsed a creative spirit. Raised in Modesto by a pragmatic mechanic father and a no-nonsense bookkeeper mother, Sarah\u2019s childhood was grounded in stability, not aspiration. Her artistic inclinations, particularly a love for black-and-white photography, were seen as a hobby, not a future. She enrolled in a local community college with a vague plan for an art degree, but the financial pressure and a feeling of aimlessness led her to drop out after three semesters.\n\nSeeking a world beyond the Central Valley, Sarah moved to San Francisco in her late twenties, drawn by the city\u2019s bohemian promise. She found work as a receptionist, her innate organization and calm demeanor making her a natural fit for administrative roles. Over two decades, she steadily climbed the ladder from assistant to office manager, becoming the indispensable backbone of a small, now fully remote, design firm. Her 0.0-mile commute is a modern reality; her office is a neatly organized corner of her one-bedroom apartment in the Inner Richmond.\n\nA significant turning point was the end of a 12-year relationship five years ago. The breakup, though amicable, left her with a profound sense of solitude and prompted a quiet re-evaluation. She built a life of comforting routine: morning walks through Golden Gate Park, a strong coffee from her favorite local cafe, and focused workdays managing schedules and logistics for a team of designers half her age. Her social life is small but meaningful, consisting of a few trusted friends and a monthly book club.\n\nNow at 49, Sarah isn't chasing a new career or a dramatic life change. Instead, she\u2019s reconnecting with the person she set aside. She recently bought a new digital camera and has started taking photography classes again, finding joy in capturing the foggy, serene landscapes of her neighborhood. Her dream is no longer to be a professional artist, but simply to create for herself, to find beauty in the quiet corners of the city she has long called home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to the alarm, do some light stretching, and feed her cat, Leo.",
+                        "geocode": {
+                            "lat": 37.7700643,
+                            "lng": -122.4225918,
+                            "formatted_address": "198 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment on Valencia"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a strong cup of coffee from Ritual Coffee Roasters beans and review personal emails and headlines for the day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udca7",
+                        "action": "Shower, get dressed in business casual attire, and pack her work bag and lunch.",
+                        "geocode": {
+                            "lat": 37.7700643,
+                            "lng": -122.4225918,
+                            "formatted_address": "198 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Valencia"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet her carpool partner at their usual spot for the cross-town commute, chatting about weekend plans.",
+                        "geocode": {
+                            "lat": 37.7553154,
+                            "lng": -122.4209852,
+                            "formatted_address": "22nd St & Valencia St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 35,
+                        "location": "Corner of Valencia & 22nd Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udda5\ufe0f",
+                        "action": "Settle in at her desk, boot up the computer, and triage the morning's emails and voicemails.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Dept. of Medicine - Admin Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Handle an urgent facilities request for a broken piece of equipment in the resident's lounge.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Parnassus Campus"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the weekly administrative staff meeting to align on priorities and upcoming deadlines.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Parnassus - Conference Room 4A"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk down the hill to grab a quick 'make-your-own' salad for lunch and eat at a small parklet.",
+                        "geocode": {
+                            "lat": 37.763954,
+                            "lng": -122.464751,
+                            "formatted_address": "627 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 55,
+                        "location": "Pluto's Fresh Food on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Process and approve timesheets for the department's administrative assistants ahead of the payroll deadline.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Dept. of Medicine - Admin Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Interview a candidate for a new administrative assistant position.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Parnassus - Admin Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Meet her carpool partner for the commute home, navigating the evening traffic.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 40,
+                        "location": "UCSF Parnassus Employee Pick-up Zone"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Quick stop at the local market to pick up fresh bread and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Cook dinner with her partner while they both unwind and share stories from their respective days.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 110,
+                        "location": "Home Kitchen & Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch the latest episode of a popular streaming drama together.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Get ready for bed and read a few chapters of a historical fiction novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A structured day for a seasoned Office Manager, balancing the demands of a busy UCSF medical campus with a relaxing evening routine with her partner in the vibrant Mission District.",
+                "home_address": "1059 Valencia St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7559944,
+                    "lng": -122.4207494,
+                    "formatted_address": "1059 Valencia St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

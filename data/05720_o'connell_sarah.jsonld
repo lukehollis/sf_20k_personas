@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah O'Connell",
+    "givenName": "Sarah",
+    "familyName": "O'Connell",
+    "jobTitle": "Production Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah O\u2019Connell\u2019s life is a masterclass in controlled logistics, a skill honed not in a classroom but in the crucible of post-collegiate reality. Raised in the quiet suburbs of Sacramento by a pragmatic accountant father and a librarian mother, her upbringing was stable and predictable. Rebelling against this predictability, she pursued a Bachelor's in Art History at UC Santa Cruz, dreaming of a life curating exhibits and surrounded by beauty.\n\nThe reality of Bay Area rent after graduation was a stark turning point. Her art history degree felt more like a romantic folly than a viable career path. Needing to make ends meet, she took a temp job as an administrative assistant at a small hardware startup. There, amidst the chaos of engineering deadlines and frantic product launches, Sarah discovered an innate talent for creating order. She was masterful with spreadsheets, timelines, and tracking global shipments. Her ability to see the entire production puzzle and calmly fit the pieces together was her true calling.\n\nShe leveraged this skill into her current role as a Production Planner, orchestrating complex supply chains for a major tech firm entirely from her Inner Richmond apartment. Her 0.0-mile commute defines her San Francisco experience; her world is a ten-block radius encompassing her favorite coffee shop, the bakery with the best sourdough, and the trails of Golden Gate Park where she walks every morning.\n\nRecently out of a long-term relationship, her highly structured days have become both a comfort and a cage. Social connections now require deliberate planning, like scheduling a yoga class with a friend or a weekend volunteer shift at the de Young Museum\u2014a nod to the passion she once pursued. Sarah\u2019s dream is no longer about climbing the corporate ladder, but about achieving a sustainable work-life balance. She aspires to find a partnership that complements her quiet rhythm and, perhaps one day, to find a way to merge her organized mind with her love for art, proving to herself that the path she abandoned was not a dead end, but merely a detour."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up to alarm, scroll through news headlines and check personal email.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Sarah's Apartment on 3rd Street"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of avocado toast and coffee while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Sarah's Apartment on 3rd Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in layers suitable for a bike commute and the office, and pack a work bag.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Sarah's Apartment on 3rd Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Morning commute via bicycle from Bayview, navigating through Potrero, the Mission, and using 'The Wiggle' bike route to reach campus.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, United States"
+                        },
+                        "duration": 55,
+                        "location": "SF Bike Route Network"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at USF, park bike, freshen up, and settle in at desk with a large water bottle, reviewing the day's calendar.",
+                        "geocode": {
+                            "lat": 37.7755941,
+                            "lng": -122.4511139,
+                            "formatted_address": "Kalmanovitz Hall, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "USF Kalmanovitz Hall Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Morning focus session: analyze data from the previous term to forecast resource needs for upcoming digital course productions.",
+                        "geocode": {
+                            "lat": 37.7755941,
+                            "lng": -122.4511139,
+                            "formatted_address": "Kalmanovitz Hall, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "USF Kalmanovitz Hall Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk off-campus for a quick lunch, picking up a grain bowl to eat on a bench and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7905176,
+                            "lng": -122.4170789,
+                            "formatted_address": "1030 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 50,
+                        "location": "Nourish Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Attend a project planning meeting with faculty and IT staff to map out the production timeline for a new hybrid program.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "USF Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon work block: update project management software (Asana), respond to emails, and troubleshoot a scheduling conflict.",
+                        "geocode": {
+                            "lat": 37.7755941,
+                            "lng": -122.4511139,
+                            "formatted_address": "Kalmanovitz Hall, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 135,
+                        "location": "USF Kalmanovitz Hall Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Tidy desk, finalize to-do list for the next day, and change into gear for the ride home.",
+                        "geocode": {
+                            "lat": 37.7755941,
+                            "lng": -122.4511139,
+                            "formatted_address": "Kalmanovitz Hall, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "USF Kalmanovitz Hall Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Commute home via bicycle, taking a route through SoMa to run an errand.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, United States"
+                        },
+                        "duration": 60,
+                        "location": "SF Bike Route Network"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce and a few other groceries for dinner.",
+                        "geocode": {
+                            "lat": 37.7742958,
+                            "lng": -122.3914108,
+                            "formatted_address": "1101 4th St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market (Mission Bay)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Arrive home, unpack groceries, take a quick shower, and change into comfortable clothes.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Sarah's Apartment on 3rd Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Cook a simple and healthy dinner while chatting on the phone with her parents.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sarah's Apartment on 3rd Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Eat dinner while relaxing on the couch and watching an episode of a new series.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sarah's Apartment on 3rd Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a book and prepping her lunch for the next day.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Sarah's Apartment on 3rd Street"
+                    }
+                ],
+                "day_overview": "A productive day for a tech production planner, balancing focused work at the University of San Francisco with a substantial cross-city bicycle commute from her Bayview home, and winding down with a home-cooked meal and a call to her family.",
+                "home_address": "3937 3rd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7411287,
+                    "lng": -122.3881161,
+                    "formatted_address": "3937 3rd St, San Francisco, CA 94124, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "O'Connell Family"
+    }
+}

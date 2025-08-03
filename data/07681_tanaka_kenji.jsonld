@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "Hardware Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka\u2019s world is meticulously ordered, confined mostly to the 800 square feet of his modern condo in the Mission District. Born and raised in Fresno, he is the son of third-generation Japanese American peach farmers. His childhood was dictated by the seasons\u2014the scent of blossoms in spring, the grueling heat of summer harvest, and the quiet labor of winter pruning. He learned patience and precision fixing irrigation pumps and sorting fruit, a tangible, mechanical reality that starkly contrasts his life today.\n\nWhile his parents hoped he\u2019d take over the farm, Kenji was drawn to the elegant logic of circuits. He pursued an Electrical Engineering degree at UC Davis, finding solace in the clean, predictable world of schematics. After graduation, he landed a coveted job at a scrappy San Francisco hardware startup. The frenetic energy was a thrill, but the company\u2019s acquisition by a tech giant three years ago was a quiet relief, trading volatile stock options for stability and a salary that felt abstractly immense.\n\nThe true turning point was the pandemic-era shift to remote work, which Kenji never abandoned. The forced solitude suited his introverted nature. His commute shrank to the ten steps from his bedroom to his standing desk, where he now designs next-generation server components. His days follow a strict rhythm: a sunrise run through Dolores Park, pour-over coffee, and long, uninterrupted coding sessions.\n\nHis social life is as curated as his workspace. It consists of a weekly online Dungeons & Dragons campaign with college friends and occasional weekend visits to his younger sister, an illustrator living in Oakland, who serves as his primary tether to family and a world outside of tech.\n\nKenji\u2019s connection to San Francisco is one of appreciative distance. He loves the city\u2019s culinary offerings and the fog rolling over Twin Peaks, but his neighborhood is more of a high-end service platform than a community. His dream isn't to climb the corporate ladder, but to eventually pivot. He spends his evenings sketching designs for bespoke, high-fidelity audio equipment, hoping to one day merge his engineering skills with the craftsman\u2019s ethos he learned in the orchards\u2014to build something beautiful, tangible, and lasting."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, check surf report out the window, and make a pour-over coffee.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Kenji's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Quick jog along the waterfront to clear his head before the day.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Ocean Beach Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for the office, and pack his bag.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Kenji's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Walk to the corner and catch the train for the cross-town commute, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "N Judah Muni Metro Inbound"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab a sparkling water from the kitchen, and triage morning emails and Slack messages.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 25,
+                        "location": "Chime HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Daily hardware team stand-up meeting to review progress on the new payment terminal prototype.",
+                        "geocode": {
+                            "lat": 37.7860036,
+                            "lng": -122.4094618,
+                            "formatted_address": "Presidio Conference Room, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 15,
+                        "location": "Chime HQ - 'Presidio' Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focused work block: Finalizing schematic designs for a new PCB using Altium Designer.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 135,
+                        "location": "Kenji's Desk, Chime HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk with a few colleagues to grab a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.7937236,
+                            "lng": -122.3978634,
+                            "formatted_address": "100 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt, California St."
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Hands-on lab time: Testing the power consumption of a prototype component with an oscilloscope and multimeter.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 105,
+                        "location": "Chime HQ Electronics Lab"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Check-in on JIRA tickets, update documentation on Confluence, and plan tasks for the next day.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Kenji's Desk, Chime HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\ude88",
+                        "action": "Pack up and begin the commute home, reading a book on his Kindle.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "N Judah Muni Metro Outbound"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Hop off the train a couple of stops early to pick up produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Other Avenues Grocery Co-op"
+                    },
+                    {
+                        "emoji": "\ud83e\udd62",
+                        "action": "Cook dinner while listening to music to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kenji's Apartment"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Work on a personal project: Soldering components for a custom-built mechanical keyboard.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Kenji's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch an episode of a new sci-fi series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Kenji's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: Tidy up the kitchen, brush teeth, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Kenji's Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Kenji, a hardware engineer, balancing focused deep work and collaborative meetings at his FiDi office. His day is framed by a long but routine MUNI commute from his home in the Outer Sunset, with his evening reserved for local errands, a home-cooked meal, and time for his personal electronics hobby.",
+                "home_address": "3910 Judah St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.760691,
+                    "lng": -122.5040847,
+                    "formatted_address": "3910 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Olivia Washington",
+    "givenName": "Olivia",
+    "familyName": "Washington",
+    "jobTitle": "Quality Control Specialist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Black or African American"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Olivia Washington's life has been a study in finding order amidst chaos, a skill she now applies professionally. Raised in a quiet, middle-class Sacramento suburb, she was the daughter of an accountant father and a high school librarian mother. Their home was a place of structure and books, instilling in Olivia a deep appreciation for logic and narrative. She pursued this love at UC Davis, earning a Bachelor's degree in English Literature, fascinated by the precise architecture of a well-crafted story.\n\nThe post-college reality, however, lacked a clear plot. Adrift in a weak job market for humanities graduates, Olivia took a temp position doing proofreading for a burgeoning San Francisco startup. It was a turning point. She discovered an uncanny talent for spotting inconsistencies not just in text, but in user flow and software logic. The company, impressed by her meticulous eye, offered her a full-time role in their nascent Quality Control department. She had found a way to apply her literary sensibilities to the digital world, finding the \"plot holes\" in lines of code.\n\nShe moved to the city initially with a long-term partner, settling into a life that felt pre-written. But two years ago, the relationship ended, a sudden plot twist that left her alone in an expensive city. Instead of retreating, Olivia leaned into her independence. She found a small, rent-controlled apartment in NOPA (North of the Panhandle), a neighborhood that offered a balance of urban energy and residential calm.\n\nNow 31, Olivia's days are defined by a quiet routine. Her commute is a ten-step walk from her coffee maker to her standing desk. As a QC Specialist, she spends hours methodically testing software, documenting bugs with a precision that borders on artistry. To counteract the isolation of remote work, she forces herself out. A midday walk through the Panhandle is non-negotiable, and Fridays often include a stop at The Mill for their expensive but perfect toast. She belongs to a monthly book club\u2014a mix of tech and non-tech folks\u2014that serves as her primary social anchor.\n\nOlivia\u2019s dream is to one day write her own story, not just debug others'. She quietly works on a novel, weaving complex characters and structures. She hopes to build deeper, more lasting friendships and feel truly rooted in San Francisco, a city she chose not for a job or a partner, but for herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, check the morning fog, and enjoy a pour-over coffee while meditating for a few minutes.",
+                        "geocode": {
+                            "lat": 37.7545464,
+                            "lng": -122.4651662,
+                            "formatted_address": "129 Noriega St, San Francisco, CA 94116"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make sourdough toast and chat with her partner about their plans for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Kitchen at Home"
+                    },
+                    {
+                        "emoji": "\u27a1\ufe0f",
+                        "action": "Morning 'commute' to the home office nook, turning on monitors, launching Slack, and reviewing the day's calendar.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Daily stand-up video call with the development and product teams to sync on testing priorities for the day.",
+                        "geocode": {
+                            "lat": 37.7884637,
+                            "lng": -122.3965434,
+                            "formatted_address": "500 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office (via Slack)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddea",
+                        "action": "Performing regression testing on the latest software build, analyzing automated test reports for failures.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to grab a banh mi and get some fresh air away from the screen.",
+                        "geocode": {
+                            "lat": 37.7615065,
+                            "lng": -122.4348082,
+                            "formatted_address": "469 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Tanglad Vietnamese Eatery"
+                    },
+                    {
+                        "emoji": "\ud83d\udc1e",
+                        "action": "Manually testing a new user registration flow, attempting to find bugs and edge cases.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Writing detailed bug reports in Jira, complete with screenshots and replication steps for the engineering team.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Logging off work systems, tidying the desk, and signaling the end of the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a refreshing run through the west end of Golden Gate Park, looping past the Dutch Windmill.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd66",
+                        "action": "Quick stop to pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cooking a healthy meal together with her partner and catching up on each other's day over dinner.",
+                        "geocode": {
+                            "lat": 37.7545464,
+                            "lng": -122.4651662,
+                            "formatted_address": "129 Noriega St, San Francisco, CA 94116"
+                        },
+                        "duration": 90,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relaxing on the couch, watching a new documentary on Netflix, and unwinding from the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Living Room at Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: tidying up, prepping coffee for the morning, and reading a few pages of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7545464,
+                            "lng": -122.4651662,
+                            "formatted_address": "129 Noriega St, San Francisco, CA 94116"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a QC Specialist in the Outer Sunset, balancing focused tech work with local errands, outdoor exercise, and quality time with her partner.",
+                "home_address": "129 Noriega St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7545464,
+                    "lng": -122.4651662,
+                    "formatted_address": "129 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

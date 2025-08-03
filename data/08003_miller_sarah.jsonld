@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Gallery Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is contained within a single, beautifully restored brick building in Hayes Valley. Born and raised in a quiet suburb of Columbus, Ohio, to a high school principal and a librarian, Sarah\u2019s upbringing was stable, predictable, and devoid of the artistic chaos she secretly craved. She pursued an English Literature degree at Ohio State, a practical compromise that satisfied her love for stories while appeasing her parents\u2019 desire for a sensible education.\n\nHer definitive turning point arrived during a post-graduation backpacking trip in the early 1990s. The moment she stepped into the foggy, vibrant embrace of San Francisco, she knew she was home. She never used her return ticket. Sarah\u2019s early years in the city were a hustle of waitressing and bookstore jobs, all while volunteering at fringe art galleries in the Mission. It was there she found her true calling: not as an artist, but as a curator of artists, a storyteller for their visual narratives. She worked her way up from sweeping floors to handling sales, eventually becoming the manager of a small, ambitious gallery.\n\nHer personal and professional lives merged when she fell in love with a charismatic sculptor. Together, they bought a derelict live/work warehouse, pouring two decades of life, love, and savings into transforming the ground floor into the prominent gallery she manages today and the upstairs into their sunlit loft. Their partnership ended amicably five years ago when his career pulled him to Berlin; Sarah, inextricably tied to the world they built, chose to stay.\n\nNow 54, Sarah\u2019s daily routine is a seamless flow. She wakes in her loft, surrounded by pieces from past shows, has coffee on her small deck overlooking a shared garden, and then walks downstairs to open the gallery. Her commute is zero miles, but her world is expansive, filled with the artists she champions, the collectors she befriends, and the neighborhood regulars who stop by to chat. While content, she harbors a quiet dream of discovering one last, brilliant young artist to launch into the world. Her deeper aspiration is simpler: to one day lock the gallery door for a month and finally see the museums of Madrid, entirely on her own terms."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew coffee, and read the SF Chronicle",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3575 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Light yoga session in the living room overlooking the street",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3575 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Shower, get dressed, and have a quick breakfast of yogurt and fruit",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3575 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the N Judah inbound stop",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 10,
+                        "location": "Cole & Carl MUNI Station"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute on the MUNI train, listening to an arts & culture podcast",
+                        "geocode": {
+                            "lat": 37.7613338,
+                            "lng": -122.4855952,
+                            "formatted_address": "Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 35,
+                        "location": "N Judah Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uddbc\ufe0f",
+                        "action": "Open the gallery, respond to urgent emails, and coordinate the day's tasks with the gallery assistant",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Review artist submissions for the upcoming group show and draft exhibition text",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Upside Artspace Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Business lunch with a potential client to discuss a private acquisition",
+                        "geocode": {
+                            "lat": 37.7736,
+                            "lng": -122.421608,
+                            "formatted_address": "1658 Market St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 75,
+                        "location": "Zuni Caf\u00e9"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Give a tour of the current exhibition to gallery visitors and manage the sales floor",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 150,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Portfolio review meeting with an emerging local painter",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8a",
+                        "action": "Commute home, reading a novel on the train",
+                        "geocode": {
+                            "lat": 37.7613338,
+                            "lng": -122.4855952,
+                            "formatted_address": "Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "N Judah Line"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Stop for groceries and a bottle of wine for dinner",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare a simple pasta dinner while listening to classical music",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3575 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading an art history book before bed",
+                        "geocode": {
+                            "lat": 37.769184,
+                            "lng": -122.4535654,
+                            "formatted_address": "3575 Haight St, San Francisco, CA 94117"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A busy and culturally rich day for a SoMa art gallery manager, balancing curatorial duties and client meetings with a quiet, reflective evening in her Haight-Ashbury neighborhood.",
+                "home_address": "3575 Haight St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.769184,
+                    "lng": -122.4535654,
+                    "formatted_address": "3575 Haight St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1970",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

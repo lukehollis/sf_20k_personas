@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Production Supervisor",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller is a quiet anchor in a city of relentless motion. The daughter of an Oakland mechanic, she grew up with the scent of motor oil in her clothes and a pragmatic understanding of how things worked. The academic world never held much appeal; she fled the East Bay suburbs for San Francisco in her early twenties, seeking art and anonymity. She earned a practical Associate's degree in business management from a community college, a credential that felt more useful than a philosophical treatise.\n\nHer career began not by design, but by chance. She took a job packing orders at a small, family-owned textile printing company in Dogpatch, one of the last vestiges of the neighborhood's industrial past. But her knack for process and her no-nonsense reliability saw her rise through the ranks. Over two decades, she learned every machine, every ink formula, every quirk of the production line. When the old supervisor retired ten years ago, she was the only logical choice for the role.\n\nThe defining moment of her life came with the promotion. The company owned the entire building, including a small loft apartment directly above the workshop floor. To ensure someone was always on-site for security and late-night press checks, they offered it to her as part of her compensation. This dissolved her commute and fused her life and work into a singular existence. Her days are now measured by the rhythmic clatter of the looms below her feet. A long-term relationship ended amicably around the same time, leaving her to find a quiet, solitary peace in her unique domain.\n\nHer social life is a small, tight circle of old friends, people who remember the city before the last two tech booms. Her lifestyle is simple: she tends to a surprisingly vibrant rooftop garden of succulents and herbs, reads historical fiction, and knows the names of the owners of the local coffee shop and brewery. Sarah\u2019s dream isn\u2019t grand; she fantasizes about using the company's equipment after hours to create her own small line of printed linens. For her, success is the quiet hum of a well-oiled machine and a secure place to call home in the city she has watched transform around her."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check news headlines and personal emails on a tablet.",
+                        "geocode": {
+                            "lat": 37.796957,
+                            "lng": -122.438369,
+                            "formatted_address": "2378 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 2378 Union St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Morning stretching and mobility routine in the living room.",
+                        "geocode": {
+                            "lat": 37.796957,
+                            "lng": -122.438369,
+                            "formatted_address": "2378 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 2378 Union St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower, get ready for the day, and have a quick breakfast of Greek yogurt and berries.",
+                        "geocode": {
+                            "lat": 37.796957,
+                            "lng": -122.438369,
+                            "formatted_address": "2378 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 2378 Union St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, listening to an industry podcast to catch up on trends.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Commute Route (Van Ness to Market)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at coworking space, grab a complimentary coffee, and review the day's production schedule and team assignments.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 60,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead a virtual stand-up meeting with the production team, reviewing progress and addressing overnight issues.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 90,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze production line data, update project management dashboards, and prepare a brief for senior leadership.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 75,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to get a healthy lunch, taking a brief break from the screen.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt on Yerba Buena Lane"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Handle logistical tasks: coordinate with suppliers via email and phone, and troubleshoot a shipping delay.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Finalize daily reports, clear out the inbox, and create a priority list for the next morning.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 60,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, navigating the evening traffic out of the downtown core.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "SF Commute Route (Fremont to Lombard)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh ingredients for dinner and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Safeway on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Unwind and reconnect with her partner, sharing stories about their respective days.",
+                        "geocode": {
+                            "lat": 37.796957,
+                            "lng": -122.438369,
+                            "formatted_address": "2378 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 2378 Union St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare and cook dinner together, making grilled chicken and a large salad.",
+                        "geocode": {
+                            "lat": 37.796957,
+                            "lng": -122.438369,
+                            "formatted_address": "2378 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - 2378 Union St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner and relax on the couch, watching an episode of a favorite historical drama.",
+                        "geocode": {
+                            "lat": 37.796957,
+                            "lng": -122.438369,
+                            "formatted_address": "2378 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - 2378 Union St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: light reading, scheduling a weekend reservation, and preparing for bed.",
+                        "geocode": {
+                            "lat": 37.796957,
+                            "lng": -122.438369,
+                            "formatted_address": "2378 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 2378 Union St"
+                    }
+                ],
+                "day_overview": "A structured day for a manufacturing professional, balancing remote team management from a Financial District coworking space with a comfortable evening routine with her partner in Cow Hollow.",
+                "home_address": "2378 Union St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.796957,
+                    "lng": -122.438369,
+                    "formatted_address": "2378 Union St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1974",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Kim Family"
+    }
+}

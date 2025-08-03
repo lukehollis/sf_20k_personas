@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Dmitri Popov",
+    "givenName": "Dmitri",
+    "familyName": "Popov",
+    "jobTitle": "Radiologic Technologist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Dmitri Popov\u2019s life story is one of quiet precision, born from the boisterous hopes of his immigrant parents. He was raised in San Francisco\u2019s Richmond District, the son of Russian parents who arrived in the early 90s with engineering degrees that meant little in their new home. They instilled in Dmitri a pragmatic worldview: financial security was paramount. While they dreamed of him becoming a doctor, Dmitri, a reserved and methodical child, recoiled from the intense pressure. He found a middle ground, a compromise that still held the respectable allure of the medical field.\n\nHis educational journey was direct and practical. After high school, he enrolled at the City College of San Francisco, pursuing an Associate of Science in Radiologic Technology. The work suited his temperament perfectly; it was a world of focused attention, of interpreting shadows and light, of finding clarity within the ghost-like interior of the human body. He excelled, finding a sense of purpose in the technical mastery of the machines.\n\nA key turning point came after graduation. Faced with San Francisco's astronomical housing costs, Dmitri made a life-defining choice. He accepted a position at a major hospital on Parnassus Heights and secured a small studio apartment in the on-campus staff housing. This decision cemented his 0.0-mile commute, but it also tightly wove his personal and professional lives into a single, sterile fabric. His world shrank to the hospital campus and the fog-draped streets of the Inner Sunset.\n\nNow 35, Dmitri\u2019s daily routine is a study in consistency. He walks from his quiet apartment to the humming radiology department, his social interactions largely limited to colleagues and the fleeting encounters with patients. He is an observer by nature and by trade, a quiet figure against the backdrop of the city\u2019s complex ecosystem. While he appreciates the stability he\u2019s achieved, a quiet yearning has taken root. He dreams of a connection that extends beyond a patient chart, of perhaps buying a small condo in a different neighborhood to finally create a boundary between work and life. His secret aspiration is to take up photography, to use his expert understanding of light and shadow not to diagnose ailments, but to capture the transient beauty of the city he serves yet barely feels a part of."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check news headlines, and drink a large glass of water.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed into medical scrubs, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of Greek yogurt and coffee while listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the northbound MUNI 24 Divisadero bus.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "MUNI Stop at Castro & 24th St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, log into the system, review the day's patient schedule, and perform quality checks on the CT scanner.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "USF Health Imaging Center"
+                    },
+                    {
+                        "emoji": "\u2622\ufe0f",
+                        "action": "Perform diagnostic imaging procedures (X-rays and MRIs) on scheduled morning patients.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 180,
+                        "location": "USF Health Imaging Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udf71",
+                        "action": "Take a deserved lunch break, grabbing a quick rice bowl to eat outside.",
+                        "geocode": {
+                            "lat": 37.7902,
+                            "lng": -122.4093389,
+                            "formatted_address": "724 Bush St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 45,
+                        "location": "BeanStalk Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\u2695\ufe0f",
+                        "action": "Handle afternoon patient appointments, including an urgent request from the campus clinic.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 195,
+                        "location": "USF Health Imaging Center"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Complete patient charting, sanitize equipment, and restock the imaging suite for the next day.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "USF Health Imaging Center"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home, taking the southbound MUNI 24 Divisadero bus back towards Noe Valley.",
+                        "geocode": {
+                            "lat": 37.7768615,
+                            "lng": -122.4382584,
+                            "formatted_address": "Divisadero St & Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 40,
+                        "location": "MUNI Stop at Fulton & Divisadero"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the grocery store to pick up items for lunches and a few dinners for the week.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 35,
+                        "location": "Whole Foods Market (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf54",
+                        "action": "Meet a friend for a casual beer and burger to catch up.",
+                        "geocode": {
+                            "lat": 37.7649717,
+                            "lng": -122.4318017,
+                            "formatted_address": "2247 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Hi Tops"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Unwind at home by watching an episode of a sci-fi series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Prepare for the next day: pack lunch, lay out fresh scrubs, and set the coffee maker.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down routine: brush teeth and read a few chapters of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A busy weekday for Dmitri, a Radiologic Technologist, balancing a demanding patient schedule at the university clinic with a commute on public transport and evening socializing with a friend in his Castro neighborhood.",
+                "home_address": "3286 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7433168,
+                    "lng": -122.4333334,
+                    "formatted_address": "3286 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Popov Family"
+    }
+}

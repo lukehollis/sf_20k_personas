@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Senior Project Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a masterclass in organized pivots. Raised in Portland, Oregon, by a high school history teacher and a dental hygienist, her childhood was defined by drizzly hikes and a sense of pragmatic, middle-class stability. Her fascination wasn't with code, but with systems. She loved seeing how cities breathed, how infrastructure shaped human behavior, which led her to a Master's degree in Urban Planning from the University of Washington.\n\nHer dream of redesigning public spaces collided with the 2008 recession. With municipal jobs scarce, Sarah took a temp position as an office coordinator at a burgeoning Seattle startup to pay her student loans. It was there she discovered her true talent. While engineers and designers created chaos, Sarah created order. She instinctively built Gantt charts, managed stakeholder expectations, and translated creative ideas into actionable steps. A senior manager noticed her knack for \"herding cats\" and sponsored her Project Management Professional (PMP) certification. This was her key turning point\u2014the moment she consciously traded city blueprints for product roadmaps.\n\nA lucrative offer brought her to San Francisco eight years ago. Today, she\u2019s a Senior Project Manager for a major tech firm, working entirely from her apartment in the Mission District. Her 0.0-mile commute offers a unique kind of freedom and confinement. Her days are anchored by a ritual: a morning walk down Valencia Street for an oat milk latte, followed by a relentless schedule of international Zoom calls. She decompressing by tending to the absurd number of plants on her fire escape or attending a weekly pottery class, a tangible escape from her digital world.\n\nHer social life is a curated collection of close friends, mostly former colleagues, who understand the industry's pressures. Though successful, she feels a professional restlessness. The urban planner inside her is reawakening, and Sarah dreams of pivoting once more. Her ultimate goal is to lead a civic tech initiative, using her project management expertise to tackle the very urban problems she once studied\u2014homelessness, transportation, public resource allocation. She loves San Francisco for its vibrant, chaotic energy, and now hopes to finally leave her mark on its system, not just as a resident, but as a builder."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, quick meditation with the Calm app, and check overnight notifications.",
+                        "geocode": {
+                            "lat": 37.751587,
+                            "lng": -122.4366411,
+                            "formatted_address": "710 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 710 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Morning workout using a Peloton bike followed by a quick stretch.",
+                        "geocode": {
+                            "lat": 37.751587,
+                            "lng": -122.4366411,
+                            "formatted_address": "710 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - 710 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready for the day, and pick out a professional outfit.",
+                        "geocode": {
+                            "lat": 37.751587,
+                            "lng": -122.4366411,
+                            "formatted_address": "710 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 710 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make coffee and a quick breakfast of avocado toast while listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.751587,
+                            "lng": -122.4366411,
+                            "formatted_address": "710 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 710 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to the office, navigating cross-town traffic from Noe Valley to the Financial District.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Park in the corporate garage, grab an oat milk latte, and review the day's meeting schedule.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 20,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead the daily project stand-up meeting with the engineering and design teams via Zoom.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 60,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work block: update project timelines in Asana and draft a quarterly progress report.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 120,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to pick up a pre-ordered salad for a quick and healthy lunch break.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Attend a stakeholder alignment meeting to present project milestones and gather feedback.",
+                        "geocode": {
+                            "lat": 37.7933827,
+                            "lng": -122.4026176,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 90,
+                        "location": "Wells Fargo Corporate Office - Conference Room 12B"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct one-on-one check-ins with two direct reports and clear out the afternoon's emails.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 90,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Commute home, listening to a true crime podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a few groceries for dinner and the next day's lunch.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Whole Foods Market on 24th St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Change into comfortable clothes, put away groceries, and prepare a simple dinner.",
+                        "geocode": {
+                            "lat": 37.751587,
+                            "lng": -122.4366411,
+                            "formatted_address": "710 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 710 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while catching up on an episode of a favorite show on HBO Max.",
+                        "geocode": {
+                            "lat": 37.751587,
+                            "lng": -122.4366411,
+                            "formatted_address": "710 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 710 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch with a book and a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.751587,
+                            "lng": -122.4366411,
+                            "formatted_address": "710 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 710 Diamond St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: skincare, pack work bag for tomorrow, and set the alarm.",
+                        "geocode": {
+                            "lat": 37.751587,
+                            "lng": -122.4366411,
+                            "formatted_address": "710 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 710 Diamond St"
+                    }
+                ],
+                "day_overview": "A structured day for a tech project manager, balancing a demanding job in the Financial District with personal time and errands in her Noe Valley neighborhood, navigating the city by car.",
+                "home_address": "710 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.751587,
+                    "lng": -122.4366411,
+                    "formatted_address": "710 Diamond St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

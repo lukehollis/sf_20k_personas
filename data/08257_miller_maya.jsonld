@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maya Miller",
+    "givenName": "Maya",
+    "familyName": "Miller",
+    "jobTitle": "Retail Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maya Miller\u2019s story began not in the coastal fog of San Francisco, but under the relentless sun of the Central Valley. Raised in a pragmatic, working-class family, the city was her glittering escape. She arrived at 18, enrolling at SF State with vague dreams of a creative life, maybe in art history or design. College was intoxicating, but life intervened. When her father\u2019s health declined, the financial pressure mounted, and Maya traded her textbooks for a full-time job at a small retail shop to help support her family.\n\nThat temporary job became a career. Maya discovered a natural talent for merchandising and managing people. She had an eye for what would sell and a patient warmth that soothed both difficult customers and stressed employees. Over two decades, she climbed the ladder from sales associate to her current role as manager of a stylish home goods boutique in Hayes Valley. The \"some college\" on her resume became a footnote to a life built on grit and intuition.\n\nA key turning point was a breakup in her late thirties. After a decade-long relationship dissolved, she sold the condo they\u2019d shared and moved into the small apartment above her store. This decision cemented her bond with the neighborhood. Her commute is now a single flight of stairs. Her days are a familiar rhythm: unlocking the shop, arranging new inventory, chatting with regulars, and closing up as the evening light fades.\n\nHer social life is woven into this small radius. She knows the baristas by name, shares knowing glances with the owner of the French bakery, and considers her small staff a kind of surrogate family. Though content, Maya, on the cusp of 50, feels a quiet yearning. The ghost of her unfinished education whispers to her. Her dream isn\u2019t to leave her life, but to enrich it. She fantasizes about taking a pottery class at a community studio or finally traveling to Italy. For now, she finds joy in the small things: the perfect window display, the sound of the cable car a few blocks away, and the knowledge that in her small corner of a constantly changing city, she is a steady, familiar presence."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up to the alarm, scroll through the news headlines and check personal emails in bed.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Valencia St Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee using beans from Ritual Coffee Roasters and have a quick yogurt and granola breakfast with her partner.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Valencia St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc57",
+                        "action": "Shower and get ready for work, choosing a stylish but comfortable outfit suitable for being on her feet all day.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (Valencia St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute to work on her personal electric scooter, zipping up Valencia and cutting across Market Street to the Financial District.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "City Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfec",
+                        "action": "Arrive at the store, conduct a morning huddle with the team to discuss sales goals and new promotions, and walk the floor to ensure everything is perfectly displayed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Emporia SF (Fictional Store near 101 California St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Assist with a large corporate client gift order and oversee the receiving of a new shipment of inventory in the stockroom.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Emporia SF (Fictional Store near 101 California St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Grab a quick lunch, picking up a 'Not So Fried' Chicken Sandwich to go and eating it at a bench in Sue Bierman Park.",
+                        "geocode": {
+                            "lat": 37.7913266,
+                            "lng": -122.3963941,
+                            "formatted_address": "300 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mendocino Farms"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle afternoon management tasks, including finalizing the next week's staff schedule, responding to corporate emails, and analyzing sales data.",
+                        "geocode": {
+                            "lat": 37.7893087,
+                            "lng": -122.3925971,
+                            "formatted_address": "San Francisco, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 180,
+                        "location": "Emporia SF (Back Office)"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Do a final store walk-through and check out with the evening shift supervisor before heading out for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Emporia SF (Fictional Store near 101 California St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Ride her electric scooter home, enjoying the change of scenery as she leaves the downtown core and re-enters the lively Mission.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "City Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Stop for a restorative yoga class to de-stress and stretch after a long day on her feet.",
+                        "geocode": {
+                            "lat": 37.764927,
+                            "lng": -122.419086,
+                            "formatted_address": "2973 16th St 5th Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Yoga to the People"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Cook dinner with her partner, making tacos with ingredients from a nearby market and catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Valencia St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Relax on the sofa, watching a movie on a streaming service while enjoying a glass of wine.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Valencia St Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night with her evening skincare routine and read a few chapters of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home (Valencia St Apartment)"
+                    }
+                ],
+                "day_overview": "A busy day for a retail manager, blending a fast-paced work life in the Financial District with the vibrant, local culture of her Mission District home, facilitated by a zippy electric scooter commute.",
+                "home_address": "2144 Valencia St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7555179,
+                    "lng": -122.421,
+                    "formatted_address": "2144 Valencia St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

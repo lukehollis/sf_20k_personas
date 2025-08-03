@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Sharma",
+    "givenName": "Sarah",
+    "familyName": "Sharma",
+    "jobTitle": "Senior Management Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Spiritual but not religious"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Sharma was forged in the quiet, demanding ambition of a first-generation immigrant household. Raised in the suburbs of Chicago by a software engineer father and a university librarian mother, her path was expected to be one of academic excellence and pragmatic success. She fulfilled this initial promise with an economics degree from Northwestern, but found the theoretical models lacking a crucial variable: the messy, unpredictable nature of people. This curiosity led her to UC Berkeley for a Master\u2019s in Industrial-Organizational Psychology, where she finally found a way to bridge the gap between human behavior and corporate systems.\n\nHer career was a rocket launch. She joined a top-tier consulting firm and quickly became the go-to expert for untangling complex organizational knots at major tech companies. For over a decade, her life was a blur of airports, boardrooms, and hotel rooms. San Francisco was merely her base of operations, a place to repack her suitcase. Her apartment was more a high-end storage unit than a home.\n\nThe turning point was the global shift to remote work. The sudden, forced stillness was jarring. Grounded indefinitely, Sarah\u2019s 0.0-mile commute from her bedroom to her living room desk forced her to actually live in her Hayes Valley apartment. She discovered the morning light hitting the buildings across the street, the name of the barista at her local coffee shop, and the particular peace of a weekday run through Alamo Square Park.\n\nNow, at 39, her routine is grounded. Days are still packed with high-stakes Zoom calls and strategic reports, but they are bracketed by a life lived locally. Her social connections, once scattered across time zones, have solidified into a close-knit circle of friends in the city\u2014her chosen family. Professionally successful, Sarah now feels a new kind of ambition stirring. The consultant who has spent her career advising others on how to build better companies now dreams of building something of her own, something with lasting impact beyond a slide deck. She is beginning to wonder if the next great project is not a corporate restructuring, but the careful, deliberate construction of her own future in the city that finally became her home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers closing the biggest deal of her career in a Tokyo high-rise, age 34. The celebratory email pinged on her phone as she stared out at the sprawling city lights, utterly alone. The professional triumph felt immediate but hollow, like a beautifully rendered chart with no real-world data. It was the first time she realized that success didn\u2019t fill a room; it simply echoed in an empty one. This memory became her private benchmark for hollow achievement.\n\n2.\nIt was the first Monday of the lockdown in March 2020. Her 5 a.m. alarm, usually for a flight to Seattle, went off. The ensuing silence was deafening. There was no suitcase, no Uber, no airport lounge. Just her, her laptop, and the unfamiliar expanse of a full day in her own apartment. The forced stillness felt less like peace and more like a system crash, rebooting her entire operating system from a life of motion to one of mandatory presence.\n\n3.\nAbout six months into her grounded life, age 37, she walked into her corner coffee shop. The barista looked up and said, \u201cMorning, Sarah. The usual?\u201d The simple act of being known, of having a \u201cusual,\u201d struck her with unexpected force. After years of anonymous transactions in airport terminals, this small recognition felt more significant than any boardroom applause. It was the first, fragile thread of connection to the fabric of her own neighborhood, a place she was finally inhabiting.\n\n4.\nLast Thanksgiving, at 38, she hosted a small gathering in her apartment. Her friends\u2014a mix from a running club and a neighbor\u2019s book group\u2014filled the space with laughter and the smell of roasting turkey. She looked at these faces, her chosen family, and felt a profound, quiet joy. Her apartment, once a mere waypoint, finally felt like a home, its purpose redefined not by its location but by the people who filled it. This was the structure she had unknowingly been building.\n\n5.\nOn a recent foggy morning, age 39, she took a pause during her run at the top of Alamo Square Park. Gazing down at the city, she saw it not as a collection of potential clients, but as a community. The thought crystallized with piercing clarity: all her skills in building better systems for others could be used to build something for herself, right here. It was a shift from advising to creating, the quiet, thrilling decision to build a legacy beyond a final report."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, meditation app, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7542865,
+                            "lng": -122.4809768,
+                            "formatted_address": "1600 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home at 1600 Noriega St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brisk walk to grab a quick coffee and pastry before the long commute.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Andytown Coffee Roasters"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the long commute walk, listening to industry podcasts and taking a pre-meeting call.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 100,
+                        "location": "Walking through Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Arrive at the office, freshen up, and lead the daily stand-up with her project team.",
+                        "geocode": {
+                            "lat": 37.7948429,
+                            "lng": -122.3984798,
+                            "formatted_address": "2 Embarcadero Ctr, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "One Embarcadero Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead a high-level strategy session with a key tech client via video conference.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Conference Room 'Alcatraz', One Embarcadero Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy grain bowl for a quick working lunch at her desk.",
+                        "geocode": {
+                            "lat": 37.7937236,
+                            "lng": -122.3978634,
+                            "formatted_address": "100 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt at Embarcadero Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focused work block: Analyzing client data and building the core of a presentation deck.",
+                        "geocode": {
+                            "lat": 37.7946507,
+                            "lng": -122.3998262,
+                            "formatted_address": "One Embarcadero Center, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 150,
+                        "location": "Her desk at One Embarcadero Center"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Final email sweep and create a prioritized task list for the next day.",
+                        "geocode": {
+                            "lat": 37.7948429,
+                            "lng": -122.3984798,
+                            "formatted_address": "2 Embarcadero Ctr, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "One Embarcadero Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commence the walk home, switching from podcasts to a music playlist to decompress.",
+                        "geocode": {
+                            "lat": 37.7729862,
+                            "lng": -122.4459943,
+                            "formatted_address": "Panhandle, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 100,
+                        "location": "Walking down The Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7528602,
+                            "lng": -122.5035591,
+                            "formatted_address": "3701 Noriega St Unit A, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market on Noriega"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner and share highlights of the day with her partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch with her partner, watching a new documentary.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Lay out clothes for tomorrow, read a novel, and wind down for sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A demanding day for a Senior Management Consultant, balancing high-stakes client work in the Financial District with a significant walking commute from her home in the Outer Sunset, ending with quality time with her partner.",
+                "home_address": "1600 Noriega St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7542865,
+                    "lng": -122.4809768,
+                    "formatted_address": "1600 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anya Cohen",
+    "givenName": "Anya",
+    "familyName": "Cohen",
+    "jobTitle": "Healthcare Support Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anya Cohen\u2019s story began not amidst the fog of San Francisco, but under the relentless sun of California\u2019s Central Valley. Raised in a small, pragmatic town outside Fresno, her upbringing was stable but lacked inspiration. Her parents, a hardware store manager and a bookkeeper, valued practicality over passion, gently nudging her towards a sensible degree at the local state college. Anya complied, enrolling in a communications program that felt as flat and colorless as the dusty landscape around her. She was adrift, attending classes without connection and working part-time at a diner.\n\nThe turning point came during her sophomore year when her grandmother\u2019s health rapidly declined. Anya left school to become her primary caregiver. In the quiet, challenging months that followed, she discovered a profound sense of purpose she\u2019d never found in a textbook. She learned the rhythms of care: the gentle patience required for morning routines, the quiet companionship of late afternoons, and the strength needed to manage difficult days. After her grandmother passed, returning to her old life was impossible. The calling was too clear.\n\nAnya found a job online that seemed tailor-made for her: a live-in healthcare support worker at a small residential care home in San Francisco\u2019s Outer Richmond district. The 0.0-mile commute was a key feature; her small, simple room was just down the hall from the residents she cared for. Now, at 24, her life is a cycle of compassion and responsibility. Her days are structured around the needs of her six elderly residents\u2014administering medication, preparing meals, and, most importantly, offering a consistent, warm presence. She has formed a particularly strong bond with a retired professor named Mr. Chen, who encourages her ambitions.\n\nHer connection to San Francisco is intimate and hyper-local. It\u2019s not about trendy bars or tourist landmarks, but foggy morning walks along Ocean Beach and quiet afternoons reading in Golden Gate Park on her day off. Her social life is small but deep, centered on a fellow caregiver she met in a certification class. Though her family doesn't fully understand her path, Anya feels more grounded than ever. Her dream is to become a registered nurse. She\u2019s slowly saving money and taking online prerequisites through City College, determined to turn her calling into a lifelong career."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check phone notifications, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Quick morning jog through the quiet neighborhood streets.",
+                        "geocode": {
+                            "lat": 37.7813755,
+                            "lng": -122.4438879,
+                            "formatted_address": "Anza Vista, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Anza Vista Neighborhood Loop"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and have a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, navigating traffic on Van Ness Avenue.",
+                        "geocode": {
+                            "lat": 37.7769306,
+                            "lng": -122.4177367,
+                            "formatted_address": "1390 Market St UNIT 107, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Streets & Fox Plaza Garage"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Settle in at her dedicated desk, grab a complimentary coffee, and triage the patient support email inbox.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 45,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Handle incoming patient calls, schedule telehealth appointments, and answer insurance queries.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 150,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a build-your-own salad bowl for lunch.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Market Street Greens"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Enter patient data from morning calls into the healthcare CRM system and send follow-up emails.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 120,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Join the daily virtual team huddle via Zoom from a private phone booth.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 45,
+                        "location": "Anchor Coworking Phone Booth"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, taking Divisadero to avoid the worst of the freeway-bound traffic.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Divisadero Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly grocery essentials and something for dinner.",
+                        "geocode": {
+                            "lat": 37.7833698,
+                            "lng": -122.4478739,
+                            "formatted_address": "3 Masonic Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 35,
+                        "location": "Trader Joe's on Masonic"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Unpack groceries, cook a simple pasta dinner, and eat while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83e\uddcb",
+                        "action": "Meet a friend for boba tea and a catch-up chat.",
+                        "geocode": {
+                            "lat": 37.7836663,
+                            "lng": -122.4326643,
+                            "formatted_address": "1522 Fillmore St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 90,
+                        "location": "Boba Guys on Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down on the couch, watching an episode of a new streaming series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Get ready for bed, lay out clothes for tomorrow, and read a few pages of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A busy weekday for Anya, balancing her healthcare support role at a Mid-Market coworking space with a morning run, essential errands, and a relaxing evening boba with a friend in her neighborhood.",
+                "home_address": "2778 Bush St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7859925,
+                    "lng": -122.4429443,
+                    "formatted_address": "2778 Bush St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Cohen Family"
+    }
+}

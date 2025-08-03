@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Senior Project Manager, Technology Consulting",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s story is one of quiet, deliberate reinvention. Raised in the academic haven of Ann Arbor, Michigan, the only child of two university professors, her childhood was a world of library stacks and intellectual curiosity. It seemed a natural path for her to pursue a Master of Library and Information Science, envisioning a future curating collections and guiding research. She began her career doing just that, managing the digital archives for a university library in the mid-1990s.\n\nThe key turning point came during the first dot-com boom. A friend, working for a burgeoning startup in San Francisco, saw that Sarah\u2019s skills in organizing vast, complex systems of information were perfectly suited for the chaos of tech. Lured by the energy and the promise of building the future, she moved west in 1998. She thrived, translating her librarian\u2019s logic into project management, successfully navigating the boom, the bust, and the subsequent waves of innovation. She became a veteran, respected for her calm competence in a field defined by frantic urgency.\n\nNow 51, Sarah lives a life of curated solitude in her Cole Valley flat. Her 0.0-mile commute takes her from her kitchen to a meticulously organized home office. Her days are a string of video calls, managing global teams and complex consulting projects with a steady hand. An amicable divorce a decade ago left her single but not lonely; her social life is a tight-knit circle of friends from her early days in tech, with whom she shares dinners and hikes.\n\nHer connection to San Francisco is hyperlocal. Without a daily commute, her neighborhood is her world. Mornings often start with a walk up to Tank Hill for its breathtaking views, and she knows the baristas at her local coffee shop by name. Though professionally immersed in the digital realm, she cherishes the tangible: the weight of a physical book, the satisfaction of tending to her small balcony garden, the feel of the fog on her skin. Her aspiration is no longer about climbing the corporate ladder. Instead, she dreams of leveraging her tech sabbatical for a year of slow travel, perhaps working remotely from Lisbon or Kyoto, and eventually finding a way to volunteer her project management skills for a literacy non-profit, bringing her life full circle."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Morning walk along the waterfront for fresh air and to grab a coffee.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and have a quick breakfast while scanning the morning news.",
+                        "geocode": {
+                            "lat": 37.7801494,
+                            "lng": -122.3902901,
+                            "formatted_address": "746 2nd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Condo at 746 2nd St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into home office, review daily calendar and set priorities for the SF State project.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead back-to-back virtual meetings: a daily stand-up with her consulting team and a progress review with SF State stakeholders.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Virtual Meeting (Zoom)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep focus time updating project management software and reviewing budget allocation.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to get a healthy lunch bowl to get out of the apartment.",
+                        "geocode": {
+                            "lat": 37.7913266,
+                            "lng": -122.3963941,
+                            "formatted_address": "300 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mendocino Farms"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Review project deliverables and draft proposals for the next phase of the tech implementation.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct one-on-one mentorship sessions with junior members of her project team.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Virtual Meeting (Microsoft Teams)"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0c",
+                        "action": "Log off all systems, clear the desk, and officially end the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Attend a high-intensity group fitness class to de-stress and energize.",
+                        "geocode": {
+                            "lat": 37.7777809,
+                            "lng": -122.3927031,
+                            "formatted_address": "236 King St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 60,
+                        "location": "Barry's SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Cook a healthy dinner and chat about the day with her partner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Kitchen at Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Enjoy dinner and a glass of wine together without screens.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Dining Room at Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch with her partner, watching an episode of a favorite show.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room at Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Bedroom at Home"
+                    }
+                ],
+                "day_overview": "A structured day for a senior tech project manager working from home in SoMa, balancing demanding virtual meetings for an SF State project with personal wellness, local errands, and quality time with her partner.",
+                "home_address": "746 2nd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7801494,
+                    "lng": -122.3902901,
+                    "formatted_address": "746 2nd St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1973",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

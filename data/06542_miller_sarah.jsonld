@@ -1,0 +1,278 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Assistant Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is contained within three hundred square feet and the four blocks of Hayes Valley that surround her apartment. Raised in Fresno, the only child of a mechanic and a waitress, Sarah\u2019s world was one of practicality and hard work. San Francisco, just a few hours away, felt like a different planet\u2014a place of art, ambition, and anonymity she craved. After graduating from community college with an associate\u2019s degree in business administration, a credential chosen for its utility rather than passion, she packed a single suitcase and moved to the city at 21.\n\nRetail was an easy entry point. She started as a cashier at a large chain, but her innate reliability and no-nonsense work ethic saw her quickly promoted. She drifted between different stores until, eight years ago, she landed at a chic, independent home goods boutique in Hayes Valley. The owner, impressed by her quiet competence, eventually offered her the Assistant Manager position and, with it, the small, rent-controlled apartment directly above the shop.\n\nThis became her turning point. The 0.0-mile commute was a blessing in a city of logistical nightmares. Her life became a predictable rhythm: wake to the sound of the street sweeper, walk downstairs to open the store, manage inventory and staff, and lock up before heading back upstairs. Her social life is woven into her work; her closest friends are current and former coworkers. She knows the names of the baristas, the dog walkers, and the neighborhood regulars who treat her as a permanent fixture of the block.\n\nAt 35, Sarah feels a quiet sense of both comfort and stagnation. She loves the curated beauty of her neighborhood but often feels like a custodian of other people's creative lives rather than a participant. Her dream isn\u2019t grand; it\u2019s a simmering desire to reclaim a piece of her own identity. She thinks about taking a long-abandoned ceramics class, finally using the expensive camera she bought years ago, or maybe one day owning a small shop of her very own\u2014one filled not with trendy decor, but with things she, Sarah Miller, genuinely loves."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up & first alarm snooze",
+                        "geocode": {
+                            "lat": 37.7601749,
+                            "lng": -122.4338485,
+                            "formatted_address": "Hartford St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - 1102 Hartford St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and have a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning hygiene routine and get dressed in a smart-casual work outfit.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bathroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the Muni stop to catch the inbound train.",
+                        "geocode": {
+                            "lat": 37.7517645,
+                            "lng": -122.4272724,
+                            "formatted_address": "24th St & Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 10,
+                        "location": "24th St & Church St Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Commute on the J Church line, listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 35,
+                        "location": "SFMTA J Church Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbc",
+                        "action": "Arrive at the store, disarm the alarm, turn on lights, and review the sales from the previous day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Aria Collective Boutique"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the morning team huddle to discuss daily goals and promotions.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Aria Collective Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Manage the sales floor, assist high-value clients, and oversee staff.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Aria Collective Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a lunch break, grabbing a grain bowl.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "sweetgreen (SoMa)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative tasks: draft the next week's schedule and respond to corporate emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Aria Collective Back Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Receive and process a new shipment of inventory, updating stock levels.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Aria Collective Stockroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udc4b",
+                        "action": "Hand over manager duties to the closing lead and clock out.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Aria Collective Boutique"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Commute home on the J Church line, scrolling through social media.",
+                        "geocode": {
+                            "lat": 37.7678965,
+                            "lng": -122.4285879,
+                            "formatted_address": "Church Station, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "SFMTA J Church Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up items for dinner and the next day's lunch.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Whole Foods Market (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet a friend for a happy hour glass of wine and to decompress from the week.",
+                        "geocode": {
+                            "lat": 37.7391015,
+                            "lng": -122.4153969,
+                            "formatted_address": "629 Cortland Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "VinoRosso"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and eat a simple pasta dinner at home.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, streaming a new series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 80,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: pack work bag for tomorrow, skincare, and read a few pages of a book in bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A busy day for an assistant retail manager, balancing opening shift responsibilities in SoMa with errands and a social catch-up back in her Noe Valley neighborhood.",
+                "home_address": "1102 Hartford St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7601749,
+                    "lng": -122.4338485,
+                    "formatted_address": "Hartford St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

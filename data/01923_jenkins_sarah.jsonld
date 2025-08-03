@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jenkins",
+    "givenName": "Sarah",
+    "familyName": "Jenkins",
+    "jobTitle": "Clinical Psychologist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jenkins\u2019s journey to her serene Noe Valley practice began on the flat, expansive plains of rural Ohio. The daughter of a taciturn farmer and a pragmatic schoolteacher, she grew up in a home where emotions were practical matters, to be managed rather than explored. This quiet, emotionally reserved environment sparked her lifelong fascination with the complex inner worlds of others, a curiosity that felt like a secret language she was determined to learn.\n\nShe pursued this language with academic fervor, leaving Ohio for the vibrant intellectual chaos of UC Berkeley, where she earned her Ph.D. in Clinical Psychology. San Francisco, with its embrace of introspection and nonconformity, felt like coming home. Sarah began her career in the demanding environment of a large hospital, but found the impersonal nature of the system draining. The key turning point was her divorce a decade ago. Her ex-husband, a tech executive, lived a life of metrics and forward momentum, a stark contrast to Sarah's focus on healing the past. The separation was an affirmation of her own values and prompted her to build a life on her own terms, starting with a private practice.\n\nToday, Sarah\u2019s life is defined by a deep sense of place, made possible by her 0.0-mile commute. Her practice is run from a soundproofed, light-filled office in her own home. Her days are a steady rhythm: a morning walk for coffee on 24th Street, where she knows the baristas by name, followed by back-to-back telehealth sessions with clients. She finds a profound satisfaction in offering a calm anchor in the turbulent lives of other San Franciscans. Her social life is small but deep, centered on a hiking group that explores Mount Tamalpais on weekends and a long-standing book club.\n\nAt fifty-one, Sarah\u2019s ambitions have shifted from professional achievement to personal legacy. She dreams of writing a book translating complex therapeutic concepts for a lay audience and wants to travel more, not as a tourist, but as a quiet observer. She feels deeply rooted in her corner of the city, finding a metaphor in the way the fog rolls in, obscures the world, and then eventually clears, revealing things as they truly are."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers standing in the barn at twelve, the air thick with the smell of hay and oil. Her father, his knuckles stained with grease, worked silently on the rusty combine. She\u2019d asked if he was sad about the poor harvest. He just tightened a bolt and grunted. In that booming silence, she didn't feel rejected, but profoundly curious. It was the first time she consciously understood that feelings were a hidden landscape, a map she would spend her entire life learning how to read.\n\n2.\nHer first month at Berkeley, she sat alone in a cafe on Telegraph Avenue, just twenty-two. Students at the next table were fiercely debating Freud, their voices rising with passion and vulnerability. In Ohio, this raw display would be an embarrassment; here, it was currency. It was the first time she felt she wasn't trying to decipher a secret language, but was finally in a country where everyone spoke it. A profound, quiet sense of homecoming washed over her, cementing her choice to leave the flat plains behind.\n\n3.\nShe remembers the weightless, almost hollow feeling after signing the final divorce papers at forty-one. Her ex-husband had already moved on, briskly discussing Q3 targets on the phone. Looking out at the city from her temporary apartment, she felt not loss, but a clean slate. It was the terrifying, exhilarating moment she chose her own metric for success: not forward momentum, but the deep, slow work of healing. It was the true beginning of her practice, and of herself.\n\n4.\nThe first morning in her new home office, nine years ago, remains crystalline. The soundproofing was new, the silence a balm after the hospital's constant din. Sunlight streamed through the window, illuminating dust motes in her own sanctuary. She sat in her chair, not yet waiting for a client, simply inhabiting the calm. This, she realized, was the work: not just analyzing, but curating a space safe enough for the fog in someone else\u2019s life to finally clear.\n\n5.\nJust last spring, standing atop Mount Tamalpais with her hiking group. They\u2019d climbed through a thick, disorienting mist, their talk a small comfort in the grey. At the summit, the wind shifted and the marine layer ripped apart like a curtain, revealing the glittering bay below. The shared, quiet gasp of awe, the sudden, sharp clarity\u2014it was everything. It affirmed her life\u2019s rhythm: the patient trust in the process, and the quiet joy of waiting for the view to be revealed."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and practice mindfulness meditation to center herself for the day.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Inner Richmond"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare a simple breakfast of yogurt with granola and a pot of French press coffee.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfb",
+                        "action": "Listen to an NPR podcast while getting ready for the workday.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the Muni 38R Geary Rapid, reading a novel on her Kindle during the ride.",
+                        "geocode": {
+                            "lat": 37.7810006,
+                            "lng": -122.4664412,
+                            "formatted_address": "Geary Blvd & 8th Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni Stop: Geary Blvd & 8th Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at her private office, check emails, and review notes for her morning clients.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 30,
+                        "location": "Mindspace Coworking Private Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct a block of back-to-back telehealth therapy sessions with clients.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Mindspace Coworking Private Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Complete session charting and handle billing inquiries.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 45,
+                        "location": "Mindspace Coworking Private Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Step out to grab a healthy lunch bowl to eat back at her desk.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt - Financial District"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Hold afternoon telehealth sessions, including a consultation call with a psychiatrist.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 180,
+                        "location": "Mindspace Coworking Private Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Wrap up final session notes and organize her schedule for the following day.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 30,
+                        "location": "Mindspace Coworking Private Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home on the Muni, listening to a calming classical music playlist.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Muni 38R Bus"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Stop for fresh bread and a few groceries for dinner.",
+                        "geocode": {
+                            "lat": 37.7827006,
+                            "lng": -122.474388,
+                            "formatted_address": "1408 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 15,
+                        "location": "Breadbelly Bakery"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Take a brisk walk around the neighborhood to stretch her legs and clear her head.",
+                        "geocode": {
+                            "lat": 37.7872822,
+                            "lng": -122.4697225,
+                            "formatted_address": "Mountain Lake Park, 98 Funston Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 40,
+                        "location": "Mountain Lake Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook a salmon and roasted vegetable dinner while chatting with her partner about their day.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching an episode of a British crime drama.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Wind down with a cup of herbal tea and light reading before bed.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Inner Richmond"
+                    }
+                ],
+                "day_overview": "A structured day for a clinical psychologist, balancing demanding client work in a downtown coworking space with decompression and neighborhood activities in her home base of the Inner Richmond.",
+                "home_address": "1041 Clement St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7826835,
+                    "lng": -122.4703902,
+                    "formatted_address": "1041 Clement St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1973",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jenkins Family"
+    }
+}

@@ -1,0 +1,300 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Tanaka",
+    "givenName": "David",
+    "familyName": "Tanaka",
+    "jobTitle": "Licensed Clinical Psychologist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Tanaka\u2019s life is a study in quiet observation, a trait cultivated in the suburban landscapes of Cupertino. As a third-generation Japanese American, he grew up in a household where love was expressed through action, not words, and the unspoken history of his grandparents' internment during WWII was a silent, formative presence. This environment, rich with emotional subtext, sparked his fascination with the human mind and what lies beneath the surface of daily life.\n\nInitially pushed toward a more traditional career, David chose psychology, earning his undergraduate degree at UC Berkeley before completing a Doctorate in Psychology (Psy.D.). His early career was a trial by fire in community mental health clinics in San Francisco\u2019s Tenderloin, where he confronted the acute traumas of the city\u2019s most vulnerable residents. While rewarding, the work led to profound burnout. The turning point came a decade ago when he realized he could provide deeper, more sustained care\u2014and reclaim his own well-being\u2014by going into private practice.\n\nToday, David lives and works out of his meticulously kept Noe Valley Edwardian flat. His 0.0-mile commute takes him from his kitchen to a soundproofed home office. His days are structured with intention: a morning walk to a local caf\u00e9 on 24th Street for an Americano, a block of telehealth sessions with clients, and an afternoon break for reading or tending to his small collection of bonsai trees. Now 47 and single after a long-term relationship ended in his early forties, his social life is small but deep, centered on a handful of trusted friends.\n\nDavid\u2019s connection to San Francisco is intimate; he appreciates the city\u2019s tolerance for introspection and its neighborhood-centric living. His future aspirations are not grand but focused. He hopes to write a paper on intergenerational trauma within the Asian diaspora and plans a trip to Japan, not as a tourist, but as a descendant seeking to understand the cultural roots of his own quietude. David Tanaka is a man who has built a life, and a career, around helping others navigate their inner worlds, all while carefully curating his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2642\ufe0f",
+                        "action": "Wake up and guided meditation using a mindfulness app.",
+                        "geocode": {
+                            "lat": 37.7894588,
+                            "lng": -122.4219106,
+                            "formatted_address": "Pine St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home on Pine St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a simple breakfast of oatmeal with fruit while reading the news.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Review patient files and plan the day's session goals.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Morning commute to SoMa, taking the mostly downhill route via Polk and 11th St.",
+                        "geocode": {
+                            "lat": 37.7509106,
+                            "lng": -122.4139541,
+                            "formatted_address": "25th St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF Bike Route 25"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Arrive at work, park bike, and grab an espresso to start the day.",
+                        "geocode": {
+                            "lat": 37.7770356,
+                            "lng": -122.4084543,
+                            "formatted_address": "270 7th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Sightglass Coffee on 7th St"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "First therapy session of the day with a long-term patient.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "Private Practice Office at Upside Artspace"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Write up clinical progress notes and return an urgent email.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Private Practice Office at Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Conduct a telehealth video session with a patient.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "Private Practice Office at Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a quick, healthy lunch bowl.",
+                        "geocode": {
+                            "lat": 37.7868407,
+                            "lng": -122.3986177,
+                            "formatted_address": "186 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "SoMa Eats Cafe"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Afternoon therapy session focusing on cognitive behavioral therapy techniques.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "Private Practice Office at Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Peer consultation call with a colleague to discuss professional development.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Private Practice Office at Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Finalize all session notes, process billing, and tidy the office.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Private Practice Office at Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5\u200d\u2642\ufe0f",
+                        "action": "Commute home, taking the steady uphill climb back to Pacific Heights.",
+                        "geocode": {
+                            "lat": 37.7753714,
+                            "lng": -122.4378401,
+                            "formatted_address": "Divisadero St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "The Wiggle & Divisadero St"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the neighborhood market for fresh produce and fish for dinner.",
+                        "geocode": {
+                            "lat": 37.7864721,
+                            "lng": -122.450843,
+                            "formatted_address": "3445 California St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bryan's Grocery"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Post-commute shower and change into comfortable clothes.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Bathroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc66",
+                        "action": "Weekly video call with his aging father who lives out of state.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare and cook a healthy dinner while listening to a history podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Eat dinner and decompress from the day.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax by reading a novel from a local bookstore.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening wind-down routine, including light stretching and preparing for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A structured day for a clinical psychologist, balancing patient care in a SoMa art space with an active bicycle commute, home life in Pacific Heights, and a consistent connection with his family.",
+                "home_address": "2278 Pine St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7881781,
+                    "lng": -122.4333969,
+                    "formatted_address": "2278 Pine St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

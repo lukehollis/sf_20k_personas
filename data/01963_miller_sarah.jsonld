@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Senior Operations Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Spiritual but not religious"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts and Culture Patron"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a masterclass in quiet adaptation. Raised in a placid suburb of Columbus, Ohio, by a high school history teacher and a dental hygienist, her world was one of structured predictability. She was the child who organized the family bookshelves by genre and then alphabetically, finding deep satisfaction in creating order from chaos. This innate talent led her not to business, but to a Master's in Library and Information Science.\n\nIn 1999, with the first dot-com boom raging, Sarah saw an opportunity. While her peers were cataloging university archives, she realized the burgeoning internet was the world's largest, most disorganized library. She moved to San Francisco, taking a job with an early search-engine startup not as a coder, but as an \"information architect.\" Her job was to make the digital world navigable. It was the perfect bridge from her old-world training to the new tech frontier.\n\nHer career flourished as she moved from organizing data to organizing people and processes, eventually landing as a Senior Operations Manager. Along the way, she navigated a significant relationship that spanned her thirties, ending amicably but cementing in her a profound sense of self-reliance.\n\nNow, at 51, her world is her quiet, airy apartment in Cole Valley. Her 0.0-mile commute means her days are a disciplined rhythm of solitude and hyper-connectivity. She begins each morning with a foggy walk through Golden Gate Park, coffee from a local cafe in hand, before settling in for hours of Zoom calls managing teams across multiple time zones.\n\nHer connection to San Francisco has shifted from the frantic energy of downtown to the subtle charms of her neighborhood. Her social life is intentional: a weekly hiking group that tackles trails on Mount Tam, a long-standing book club of women from different professions, and a cherished friendship with the owner of her neighborhood corner store. Sarah no longer dreams of a bigger title. Instead, she aspires to distill her life, perhaps transitioning to consulting to free up time for international travel. Her ultimate dream is a quiet one: to one day use her savings to open a small, curated bookstore, bringing her story full circle, back to the simple joy of a well-organized shelf."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe still feels the hum of the server room from that first day at the startup in 1999. While engineers talked about code, Sarah saw a library shattered into a billion pieces. A feeling of profound, electric purpose hit her: this was the chaos she was born to catalog. It wasn't about technology; it was about taming it. In that moment, she knew her old-world training had a place on this new frontier, and San Francisco became her city.\n\n***\n\n2.\nAt thirty-eight, she remembers the stillness of their apartment after he left for the last time. It wasn't a bitter end, but the silence felt absolute. Standing by the window, watching the Mission bustle below, she didn't feel broken, but forged. An immense, quiet wave of self-reliance washed over her. It was a lonely feeling, but also one of radical strength. From that day on, she knew her own company was enough to make a home.\n\n***\n\n3.\nOne morning in her mid-forties, walking through the eucalyptus grove in Golden Gate Park, the fog was so thick it muted the world. The frantic energy of her downtown career felt like a lifetime away. She breathed in the damp, earthy air and felt a deep sense of peace settle in her bones. This\u2014the quiet rhythm of the neighborhood, the restorative power of the park\u2014was her San Francisco now. It was a city she no longer needed to conquer, but simply inhabit.\n\n***\n\n4.\nDuring a book club meeting five years ago, the discussion on a novel about female friendship suddenly turned personal. A member tearfully shared a private struggle, and the literary analysis instantly melted away into a raw, unwavering circle of support. Sarah felt a profound sense of gratitude. These women, this intentional community she had cultivated over years, was the most important system she had ever helped to organize\u2014a framework not for data, but for life itself.\n\n***\n\n5.\nJust last year, on a walk through Cole Valley, she saw a \"For Lease\" sign in the window of a dusty, sunlit storefront. She stopped, her heart giving a sudden lurch. In her mind, she could smell the paper, see the curated shelves, and hear the small bell on the door. The vague dream of a bookstore crystallized into a tangible plan. It was the moment her future became clear: a return to her first love, the perfect, final act of organizing."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, brief stretching, and mindfulness meditation to start the day centered.",
+                        "geocode": {
+                            "lat": 37.7538284,
+                            "lng": -122.490926,
+                            "formatted_address": "2524 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home at 2524 Noriega St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a pour-over coffee and review personal emails and daily news briefs.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed in business casual attire, and prepare work bag.",
+                        "geocode": {
+                            "lat": 37.7538284,
+                            "lng": -122.490926,
+                            "formatted_address": "2524 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home at 2524 Noriega St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across the city, listening to an NPR 'Up First' podcast to catch up on world events.",
+                        "geocode": {
+                            "lat": 29.6337184,
+                            "lng": -83.12325779999999,
+                            "formatted_address": "Cross City, FL 32628, USA"
+                        },
+                        "duration": 55,
+                        "location": "Cross-City Commute via Sunset Blvd & 19th Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the co-working space, find a hot desk with a good view, and set up laptop and monitors for the day.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 15,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the daily operations stand-up meeting, reviewing team KPIs and addressing any immediate blockers.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "AvantSpace Conference Room 'The Fog'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Focus block: Analyze logistics data and draft the quarterly operational efficiency report.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a nearby cafe for a healthy grain bowl and to mentally reset away from the desk.",
+                        "geocode": {
+                            "lat": 37.8004125,
+                            "lng": -122.4404725,
+                            "formatted_address": "2250 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Grove - Marina"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct back-to-back 1-on-1 meetings with direct reports to discuss project progress and career development.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "AvantSpace Breakout Pods"
+                    },
+                    {
+                        "emoji": "\ud83d\udda5\ufe0f",
+                        "action": "Join a video conference with the executive team to present on Q3 scaling strategy and resource allocation.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 75,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final emails, organize to-do list for tomorrow, and pack up.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 25,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Navigate evening traffic on the drive home, switching to a classic rock station to decompress.",
+                        "geocode": {
+                            "lat": 37.7992002,
+                            "lng": -122.4526262,
+                            "formatted_address": "Presidio Blvd & Lincoln Blvd, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 65,
+                        "location": "Evening Traffic Traverse via Presidio & Lincoln Way"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Change into comfortable clothes and take a brisk walk along the beach to clear her head and enjoy the salty air.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Prepare a simple dinner of grilled salmon and roasted vegetables while on a catch-up call with her sister.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while watching an episode of a new drama series.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home living room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel, prepping coffee for the morning, and tidying up the kitchen.",
+                        "geocode": {
+                            "lat": 37.7538284,
+                            "lng": -122.490926,
+                            "formatted_address": "2524 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home at 2524 Noriega St"
+                    }
+                ],
+                "day_overview": "A demanding workday for a Senior Operations Manager, involving a significant cross-city commute, high-stakes meetings, and focused strategic planning, balanced by a rejuvenating evening walk along Ocean Beach and quiet time at her Outer Sunset home.",
+                "home_address": "2524 Noriega St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7538284,
+                    "lng": -122.490926,
+                    "formatted_address": "2524 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1973",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

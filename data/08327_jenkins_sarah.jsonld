@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jenkins",
+    "givenName": "Sarah",
+    "familyName": "Jenkins",
+    "jobTitle": "Medical Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jenkins\u2019 story is one of quiet rebellion, a gentle departure from the path laid for her in suburban Ohio. Raised by a teacher and an accountant, her upbringing was stable, loving, and deeply practical. She was expected to follow suit, and for a while, she did. She enrolled at Ohio State, dutifully pursuing a business degree she felt no connection to, the fluorescent lights of the lecture hall feeling more like a life sentence than an opportunity.\n\nThe turning point came during her sophomore year. Her younger brother faced a sudden, serious health crisis, and Sarah spent weeks navigating the sterile corridors of the local hospital. It was there, amidst the beeping machines and the calm efficiency of the medical staff, that she found her purpose. She saw the profound impact of the medical assistants\u2014the ones who took vitals, calmed nerves, and acted as the compassionate glue of the care team. She dropped out of her business program, enrolled in a medical assistant certification course, and never looked back.\n\nFeeling stifled in her hometown, Sarah took a leap of faith at 25, moving to San Francisco where a high school friend offered a couch and a sliver of hope. After months of temping, she landed a full-time position as a Medical Assistant at a private clinic integrated into a large, modern apartment complex in Hayes Valley. This led to her unique living situation: her commute is a 30-second elevator ride from her fifth-floor studio to the ground-floor clinic.\n\nNow 31, Sarah\u2019s life is a study in controlled simplicity. Her days are structured and predictable: she preps exam rooms, assists with minor procedures, and offers a steadying presence to anxious patients. Her world is a self-contained ecosystem. After work, she walks through her neighborhood, appreciating the Patricia's Green art installations or grabbing soup from a local spot. She maintains a small, tight-knit circle of friends, preferring quiet wine nights to loud bars.\n\nWhile she values her stability, Sarah dreams of more. She saves diligently, hoping to one day re-enroll in college part-time to become a Registered Nurse. Her biggest aspiration is to buy a small condo of her own, a place completely separate from her work. For Sarah, San Francisco isn't about hustle or glamour; it\u2019s the city that allowed her to build a life on her own terms, one she finds quiet, meaningful purpose in, just an elevator ride away."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check phone notifications, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Quick jog through the neighborhood, heading towards Golden Gate Park.",
+                        "geocode": {
+                            "lat": 37.7590135,
+                            "lng": -122.4955623,
+                            "formatted_address": "Outer Sunset, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Outer Sunset Neighborhood"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in scrubs, and do a quick skincare/makeup routine.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make coffee and toast with avocado. Pack a salad and snacks for lunch.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Start the long cross-city commute, listening to a true-crime podcast.",
+                        "geocode": {
+                            "lat": 37.787552,
+                            "lng": -122.4066183,
+                            "formatted_address": "Union Square, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Lincoln Way to Downtown Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Park in the monthly spot at the office building's designated garage.",
+                        "geocode": {
+                            "lat": 37.7945968,
+                            "lng": -122.3965369,
+                            "formatted_address": "Embarcadero Ctr, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Embarcadero Center Parking Garage"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Morning shift: Conduct employee health screenings, administer vitals, and manage the clinic's appointment calendar.",
+                        "geocode": {
+                            "lat": 37.7987105,
+                            "lng": -122.3992337,
+                            "formatted_address": "75 Broadway #111, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 240,
+                        "location": "Landmark Corp In-House Clinic"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Eat packed lunch at the small Salesforce Park and grab a fresh-pressed juice.",
+                        "geocode": {
+                            "lat": 37.7897395,
+                            "lng": -122.3961656,
+                            "formatted_address": "Salesforce Park, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Salesforce Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon shift: Respond to non-urgent employee health emails, restock medical supplies, and prepare for the next day's wellness event.",
+                        "geocode": {
+                            "lat": 37.7987105,
+                            "lng": -122.3992337,
+                            "formatted_address": "75 Broadway #111, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 210,
+                        "location": "Landmark Corp In-House Clinic"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, navigating the evening rush hour traffic out of the Financial District.",
+                        "geocode": {
+                            "lat": 37.7473461,
+                            "lng": -122.4947458,
+                            "formatted_address": "Sunset Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 65,
+                        "location": "Fell St to Sunset Boulevard"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up items for dinner and the next few days.",
+                        "geocode": {
+                            "lat": 37.754172,
+                            "lng": -122.4888173,
+                            "formatted_address": "2350 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Safeway on Noriega & 26th"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple dinner like salmon with roasted vegetables and unwind from the day.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Apartment on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, stream a new episode of a favorite show, and text with a friend to make weekend plans.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: light tidying up, pack work bag, and read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Apartment on Irving St"
+                    }
+                ],
+                "day_overview": "A busy weekday for Sarah, a Medical Assistant, balancing a long commute from the Outer Sunset to her corporate job in the Financial District with personal time for exercise, errands, and relaxation at home.",
+                "home_address": "2023 Irving St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7632423,
+                    "lng": -122.479746,
+                    "formatted_address": "2023 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jenkins Family"
+    }
+}

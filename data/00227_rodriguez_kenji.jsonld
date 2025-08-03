@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Rodriguez",
+    "givenName": "Kenji",
+    "familyName": "Rodriguez",
+    "jobTitle": "Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Rodriguez, 27, was raised in a bustling Daly City household, the only son of Filipino immigrant parents who ran a successful small business. His mother, a former accountant, meticulously managed the finances, while his father, a skilled craftsman, poured his energy into the product. From a young age, Kenji observed the constant balancing act of inventory, customer demand, and operational efficiency \u2013 lessons that unknowingly sowed the seeds for his future career.\n\nHe excelled academically, his analytical mind drawn to patterns and problem-solving. A scholarship to UC Berkeley for Operations Research was a pivotal moment, validating his aptitude and providing access to a world of complex data and optimization. He thrived in the rigorous program, finding intellectual stimulation in translating real-world problems into mathematical models. His internships with Bay Area tech startups solidified his desire to apply his skills in a practical, impact-driven setting.\n\nUpon graduating with a Master's, Kenji landed a Data Scientist role at a prominent professional services firm in the Financial District. The initial years were a steep learning curve, navigating corporate structures and collaborating with diverse teams. A key turning point came during a project optimizing logistics for a major client; his innovative approach led to significant cost savings and earned him recognition within the company. This success fueled his ambition and solidified his path.\n\nOutside of work, Kenji is a creature of habit. His 2.5-mile bike commute from his Inner Sunset apartment is a cherished ritual, a chance to clear his head and experience the city's energy. He\u2019s not one for large social gatherings, preferring intimate dinners with a small circle of close friends he met through school and work \u2013 a mix of fellow data enthusiasts and creatives. He maintains weekly calls with his parents, still offering informal business advice.\n\nKenji\u2019s current focus is on professional growth, aiming to lead a team and tackle even more challenging data problems. He dreams of applying his skills to more socially impactful projects in the future, perhaps in urban planning or environmental conservation. San Francisco, with its blend of technological innovation and progressive values, feels like the right place to achieve these aspirations. Living in the Inner Sunset, with its mix of quiet residential streets and vibrant commercial hubs, provides a sense of community and convenient access to both work and nature, perfectly suiting his pragmatic yet thoughtful lifestyle."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1. The smell of drying garlic and the clatter of coins.  He was maybe seven, perched on a stool in his parents\u2019 small storefront, watching his mom count the day's earnings with practiced speed. Seeing the small victory in her tired smile, a raw understanding of dedication settling in his gut.  It solidified the value of hard work and the quiet triumph of a day's labor.\n\n2. That intense focus in the UC Berkeley library, late at night, as a complex algorithm finally clicked into place on his screen. The surge of intellectual exhilaration, a silent roar of \"I got this.\" It was the moment he knew his analytical mind wasn't just useful, it was powerful, confirming his academic path.\n\n3. Explaining the optimization model to the logistics team \u2013 a room full of skeptical faces \u2013 and seeing their expressions slowly shift to understanding, then to relief. That first tangible impact of his work, feeling the weight of real-world results. It ignited a quiet confidence, knowing he could translate complex ideas into practical solutions.\n\n4. The feeling of the cool San Francisco air hitting his face on his bike commute, the gentle slope of Golden Gate Park unfurling before him. A sense of peace settling in, the city's energy a constant, grounding rhythm. This simple ritual became a vital space for reflection and centering amidst the demands of his burgeoning career.\n\n5. A shared silence with a friend over a simple, home-cooked meal in his Inner Sunset apartment, talking about a challenging data project and the future. The comfortable ease of true connection, a reminder that even in his focused ambitions, the simple foundation of genuine friendship is essential. It reinforced the value of his small, trusted circle."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf1e",
+                        "action": "Wake up, check notifications, and do a quick 15-minute stretch to get the day started.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Morning workout: Follow a 30-minute HIIT routine on a fitness app in the living room.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for the office, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make breakfast (avocado toast) and brew a coffee with an AeroPress while listening to a daily news podcast.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to the Financial District, navigating traffic on Cesar Chavez St and the I-280 N.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "The Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office, grab more coffee, triage emails, and review the project board for today's tasks.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Innovate AI Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Querying databases and cleaning data sets for a new churn prediction model.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Innovate AI Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab lunch with coworkers, walking to a nearby healthy spot to get away from the desk.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon work block: Attend a project sync meeting with product managers, then continue model feature engineering.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Innovate AI Headquarters"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Drive home from the Financial District, contending with the evening rush hour traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Commute"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Meet up with friends for a bouldering session to de-stress and exercise.",
+                        "geocode": {
+                            "lat": 37.75670119999999,
+                            "lng": -122.3877444,
+                            "formatted_address": "2573 3rd St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Dogpatch Boulders"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up groceries for the next couple of days at a local market near home.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook and eat a simple dinner while catching up with his roommate.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Potrero Hill Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, have a FaceTime call with his family, and watch an episode of a show.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Potrero Hill Apartment"
+                    }
+                ],
+                "day_overview": "A busy and productive weekday for Kenji, a data scientist balancing focused work in the Financial District, a frustrating commute by car, and an active social life with a bouldering session in the evening.",
+                "home_address": "1702 24th St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7531542,
+                    "lng": -122.40658,
+                    "formatted_address": "1702 24th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

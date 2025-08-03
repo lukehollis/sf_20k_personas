@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Environmental Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Environmental Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s environmentalism was born in the damp, mossy forests of central Oregon. Raised by a pragmatic forester father and a book-loving schoolteacher mother, she grew up understanding the delicate balance between human industry and natural preservation. Her childhood was spent hiking trails in the Cascades, where her father taught her to identify trees and her mother encouraged her to document the changing seasons in a journal. This dual influence fostered both a scientific curiosity and a deep-seated reverence for the wild.\n\nHer path seemed pre-written. She attended the University of Oregon for her undergraduate degree in Environmental Science, but it was a graduate program in Environmental Policy and Management at a prestigious East Coast university that truly shaped her. There, a pivotal internship with a federal agency exposed her to the frustrating gap between well-meaning policy and on-the-ground reality. A fight over wetland preservation, mired in bureaucracy, crystallized her ambition: she wouldn't just be a researcher; she would be a problem-solver who bridged that gap.\n\nThis ambition led her to San Francisco, a city at the forefront of environmental innovation and regulation. She landed a position as an Environmental Consultant, and for the past four years, her \"commute\" has been the few steps from her bedroom to her desk. Living in a classic bay-window apartment in the Inner Sunset, she\u2019s made her home her office. Her days are a mix of intense data analysis, virtual meetings with developers, and writing environmental impact reports that can make or break a construction project.\n\nHer life is woven into the neighborhood. Mornings begin with a run through Golden Gate Park, its eucalyptus groves a comforting echo of her Oregon home. She knows the baristas at the local coffee shop by name and spends weekends hiking in Marin with her partner, Alex, a rock-climbing instructor she met through a climate action volunteer group.\n\nAt 29, Sarah feels a sense of settled purpose but is far from complacent. Her dream is to move from advising on projects to leading them, shaping San Francisco\u2019s urban landscape to be more resilient and sustainable. She envisions a future where her reports aren\u2019t just hurdles for builders to clear, but blueprints for a greener, more integrated city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and check phone notifications.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning hygiene routine: shower, skincare, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make a quick breakfast of avocado toast and coffee while listening to a news podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive the short distance to work and navigate the tight hospital parking garage.",
+                        "geocode": {
+                            "lat": 37.7246694,
+                            "lng": -122.4809016,
+                            "formatted_address": "San Francisco State University, Parking Garage, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 15,
+                        "location": "Hospital Staff Parking Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning computer work: respond to emails and analyze the previous day's medical waste disposal logs for compliance.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Environmental Services Office, ZSFG"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Conduct a scheduled environmental audit and site walk-through of the surgical wing.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Zuckerberg San Francisco General Hospital"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick poke bowl for lunch and eat outside to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Potrero Hill Eats"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Write a progress report on the hospital's water usage reduction initiative.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Environmental Services Office, ZSFG"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Attend a 'Green Team' meeting with department heads to plan the upcoming Earth Day awareness campaign.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "ZSFG Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive home from the hospital, navigating the evening traffic on Potrero Ave.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Commute through Mission/Potrero"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Change into workout clothes and go for a run up to the top of Bernal Hill to catch the sunset.",
+                        "geocode": {
+                            "lat": 37.7430272,
+                            "lng": -122.4136408,
+                            "formatted_address": "Bernal Heights Park, Bernal Heights Blvd, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Bernal Heights Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Call family for a weekly check-in while preparing for the evening.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Meet a friend for dinner and catching up over Burmese food.",
+                        "geocode": {
+                            "lat": 37.7696277,
+                            "lng": -122.4221285,
+                            "formatted_address": "211 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Burma Love on Valencia St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Leisurely walk home, enjoying the vibrant atmosphere of the Mission at night.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Valencia Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind by reading a novel and sipping chamomile tea.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A busy but balanced day for a Mission-based Environmental Consultant, blending focused work on hospital sustainability with a run up Bernal Hill and a social dinner on Valencia Street.",
+                "home_address": "3272 24th St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7524325,
+                    "lng": -122.4178512,
+                    "formatted_address": "3272 24th St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

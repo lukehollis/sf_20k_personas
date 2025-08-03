@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka is a product of Silicon Valley\u2019s quiet suburbs, a third-generation Japanese-American whose childhood in San Jose was defined by his parents\u2019 emphasis on stability and diligence. His father, a stoic accountant, and his mother, a meticulous dental hygienist, instilled in him a deep respect for hard work, a value passed down from grandparents who had rebuilt their lives after internment. In a quiet act of rebellion, Kenji eschewed a practical major and pursued a Bachelor\u2019s in Philosophy at UC Berkeley, losing himself in existential questions and ancient texts.\n\nThe reality after graduation was harsh. Philosophical debates didn\u2019t pay rent, and the pressure to find a \"real job\" mounted. This became Kenji's crucial turning point. Seeing his friends land lucrative tech jobs, he made a pragmatic pivot, enrolling in an intensive data analytics bootcamp. He discovered an unexpected satisfaction in the work, finding elegant patterns and stories within vast, chaotic datasets. It was a different kind of philosophy, one with quantifiable results. He was hired by a major tech firm and quickly proved his worth.\n\nNow 35, Kenji lives a life of ordered solitude in his Inner Richmond apartment. His 0.0-mile commute means his world is often confined to his standing desk and the view of the fog rolling down Clement Street. His daily routine is methodical: a morning walk to a local bakery for coffee, hours spent wrangling data in Python, and an evening run through Golden Gate Park to decompress. His connection to San Francisco is hyperlocal; he knows the best dim sum spots and values the neighborhood's calm over the frantic energy of downtown.\n\nHis social circle is small but tight, consisting of a few friends from his bootcamp days who understand the industry's pressures. He\u2019s financially secure but feels a growing disconnect between his work\u2014optimizing ad clicks\u2014and the philosophical questions that once drove him. Kenji\u2019s quiet dream is to bridge this gap. He aspires to use his data skills for a cause he believes in, perhaps for a climate non-profit or a social justice organization, to find a narrative in the numbers that truly matters."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2642\ufe0f",
+                        "action": "Wake up, check notifications, and practice a 10-minute meditation with a mindfulness app.",
+                        "geocode": {
+                            "lat": 37.7364068,
+                            "lng": -122.4343112,
+                            "formatted_address": "2635 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Get dressed for a run and go for a quick jog around the neighborhood hills.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Noe Valley Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready for the day, and put on a business casual outfit for the office.",
+                        "geocode": {
+                            "lat": 37.7364068,
+                            "lng": -122.4343112,
+                            "formatted_address": "2635 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare a quick breakfast of toast and yogurt, complemented by a home-brewed pourover coffee.",
+                        "geocode": {
+                            "lat": 37.7364068,
+                            "lng": -122.4343112,
+                            "formatted_address": "2635 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from Noe Valley to the Mission District, navigating morning traffic and finding parking.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF Commute Route"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office, run SQL queries to pull weekly performance data, and review initial findings.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 150,
+                        "location": "Doorhaus Workstation"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk with a coworker to grab a carnitas burrito bowl for lunch.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a project sync meeting to present data visualizations on user engagement trends.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Doorhaus 'Valencia' Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Perform a final block of focused work, documenting analysis steps and responding to Slack messages.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 135,
+                        "location": "Doorhaus Workstation"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, listening to a tech podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Commute Route"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up ingredients for dinner and breakfast.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Whole Foods Market Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple dinner of teriyaki salmon with rice and vegetables while listening to music.",
+                        "geocode": {
+                            "lat": 37.7364068,
+                            "lng": -122.4343112,
+                            "formatted_address": "2635 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udfae",
+                        "action": "Log on for a few rounds of an online strategy game with friends.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down by watching an episode of a new sci-fi series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Prepare for bed, tidy up the kitchen, and set out clothes for the next day.",
+                        "geocode": {
+                            "lat": 37.7364068,
+                            "lng": -122.4343112,
+                            "formatted_address": "2635 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured day for Kenji, a data analyst, balancing focused work in the Mission District with an active routine, errands, and relaxation at his Noe Valley home.",
+                "home_address": "2635 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7364068,
+                    "lng": -122.4343112,
+                    "formatted_address": "2635 Diamond St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

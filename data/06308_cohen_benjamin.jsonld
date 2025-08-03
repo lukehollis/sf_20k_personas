@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Benjamin Cohen",
+    "givenName": "Benjamin",
+    "familyName": "Cohen",
+    "jobTitle": "Process Quality Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Benjamin Cohen\u2019s life has been a quiet study in systems, both philosophical and digital. Raised in the intellectually charged suburbs of Newton, Massachusetts, by a librarian mother and an accountant father, Ben\u2019s upbringing was one of quiet order and high expectations. He was expected to follow a traditional path, but he surprised everyone by choosing to study Philosophy at Tufts University. He loved deconstructing complex arguments and finding the logical flaws within them, a skill that felt profound but commercially useless upon graduation.\n\nThe turning point came during a post-college slump. While his peers entered law school or finance, Ben felt adrift. He began teaching himself coding and software quality assurance, discovering that debugging code and refining development pipelines satisfied the same part of his brain that dissecting Kant did. He saw technology not as a series of ones and zeroes, but as a flawed human system in need of optimization. This unique perspective landed him his first tech job in Boston.\n\nYearning for a more dynamic environment, Ben moved to San Francisco three years ago, drawn by the industry\u2019s gravitational pull. He quickly advanced to his current role as a Process Quality Engineer, a title that perfectly marries his philosophical nature with his technical skills.\n\nHis 0.0-mile commute means his apartment in the Mission District is his entire world from 9-to-5. His days are structured: a morning walk to a local cafe for a pour-over, followed by hours of intense focus, scrutinizing workflows for a major tech firm. His connection to San Francisco is hyperlocal; he knows the best taquerias on his block and the quietest corner of Dolores Park for reading on a sunny afternoon.\n\nSocially, Ben cultivates a small, tight-knit circle of friends, mostly met through a rock-climbing gym in Dogpatch. His analytical mind sometimes makes him a challenging partner in dating, as he has a tendency to \"debug\" relationships rather than simply experience them. His greatest aspiration is to find a process for his own life\u2014to build a lasting partnership and eventually use his skills to optimize systems for a social good non-profit. He dreams of a future where life\u2019s beautiful, illogical imperfections feel less like bugs and more like features."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and start the coffee maker.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Bedroom & Kitchen"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Morning Coffee & News: Sips coffee with his partner while scrolling through tech news and personal emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\u27a1\ufe0f",
+                        "action": "Morning Commute: Walks from the living room to the spare bedroom, sets up the laptop and Notion dashboard for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Clearing the Queue: Responds to overnight Slack messages and prioritizes tasks from the Jira board.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office - WFH for LinkedIn"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Agile Stand-up Meeting: Joins a video call with his team to report on process monitoring results and discuss blockers.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office - WFH for LinkedIn"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep Work Block: Analyzes user feedback data, identifying trends and potential process improvements for the engineering team.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office - WFH for LinkedIn"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Lunch Break Walk: Steps out to grab a gourmet sandwich and a sparkling water, enjoying the fresh air.",
+                        "geocode": {
+                            "lat": 37.796454,
+                            "lng": -122.4220698,
+                            "formatted_address": "2139 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Lucinda's Deli & Bagelry"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "1:1 with Manager: Discusses career development goals and progress on quarterly objectives via video call.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office - WFH for LinkedIn"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Documentation & Flowcharts: Updates the internal Confluence page with new Standard Operating Procedures (SOPs) using Lucidchart diagrams.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office - WFH for LinkedIn"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Afternoon Wind-Down: Wraps up final tasks for the day and sends out a summary email of recent data findings.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Office - WFH for LinkedIn"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Evening Commute: Closes the laptop, puts away work materials, and officially ends the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Decompression Run: Goes for a jog to clear his head, running through the Panhandle and looping around Alamo Square Park.",
+                        "geocode": {
+                            "lat": 37.7729862,
+                            "lng": -122.4459943,
+                            "formatted_address": "Panhandle, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cooking Dinner Together: Chops vegetables and prepares a homemade curry with his partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Dinner & Conversation: Eats dinner and catches up on the day's events with his partner, no screens allowed.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax and Unwind: Watches an episode of a new sci-fi series on Netflix.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Evening Routine: Prepares for the next day, does a quick tidy-up, and reads a few chapters of a book before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Process Quality Engineer in NOPA, balancing deep work sessions with a local lunch break, an evening run through the park, and quality time with his partner.",
+                "home_address": "835 Divisadero St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7773369,
+                    "lng": -122.4386106,
+                    "formatted_address": "835 Divisadero St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Cohen Family"
+    }
+}

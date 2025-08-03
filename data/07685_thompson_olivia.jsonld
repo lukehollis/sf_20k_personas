@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Olivia Thompson",
+    "givenName": "Olivia",
+    "familyName": "Thompson",
+    "jobTitle": "Senior Data Scientist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Olivia Thompson\u2019s world was once defined by the damp earth and towering pines of Corvallis, Oregon. Raised by a pragmatic high school math teacher and a meticulous librarian, her childhood was a quiet study in order and logic. She found beauty not in poetry, but in the elegant certainty of geometric proofs and the structured systems of the Dewey Decimal System. This fascination with patterns led her not to pure computer science, but to a graduate degree in Computational Linguistics at Stanford, where she explored the mathematical underpinnings of human language.\n\nThe theoretical purity of academia, however, lost its luster after a pivotal internship at a burgeoning Bay Area startup. The allure of solving tangible problems at scale\u2014and the accompanying financial independence\u2014was too strong to ignore. She made the pragmatic choice, trading university libraries for the fast-paced, data-drenched world of Silicon Valley.\n\nNow 37, Olivia is a Senior Data Scientist at a major tech firm, a respected veteran in her field. Her commute is nonexistent; her spacious Hayes Valley apartment serves as both home and office. Mornings begin not with a drive, but with a run through Alamo Square Park, the iconic Painted Ladies a familiar backdrop to her thoughts. Her days are a cycle of intense focus, manipulating vast datasets to predict user behavior, punctuated by deliberate walks to a local cafe for an oat milk latte\u2014a small ritual to break the digital isolation.\n\nHer social life, like her code, is efficient and well-maintained: a small, tight-knit group of friends from past jobs, a monthly book club that dissects sci-fi, and a string of logical but ultimately unfulfilling relationships. Lately, Olivia has felt a growing dissonance. The algorithms she perfects feel hollow, optimizing for clicks and engagement metrics that seem trivial. Her dream is no longer about a promotion, but about purpose. She aspires to redirect her skills toward a problem with more human weight\u2014climate modeling, public health data, or urban inequality\u2014a way to finally find the signal of a meaningful life within the noise of big data."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, light stretching, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of yogurt and granola; make espresso while listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from North Beach to City College, navigating morning traffic on Van Ness Ave.",
+                        "geocode": {
+                            "lat": 37.7212544,
+                            "lng": -122.3959914,
+                            "formatted_address": "6275 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Olivia's Car"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office, review emails, and query the student database using SQL to pull data for a new retention model.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 120,
+                        "location": "CCSF Institutional Research Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a virtual meeting with the Information Technology Services department to discuss data pipeline improvements.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "CCSF Institutional Research Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to grab a quick banh mi sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7269341,
+                            "lng": -122.4662835,
+                            "formatted_address": "Ocean Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Avenue Sandwiches"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon deep work: Clean and prepare the pulled dataset in a Python notebook, performing exploratory data analysis.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 150,
+                        "location": "CCSF Institutional Research Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Pack up, organize desk for the next day, and walk back to the car.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 15,
+                        "location": "CCSF Institutional Research Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, listening to a true-crime podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7212544,
+                            "lng": -122.3959914,
+                            "formatted_address": "6275 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "Olivia's Car"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick run to pick up fresh produce and essentials for the week.",
+                        "geocode": {
+                            "lat": 37.7906205,
+                            "lng": -122.4180795,
+                            "formatted_address": "1095 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's (Nob Hill)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk run from her apartment towards the Embarcadero to clear her head.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Embarcadero Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Shower and change, then have a scheduled video call with her parents.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Walk to meet a friend for dinner in the neighborhood.",
+                        "geocode": {
+                            "lat": 37.8001849,
+                            "lng": -122.4093139,
+                            "formatted_address": "601 Union St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Original Joe's"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and sipping chamomile tea before bed.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (North Beach Apartment)"
+                    }
+                ],
+                "day_overview": "A productive day for Olivia, balancing deep analytical work at City College with a challenging cross-city commute. The evening involves a necessary grocery errand, connecting with family, and a social dinner with a friend in her vibrant North Beach neighborhood.",
+                "home_address": "634 Broadway, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.797982,
+                    "lng": -122.4075859,
+                    "formatted_address": "634 Broadway, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

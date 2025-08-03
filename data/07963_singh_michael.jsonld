@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Michael Singh",
+    "givenName": "Michael",
+    "familyName": "Singh",
+    "jobTitle": "Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Michael Singh\u2019s life is measured in the few hundred square feet of his corner store in the Inner Richmond. The son of Punjabi immigrants who settled in Fremont, Michael grew up surrounded by the pressure to achieve a conventional version of the American Dream. He was meant to be an engineer or a doctor, but his heart was never in it. He enrolled in a Business Administration program at a local community college, a compromise that pleased his parents but left him feeling adrift.\n\nThe true turning point came at 21 when his father suffered a debilitating back injury and could no longer work his construction job. Dropping out of college, Michael took a stockroom job at a retail chain to help support his family. It was meant to be temporary, but he discovered a quiet satisfaction in creating order from chaos. He was reliable and observant, and management noticed. Promotions came steadily, pulling him from the suburbs into the heart of San Francisco.\n\nTen years ago, he was offered the manager position at his current store, which came with a small apartment directly above it. The 0.0-mile commute sealed the deal. Now, at 40, his life and work are completely intertwined. His alarm is the sound of the morning bread delivery truck. His social life consists of conversations over the counter with his regulars: the elderly Mrs. Chen buying her newspaper, the young couple who always forget to buy milk, the gaggle of USF students on a late-night snack run. He knows their names, their dogs\u2019 names, and their small joys and sorrows.\n\nWhile he\u2019s a pillar of his micro-community, this constant availability has left little room for personal relationships; a serious girlfriend left him years ago, tired of competing with a perpetually broken freezer or a late shipment. Michael\u2019s dreams are no longer of a different life, but of deepening the one he has. He hopes to one day buy the store from its aging owner, to truly make the place his own. His San Francisco isn\u2019t the Golden Gate Bridge or tech campuses; it's the rhythm of his block, the familiar faces, and the quiet pride of keeping the lights on for his neighborhood."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Wake up, shower, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7709733,
+                            "lng": -122.4473682,
+                            "formatted_address": "489 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - 489 Ashbury St"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Make coffee and have a quick chat with his mother before work.",
+                        "geocode": {
+                            "lat": 37.7709733,
+                            "lng": -122.4473682,
+                            "formatted_address": "489 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 489 Ashbury St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive the short distance to work and find a spot in the staff garage.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 25,
+                        "location": "UCSF Millberry Union Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Open the store, hold a morning huddle with the team to set daily sales goals.",
+                        "geocode": {
+                            "lat": 37.7634326,
+                            "lng": -122.4587055,
+                            "formatted_address": "Millberry Union, 500 Parnassus Ave level b1, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Campus Store"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative tasks: respond to emails, check inventory, and place new orders.",
+                        "geocode": {
+                            "lat": 37.7634326,
+                            "lng": -122.4587055,
+                            "formatted_address": "Millberry Union, 500 Parnassus Ave level b1, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Campus Store - Back Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break, walking over to a nearby campus cafe for a sandwich.",
+                        "geocode": {
+                            "lat": 37.786937,
+                            "lng": -122.408507,
+                            "formatted_address": "235 Powell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Caf\u00e9 Bellini"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbc",
+                        "action": "Manage the sales floor during the afternoon rush, assisting customers and coaching staff.",
+                        "geocode": {
+                            "lat": 37.7634326,
+                            "lng": -122.4587055,
+                            "formatted_address": "Millberry Union, 500 Parnassus Ave level b1, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF Campus Store - Sales Floor"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Finalize the daily sales report and create the staff schedule for the following week.",
+                        "geocode": {
+                            "lat": 37.7634326,
+                            "lng": -122.4587055,
+                            "formatted_address": "Millberry Union, 500 Parnassus Ave level b1, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 55,
+                        "location": "UCSF Campus Store - Back Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Drive home from work.",
+                        "geocode": {
+                            "lat": 37.7692486,
+                            "lng": -122.4468258,
+                            "formatted_address": "Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Ashbury Street"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce and groceries for dinner.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Cole Valley Harvest"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook and eat dinner with his mother, catching up on their days.",
+                        "geocode": {
+                            "lat": 37.7709733,
+                            "lng": -122.4473682,
+                            "formatted_address": "489 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - 489 Ashbury St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Go for a brisk walk to decompress and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a Giants game on TV.",
+                        "geocode": {
+                            "lat": 37.7709733,
+                            "lng": -122.4473682,
+                            "formatted_address": "489 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home - 489 Ashbury St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Wind down and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7709733,
+                            "lng": -122.4473682,
+                            "formatted_address": "489 Ashbury St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 489 Ashbury St"
+                    }
+                ],
+                "day_overview": "A structured day for a retail manager, balancing work responsibilities at the UCSF campus, care for his aging parent at home in the Haight, and personal time in the neighborhood.",
+                "home_address": "489 Ashbury St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7709733,
+                    "lng": -122.4473682,
+                    "formatted_address": "489 Ashbury St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Singh Family"
+    }
+}

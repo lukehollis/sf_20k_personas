@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Sous Chef",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Food Service"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s world smells of sizzling garlic, yeast, and the faint, metallic tang of a well-used knife. Born in the East Bay to a Korean mother and a white American father, her childhood was a delicious fusion of cultures. She remembers the comforting scent of her grandmother\u2019s kimchi jjigae simmering on the stove alongside her father\u2019s meticulously smoked brisket in the backyard. For Sarah, food was never just sustenance; it was the language of her family, a bridge between two distinct heritages.\n\nAfter high school, she dutifully enrolled in community college with a vague plan for a business degree, but the sterile quiet of the lecture hall felt alienating. The part-time job she took as a prep cook in a local bistro, however, felt like coming home. The heat, the pressure, the disciplined chaos of the kitchen\u2014it was there she found her purpose. She dropped out of college after two semesters, a decision that disappointed her parents but ignited a fire within her.\n\nSarah worked her way up through sheer grit, moving from suburban kitchens to the demanding culinary scene of San Francisco. Now 27, she is the Sous Chef at a respected Cal-Italian restaurant in North Beach. Her life is a testament to her dedication; she lives in a small studio apartment directly above the restaurant, making her commute a simple walk downstairs. Her social circle is her kitchen crew\u2014a tight-knit, profane, and fiercely loyal family forged in the heat of service.\n\nHer daily routine is punishing but rewarding. She\u2019s at the Ferry Plaza Farmer's Market by dawn, hand-selecting produce, followed by twelve-hour shifts of managing staff, perfecting sauces, and plating hundreds of dishes. In her rare moments of quiet, staring out her window at the neon lights of North Beach, Sarah dreams of her own place. Not a fine-dining temple, but a small, welcoming eatery serving the Korean-American comfort food of her youth. It\u2019s a dream she\u2019s building one long, exhausting, and perfectly seasoned day at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up slowly, check messages and industry news on phone.",
+                        "geocode": {
+                            "lat": 37.8008679,
+                            "lng": -122.4393809,
+                            "formatted_address": "3330 Pierce St # 102, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Marina Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a strong pour-over coffee and have a light breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.8008679,
+                            "lng": -122.4393809,
+                            "formatted_address": "3330 Pierce St # 102, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Marina Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for an invigorating jog with views of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8064291,
+                            "lng": -122.4506915,
+                            "formatted_address": "Crissy Field East Beach, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 45,
+                        "location": "Crissy Field East Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and change into chef whites for the day.",
+                        "geocode": {
+                            "lat": 37.8008679,
+                            "lng": -122.4393809,
+                            "formatted_address": "3330 Pierce St # 102, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Marina Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute to work, listening to a podcast to mentally prepare for service.",
+                        "geocode": {
+                            "lat": 37.802585,
+                            "lng": -122.43668,
+                            "formatted_address": "Fillmore St & Bay St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "SFMTA 22 Fillmore Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2a",
+                        "action": "Arrive at the restaurant, review reservations, and begin extensive prep ('mise en place') for dinner service.",
+                        "geocode": {
+                            "lat": 37.7893545,
+                            "lng": -122.4077006,
+                            "formatted_address": "Sutter St, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Sutter's Table Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Share a quick 'family meal' with the kitchen and front-of-house staff.",
+                        "geocode": {
+                            "lat": 37.7893545,
+                            "lng": -122.4077006,
+                            "formatted_address": "Sutter St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Sutter's Table Staff Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udd25",
+                        "action": "Run a high-intensity dinner service, expediting dishes, managing the line, and ensuring food quality.",
+                        "geocode": {
+                            "lat": 37.7893545,
+                            "lng": -122.4077006,
+                            "formatted_address": "Sutter St, San Francisco, CA, USA"
+                        },
+                        "duration": 360,
+                        "location": "Sutter's Table Kitchen Pass"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Break down and deep clean the kitchen station, and place produce orders for the next day.",
+                        "geocode": {
+                            "lat": 37.7893545,
+                            "lng": -122.4077006,
+                            "formatted_address": "Sutter St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sutter's Table Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7a",
+                        "action": "Grab a quick post-shift beer with a fellow cook to decompress from the rush.",
+                        "geocode": {
+                            "lat": 37.79083809999999,
+                            "lng": -122.4343963,
+                            "formatted_address": "2301 Fillmore St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Snug"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Take the late-night bus home through the quiet city streets.",
+                        "geocode": {
+                            "lat": 37.802585,
+                            "lng": -122.43668,
+                            "formatted_address": "Fillmore St & Bay St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "SFMTA 22 Fillmore Bus (Night Owl)"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Arrive home, greet partner, and share stories from the day over a late-night snack.",
+                        "geocode": {
+                            "lat": 37.8008679,
+                            "lng": -122.4393809,
+                            "formatted_address": "3330 Pierce St # 102, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Marina Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down for the night, watching an episode of a comforting TV show before finally heading to bed.",
+                        "geocode": {
+                            "lat": 37.8008679,
+                            "lng": -122.4393809,
+                            "formatted_address": "3330 Pierce St # 102, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Marina Apartment)"
+                    }
+                ],
+                "day_overview": "A demanding but typical day for a sous chef, balancing a high-pressure work environment in Lower Pacific Heights with personal time and fitness in the Marina.",
+                "home_address": "3706 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8060726,
+                    "lng": -122.4401602,
+                    "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

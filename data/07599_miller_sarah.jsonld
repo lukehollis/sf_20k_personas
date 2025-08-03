@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Urban Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Inner Sunset Resident Hiker"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s fascination with cities began as a quiet rebellion against the sprawling sameness of her Sacramento suburb. Raised by a pragmatic engineer father and a community-minded teacher mother, she spent her childhood navigating cul-de-sacs and strip malls, always sensing there had to be a better, more connected way for people to live. This feeling crystallized during her undergraduate years at UC Davis, but it was a transformative semester abroad in Copenhagen that ignited her passion. Witnessing a city designed for people\u2014with its seamless bike lanes and vibrant public squares\u2014set her on a direct course. She subsequently earned a Master of Urban Planning from UC Berkeley, her thesis focused on integrating green spaces into dense, historic neighborhoods.\n\nNow, at 29, Sarah works for the San Francisco Planning Department. The irony of her 0.0-mile commute is not lost on her; she shapes the physical city from a designated corner of her rent-controlled apartment in the Mission District. Her day doesn\u2019t start with a drive or a BART ride, but with a walk to a local panaderia for coffee, observing the morning ballet of delivery trucks, commuters, and neighbors that she analyzes professionally. Her work involves poring over zoning maps, writing policy briefs for public transit expansion, and attending endless Zoom meetings about affordable housing initiatives.\n\nHer connection to San Francisco is both professional and deeply personal. She lives within her field of study. On weekends, she forgoes car trips, preferring to explore the city\u2019s hidden stairways or volunteer at a community garden in Bernal Heights. Her social circle is a tight-knit group of fellow planners, architects, and non-profit activists who can debate the merits of a new protected bike lane for hours over drinks at a local dive bar.\n\nSarah\u2019s dream isn\u2019t to build a skyscraper with her name on it, but to see her policies foster tangible change. She hopes to one day walk her own children through a more equitable and resilient San Francisco\u2014a city with more parks, fewer cars, and housing that is accessible to all. It\u2019s a future she meticulously maps out, one community meeting at a time, from her sunlit corner of the Mission."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, check news on phone, and have coffee with partner while discussing the day ahead.",
+                        "geocode": {
+                            "lat": 37.7361783,
+                            "lng": -122.4344201,
+                            "formatted_address": "Glen Park, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home in Glen Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Quick jog through the trails to clear her head before the workday.",
+                        "geocode": {
+                            "lat": 37.7415588,
+                            "lng": -122.4431851,
+                            "formatted_address": "Glen Canyon Park, Elk St and, Chenery St, San Francisco, CA 94127, USA"
+                        },
+                        "duration": 30,
+                        "location": "Glen Canyon Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7361783,
+                            "lng": -122.4344201,
+                            "formatted_address": "Glen Park, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home in Glen Park"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from Glen Park to SoMa, navigating morning traffic on the I-280 N.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "San Francisco Roads"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, settle in, and organize her tasks for the day while reviewing emails from community stakeholders.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a project team meeting to review blueprints and impact reports for a new mixed-use development proposal.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 90,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over and grab a quick lunch with a coworker to discuss the morning meeting.",
+                        "geocode": {
+                            "lat": 37.780602,
+                            "lng": -122.3961766,
+                            "formatted_address": "212 Ritch St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 60,
+                        "location": "Darwin Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Perform a GIS data analysis and draft a memo on pedestrian flow improvements for the Tenderloin neighborhood.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 150,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Pack up and begin the slow evening commute home, taking surface streets to avoid freeway congestion.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "San Francisco Roads"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7340945,
+                            "lng": -122.4336886,
+                            "formatted_address": "2815 Diamond St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 20,
+                        "location": "Canyon Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a salmon and roasted vegetable dinner with her partner while catching up on their days.",
+                        "geocode": {
+                            "lat": 37.7361783,
+                            "lng": -122.4344201,
+                            "formatted_address": "Glen Park, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home in Glen Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Enjoy dinner together without screens, discussing weekend plans.",
+                        "geocode": {
+                            "lat": 37.7361783,
+                            "lng": -122.4344201,
+                            "formatted_address": "Glen Park, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home in Glen Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a favorite TV series.",
+                        "geocode": {
+                            "lat": 37.7361783,
+                            "lng": -122.4344201,
+                            "formatted_address": "Glen Park, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home in Glen Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the evening by reading a novel and getting ready for bed.",
+                        "geocode": {
+                            "lat": 37.7361783,
+                            "lng": -122.4344201,
+                            "formatted_address": "Glen Park, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home in Glen Park"
+                    }
+                ],
+                "day_overview": "A productive day for Urban Planner Sarah, balancing focused project work in SoMa with a stressful commute, followed by relaxing evening activities and quality time with her partner in their Glen Park neighborhood.",
+                "home_address": "3369 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7420542,
+                    "lng": -122.4354353,
+                    "formatted_address": "3369 Diamond St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

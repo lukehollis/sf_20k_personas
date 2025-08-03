@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jensen",
+    "givenName": "Sarah",
+    "familyName": "Jensen",
+    "jobTitle": "Account Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jensen\u2019s story is one of pragmatic compromise. Raised in a quiet Sacramento suburb by a high school history teacher and a dental hygienist, her childhood was stable, predictable, and loving. Her parents encouraged practical pursuits, so when Sarah chose to study Art History at UC Santa Cruz, it was seen as a whimsical, slightly concerning detour. She thrived amidst the redwood-scented campus, passionately deconstructing Renaissance portraiture and dreaming of a life curating exhibits at a world-class museum.\n\nThe reality after graduation was a harsh awakening. Unpaid internships and low-paying gallery assistant roles couldn\u2019t cover the cost of living. After a year of struggling, a deflating breakup served as a catalyst for change. Feeling the need for self-sufficiency above all else, Sarah made a pragmatic pivot. She took a temp job doing data entry for a wealth management firm in San Francisco. Her meticulous nature and quick grasp of complex systems earned her a full-time offer. Now, at 34, she is an Account Coordinator, her days spent in the sterile world of spreadsheets and client portfolios \u2014 a universe away from the vibrant canvases she once studied.\n\nSarah lives alone in a modern apartment in Hayes Valley. With a 0.0-mile commute, her world can feel small. Her routine is disciplined: a morning run to the Ferry Building, followed by hours of solitary work on her laptop, the silence broken only by Zoom calls. In the evenings, she might meet a friend for dinner in her neighborhood or attend a yoga class. Her social circle is small but tight-knit, a mix of college friends and former colleagues who understand her journey.\n\nHer connection to San Francisco is one of both comfort and quiet yearning. She loves the city\u2019s energy and access to culture, yet feels like a spectator. Sarah\u2019s dream is no longer to run a museum, but to bridge the gap between her practical present and her passionate past. She aspires to save enough to feel secure, perhaps one day joining SFMOMA as a member, or even volunteering on weekends\u2014a small, tangible step to reconnect with the art-loving young woman she once was."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf05",
+                        "action": "Wake up, drink a glass of water, and check daily news alerts on phone.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Sarah's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Quick at-home yoga session using a YouTube video to stretch and energize.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Sarah's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Sarah's Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of Greek yogurt with berries and make coffee.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Sarah's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute to work, heading up Masonic Ave and cutting over on Geary.",
+                        "geocode": {
+                            "lat": 37.7795989,
+                            "lng": -122.4434942,
+                            "formatted_address": "Anzavista Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Cole Valley to Anza Vista Route"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, review patient account inquiries, and respond to urgent emails.",
+                        "geocode": {
+                            "lat": 37.7922841,
+                            "lng": -122.3979603,
+                            "formatted_address": "388 Market St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 180,
+                        "location": "Kaiser Permanente - Account Services Dept."
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to Clement Street for a quick lunch, grabbing a custom salad bowl.",
+                        "geocode": {
+                            "lat": 37.7905176,
+                            "lng": -122.4170789,
+                            "formatted_address": "1030 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Nourish Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon work session: attend a virtual team meeting and prepare coordination reports.",
+                        "geocode": {
+                            "lat": 37.7922841,
+                            "lng": -122.3979603,
+                            "formatted_address": "388 Market St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 150,
+                        "location": "Kaiser Permanente - Account Services Dept."
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute home, enjoying the downhill ride back into her neighborhood.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Anza Vista to Cole Valley Route"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a few weeknight grocery essentials for dinner and tomorrow's lunch.",
+                        "geocode": {
+                            "lat": 37.7650139,
+                            "lng": -122.4496722,
+                            "formatted_address": "960 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Luke's Local, Cole Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udd49\ufe0f",
+                        "action": "Attend a Vinyasa flow class to unwind and stretch after a day at the desk.",
+                        "geocode": {
+                            "lat": 37.7719953,
+                            "lng": -122.4368671,
+                            "formatted_address": "286 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Garden SF, Divisadero"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Sarah's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Quick phone call with her parents to catch up on their week.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Sarah's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a new novel and prepping her coffee maker for the morning.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Sarah's Apartment"
+                    }
+                ],
+                "day_overview": "A productive Tuesday for Sarah, featuring a healthy bicycle commute through the city, focused work at the medical center, an evening yoga class to de-stress, and a quiet night in her Cole Valley apartment.",
+                "home_address": "2602 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7601959,
+                    "lng": -122.4488527,
+                    "formatted_address": "2602 Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jensen Family"
+    }
+}

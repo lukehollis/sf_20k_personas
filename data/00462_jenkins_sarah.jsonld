@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jenkins",
+    "givenName": "Sarah",
+    "familyName": "Jenkins",
+    "jobTitle": "Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jenkins\u2019s life is measured in the quiet hum of her computer and the distant cry of gulls through her Inner Richmond window. Born and raised in a stoic, working-class family in Toledo, Ohio, her path was forged not by ambition, but by empathy. The pivotal moment came at sixteen, when her younger brother was diagnosed with a severe chronic illness. Sarah spent her formative years navigating the labyrinthine healthcare system alongside her parents, witnessing firsthand how families could be broken by the stress of paperwork, insurance denials, and emotional exhaustion. That experience became her calling.\n\nRejecting the familiar Midwest, the promise of progressive values drew her west to UC Berkeley for her Master of Social Work in the early 1990s. San Francisco, with its vibrant chaos and culture of acceptance, felt like a true home. She began her career in the trenches of a major downtown hospital, spending nearly three decades as a shield for the vulnerable. She fought for patients, arranged safe discharges for the elderly and unhoused, and absorbed the secondary trauma that came with the territory. A long-term relationship dissolved under the weight of her demanding career, leaving her with a quiet resilience and a deep appreciation for her own space.\n\nThe pandemic was an unexpected turning point. Burnt out from the sterile scent of hospitals and the constant crises, Sarah transitioned to a fully remote case management role. Her 0.0-mile commute now leads from her bedroom to a small desk overlooking the fog-laced avenues. Her days are a structured blend of telehealth calls with clients, meticulous digital paperwork, and afternoon walks through Golden Gate Park to decompress.\n\nAt 53, Sarah\u2019s social circle is small but deep: a book club with neighbors, a weekly yoga class, and dinners with a few fellow social workers who understand the language of her life. Her dream is no longer to change the world, but to bring a measure of peace to her small corner of it. She aspires to travel more, perhaps to finally see the Northern Lights, and to nurture the rooftop container garden that provides a tangible sense of growth amidst the complexities of her work."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers the weight of the insurance appeal papers in her lap at seventeen, the crisp edges sharp against her jeans in the Toledo hospital waiting room. Her brother was behind a closed door, and her parents\u2019 faces were masks of exhausted confusion. In that moment, a cold, clear anger settled in her bones. It wasn't a teenage rebellion, but a silent vow: she would learn this language of bureaucracy. She would become the person who could navigate this maze for others, so no other family would feel this specific, paralyzing helplessness.\n\n2.\nShortly after starting at Berkeley in her early twenties, she walked the Golden Gate Bridge alone. The wind whipped her hair and the fog swallowed the city, leaving just her and the humming, orange steel. Far from the stoic Midwest, she felt thrillingly anonymous. A wave of profound relief washed over her\u2014the feeling of finally arriving in a place vast enough to hold all the complexities she carried. This, she knew, was home. It was the first time she felt like she was walking toward herself, not away from something.\n\n3.\nThere was an elderly man, unhoused and forgotten by the system, whom she fought for relentlessly for months. She still sees his hands, trembling as she gave him the key to his new SRO room in the Tenderloin. He didn't say much, just looked at the key as if it were an impossible artifact. That small, quiet victory cost her weeks of sleep and emotional energy, but it crystalized her purpose. It was the perfect, painful summary of her career: a monumental effort for a single moment of grace.\n\n4.\nThe first night alone after her partner left was the quietest she\u2019d ever known. Standing in her Inner Richmond living room, the silence felt cavernous, a physical presence. She expected a crushing loneliness, but instead, a slow, unfamiliar sense of peace trickled in. It was the first time in years the space felt entirely her own. That night, she learned the difference between being lonely and being alone, discovering a quiet strength in her own company that she would come to cherish more than anything.\n\n5.\nOn her first morning working remotely during the pandemic, she sat at her new desk with a cup of tea. Instead of the hospital\u2019s sterile scent and the cacophony of alarms, she smelled damp earth from her window box and heard a distant foghorn. The tension that had lived in her shoulders for thirty years began to unspool. It wasn\u2019t a dramatic escape, but a quiet, profound reclamation of her senses and her peace. She was no longer at the mercy of the crisis bell."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, morning meditation, and brew a pot of coffee.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Pacific Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Pacific Heights)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Commute to work with a brisk walk, enjoying the morning air.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Pacific Heights Residential Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, settle in, and review the day's case files and emails.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 40,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Team Case Conference: Collaborate with colleagues to review patient progress and coordinate care plans.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "WSI Conference Room 'Embarcadero'"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Patient Support: Conduct scheduled telehealth calls with clients, providing counseling and resource navigation.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 120,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy lunch to eat outside.",
+                        "geocode": {
+                            "lat": 37.797521,
+                            "lng": -122.4223179,
+                            "formatted_address": "2237 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn on Chestnut Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focused Work: Complete detailed documentation, assessments, and reports for patient records.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 150,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk home, using the time to decompress and transition from work to personal time.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Van Ness Avenue to Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a few grocery items for dinner.",
+                        "geocode": {
+                            "lat": 37.796546,
+                            "lng": -122.421784,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Real Food Company on Polk Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Prepare and eat dinner while listening to a history podcast.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "Home (Pacific Heights)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Evening walk and quiet reflection in the neighborhood park.",
+                        "geocode": {
+                            "lat": 37.79165,
+                            "lng": -122.4275889,
+                            "formatted_address": "Lafayette Park, Gough St &, Washington St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Lafayette Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel for her book club.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Living Room)"
+                    }
+                ],
+                "day_overview": "A structured and balanced day for a social worker in Pacific Heights, blending demanding client-focused work with restorative personal time, including walks through her neighborhood, healthy meals, and quiet evenings.",
+                "home_address": "1989 Pacific Ave, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7940305,
+                    "lng": -122.427822,
+                    "formatted_address": "1989 Pacific Ave, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1971",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jenkins Family"
+    }
+}

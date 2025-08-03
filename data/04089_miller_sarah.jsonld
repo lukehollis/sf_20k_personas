@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Junior Data Scientist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s world was built from library books and historical archives. Raised in the quiet, academic town of Ann Arbor, Michigan, by a history professor father and a librarian mother, she grew up understanding the world through narratives and ordered information. She was a thoughtful, observant child who preferred a puzzle to a playground. This inclination led her to pursue a Bachelor's degree in Cognitive Science at the University of Michigan, fascinated by the architecture of the human mind. It wasn't until a computational linguistics course that she discovered a more powerful language for deciphering patterns: Python. This was her turning point, fusing her humanistic curiosity with the elegant logic of code.\n\nUpon graduating, the magnetic pull of the tech industry drew her west. Landing a junior data scientist role at a growing startup was both a dream come true and a terrifying leap. She packed two suitcases and moved into a small but sunny apartment in the Inner Richmond, a neighborhood chosen for its proximity to Golden Gate Park over proximity to a non-existent office.\n\nHer 0.0-mile commute defines her current existence. Days are a disciplined cycle of code, queries, and video calls from her standing desk. To combat the digital isolation, Sarah has built a rigid routine. At 5 PM sharp, she closes her laptop and trades her apartment for the outside world. Her escape is usually a run through the park or a fog-laced bike ride to Ocean Beach, needing the raw, physical stimuli to balance the day's abstraction.\n\nHer social circle is small but solid, composed of a couple of college friends and the community she\u2019s found at a Mission District bouldering gym. There, the problem-solving is physical, and conversations happen between attempts on a difficult route. It\u2019s where she feels most connected.\n\nSarah dreams of graduating from junior to senior data scientist, hoping to one day lead projects that use data for social good\u2014optimizing public transit or modeling climate impact. She loves San Francisco for its paradoxes: a hub of digital futures pressed against the wild, ancient coast. She\u2019s still learning its language, but for the first time, Sarah feels she is not just analyzing the data of a life, but truly living it."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe recalls the click of the key in her Inner Richmond apartment lock for the first time. The afternoon sun cut a sharp, dusty rectangle on the bare wood floor. It was completely empty, a blank page after a lifetime of living within her parents' library. This quiet, sunlit space was terrifying and exhilarating\u2014a dataset of one, her own. That initial solitude didn't feel like loneliness; it felt like the clean, logical start of a new program she was finally writing for herself. This happened the day she moved to San Francisco.\n\n2.\nIt was 2 AM in the U-M library, fueled by stale coffee. Her computational linguistics script kept failing. Then, staring at the screen, it clicked. She wasn't just debugging code; she was parsing the skeleton of language itself. When the program finally ran, printing a perfectly structured tree, a jolt went through her. It was the purest intellectual thrill she\u2019d ever known, the moment her love for humanistic patterns fused with the elegant power of logic. It confirmed her path west, solidifying her career choice in her senior year of college.\n\n3.\nMonths after moving, she biked to Ocean Beach as the fog rolled in, a thick, damp wall that erased the horizon. She couldn't see the water, only hear its immense, invisible roar and feel the cold salt spray. For a data scientist who craved certainty, this profound lack of information was terrifying, then deeply peaceful. It was a humbling counterpoint to her structured days, a raw, physical variable she couldn't model, only experience. It taught her the value of San Francisco\u2019s untamable, wild edge.\n\n4.\nHer forearms were burning, stuck on the same V3 bouldering problem for weeks. A stranger, hanging from a nearby route, simply said, \"Try a heel hook on the right.\" It worked. Reaching the top, she felt a dizzying rush of success, but the real memory was the easy grin and nod from the stranger below. It was a connection forged not over data or analysis, but shared physical effort. That evening, six months after moving, she realized she was building a community, one problem at a time.\n\n5.\nAbout a year into her job, during a routine data pull, she noticed a tiny, strange anomaly in user behavior. It was statistically insignificant, but her cognitive science background screamed that it was a heuristic shortcut. She nervously brought it up in a team meeting. Her lead went silent, then a slow smile spread across his face on the grainy video call. \"Nobody's ever noticed that,\" he said. It was the first time she felt her unique background wasn\u2019t a curiosity, but a professional superpower, validating her place in this new world."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Wake up, get ready, and have a quick breakfast of avocado toast and coffee.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to the office, listening to a tech podcast while navigating morning traffic.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Driving from Noe Valley to the Mission"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Arrive at work, check emails and Slack, and attend the data team's daily stand-up meeting.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 35,
+                        "location": "Doorhaus HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep Work Session: Running SQL queries and cleaning a large dataset for a new delivery time prediction feature.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 165,
+                        "location": "Doorhaus HQ (Data Pod)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Team lunch break to grab burritos and decompress.",
+                        "geocode": {
+                            "lat": 37.72118,
+                            "lng": -122.437281,
+                            "formatted_address": "4817 Mission St, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "Taqueria El Farolito"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon Focus: Building and validating a churn prediction model in a Jupyter Notebook.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Doorhaus HQ (Quiet Zone)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Sync with a Product Manager to present initial model findings and discuss next steps.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Doorhaus HQ (Conference Room 'Dolores')"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Final Tasks: Documenting code on Confluence, pushing updates to GitHub, and planning tomorrow's tasks.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Doorhaus HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Drive home, dealing with the start of evening rush hour traffic.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Driving from Mission to Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh pasta and vegetables for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Whole Foods Market (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Cook and eat dinner with her partner, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 80,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax and unwind by watching a new show on a streaming service together.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening Routine: Skincare, tidying up, and reading a book before bed.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Noe Valley)"
+                    }
+                ],
+                "day_overview": "A productive day for a junior data scientist, blending focused analytical work at a Mission tech company with a classic burrito lunch, errands in her Noe Valley neighborhood, and a relaxing evening at home with her partner.",
+                "home_address": "1040 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7489814,
+                    "lng": -122.4363228,
+                    "formatted_address": "1040 Diamond St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

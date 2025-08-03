@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Michael Miller",
+    "givenName": "Michael",
+    "familyName": "Miller",
+    "jobTitle": "Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Michael Miller\u2019s world is measured in the 14 steps from his apartment door to the sales floor of \"Miller & Son Hardware\" in the Inner Richmond. Born and raised in the fog-drenched neighborhood, his childhood was a geography of nuts, bolts, and the sharp scent of wood stain. His father, a stoic man of few words, built the business from nothing, and it was always assumed Michael would inherit it.\n\nAs a young man, Michael craved escape. He enrolled at San Jose State, envisioning a life far from the predictable aisles of his father's store. For two years, he tasted a different world, studying history and considering a teaching career. But during his junior year, a call came: his father had a major heart attack. Michael returned home to help, a temporary measure that slowly solidified into a permanent reality. He never went back to finish his degree.\n\nHis twenties and thirties were spent managing the store as his father\u2019s health declined. He married a woman he met through a supplier, but the relationship buckled under the weight of his obligations. She dreamed of travel and spontaneity; his life was anchored to store hours and inventory logs. They divorced amicably after seven years, a quiet casualty of mismatched ambitions. When his father passed away a decade ago, the \"and Son\" on the sign became less a promise and more a memorial.\n\nNow at 53, Michael\u2019s life is one of dependable routine. He knows his customers by name, offering advice on plumbing fixes and paint sheens. He\u2019s a neighborhood fixture, respected for his quiet competence. His social life consists of morning coffee at a nearby cafe and a weekly beer with a few other local business owners. He laments the city\u2019s vanishing soul over the roar of tech shuttles but is too rooted to ever consider leaving. His dream is no longer to escape, but to preserve. He hopes to one day sell the store to someone who values community over profit, finally allowing him the freedom to take a long train trip across the country\u2014a trip he\u2019s been planning, in his head, for thirty years."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to alarm, start the coffee maker, and read the morning headlines on a tablet.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Quick, brisk walk along the waterfront path to get some fresh air before the day begins.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 25,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Eat a simple breakfast of toast and yogurt, shower, and get dressed for work.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across the city, listening to a local news radio station to navigate the morning traffic.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "The Commuter's Crosstown Gauntlet (Van Ness to Potrero)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfec",
+                        "action": "Arrive and open the shop. Count the register, review the previous day's sales, and have a quick morning huddle with the part-time employee.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "General Gifts & Goodies at SFGH"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Receive and unpack a new shipment of flowers and mylar balloons, arranging them for display.",
+                        "geocode": {
+                            "lat": 37.7865704,
+                            "lng": -122.4078411,
+                            "formatted_address": "190 O'Farrell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 90,
+                        "location": "Gift Shop Stockroom"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a lunch break, walking to the hospital cafeteria to grab a salad and sit outside for a bit.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "ZSFG Hospital Cafeteria Patio"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbc",
+                        "action": "Manage the sales floor, assisting hospital staff and patient families, and troubleshoot a minor credit card machine issue.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "General Gifts & Goodies at SFGH"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle administrative work in the back office, primarily creating the employee schedule for next week and placing new inventory orders.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Gift Shop Back Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udd12",
+                        "action": "Start closing procedures, cash out the register, and prep the store for the morning shift.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "General Gifts & Goodies at SFGH"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Commute home, taking a slightly different route via Cesar Chavez to avoid the worst of the freeway entrance traffic.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Commuter's Crosstown Gauntlet (Potrero to Marina)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the neighborhood grocery store to pick up items for dinner and a few essentials for the week.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Safeway on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Call his elderly mother to check in, chat about her day, and remind her about an upcoming appointment.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat a simple pasta dinner while watching the local evening news.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a baseball game and unwinding before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 105,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A typical weekday for Michael, managing the hospital gift shop. His day is bookended by a cross-town commute from his home in the Marina to his job in Potrero Hill, with an evening that includes a grocery run, a check-in call with his elderly mother, and a relaxing evening watching the game.",
+                "home_address": "3104 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8060726,
+                    "lng": -122.4401602,
+                    "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1971",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

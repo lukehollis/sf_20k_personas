@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Matthew Lee",
+    "givenName": "Matthew",
+    "familyName": "Lee",
+    "jobTitle": "IT Support Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Matthew Lee\u2019s world is contained within a five-block radius of his Inner Richmond apartment. The son of first-generation immigrants who ran a beloved bakery in the Sunset District, Matthew grew up enveloped in the scent of warm bread and the gentle murmur of Cantonese. His parents, pragmatic and hardworking, hoped he\u2019d pursue a stable, prestigious career. Matthew, however, was a romantic, drawn to the grand narratives of the past. He enrolled at UC Santa Cruz, earning a Bachelor's in History, dreaming of academia and dusty archives.\n\nReality hit hard after graduation. The path to becoming a history professor was long and uncertain, and the pressure to find a foothold in an expensive city was immediate. On a whim, he took a temp job doing entry-level tech support for a downtown startup. To his surprise, he was good at it. The same analytical skills he used to deconstruct historical events were perfect for troubleshooting software glitches. He was patient and a clear communicator, skills honed by explaining complex historical concepts.\n\nThe turning point was his promotion to IT Support Manager three years ago. The role validated a career path he\u2019d stumbled into, providing the financial stability his parents had always wished for him. Now, at 33, his 0.0-mile commute means his day is a quiet rhythm of Slack notifications, video calls, and the hum of his server rack. He breaks the monotony with walks to a local coffee shop on Clement Street or a lunchtime run through Golden Gate Park, his sanctuary from the digital world.\n\nSocially, Matthew relies on a tight-knit group of friends for a weekly Dungeons & Dragons game, a ritual that satisfies his love for storytelling and collaborative world-building. His dating life is a series of well-intentioned but underwhelming app-fueled coffees. His deepest aspiration remains tied to his first love: he quietly dreams of writing a niche non-fiction book on the social history of early internet forums. Matthew Lee lives a life of quiet contradiction\u2014a historian managing the immediate present, a homebody in a city of endless destinations, searching for a way to connect his past self with the man he has become."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of congee and youtiao with his parents before heading out.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Grant Ave Apartment Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Begin the long walk to work, listening to a tech news podcast while heading south through SoMa.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "City Sidewalks & Pathways"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Arrive at the office, grab an oat milk latte, and review the overnight support ticket queue.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Doorhaus Office Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Lead the daily stand-up meeting with the IT support team, assigning critical tickets and reviewing team capacity.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Doorhaus Conference Room 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle escalated support issues and provide guidance to junior team members on complex technical problems.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 135,
+                        "location": "Doorhaus Open Office Area"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk with work colleagues to grab a Carnitas Super Burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Hold one-on-one meetings with two team members to discuss performance, goals, and career development.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Doorhaus Huddle Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Work on a project plan for the upcoming quarterly hardware refresh for the sales department.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Doorhaus Open Office Area"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk home from the Mission, listening to an audiobook to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 65,
+                        "location": "City Sidewalks & Pathways"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh bok choy and tofu for his mom for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7827054,
+                            "lng": -122.4668356,
+                            "formatted_address": "707 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "New May Wah Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Go for a weightlifting session focusing on strength training to complement the cardio from walking.",
+                        "geocode": {
+                            "lat": 37.7944675,
+                            "lng": -122.4048082,
+                            "formatted_address": "Chinatown, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Crunch Fitness - Chinatown"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Sit down for dinner with his family, catching up on their day and sharing stories in Cantonese.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Grant Ave Apartment Dining Table"
+                    },
+                    {
+                        "emoji": "\ud83c\udfae",
+                        "action": "Relax by playing a few online matches of Valorant with friends.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Wind down, lay out clothes for tomorrow, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Grant Ave Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Matthew managing his IT team, punctuated by long, meditative walks across the city from his Chinatown home to the Mission office, and balanced with gym time and an evening meal with his family.",
+                "home_address": "265 Grant Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.7894578,
+                    "lng": -122.4055552,
+                    "formatted_address": "265 Grant Ave, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1991",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

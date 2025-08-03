@@ -1,0 +1,289 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Priya Sharma",
+    "givenName": "Priya",
+    "familyName": "Sharma",
+    "jobTitle": "Lead Data Scientist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Priya Sharma\u2019s world was always coded in logic. The daughter of a pragmatic software engineer and a thoughtful librarian who immigrated from Mumbai to Cupertino, she grew up in the shadow of Apple\u2019s campus. Her childhood was a balance of structured C++ textbooks and unstructured afternoons lost in classic literature, fostering an mind that was both analytical and deeply curious about the human condition.\n\nThis duality led her to UC Berkeley, where she pursued a graduate degree in Computational Linguistics, fascinated by the mathematical patterns underlying human language. It was a niche field that exploded in relevance. Her thesis on predictive text models landed her a role at a burgeoning search engine company in the early 2000s. Priya\u2019s career took off. She navigated the booms and busts, her skill in finding signals in the noise making her invaluable. Her rise was steady and demanding, culminating in her current role as a Lead Data Scientist.\n\nA key turning point was the end of a long-term relationship in her late thirties; a partner who couldn\u2019t reconcile with her ambition. Instead of breaking her, the event solidified her independence. She bought her own condo in Hayes Valley, a neighborhood whose chic boutiques and proximity to the symphony appealed to both her modern tastes and her mother\u2019s cultural influence. Her 0.0-mile commute allows for a controlled, focused routine: a morning run past the Painted Ladies, deep work sessions analyzing user behavior data from her minimalist home office, and evenings spent either with a small, tight-knit circle of professional friends or attending a pottery class to engage the tactile part of her brain.\n\nNow at 45, Priya feels a familiar intellectual restlessness. The corporate puzzles, while challenging, have become routine. Her new dream is to leverage her expertise for social good. She quietly mentors young women in STEM and envisions starting her own consultancy, applying predictive analytics to non-profits focused on climate change or public health. For Priya, the ultimate algorithm she wants to solve is no longer about profit, but about impact."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, 15 minutes of guided meditation and stretching.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Priya's Apartment, Inner Richmond"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare coffee, check overnight data pipeline alerts and review morning news briefs.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Priya's Apartment, Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare a quick breakfast and pack lunch while checking in with teenage son about his school day.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Priya's Apartment, Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready for the office.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Priya's Apartment, Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Walk to meet carpool colleague at the pre-arranged corner.",
+                        "geocode": {
+                            "lat": 37.7812187,
+                            "lng": -122.4588903,
+                            "formatted_address": "Geary Blvd & Arguello Blvd, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 5,
+                        "location": "Corner of Geary & Arguello Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute to the Financial District, discussing work projects and navigating cross-town traffic.",
+                        "geocode": {
+                            "lat": 37.7784294,
+                            "lng": -122.448665,
+                            "formatted_address": "Turk Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Commute Route via Turk Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, grab tea, and sync with the team on Slack; review project dashboards.",
+                        "geocode": {
+                            "lat": 37.7933827,
+                            "lng": -122.4026176,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Wells Fargo Corporate Office, Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead a daily stand-up meeting with the data science team to discuss progress on fraud detection models.",
+                        "geocode": {
+                            "lat": 37.8097313,
+                            "lng": -122.4101511,
+                            "formatted_address": "The Embarcadero, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Conference Room 'The Cable Car'"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Deep work session: Code review for a junior data scientist's model and running A/B test analysis.",
+                        "geocode": {
+                            "lat": 37.7933827,
+                            "lng": -122.4026176,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 120,
+                        "location": "Priya's Desk, Wells Fargo Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break: Walk to pick up a pre-ordered grain bowl and eat at a nearby public open space.",
+                        "geocode": {
+                            "lat": 37.7913064,
+                            "lng": -122.4009679,
+                            "formatted_address": "115 Sansome St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Bottle Coffee & Rooftop Terrace, 115 Sansome St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Strategy meeting with Product and Engineering leads to define the data requirements for a new feature.",
+                        "geocode": {
+                            "lat": 37.799443,
+                            "lng": -122.4105436,
+                            "formatted_address": "1600 Powell St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Wells Fargo Boardroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Final work block: Respond to high-priority emails and update project documentation in Confluence.",
+                        "geocode": {
+                            "lat": 37.7933827,
+                            "lng": -122.4026176,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 90,
+                        "location": "Priya's Desk, Wells Fargo Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Pack up and meet carpool partner for the commute home.",
+                        "geocode": {
+                            "lat": 37.7894588,
+                            "lng": -122.4219106,
+                            "formatted_address": "Pine St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Carpool Pickup Zone, Pine Street"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market, Clement St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Arrive home, unwind for a few minutes, and start cooking dinner while catching up with her son.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Priya's Apartment, Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Post-dinner jog to de-stress and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7689203,
+                            "lng": -122.482977,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Golden Gate Park, Panhandle Section"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Help her son with his advanced math homework and watch an episode of a documentary together.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Priya's Apartment, Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Personal wind-down time: Read a novel and listen to a podcast.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Priya's Apartment, Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare for tomorrow: pack work bag, lay out clothes, and do a final tidy of the kitchen before bed.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "Priya's Apartment, Inner Richmond"
+                    }
+                ],
+                "day_overview": "A busy but balanced day for Priya, a Lead Data Scientist and mother. Her day involves strategic work meetings and deep-focus analysis in the Financial District, bookended by a structured carpool commute and quality family time, errands, and personal relaxation in her Inner Richmond neighborhood.",
+                "home_address": "6 Geary Blvd, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7797927,
+                    "lng": -122.4930526,
+                    "formatted_address": "Geary Blvd, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1979",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

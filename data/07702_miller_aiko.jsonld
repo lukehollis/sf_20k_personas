@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aiko Miller",
+    "givenName": "Aiko",
+    "familyName": "Miller",
+    "jobTitle": "Senior Data Scientist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Aiko Miller is a product of two worlds. The daughter of a Kyoto-born librarian and an American professor of East Asian Studies, she grew up in the quiet, academic enclave of a Midwest university town. Her childhood was a gentle fusion of cultures: the disciplined calm of her mother\u2019s household and the intellectual curiosity of her father\u2019s. Aiko was a watchful, thoughtful child, more comfortable observing patterns in playground games than leading them, a trait that would later define her career.\n\nThis fascination with human systems led her to pursue a graduate degree in Computational Social Science, a field that allowed her to quantify the messy, beautiful chaos of human behavior. Her academic path seemed set for a life in research until a pivotal turning point in her early thirties. The end of a long-term relationship with a fellow academic, who craved the slow pace of tenure while she felt the pull of the dynamic tech world, prompted a life reset. She packed two suitcases and moved to San Francisco, drawn by the promise of applying her skills on a massive scale.\n\nNow, at 40, Aiko is a Senior Data Scientist for a major tech firm. Her commute is a 0.0-mile walk from her bedroom to the standing desk in her bay window, which overlooks the fog rolling through the Inner Sunset. Her apartment, a high-ceilinged Edwardian flat, is her sanctuary and office. Her days are a disciplined routine: a pre-dawn run in Golden Gate Park, a deep dive into complex datasets, and an evening spent either with a small circle of friends from her hiking club or perfecting a recipe from her mother\u2019s worn cookbook.\n\nShe feels a deep connection to the Inner Sunset, loving its village-like feel amidst the urban sprawl. She knows the baristas at the local coffee shop by name and frequents the farmer's market on weekends. While she finds satisfaction in solving complex problems for her company, Aiko dreams of a future where she can apply her data expertise to social causes, perhaps consulting for non-profits or education initiatives. She has built a life of quiet success, but she aspires to find a deeper sense of purpose, hoping to find the human story within the data once more."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up and meditate to clear the mind before a busy day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Energizing morning run along the water with views of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8036909,
+                            "lng": -122.4685139,
+                            "formatted_address": "Crissy Field Ave, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green & Crissy Field Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "3199 Marina Blvd, San Francisco, CA 94123"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Enjoy breakfast and coffee with her partner while reviewing personal emails.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Transition to work mode; setting up the laptop, checking the day's calendar, and prioritizing tasks.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Deep work session: training a new machine learning model to predict user engagement.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Home Office / LinkedIn Virtual Workspace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Lunch break: walk to a local deli to pick up a sandwich and eat it outside.",
+                        "geocode": {
+                            "lat": 37.8006904,
+                            "lng": -122.4383892,
+                            "formatted_address": "2120 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Lucca Delicatessen on Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Project sync meeting with the data science team to review progress on the Q3 roadmap.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Zoom Meeting Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze model performance data and create visualizations for a stakeholder presentation.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Present findings on feature importance to the Product Management team.",
+                        "geocode": {
+                            "lat": 37.7869417,
+                            "lng": -122.3996013,
+                            "formatted_address": "149 New Montgomery St 4th Floor, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Zoom Presentation Room"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Log off from work; put away laptop and tidy the desk to mentally disconnect.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Weekly grocery run for fresh produce and dinner ingredients.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Safeway"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner together with her partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Eat dinner and catch up on the day's events with her partner.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Unwind by reading a new novel and listening to a record.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Living Room Couch"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: skincare and preparing for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Bathroom"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Aiko, a Senior Data Scientist, balancing deep technical work with a stakeholder presentation. The day is bookended by a scenic morning run along the Marina and a relaxing evening cooking and dining with her partner.",
+                "home_address": "3199 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8060726,
+                    "lng": -122.4401602,
+                    "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

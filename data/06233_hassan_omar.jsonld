@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Omar Hassan",
+    "givenName": "Omar",
+    "familyName": "Hassan",
+    "jobTitle": "Process Improvement Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Omar Hassan\u2019s life began as a bridge between two worlds. The only child of an Egyptian structural engineer and a librarian who emigrated from Alexandria to Fremont in the late 1970s, he was raised on a dual diet of logic and lore. His childhood was a quiet tension between the mathematical precision of his father\u2019s blueprints and the sprawling, ancient narratives from his mother\u2019s homeland. This duality shaped his path, leading him to pursue a Master's in Urban Planning at UC Berkeley, an attempt to organize the chaos of human society into a functional, beautiful system.\n\nHis key turning point came during a city planning internship. He was met with crushing bureaucracy and glacial progress, his detailed proposals lost in endless committee meetings. Disillusioned, he was drawn to the seductive efficiency of the tech world, which promised rapid iteration and measurable impact. He pivoted, leveraging his analytical mind for a new purpose. He landed in process improvement, discovering he could apply the same systems-thinking he\u2019d honed for cities to corporate workflows, only with much faster results.\n\nNow 40, Omar manages a team remotely from his meticulously organized apartment in Hayes Valley. His 0.0-mile commute affords him a structured day: a morning run through the Panhandle, a deep work block until noon, then lunch from a local Venezuelan caf\u00e9. His home is his sanctuary, minimalist and functional, with the only decorations being architectural prints of future cities and a single, intricate Egyptian backgammon board. His social life is tight-knit, revolving around a handful of friends from grad school and former colleagues for board game nights or dinners in the Mission.\n\nHis connection to San Francisco is deeply rooted in his former passion. He chose Hayes Valley for its human scale and walkability\u2014a pocket of the city that feels intentionally designed. While he excels in his career, a quiet dream persists: to one day launch a civic-tech venture, finally merging his talent for optimization with his original desire to build better communities. For now, he finds solace in improving the systems he can control, hoping to one day apply those lessons to the city unfolding just outside his window."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, shower, get dressed, and check morning headlines.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home on Irving St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Walk to a local spot for a morning latte and a pastry to start the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Andytown Coffee Roasters"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work across town, listening to a healthcare innovation podcast.",
+                        "geocode": {
+                            "lat": 37.7738087,
+                            "lng": -122.4628488,
+                            "formatted_address": "Fulton St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Omar's Car on Fulton St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at the office, review the day's calendar, and prioritize tasks.",
+                        "geocode": {
+                            "lat": 37.8099823,
+                            "lng": -122.2640594,
+                            "formatted_address": "1 Kaiser Plaza, Oakland, CA 94612, USA"
+                        },
+                        "duration": 30,
+                        "location": "Kaiser Permanente Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Deep work session: analyzing patient flow data for the Emergency Department to identify bottlenecks.",
+                        "geocode": {
+                            "lat": 37.8099823,
+                            "lng": -122.2640594,
+                            "formatted_address": "1 Kaiser Plaza, Oakland, CA 94612, USA"
+                        },
+                        "duration": 120,
+                        "location": "Kaiser Permanente Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Meet with the Head Nurse of Pediatrics to map their current intake process and gather requirements for improvement.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 75,
+                        "location": "Kaiser SF Medical Center, Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to a nearby classic spot for a quick and delicious sandwich away from the hospital.",
+                        "geocode": {
+                            "lat": 37.775658,
+                            "lng": -122.4581416,
+                            "formatted_address": "782 Arguello Blvd, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Arguello Super Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Build a data dashboard in Tableau to visualize the findings from the morning's analysis.",
+                        "geocode": {
+                            "lat": 37.8099823,
+                            "lng": -122.2640594,
+                            "formatted_address": "1 Kaiser Plaza, Oakland, CA 94612, USA"
+                        },
+                        "duration": 120,
+                        "location": "Kaiser Permanente Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udfeb",
+                        "action": "Present a project update on improving lab result turnaround times to the operations steering committee.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kaiser SF Medical Center, Grand Rounds Auditorium"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Commute home, cutting through the park as the city winds down.",
+                        "geocode": {
+                            "lat": 37.7697474,
+                            "lng": -122.4787624,
+                            "formatted_address": "Crossover Dr, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Omar's Car on Crossover Drive"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Change and go for a refreshing run along the Great Highway to clear the mind.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Ocean Beach Promenade"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Pick up a well-earned mission-style burrito for dinner from a neighborhood favorite.",
+                        "geocode": {
+                            "lat": 37.7795096,
+                            "lng": -122.3907097,
+                            "formatted_address": "128 King St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 15,
+                        "location": "The Taco Shop at Underdogs"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while watching a new documentary on a streaming service.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Tidy up, pack gym bag for the next day, and read a chapter of a non-fiction book before sleep.",
+                        "geocode": {
+                            "lat": 37.763288,
+                            "lng": -122.4837097,
+                            "formatted_address": "Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home on Irving St"
+                    }
+                ],
+                "day_overview": "A productive day for Omar, balancing deep analytical work and stakeholder meetings at the hospital with a de-stressing evening run along Ocean Beach and a classic burrito in his Outer Sunset neighborhood.",
+                "home_address": "3182 Irving St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7631279,
+                    "lng": -122.4920478,
+                    "formatted_address": "3182 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Hassan Family"
+    }
+}

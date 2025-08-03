@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Senior Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life has been a quiet rebellion against predictability. Raised in Ann Arbor, Michigan, by two history professors, her childhood was a structured world of libraries, academic debates, and neatly organized summers. She was expected to follow a similar path, but while she inherited her parents\u2019 analytical minds, she was drawn not to the past, but to the patterns that could predict the future. This led her to a Master's degree in Computational Linguistics, a field that perfectly merged her love for language with the elegant logic of data.\n\nDrawn by the tech boom of the early 2010s, Sarah moved to San Francisco, initially joining a massive, prestigious tech firm. The first few years were a blur of ambition, long hours in a glass-walled office, and the thrill of living in a city that vibrated with innovation. However, a major corporate restructuring that rendered her team\u2019s year-long project obsolete served as a brutal turning point. The meaning she sought in her work vanished, replaced by a profound sense of burnout.\n\nThis crisis prompted Sarah to redefine success. She left the corporate giant for a mid-sized health tech company that championed remote work and a mission she believed in. Today, her 0.0-mile commute is a cherished symbol of her reclaimed life. Her apartment in the Inner Richmond is both her office and her sanctuary. Mornings begin not with a crowded MUNI, but with a walk to a local bakery for an almond croissant, followed by a foggy stroll through Golden Gate Park before she logs on.\n\nHer social life, once a flurry of industry mixers, is now small and intentional, revolving around a weekly pottery class and a tight-knit group of friends who prefer hiking the Marin Headlands to bar hopping. Sarah finds a deep connection to San Francisco through its accessible nature and neighborhood feel. Her dream is no longer to climb a corporate ladder, but to eventually use her data analysis skills for a local environmental non-profit, finding the story not in user clicks, but in the restoration of the bay."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and guided meditation with a mindfulness app.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat breakfast: Greek yogurt with berries and a pour-over coffee using beans from a local roaster.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in smart-casual tech attire, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and commute to work on the 22 Fillmore Muni bus, listening to a data science podcast.",
+                        "geocode": {
+                            "lat": 37.7701674,
+                            "lng": -122.4299429,
+                            "formatted_address": "22 Fillmore St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Muni Bus 22 - Fillmore Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the co-working space, grab a sparkling water, and review Slack messages and emails to prioritize daily tasks.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "AvantSpace Cow Hollow"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: Running complex SQL queries and performing initial exploratory data analysis for a new feature launch.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 120,
+                        "location": "Dedicated Desk at AvantSpace"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Team sync-up via Zoom to discuss project blockers and progress on quarterly goals.",
+                        "geocode": {
+                            "lat": 37.75087389999999,
+                            "lng": -122.4162826,
+                            "formatted_address": "1398 S Van Ness Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Phone Booth at AvantSpace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy, quick lunch bowl.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Union Street Provisions"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon focus: Build a data visualization dashboard in Tableau to present key findings to stakeholders.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 150,
+                        "location": "Dedicated Desk at AvantSpace"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Take the 22 Fillmore bus home, switching from podcast to a curated playlist to decompress.",
+                        "geocode": {
+                            "lat": 37.7701674,
+                            "lng": -122.4299429,
+                            "formatted_address": "22 Fillmore St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "Muni Bus 22 - Fillmore Line"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "De-stress from the day with a vinyasa flow class.",
+                        "geocode": {
+                            "lat": 37.79832409999999,
+                            "lng": -122.4271696,
+                            "formatted_address": "1694 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Pad Studios"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Pick up a few fresh ingredients for dinner and tomorrow's lunch.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mollie Stone's Markets"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat a simple homemade salmon and roasted vegetable dinner while listening to music.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel on the couch with a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A productive day for a Senior Data Analyst, balancing focused work at a Cow Hollow co-working space with a healthy lunch, an evening yoga class in her Lower Pac Heights neighborhood, and a quiet night in.",
+                "home_address": "2180 Bush St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7871668,
+                    "lng": -122.4331642,
+                    "formatted_address": "2180 Bush St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

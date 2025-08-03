@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jones",
+    "givenName": "Sarah",
+    "familyName": "Jones",
+    "jobTitle": "Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jones\u2019s life began not in the fog of San Francisco, but under the relentless sun of suburban Sacramento. The daughter of a pragmatic history teacher and a detail-oriented accountant, she was raised with a belief in hard work and stable foundations. An early idealism, however, led her to UC Berkeley for her graduate studies, where she earned a Master's in Public Policy, dreaming of shaping a more equitable society from within government.\n\nReality, however, had sharper edges. Faced with student debt and a competitive public sector job market, Sarah took a \"temporary\" analyst position at a large investment firm in San Francisco. She discovered an unexpected aptitude for the dispassionate logic of markets and a hidden talent for forecasting trends. The 2008 financial crisis was her crucible. While others panicked, she found a grim clarity in the chaos, solidifying her career pivot. She survived the layoffs, distinguishing herself with her calm demeanor and meticulous work. This intense focus came at a cost, contributing to the slow, amicable end of her only long-term relationship.\n\nNow 51, Sarah\u2019s world is contained within the elegant confines of her Hayes Valley condo, her commute a ten-second walk from her bedroom to her home office. Her days are a disciplined ritual: a brisk morning walk to Patricia's Green for coffee, followed by hours immersed in spreadsheets and global market reports. She is a ghost in the financial machine, her contributions vital but invisible. Her connection to San Francisco is more atmospheric than social; she loves the Victorian architecture on her street and the cool kiss of the evening fog, but feels detached from the city\u2019s frenetic energy.\n\nLately, a quiet restlessness has taken root. Financially secure but spiritually adrift, the ideals of her youth have begun to resurface. Sarah finds herself researching impact investing and exploring volunteer opportunities on non-profit boards. Her quiet aspiration is to build a bridge between the two halves of her life: to use the wealth and analytical skills she has painstakingly acquired to finally fund the kind of meaningful change she once dreamed of creating."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, check market news on tablet, and enjoy a fresh-brewed coffee while listening to the distant foghorns.",
+                        "geocode": {
+                            "lat": 37.7534521,
+                            "lng": -122.4991024,
+                            "formatted_address": "3302 Noriega St, San Francisco, CA 94116"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a brisk, refreshing walk to clear her head before the day begins, enjoying the cool morning air.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Ocean Beach Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Get dressed for work and prepare for the cross-city commute.",
+                        "geocode": {
+                            "lat": 37.7534521,
+                            "lng": -122.4991024,
+                            "formatted_address": "3302 Noriega St, San Francisco, CA 94116"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across the city, listening to an economics podcast to catch up on global trends.",
+                        "geocode": {
+                            "lat": 37.787552,
+                            "lng": -122.4066183,
+                            "formatted_address": "Union Square, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "The Great Highway to Downtown"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Park the car and walk the final few blocks to the office, feeling the city's morning energy.",
+                        "geocode": {
+                            "lat": 37.7945968,
+                            "lng": -122.3965369,
+                            "formatted_address": "Embarcadero Ctr, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Embarcadero Center Parking Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Settle in at her desk, review overnight market performance, and finalize a presentation on Q3 earnings forecasts.",
+                        "geocode": {
+                            "lat": 37.7940487,
+                            "lng": -122.3973037,
+                            "formatted_address": "50 California St #1500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 240,
+                        "location": "Regus - 50 California Street Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a well-deserved break for a healthy, quick lunch, grabbing a sizable salad to eat at a nearby plaza.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Mixt - Financial District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Lead a video conference call with the East Coast team to discuss investment strategies and risk assessment.",
+                        "geocode": {
+                            "lat": 37.7940487,
+                            "lng": -122.3973037,
+                            "formatted_address": "50 California St #1500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 90,
+                        "location": "Regus - 50 California Street Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Perform deep-dive analysis on a new potential acquisition target, building financial models in Excel.",
+                        "geocode": {
+                            "lat": 37.7940487,
+                            "lng": -122.3973037,
+                            "formatted_address": "50 California St #1500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 120,
+                        "location": "Regus - 50 California Street Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Begin the commute home, navigating the evening rush hour traffic out of downtown.",
+                        "geocode": {
+                            "lat": 37.7467314,
+                            "lng": -122.4863492,
+                            "formatted_address": "Sunset District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Fremont St to Sunset District"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries for tonight's dinner and a few essentials for the week.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Other Avenues Grocery Co-op"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Arrive home, change into casual clothes, and catch up with her partner about their respective days.",
+                        "geocode": {
+                            "lat": 37.7534521,
+                            "lng": -122.4991024,
+                            "formatted_address": "3302 Noriega St, San Francisco, CA 94116"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Prepare and enjoy a home-cooked meal together, savoring a glass of wine from a Sonoma winery.",
+                        "geocode": {
+                            "lat": 37.7534521,
+                            "lng": -122.4991024,
+                            "formatted_address": "3302 Noriega St, San Francisco, CA 94116"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch with her partner, watching a new episode of a favorite crime drama series.",
+                        "geocode": {
+                            "lat": 37.7534521,
+                            "lng": -122.4991024,
+                            "formatted_address": "3302 Noriega St, San Francisco, CA 94116"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a few chapters of a historical fiction novel.",
+                        "geocode": {
+                            "lat": 37.7534521,
+                            "lng": -122.4991024,
+                            "formatted_address": "3302 Noriega St, San Francisco, CA 94116"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured and productive day for a senior Financial Analyst, balancing a demanding career in the Financial District with a relaxed home life with her partner in the Outer Sunset, making time for both professional analysis and personal well-being.",
+                "home_address": "3302 Noriega St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7534521,
+                    "lng": -122.4991024,
+                    "formatted_address": "3302 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1973",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jones Family"
+    }
+}

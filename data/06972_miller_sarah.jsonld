@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Environmental Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Environmental Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s environmentalism was born not in a classroom, but in the damp, moss-covered forests of coastal Oregon. Raised in a small town by a high school teacher and a hardware store owner, her childhood was a collage of hiking trips, tide pooling, and an innate understanding of the natural world\u2019s delicate balance. A contentious logging debate that threatened an old-growth forest near her home during her teens was the turning point, transforming her passive appreciation into an active calling.\n\nShe pursued a Bachelor of Science in Environmental Science at UC Santa Cruz, where her passion found an academic and social home. Surrounded by peers who shared her drive, she thrived, interning with a local conservation group that monitored watershed health. After graduating, a job offer as an Environmental Consultant brought her north to San Francisco, a city she saw as a fascinating paradox of progressive ideals and immense environmental challenges.\n\nNow 25, Sarah\u2019s life is centered in her small Outer Richmond apartment, which also serves as her office. Her 0.0-mile commute is a deliberate choice, allowing her to begin each day not with traffic, but with a brisk, foggy run through Golden Gate Park. Her work involves guiding corporate clients through the labyrinth of environmental regulations, a pragmatic role she sometimes struggles with. She finds satisfaction in nudging a corporation towards sustainability but feels a persistent pull to do more direct, hands-on work.\n\nHer connection to San Francisco is hyperlocal. She knows the baristas at her corner coffee shop by name and spends weekends hiking the Marin Headlands with a tight-knit circle of friends, mostly fellow UCSC alumni. Her social life is built around bonfires at Ocean Beach and exploring the city\u2019s farmers' markets. While content, Sarah aspires to transition from consulting to policy, hoping to one day work for the city or a land trust where she can help shape the environment directly, not just advise on it. She dreams of a future where her efforts are visible in a restored creek or a newly protected green space within the urban sprawl she now calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf05",
+                        "action": "Wake up, drink a glass of water, and do a quick stretching routine to views of the bay.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk morning jog along the waterfront, enjoying the view of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8036909,
+                            "lng": -122.4685139,
+                            "formatted_address": "Crissy Field Ave, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 45,
+                        "location": "Crissy Field Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business-casual attire, and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Eat breakfast (avocado toast and coffee) with partner, discussing plans for the evening.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Commute to work by e-bike, taking a scenic and hilly route through the Presidio.",
+                        "geocode": {
+                            "lat": 37.8021445,
+                            "lng": -122.4585086,
+                            "formatted_address": "Presidio Promenade Trail, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 35,
+                        "location": "Presidio Promenade Trail"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, review emails, and outline primary tasks for a watershed protection plan.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 30,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Deep work session: analyze GIS data for a habitat restoration project and attend a virtual client meeting.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 150,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to a local favorite spot for a turkey sandwich and a quick break from the screen.",
+                        "geocode": {
+                            "lat": 37.7955805,
+                            "lng": -122.393411,
+                            "formatted_address": "Ferry Building, The Embarcadero, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Marla Bakery"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Continue writing and editing a detailed Environmental Impact Statement (EIS) for a municipal client.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 180,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute home, taking a slightly different route along Lake Street for a change of scenery.",
+                        "geocode": {
+                            "lat": 37.7861976,
+                            "lng": -122.4755316,
+                            "formatted_address": "Lake St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Lake Street / Presidio"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop for groceries to pick up fresh ingredients for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7972661,
+                            "lng": -122.4352658,
+                            "formatted_address": "2190 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 25,
+                        "location": "Luke's Local on Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a healthy salmon and quinoa dinner with partner while catching up on the day's events.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Meet up with a friend from college for a cocktail and conversation at a lively neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.8006796,
+                            "lng": -122.4364833,
+                            "formatted_address": "2001 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Dorian"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel, tidying up, and preparing her bag for tomorrow.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home on Marina Blvd"
+                    }
+                ],
+                "day_overview": "A productive day for Sarah, an Environmental Consultant, balancing focused report writing with a refreshing bike commute through the Presidio, and ending with social time with her partner and a friend in her Marina neighborhood.",
+                "home_address": "1155 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.80496890000001,
+                    "lng": -122.4480374,
+                    "formatted_address": "1155 Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

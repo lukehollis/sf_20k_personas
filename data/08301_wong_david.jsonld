@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Wong",
+    "givenName": "David",
+    "familyName": "Wong",
+    "jobTitle": "Community Health Director",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Wong is a cornerstone of his community, a man whose life is as interwoven with the streets of San Francisco as the fog is with the Golden Gate. Born in 1970, he grew up in the Outer Richmond, the son of a bustling Stockton Street restaurant cook and a quiet, diligent garment factory seamstress. His childhood was a blend of Cantonese tradition at home and American ambition at school, defined by the scent of his mother\u2019s sewing machine oil and the savory steam from his father's kitchen. His parents, sacrificing everything for his future, envisioned a lucrative career for him\u2014a doctor or an engineer.\n\nInitially, David tried to follow that path, enrolling in pre-med at SF State. However, the turning point of his life arrived not in a classroom, but on the city's streets during the height of the AIDS crisis in the late 1980s. Witnessing the fear, the grief, and the incredible resilience of community-led organizations providing care when others looked away, David felt a profound shift. He realized his calling wasn't in treating individual ailments, but in healing the community itself. He abandoned his pre-med track and later earned a Master of Public Health from UC Berkeley, focusing on urban health disparities.\n\nHis career was a steady climb from the ground up: a case worker in the Tenderloin, then a program manager for a youth outreach service, and for the past twelve years, the Community Health Director for a clinic on the border of Chinatown and North Beach. The 0.0-mile commute is literal; he lives in a modest apartment above the clinic, his work and life seamlessly integrated.\n\nNow 54 and divorced for over a decade, David's days are filled with grant writing, staff meetings, and, most importantly, walking his neighborhood. He knows the grocers, the seniors playing mahjong in Portsmouth Square, and the young families struggling with rent. He isn't just a director; he's a neighbor. His hope isn't for retirement or riches, but for something far more fundamental: to secure stable funding for the clinic and to see the next generation of community leaders step up. David Wong\u2019s dream is to one day look out from his apartment window and see a community that is not just surviving, but thriving."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, brief stretching, and mindfulness meditation to start the day centered.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Enjoy a strong pour-over coffee while reading the SF Chronicle and key healthcare journals online.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare and eat a healthy breakfast of Greek yogurt with berries and walnuts.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to SoMa, navigating morning traffic on Lombard and Van Ness while listening to an public health podcast.",
+                        "geocode": {
+                            "lat": 37.8166821,
+                            "lng": -122.2903482,
+                            "formatted_address": "2121 Peralta St Suite 122, Oakland, CA 94607, USA"
+                        },
+                        "duration": 40,
+                        "location": "Car on SF Surface Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Settle in at the office, review the day's calendar, and sort through priority emails.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead a strategy meeting with the community health team to review Q3 outreach program metrics.",
+                        "geocode": {
+                            "lat": 37.7850045,
+                            "lng": -122.4004816,
+                            "formatted_address": "Yerba Buena, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Unity Conference Room 'Yerba Buena'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a healthy salad for lunch and eat in the fresh air to decompress.",
+                        "geocode": {
+                            "lat": 37.7849884,
+                            "lng": -122.4023514,
+                            "formatted_address": "Yerba Buena Gardens, 750 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Yerba Buena Gardens"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep focus work: analyzing data from a recent digital wellness pilot program and drafting a report for stakeholders.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Virtual sync with a community partner from the SF-Marin Food Bank to discuss a corporate volunteer initiative.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Drive home, navigating the evening rush out of downtown.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Car on Franklin & Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a brisk power walk along the waterfront with views of Alcatraz and the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 50,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh salmon and asparagus for dinner.",
+                        "geocode": {
+                            "lat": 37.7972661,
+                            "lng": -122.4352658,
+                            "formatted_address": "2190 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Luke's Local on Union Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Cook a healthy dinner while listening to a jazz playlist.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 65,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Relax on the couch and read a few chapters of a new non-fiction book.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    }
+                ],
+                "day_overview": "A structured day for a senior health professional, balancing strategic meetings at a SoMa tech company with a healthy, active lifestyle anchored in his Marina neighborhood.",
+                "home_address": "3556 Fillmore St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.8022635,
+                    "lng": -122.4365719,
+                    "formatted_address": "3556 Fillmore St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1970",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

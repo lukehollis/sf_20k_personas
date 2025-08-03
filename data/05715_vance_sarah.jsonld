@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Vance",
+    "givenName": "Sarah",
+    "familyName": "Vance",
+    "jobTitle": "Manufacturing Technician III",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Vance\u2019s world is measured in microns and solder points, a stark contrast to her upbringing in the sprawling, sun-baked landscape of California's Central Valley. Raised in Modesto, her father was a meticulous auto mechanic who taught her the language of machinery in their greasy home garage. While her peers were focused on high school dances, Sarah found a deeper satisfaction in diagnosing a faulty engine or rebuilding a carburetor. This practical inclination led her to a local community college, where she earned an Associate's degree in Industrial Technology, a credential that felt more useful to her than any liberal arts diploma.\n\nHer early career was spent in a large-scale manufacturing plant, a world of repetitive tasks and union regulations. The turning point came a decade ago when the plant, a casualty of outsourcing, shuttered its doors. At 31, Sarah was adrift. It was a flyer on a community bulletin board that changed everything: a San Francisco-based boutique firm needed a skilled technician for custom robotics assembly. It felt like a long shot, a world away from everything she knew.\n\nShe got the job. Today, Sarah is the lead Manufacturing Technician at a small, innovative hardware company in the Dogpatch. Her 0.0-mile commute is a testament to her unique living situation: she resides in a minimalist loft apartment directly above the workshop floor. Her days begin not with traffic, but with the familiar hum of CNC machines and 3D printers warming up. She is a master of her craft, valued for her steady hands and an almost intuitive understanding of complex electromechanical systems.\n\nHer social life is small but meaningful, revolving around her handful of brilliant, quirky colleagues. They are her work-family, sharing beers at a nearby brewery after a complex build or celebrating a successful prototype. Having navigated a painful breakup years ago, she prioritizes the stability she has painstakingly built. San Francisco isn't a city of landmarks to Sarah; it's the Dogpatch, her self-contained universe of industry and creation. Her dream is to one day open her own small workshop, crafting bespoke technological pieces. For now, she finds a quiet, profound fulfillment in her work, a master artisan in a city obsessed with the next big thing, building its future one perfect component at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf2b\ufe0f",
+                        "action": "Wake up to the sound of foghorns, check notifications, and start the coffee pot.",
+                        "geocode": {
+                            "lat": 37.7538372,
+                            "lng": -122.5031132,
+                            "formatted_address": "1758 44th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Noriega Home Base"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Morning jog along the water's edge to get some fresh, salty air before the day begins.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in comfortable work-from-home attire, and eat a quick breakfast.",
+                        "geocode": {
+                            "lat": 37.7538372,
+                            "lng": -122.5031132,
+                            "formatted_address": "1758 44th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 35,
+                        "location": "Noriega Home Base"
+                    },
+                    {
+                        "emoji": "\ud83d\udda5\ufe0f",
+                        "action": "Begin the 'commute' by walking into the spare bedroom and powering on the workstations.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "The Command Center (Home Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Review overnight production logs from the automated fabrication systems at the Minna St. facility.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Command Center (Home Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Lead the daily virtual stand-up meeting, coordinating with on-site engineers and other remote technicians.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Command Center (Home Office)"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Troubleshoot a calibration error on a CNC machine by remotely accessing its diagnostic software.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "The Command Center (Home Office)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Step away from the screen for lunch, grabbing a burrito bowl from a favorite local spot.",
+                        "geocode": {
+                            "lat": 37.762408,
+                            "lng": -122.506871,
+                            "formatted_address": "4542 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Hook Fish Co."
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Write and update Standard Operating Procedure (SOP) documentation for a new assembly process.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "The Command Center (Home Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Sign off for the day, closing the laptop and officially ending the workday.",
+                        "geocode": {
+                            "lat": 37.7538372,
+                            "lng": -122.5031132,
+                            "formatted_address": "1758 44th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 5,
+                        "location": "Noriega Home Base"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walk to the local grocery store to pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "Other Avenues Grocery Cooperative"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner with her partner, catching up on each other's day while preparing a meal.",
+                        "geocode": {
+                            "lat": 37.7538372,
+                            "lng": -122.5031132,
+                            "formatted_address": "1758 44th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 75,
+                        "location": "Noriega Home Base"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Eat dinner and relax on the couch, watching a new documentary series together.",
+                        "geocode": {
+                            "lat": 37.7538372,
+                            "lng": -122.5031132,
+                            "formatted_address": "1758 44th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "Noriega Home Base"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the evening by reading a book and tidying up the living room.",
+                        "geocode": {
+                            "lat": 37.7538372,
+                            "lng": -122.5031132,
+                            "formatted_address": "1758 44th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "Noriega Home Base"
+                    }
+                ],
+                "day_overview": "A productive remote work day for Sarah, a Manufacturing Technician in the Outer Sunset. The day balances technical tasks with the neighborhood's coastal charm, ending with quality time with her partner.",
+                "home_address": "2742 Noriega St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7537442,
+                    "lng": -122.4933083,
+                    "formatted_address": "2742 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Vance Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Nguyen",
+    "givenName": "Sarah",
+    "familyName": "Nguyen",
+    "jobTitle": "Transportation Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Spiritual but not religious"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Logistics Professionals"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Transportation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Nguyen\u2019s story is woven into the very fabric of San Francisco, a city she has known since she was a toddler. Born in Vietnam, she arrived with her parents in 1975, part of the wave of refugees seeking sanctuary after the fall of Saigon. Her family\u2019s first home was a cramped apartment in the Tenderloin, where the vibrant, chaotic streets became her first playground. Her parents worked multiple low-wage jobs, instilling in Sarah a formidable work ethic and a deep appreciation for stability.\n\nForegoing a traditional four-year university experience to help support her family, Sarah enrolled at City College of San Francisco. She earned an Associate's degree in Business Administration, a practical choice designed to secure immediate, steady employment. Shortly after graduating, she landed an entry-level clerical position with the San Francisco Municipal Transportation Agency (SFMTA). It wasn't glamorous, but it was a union job with benefits\u2014the kind of security her parents had dreamed of.\n\nOver the next three decades, Sarah became institutional memory. Meticulously organized and unflappable, she rose through the ranks to her current role as a Transportation Coordinator. She knows the city not by its landmarks, but by its bus routes, driver shift changes, and maintenance schedules. She is the unseen force ensuring thousands of daily commutes run smoothly.\n\nA key turning point came ten years ago. Tired of a long crosstown commute, Sarah used her savings to secure a small Below Market Rate (BMR) condo in the Dogpatch, just a stone's throw from a major Muni operations facility. This decision, resulting in a 0.0-mile commute, reshaped her life, granting her invaluable time and peace.\n\nHer days are now marked by a quiet routine. She walks to work, knows the local cafe owner by name, and spends evenings tending to her small balcony garden. Single and content, her social life revolves around a tight-knit group of colleagues and her duty to her now-elderly parents. Her dream isn't for wealth or notoriety, but to one day take a long, unhurried trip to Vietnam, to see her parents\u2019 homeland through her own eyes. Sarah Nguyen is the steadfast, beating heart of San Francisco\u2014not the one tourists see, but the one that keeps the city moving."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, start the coffee maker, and check work emails for any overnight transportation emergencies.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Quick breakfast of yogurt and granola while listening to the KCBS news radio update.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5a",
+                        "action": "Get dressed and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, navigating morning traffic across the city via Divisadero Street.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe5",
+                        "action": "Arrive at the hospital, park, and begin the day's primary tasks: coordinating patient discharges, scheduling non-emergency medical transports, and handling inbound requests from nursing stations.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 180,
+                        "location": "UCSF St. Mary's Hospital - Transport Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a quick lunch break, picking up a custom salad to-go and eating in the hospital's dedicated staff breakroom.",
+                        "geocode": {
+                            "lat": 37.7676755,
+                            "lng": -122.4503599,
+                            "formatted_address": "Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Pluto's on Cole Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Attend a daily logistics huddle with representatives from Patient Admitting and Social Work to review complex upcoming transport needs.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF St. Mary's Hospital - Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Manage afternoon workflow: troubleshoot transport delays, arrange last-minute transfers, and pre-plan the schedule for the following day.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF St. Mary's Hospital - Transport Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Commute home, taking Fell Street and heading north to the Marina.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly grocery essentials and to pick up something for dinner.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 35,
+                        "location": "Marina Safeway"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Unwind from the day with a brisk walk along the water, enjoying the view of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Prepare and eat dinner with her partner, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watching an episode of a favorite streaming series with her partner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: pack work bag for the morning, brush teeth, and read a few pages of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A busy day for Sarah, managing complex patient transportation logistics at St. Mary's Hospital, bookended by a stressful commute across town. The evening focuses on decompressing with a scenic walk along the waterfront and quality time with her partner at their Marina home.",
+                "home_address": "1934 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8060726,
+                    "lng": -122.4401602,
+                    "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1972",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Nguyen Family"
+    }
+}

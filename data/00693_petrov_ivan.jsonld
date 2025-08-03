@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ivan Petrov",
+    "givenName": "Ivan",
+    "familyName": "Petrov",
+    "jobTitle": "Automotive Mechanic",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "The scent of gasoline and old oil is the first thing Ivan Petrov registers each morning. It\u2019s the constant perfume of his life, seeping up from the garage into the small apartment above where he lives and sleeps. Born in Leningrad in the waning days of the Soviet Union, Ivan\u2019s world was one of concrete and gears. His father, a stoic factory foreman, taught him the practical language of machinery, and by sixteen, Ivan could diagnose a sputtering Lada engine by sound alone. He finished his vocational schooling just as the world he knew dissolved into the economic chaos of 1990s Russia.\n\nHis turning point came at age 22, watching his opportunities rust away alongside the abandoned state projects. With a few hundred dollars and the address of a distant cousin, he landed in San Francisco, a city of bewildering hills and oceanic fog. He found his asylum not in the city\u2019s vibrant culture, but in the familiar clamor of an auto shop in the Outer Richmond. He started by sweeping floors, his thick accent a barrier, but his hands spoke a universal language. Within a decade, through relentless work and shrewd saving, he bought the business from his retiring boss.\n\nIvan\u2019s life is a self-contained loop. His 0.0-mile commute is a short walk down a flight of wooden stairs. His social connections are the neighborhood regulars who trust him with their cars\u2014the retired teacher with her old Volvo, the chef with his temperamental delivery van. A brief, early marriage dissolved under the weight of his long hours and quiet nature. Now, he finds a muted companionship in the Russian-language talk radio that fills the garage and the occasional shared vodka with a few old friends at a nearby Russian deli.\n\nHis connection to San Francisco is tethered to this single block. He is a fixture of the neighborhood, a remnant of an older, more practical city. Ivan\u2019s dreams are not grand; he doesn\u2019t pine for wealth or a house with a view. He hopes only to keep the shop running, to feel the satisfying click of a well-seated part, and to one day retire with enough peace to sit by the ocean and simply watch the fog roll in, a quiet observer to the end."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe remembers being fifteen in the cramped concrete garage in Leningrad. His father\u2019s Lada was sputtering, a familiar, sickly cough. The old man said nothing, just looked at the engine and then at Ivan. Ivan reached for the 8mm wrench, his hand steady. After the adjustment, the engine hummed. His father gave a single, curt nod. In that silent gesture of approval, Ivan felt a profound belonging. It taught him that respect was earned not with words, but with capable hands.\n\n2.\nAt 22, San Francisco was a roaring, unintelligible beast. He felt utterly adrift until he stepped into the Outer Richmond garage. The owner, a gruff Portuguese man, pointed to a broom. As Ivan swept, the familiar scent of oil and old gasoline cut through the alien air. For the first time since landing, he could breathe. This city wasn't a strange culture to navigate; it was an engine with problems to be solved. And an engine, he understood.\n\n3.\nThe day he bought the shop, his retiring boss didn't throw a party. He just handed Ivan the keys. They were heavy and worn, smelling faintly of solvent and metal. As Ivan\u2019s fingers closed around them, he didn\u2019t feel ambition, but a deep, grounding security. This wasn\u2019t just a business; it was the anchor holding his entire world in place. He had finally purchased the one piece of solid ground he had ever known in America.\n\n4.\nHis ex-wife, Elena, once stood at the top of the stairs that separated their lives. \"Can't you leave the work downstairs?\" she asked, her nose wrinkled at the grease on his collar. He looked at his own hands, the grime worked deep into the lines of his palms. He realized then that the smell of the shop, his greatest comfort, was a wall between them he could never wash away. That quiet resignation felt heavier than any toolbox.\n\n5.\nLast winter, the teacher\u2019s old Volvo refused to yield. Well after closing, under the cold fluorescent lights, a part finally clicked into place and the engine turned over with a smooth, healthy hum. He wiped his hands on a rag and looked out the bay door at the fog rolling in, swallowing the streetlights whole. The perfect sound of the restored engine and the quiet advance of the fog merged into a single moment of profound contentment. This, he knew, was enough."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7703862,
+                            "lng": -122.4175806,
+                            "formatted_address": "3195 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 3195 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Make a hearty breakfast of oatmeal and coffee for himself and his elderly mother, chat about the day's plans.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the bus stop for his cross-town commute.",
+                        "geocode": {
+                            "lat": 37.7497029,
+                            "lng": -122.3973604,
+                            "formatted_address": "Cesar Chavez St, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Cesar Chavez & Potrero Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute across town, listening to a classic rock station on his phone.",
+                        "geocode": {
+                            "lat": 37.7676766,
+                            "lng": -122.4363333,
+                            "formatted_address": "24 Divisadero St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 55,
+                        "location": "Muni 24 Divisadero Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udd27",
+                        "action": "Arrive at the shop, clock in, and review the day's work orders with the service manager.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 20,
+                        "location": "Marina Auto Works"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Perform a complex diagnostic on a German sedan with electrical issues.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mechanic's Bay 3, Marina Auto Works"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Eat a packed lunch from home in the breakroom with his coworkers.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 45,
+                        "location": "Marina Auto Works Breakroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udd29",
+                        "action": "Complete a routine brake replacement and tire rotation on a customer's SUV.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mechanic's Bay 3, Marina Auto Works"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Clean his work bay, put away tools, and log his hours and repair notes into the shop's computer system.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 25,
+                        "location": "Marina Auto Works"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Begin the commute home on public transit, catching up on local news on his phone.",
+                        "geocode": {
+                            "lat": 37.7861363,
+                            "lng": -122.4059941,
+                            "formatted_address": "30 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "Muni 30 Stockton Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udc8a",
+                        "action": "Stop at the local pharmacy to pick up a prescription refill for his mother.",
+                        "geocode": {
+                            "lat": 37.7398411,
+                            "lng": -122.4113891,
+                            "formatted_address": "Bernal Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Bernal Heights Community Pharmacy"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Cook a simple but filling dinner of goulash and bread while catching up with his mom about her day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner and watch an old spy movie together on television.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Tidy up the kitchen, pack his lunch for the next day, and lay out his work clothes.",
+                        "geocode": {
+                            "lat": 37.7703862,
+                            "lng": -122.4175806,
+                            "formatted_address": "3195 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 3195 Howard St"
+                    }
+                ],
+                "day_overview": "A routine day for Ivan, a dedicated auto mechanic, balancing a physically demanding job in the Marina with caring for his elderly parent in their Bernal Heights home. His day is structured around a long public transit commute and practical, home-based evening activities.",
+                "home_address": "3195 Howard St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7703862,
+                    "lng": -122.4175806,
+                    "formatted_address": "3195 Howard St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1974",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Petrov Family"
+    }
+}

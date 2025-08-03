@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Huang",
+    "givenName": "Mei",
+    "familyName": "Huang",
+    "jobTitle": "Home Health Aide",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Huang\u2019s life began not amidst the fog of San Francisco, but in the humid air of a small village in Guangdong, China. As the eldest daughter of rice farmers, her role was defined early: duty over dreams. Her high school education was a point of pride for her family, but it was understood that her future was one of labor and support, not academia.\n\nAt 25, sponsored by a distant cousin, Mei arrived in San Francisco. The American dream she'd imagined was quickly replaced by the stark reality of 14-hour days in a Chinatown garment factory. The work was grueling, the pay minimal, but she was disciplined, meticulously saving every possible dollar to send home. A turning point came when her cousin\u2019s elderly father had a stroke. Mei, with her innate patience and steady hands, became his informal caregiver. She discovered a quiet purpose in the act of caring for another, a sense of value that sewing buttons could never provide. This experience motivated her to leave the factory, take English classes at a local community college, and earn her Home Health Aide certification.\n\nFor the past seven years, Mei\u2019s world has been contained within the walls of a rambling Edwardian house in the Inner Richmond. Her 0.0-mile commute is the ten steps from her small basement room to the first floor, where she cares for Mrs. Eleanor Vance, a sharp-witted but physically frail 92-year-old. Mei\u2019s days are a structured routine of medications, meal preparation, physical assistance, and companionship. Their relationship has evolved from employer-employee to a complex, familial bond built on shared silence and Eleanor\u2019s stories of old San Francisco.\n\nMei\u2019s connection to the city exists in brief, cherished moments: a solitary walk through Golden Gate Park on her afternoon break, the familiar chatter of vendors at the Clement Street Farmers' Market, and monthly video calls with her family in China from a bench overlooking Mountain Lake. Her social life is sparse, limited to polite nods with neighbors and occasional conversations with Eleanor\u2019s few visitors.\n\nHer dream is not grand; it is specific and tangible. Mei squirrels away money, hoping one day to afford a down payment on a small condo in the Sunset\u2014a place that is truly hers. A home where her schedule isn't dictated by another's needs, and where she can finally unpack the life she has so carefully carried with her."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, perform light stretching exercises, and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Share a quick and energizing breakfast of congee and tea with her partner before he leaves for his job.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2640\ufe0f",
+                        "action": "Gear up and begin the challenging bicycle commute south, navigating down Powell and along the Market Street bike lanes.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, United States"
+                        },
+                        "duration": 45,
+                        "location": "San Francisco Bike Route Network"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Arrive at campus, lock her bike, and meet with her student client to review the day's class and study schedule.",
+                        "geocode": {
+                            "lat": 37.7240468,
+                            "lng": -122.4514019,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 15,
+                        "location": "City College of San Francisco - Ocean Campus"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Attend a Biology lecture with her client, assisting with note-taking and ensuring they are comfortable.",
+                        "geocode": {
+                            "lat": 37.7256557,
+                            "lng": -122.4510586,
+                            "formatted_address": "Science Hall, 50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 90,
+                        "location": "Science Hall at CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Accompany the client to a campus lab session, providing mobility support and setup assistance.",
+                        "geocode": {
+                            "lat": 37.7269517,
+                            "lng": -122.4493958,
+                            "formatted_address": "Cloud Cir, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 90,
+                        "location": "Batmale Hall Computer Lab"
+                    },
+                    {
+                        "emoji": "\ud83c\udf71",
+                        "action": "Eat a packed lunch of rice and vegetables while enjoying a moment of quiet people-watching.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ram Plaza at CCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Help the student with research and reading for a term paper in a quiet study area.",
+                        "geocode": {
+                            "lat": 37.7247007,
+                            "lng": -122.4493828,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 150,
+                        "location": "Rosenberg Library"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "End the shift by ensuring the student is safely situated and ready for their own transportation home.",
+                        "geocode": {
+                            "lat": 37.72569,
+                            "lng": -122.4510797,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 15,
+                        "location": "CCSF Drop-off Zone"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5\u200d\u2640\ufe0f",
+                        "action": "Begin the strenuous uphill bike commute home, a true end-of-day workout.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "City Streets & Bike Lanes"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6c",
+                        "action": "Stop to pick up fresh greens and tofu for dinner from a familiar neighborhood market.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Stockton Street Market"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Arrive home, take a refreshing shower, and start preparing dinner with her partner.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment on Powell St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Eat a homemade Mapo Tofu dinner while catching up on the day's events with her partner.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Dining Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the sofa, sip jasmine tea, and stream an episode of a popular C-drama.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf92",
+                        "action": "Prepare her work bag and pack lunch and snacks for the next day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a book before turning off the lights.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A physically demanding but fulfilling day for Mei, balancing her caring role as a Home Health Aide, a challenging bike commute across the city, and quiet evening time with her partner in their Nob Hill apartment.",
+                "home_address": "843 Powell St, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.7922524,
+                    "lng": -122.410391,
+                    "formatted_address": "843 Powell St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Huang Family"
+    }
+}

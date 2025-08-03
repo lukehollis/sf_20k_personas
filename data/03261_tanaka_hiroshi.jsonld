@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Hiroshi Tanaka",
+    "givenName": "Hiroshi",
+    "familyName": "Tanaka",
+    "jobTitle": "CNC Machinist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Hiroshi Tanaka\u2019s world is contained within a single city block in San Francisco\u2019s Dogpatch neighborhood. His commute is a short flight of stairs from his loft apartment down to the industrial workshop of Tanaka Precision, a business founded by his grandfather, a man who arrived with little more than a talent for metalworking. Hiroshi grew up not with video games, but with the rhythmic hum of lathes and the sharp, clean smell of cutting fluid. His father, a man of quiet diligence, expected him to carry on the family legacy, a weight Hiroshi initially resisted.\n\nHis teenage years were a quiet rebellion. While his friends aimed for UCs and tech careers, Hiroshi doodled designs in notebooks, dreaming of a life in graphic art. However, a turning point came during a summer spent helping his aging father. Watching the CNC machine carve a complex component from a solid block of aluminum with micron-perfect precision, Hiroshi saw not just industry, but artistry. He realized the code he wrote for the machine was a different kind of design language. This epiphany led him to enroll at City College of San Francisco, earning an Associate\u2019s degree in Machine Tool Technology, fully committing to his inheritance.\n\nNow at 29, Hiroshi\u2019s life follows the cadence of the workshop. His day begins before the city truly wakes, calibrating machines and reviewing blueprints. His social circle is small but tight, consisting of other local artisans and brewers he meets in the neighborhood\u2014people who, like him, create tangible things with their hands. He is a man out of step with the city\u2019s digital tide, finding satisfaction in physical creation rather than virtual connection.\n\nHiroshi\u2019s dream is not to escape his legacy but to redefine it. He hopes to transition Tanaka Precision from industrial parts to bespoke, high-end components for local designers and architects. He envisions a future where the family name is synonymous not just with precision manufacturing, but with the art of metal itself, proving that in a city obsessed with the next new thing, true craftsmanship endures."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe was seven, and his grandfather's hands, tough as worn leather, guided his own small fingers over a finished steel gear. The old man didn't speak of tolerances or torque, but of \"honesty\" in the metal. Hiroshi remembers the cool weight of the gear and the sharp, clean scent of the workshop. It wasn\u2019t a factory to him then, but a sanctuary of creation. This planted the seed that what his family did was more than just a job; it was a form of truth-telling.\n\n2.\nAt sixteen, his father found his sketchbook filled with graphic designs. He didn\u2019t yell, but quietly held up one of Hiroshi's drawings next to a complex technical blueprint. \"This has imagination,\" his father said, pointing to the sketchbook. \"This has purpose. You must find a way to make them the same thing.\" The quiet disappointment hit harder than any argument, creating a rift of misunderstanding that would take years for Hiroshi to finally bridge on his own terms.\n\n3.\nIt was a sweltering July afternoon when he was nineteen, helping his aging father. He watched the CNC machine, guided by code he\u2019d half-heartedly written, carve an intricate component from a solid block of aluminum. The machine danced with a fluid, hypnotic grace, revealing a perfect form from the raw material. It wasn't mechanics; it was sculpture. In that moment, his adolescent rebellion dissolved, replaced by a profound epiphany: the machine was his instrument, and code was his art form.\n\n4.\nJust last year, at twenty-eight, a local architect asked for custom brass light fixtures, giving him total creative freedom. Hiroshi spent a week sketching, then milling the intricate, geometric shades, feeling a thrill he\u2019d never known from industrial contracts. When he delivered them, seeing them installed and glowing in the new space, he felt a powerful sense of arrival. It was the first time the Tanaka Precision name was tied not just to function, but to acknowledged beauty.\n\n5.\nA few months ago, alone in the workshop after dark, he found his grandfather\u2019s first hand-caliper tucked away in a dusty drawer. He held the simple, elegant tool, feeling the faint grooves worn into the metal by his ancestor's grip. The city outside felt distant, obsessed with data and fleeting digital trends. In the quiet hum of the workshop, holding this tangible piece of his history, Hiroshi felt not the weight of legacy, but the solid foundation upon which he would build his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake-Up & Coffee Routine",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Stockton St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Prepare a simple breakfast (oatmeal and fruit) and pack a lunch for the day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Catch the 30 Stockton bus heading south towards SoMa.",
+                        "geocode": {
+                            "lat": 37.8071372,
+                            "lng": -122.4115102,
+                            "formatted_address": "2498 Powell St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Stockton St & Sacramento St Muni Stop"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Clock in, review the day's work orders, and perform initial calibration on the CNC mill.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "TechInSF Prototyping Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\udd29",
+                        "action": "Machine a series of aluminum enclosures for a new client hardware prototype.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 210,
+                        "location": "TechInSF Prototyping Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over and grab a quick, hearty porchetta sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.6555258,
+                            "lng": -122.4108667,
+                            "formatted_address": "334 Grand Ave, South San Francisco, CA 94080, USA"
+                        },
+                        "duration": 60,
+                        "location": "Cochinita, Food Truck on Harrison"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd0",
+                        "action": "Consult with a design engineer on tolerances for a new set of part schematics.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "TechInSF Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83d\udd27",
+                        "action": "Begin the setup and first pass for the next machining job, a custom polycarbonate lens mount.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "TechInSF Prototyping Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\uddf9",
+                        "action": "End-of-day cleanup: sweep metal shavings, clean tools, and prep the workspace for the next morning.",
+                        "geocode": {
+                            "lat": 37.7778965,
+                            "lng": -122.403654,
+                            "formatted_address": "972 Harrison St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "TechInSF Prototyping Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Take the 45 Union bus back north towards Chinatown.",
+                        "geocode": {
+                            "lat": 37.7789129,
+                            "lng": -122.4022044,
+                            "formatted_address": "Harrison St & 5th St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Harrison St & 5th St Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6c",
+                        "action": "Stop to pick up fresh bok choy and tofu for dinner.",
+                        "geocode": {
+                            "lat": 37.7827054,
+                            "lng": -122.4668356,
+                            "formatted_address": "707 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "New May Wah Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Cook and eat dinner at home: a simple mapo tofu with rice.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a brisk evening run along the waterfront for exercise and fresh air.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Embarcadero Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Work on a personal hobby, refining a design for a custom drone frame on his home computer.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Desk"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Wind down by reading and listening to a podcast before bed.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment on Stockton St"
+                    }
+                ],
+                "day_overview": "A focused and productive day for a precision machinist, balancing demanding work in SoMa with the vibrant culture of his Chinatown neighborhood, and winding down with personal projects and exercise.",
+                "home_address": "373 Stockton St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7893185,
+                    "lng": -122.4072541,
+                    "formatted_address": "373 Stockton St, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

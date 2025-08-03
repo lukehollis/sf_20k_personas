@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Principal Data Scientist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life story began not in the glow of a computer screen, but under the vast, dark skies of rural Michigan. Raised in Ann Arbor by a high school history teacher and a university librarian, her childhood was a quiet tapestry of books, intellectual curiosity, and a deep fascination with the cosmos. This passion led her to UC Berkeley, where she pursued a Ph.D. in Astrophysics, spending her twenties mapping distant galaxies and modeling stellar phenomena.\n\nThe turning point came during her postdoctoral research. The grueling, underfunded path of academia felt isolating, a stark contrast to the dynamic energy pulsing from San Francisco across the bay. She watched friends with similar quantitative skills join tech startups, solving different kinds of puzzles for vastly different rewards. With a sense of pragmatic disillusionment, Sarah realized her expertise in statistical analysis and handling massive datasets was highly marketable. She left academia behind, trading celestial bodies for user behavior metrics.\n\nHer career pivot was meteoric. She quickly rose through the ranks, her academic rigor and ability to derive clear narratives from complex data making her an invaluable asset. Now, as a Principal Data Scientist, she leads projects from the comfort of her meticulously organized apartment in NoPa. Her 0.0-mile commute affords her a deliberate lifestyle. Mornings begin with a run through the Panhandle, followed by hours of deep work, punctuated by a walk to a favorite cafe on Divisadero for an oat latte.\n\nAt 40, Sarah\u2019s social life is a small, curated circle of former academics and trusted colleagues who appreciate her dry wit and introspective nature. While she values her independence, a quiet longing for a deeper partnership persists. Her connection to San Francisco is intimate; she knows the fog patterns and the best local bakeries, but often feels detached from the city\u2019s frenetic core. Her dream is to bridge the two halves of her life: to one day apply her data science prowess not to optimize ad revenue, but to a cause that echoes her original passion, like climate change modeling or a new kind of astronomical research. She seeks to find the starlight within the data once more."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, brief meditation, and get into workout clothes.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk morning run along the waterfront, past the ballpark.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Embarcadero Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Walk to grab an oat milk latte to kickstart the morning.",
+                        "geocode": {
+                            "lat": 37.7710697,
+                            "lng": -122.4320952,
+                            "formatted_address": "201 Steiner St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "R\u00e9veille Coffee Co."
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Commute to work: Settle into home office, organize desk, and review day's agenda.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Sync with the USF research team on project progress and clear overnight emails.",
+                        "geocode": {
+                            "lat": 37.7884637,
+                            "lng": -122.3965434,
+                            "formatted_address": "500 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office - Slack/Zoom"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Deep work: Feature engineering and initial model training for a new linguistics AI project.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch Break: Walk to pick up a healthy, customized salad.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt Salads"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udfeb",
+                        "action": "Mentor a grad student researcher via video call, reviewing their code and methodology.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office - Zoom"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Peer review a colleague's research paper draft and create data visualizations for an upcoming presentation.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Commute Home: Log off from all work systems, close the laptop, and transition out of work mode.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udd25",
+                        "action": "Attend a challenging hot pilates class to de-stress and move.",
+                        "geocode": {
+                            "lat": 37.7749971,
+                            "lng": -122.4014666,
+                            "formatted_address": "586 6th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Ritual Hot Yoga"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop for fresh ingredients for dinner and some weekly staples.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Weekly video call with her parents to catch up.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare and eat a simple, healthy dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and tidying up the living space.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Living Room"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Principal Data Scientist, blending deep technical work with fitness, errands, and family connection. The day includes a waterfront run, focused model development, and a relaxing evening at her SoMa apartment.",
+                "home_address": "3592 Brannan St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7801007,
+                    "lng": -122.3943276,
+                    "formatted_address": "Brannan St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Senior Librarian",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Urban Professional"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "The scent of old paper and bookbinder\u2019s glue is Sarah Miller\u2019s native air. As the Senior Arts Librarian at the San Francisco Public Library, she presides over a quiet kingdom of knowledge and beauty, a world away from her own upbringing. Raised in the orderly suburbs of Cleveland by a pragmatic accountant father and a teacher mother, Sarah was a quiet child who found her voice in museum halls and the glossy pages of art books. Her path was a surprise to her family, but they watched with supportive confusion as she pursued a bachelor\u2019s in Art History, followed by a practical Master of Library and Information Science.\n\nA post-college trip to San Francisco in the early 1990s was the definitive turning point. The city\u2019s chaotic energy, its vibrant murals, and its embrace of the unconventional felt like a true homecoming. She applied for a junior position at the library and, upon landing it, packed two suitcases and never looked back. Over three decades, she has become an institution within the institution. After a long-term relationship dissolved in her late thirties, she poured her devotion into her work, finding solace and purpose in preserving the city\u2019s artistic heritage.\n\nHer life is a testament to her dedication. Sarah\u2019s apartment, a cozy one-bedroom overlooking Civic Center Plaza, is in the building adjacent to the Main Library. Her commute is a 90-second walk across a shared courtyard. Her days have a comforting rhythm: morning tea with a view of City Hall, followed by a day of assisting researchers, curating collections, and mentoring younger librarians. Her social life is small but rich, centered around a monthly book club with other veteran city dwellers and weekly dinners with a mentee she\u2019s grown to see as a niece.\n\nSarah's ambitions are no longer about climbing ladders but about legacy. She dreams of securing a grant to digitize a fragile collection of ephemera from the Beat Generation poets. On quiet evenings, she works on her own private project: a monograph on a forgotten female painter from the WPA era. San Francisco is no longer just her home; it is her life\u2019s work, a living archive she tends to with loving, expert hands."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcfb",
+                        "action": "Wake up, make french press coffee, and listen to the KQED Forum broadcast.",
+                        "geocode": {
+                            "lat": 37.7878834,
+                            "lng": -122.3996558,
+                            "formatted_address": "3406 2nd St, San Francisco, CA 94103"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a light breakfast of yogurt with berries and review personal emails.",
+                        "geocode": {
+                            "lat": 37.7878834,
+                            "lng": -122.3996558,
+                            "formatted_address": "3406 2nd St, San Francisco, CA 94103"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Get dressed for work and pack a tote bag with a book and water bottle.",
+                        "geocode": {
+                            "lat": 37.7878834,
+                            "lng": -122.3996558,
+                            "formatted_address": "3406 2nd St, San Francisco, CA 94103"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to the 22nd Street Caltrain Station to catch the northbound T Third Muni Metro line.",
+                        "geocode": {
+                            "lat": 37.7527399,
+                            "lng": -122.387872,
+                            "formatted_address": "3rd St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "T Third Street Muni Line"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Arrive at Powell St. Station, transfer to the 1-California bus to ride up the hill to the hospital.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "1-California Muni Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the hospital library, organize the day's research requests, and greet the morning staff.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Saint Francis Hospital Medical Library"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Conduct literature searches on PubMed and Ovid databases for the cardiology department.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 180,
+                        "location": "Saint Francis Hospital Medical Library"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk for a lunch break, picking up a harvest bowl.",
+                        "geocode": {
+                            "lat": 37.7902,
+                            "lng": -122.4093389,
+                            "formatted_address": "724 Bush St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "Beanstalk Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\u2695\ufe0f",
+                        "action": "Attend a planning meeting for updating patient education pamphlets and manage new journal acquisitions.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 210,
+                        "location": "Saint Francis Hospital Medical Library"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Commute home, walking down the hill to Powell Station and taking the T Third line back to Dogpatch.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Powell St. Station"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for ingredients for tonight's dinner and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udffa",
+                        "action": "Attend a weekly wheel-throwing pottery class to unwind and socialize.",
+                        "geocode": {
+                            "lat": 37.76049829999999,
+                            "lng": -122.3886835,
+                            "formatted_address": "Dogpatch, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "Dogpatch Clay Studio"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7878834,
+                            "lng": -122.3996558,
+                            "formatted_address": "3406 2nd St, San Francisco, CA 94103"
+                        },
+                        "duration": 50,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the sofa, reading a new novel from the SF Public Library.",
+                        "geocode": {
+                            "lat": 37.7878834,
+                            "lng": -122.3996558,
+                            "formatted_address": "3406 2nd St, San Francisco, CA 94103"
+                        },
+                        "duration": 70,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening wind-down routine: light stretching and preparing for the next day.",
+                        "geocode": {
+                            "lat": 37.7878834,
+                            "lng": -122.3996558,
+                            "formatted_address": "3406 2nd St, San Francisco, CA 94103"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured day for a senior medical librarian, balancing focused research support at a Nob Hill hospital with a creative evening pottery class and quiet time in her Dogpatch home.",
+                "home_address": "3406 2nd St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7878834,
+                    "lng": -122.3996558,
+                    "formatted_address": "2nd St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1970",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

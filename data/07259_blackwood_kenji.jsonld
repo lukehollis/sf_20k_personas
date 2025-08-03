@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Blackwood",
+    "givenName": "Kenji",
+    "familyName": "Blackwood",
+    "jobTitle": "Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Blackwood is a product of two worlds, a duality reflected in his name. Born in Berkeley to a Japanese art history professor from Kyoto and a second-generation software engineer from Berkeley, Kenji\u2019s upbringing was a blend of aesthetic principles and logical systems. He grew up surrounded by his mother\u2019s art books and his father\u2019s early computer manuals, learning to see the patterns in both ancient Ukiyo-e prints and lines of C++ code.\n\nThis unique perspective guided him to Stanford, where he bypassed a traditional computer science degree for Symbolic Systems, a program at the intersection of AI, linguistics, and philosophy. He was fascinated by how language shapes thought, and his graduate research focused on Natural Language Processing. This academic path led him directly to a coveted role as a Data Scientist at a prominent tech firm, a job he secured just before the world went into lockdown.\n\nThe pandemic was a strange turning point. Kenji achieved his professional goals from the confines of his new apartment, a sleek one-bedroom in Hayes Valley. He built complex models and analyzed vast datasets, yet his human interaction dwindled to Slack channels and video calls. His success felt abstract, disconnected from the tangible world outside his window.\n\nNow, working permanently from home, Kenji\u2019s life is a structured routine. Mornings begin with coffee from a local cafe before he dives into work. At lunch, he forces himself to walk through Patricia\u2019s Green, observing the city\u2019s vibrant, chaotic life as if it were another dataset to understand. His social circle is small but tight-knit, mostly friends from his Stanford cohort. He finds the SF dating scene to be a frustrating algorithm he can\u2019t quite crack.\n\nHis connection to San Francisco is evolving. He\u2019s consciously shifting from a remote worker who happens to live in the city to an active resident. He explores the Mission's murals on weekends and has a membership to SFMOMA, a nod to his mother's influence. Kenji\u2019s aspiration isn\u2019t a promotion; it\u2019s to build something meaningful. He dreams of creating a tool that uses AI not for profit, but to foster genuine human connection or preserve cultural narratives\u2014a project that would finally synthesize the two halves of his heritage."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Wake up, start a pot of coffee, and do a quick 10-minute stretch.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 20,
+                        "location": "Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd50",
+                        "action": "Eat a quick breakfast of yogurt and granola with his partner, discussing their plans for the evening.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 25,
+                        "location": "Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute to work, listening to a 'DataFramed' podcast during the long walk.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 70,
+                        "location": "Walk through The Haight & Mission Districts"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, review team Slack channels and plan the day's analytical tasks.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "UCSF Health Data Research Center at ZSFG"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep Work: Cleaning and pre-processing a new dataset on patient admission rates using Python.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Health Data Research Center at ZSFG"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Daily stand-up meeting with the research team to discuss project progress and blockers.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "ZSFG Conference Room 4B"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to get lunch, grabbing a pierna enchilada torta to go.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 55,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Afternoon Session: Building and validating a predictive model to forecast ICU bed availability.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF Health Data Research Center at ZSFG"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Collaboration: Meeting with a clinical researcher to interpret model outputs for an upcoming publication.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "ZSFG Researcher's Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Commute home, walking through the city to decompress and listen to music.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 70,
+                        "location": "Walk from Potrero Hill to Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery stop to pick up fresh pasta and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7650139,
+                            "lng": -122.4496722,
+                            "formatted_address": "960 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Luke's Local Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat a homemade pesto pasta dinner with his partner.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 75,
+                        "location": "Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Unwind with a glass of wine and catch up with his partner at a cozy neighborhood bar.",
+                        "geocode": {
+                            "lat": 37.76586169999999,
+                            "lng": -122.4503678,
+                            "formatted_address": "108-B Carl St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "InoVino"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Reading a chapter of a sci-fi novel before bed.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 35,
+                        "location": "Cole Valley Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Kenji, balancing deep data analysis at ZSFG with a long, reflective walk through the city, and ending with a relaxing evening with his partner in their Cole Valley neighborhood.",
+                "home_address": "32 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7747578,
+                    "lng": -122.4511521,
+                    "formatted_address": "32 Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Blackwood Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Priya Thompson",
+    "givenName": "Priya",
+    "familyName": "Thompson",
+    "jobTitle": "Project Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Indian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Priya Thompson\u2019s life is a story of quiet reinvention, colored by the Bay Area\u2019s evolving landscape. Born in Berkeley to a pragmatic botanist mother from Kerala, India, and an American literature professor from Ohio, Priya grew up navigating two distinct cultural worlds. Her childhood was filled with the scent of cardamom from her mother\u2019s kitchen and the weight of classic novels from her father\u2019s study.\n\nThis blend of the practical and the poetic led her to UC Santa Cruz, where she earned a Bachelor's degree in English Literature in the mid-90s, dreaming of a life in publishing. Her early career was a string of low-paying jobs at small presses and literary magazines, a path she shared with her then-husband, a fellow idealist. They married young, fueled by shared dreams and cheap rent in a rapidly gentrifying Mission District.\n\nThe key turning point came in her late thirties. The dot-com bust, followed by a slow-burn recovery, strained their finances and their relationship, culminating in a difficult divorce. Facing single life in one of the world's most expensive cities, Priya made a pragmatic choice. She leveraged her organizational skills from publishing, earned a project management certificate, and pivoted into the tech industry. It wasn\u2019t a passion, but a means of survival that unexpectedly suited her.\n\nNow, at 49, Priya lives a life of cultivated stability in the Inner Sunset. Her commute is a 10-step walk from her kitchen to the small desk in her living room, where she coordinates software releases for a downtown tech firm. Her days are structured by Slack notifications and Zoom calls, but her solace is found in the neighborhood's foggy tranquility. She knows the baristas at the local coffee shop by name and spends weekends tending to a surprisingly ambitious container garden on her small patio.\n\nHer social circle is tight-knit: a monthly book club with friends from her pre-tech life and weekly calls with her daughter, who is now in college on the East Coast. Priya\u2019s dreams are no longer grand, but deeply personal. She harbors a quiet ambition to finally write a collection of short stories, inspired by the dualities of her own upbringing. She has found a hard-won contentment, a peace built not on youthful ideals, but on the sturdy foundation of a life she rebuilt for herself, one project timeline at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and meditate by the window, listening to the city come alive.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Priya's Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a fresh pour-over coffee and prepare a light breakfast of yogurt and fruit.",
+                        "geocode": {
+                            "lat": 37.7597234,
+                            "lng": -122.3877473,
+                            "formatted_address": "958 Illinois St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 25,
+                        "location": "Priya's Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf0",
+                        "action": "Catch up on morning news and scroll through personal emails.",
+                        "geocode": {
+                            "lat": 37.787555,
+                            "lng": -122.4040807,
+                            "formatted_address": "720 Market St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 25,
+                        "location": "Priya's Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Transition to work mode by tidying the living space and setting up the home office.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Priya's Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Morning sync: Review project timelines on Asana, respond to overnight Slack messages, and plan daily priorities.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Priya's Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Lead a virtual stand-up meeting with the engineering and design teams via Microsoft Teams.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Priya's Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a short walk to grab a healthy salad and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7861923,
+                            "lng": -122.4400385,
+                            "formatted_address": "Lower Pacific Heights, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sweetgreen Fillmore"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Afternoon focus block: Draft project status reports and update stakeholder documentation.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Priya's Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Collaborate with a product manager on a new feature launch plan over a quick video call.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Priya's Home Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Log off for the day, close the laptop, and officially end the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Priya's Home Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "De-stress and stretch in a Vinyasa flow yoga class.",
+                        "geocode": {
+                            "lat": 37.79832409999999,
+                            "lng": -122.4271696,
+                            "formatted_address": "1694 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "The Pad Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh produce and some specialty cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mollie Stone's Markets"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Video call with her parents to check in on their week and share stories.",
+                        "geocode": {
+                            "lat": 37.787555,
+                            "lng": -122.4040807,
+                            "formatted_address": "720 Market St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Priya's Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Prepare and eat a homemade pasta dinner while watching an episode of a drama series.",
+                        "geocode": {
+                            "lat": 37.7597234,
+                            "lng": -122.3877473,
+                            "formatted_address": "958 Illinois St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 75,
+                        "location": "Priya's Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel she picked up from a local bookstore.",
+                        "geocode": {
+                            "lat": 37.7896751,
+                            "lng": -122.4342257,
+                            "formatted_address": "2195 Fillmore St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Browser Books"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: skincare, tidying up, and preparing for the next day before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Priya's Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for a remote Project Coordinator, blending focused work from her Fillmore home with local errands, fitness, and a personal check-in with family. The day prioritizes productivity and well-being.",
+                "home_address": "1113 Fillmore St, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7798659,
+                    "lng": -122.4321696,
+                    "formatted_address": "1113 Fillmore St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Nia Jenkins",
+    "givenName": "Nia",
+    "familyName": "Jenkins",
+    "jobTitle": "Manufacturing Quality Control Engineer",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Indian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Nia Jenkins\u2019s life is a study in precision, a trait inherited from her blended upbringing in Fremont. Her father, an African American aircraft mechanic, spoke of tolerances and torque with a reverence usually reserved for scripture. Her Korean mother, a masterful seamstress, could spot a flawed stitch from across the room. Growing up, Nia\u2019s world was one of well-made things, from tuned-up engines to perfectly tailored clothes. This instilled in her a deep appreciation for quality, though her path to professionalizing it was indirect.\n\nShe pursued a Bachelor\u2019s in Industrial Design, drawn to the intersection of aesthetics and function. However, upon graduating, she found the design world more conceptual than she craved. A key turning point came through a temp job at a medical device assembly plant. While her peers saw tedious repetition, Nia saw systems. She instinctively identified bottlenecks and potential points of failure, drafting reports on her own time to improve the workflow. Her manager, impressed by her unsolicited expertise, created a junior quality assurance role for her. This was her calling.\n\nNia\u2019s career blossomed. She moved to San Francisco a decade ago, recruited by a boutique electronics firm specializing in high-end audio equipment. The move also marked a personal fresh start after the amicable end of a long-term relationship. Today, her 0.0-mile commute is the envy of the city; she lives in a spacious live-work loft in the Dogpatch, directly above the small-batch manufacturing lab where she works.\n\nHer days are a careful rhythm of process audits, material testing, and statistical analysis. After work, she trades her calipers for a walk along the waterfront, often ending up at a local brewery with a small circle of friends from the neighborhood\u2019s maker scene. Nia\u2019s connection to San Francisco is tactile\u2014it's in the reclaimed industrial architecture of her home and the innovative products she helps bring to life. Her dream isn\u2019t corporate ascent but mastery. She aspires to one day open her own consulting firm, helping small, ethical hardware startups build things that are not just beautiful, but built to last."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, light stretching, and listen to a news podcast while getting ready.",
+                        "geocode": {
+                            "lat": 37.743529,
+                            "lng": -122.4356062,
+                            "formatted_address": "1755 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Eat breakfast (Greek yogurt with granola) and enjoy a freshly brewed coffee.",
+                        "geocode": {
+                            "lat": 37.743529,
+                            "lng": -122.4356062,
+                            "formatted_address": "1755 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the designated carpool spot to meet a colleague.",
+                        "geocode": {
+                            "lat": 37.7414316,
+                            "lng": -122.4385879,
+                            "formatted_address": "Gold Mine Dr, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 10,
+                        "location": "Corner of Diamond St & Gold Mine Dr"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute to work, catching up with her colleague about project deadlines.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 20,
+                        "location": "En route to UCSF Parnassus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Review the quality dashboard and log any overnight production deviations.",
+                        "geocode": {
+                            "lat": 37.794515,
+                            "lng": -122.4143612,
+                            "formatted_address": "1500 Owens St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 40,
+                        "location": "UCSF Quality Engineering Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Perform First Article Inspection on a new batch of sterilized surgical instruments.",
+                        "geocode": {
+                            "lat": 37.794515,
+                            "lng": -122.4143612,
+                            "formatted_address": "1500 Owens St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Incoming Inspection Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick lunch and get some fresh air away from the lab.",
+                        "geocode": {
+                            "lat": 37.76765,
+                            "lng": -122.4571849,
+                            "formatted_address": "Kezar Dr, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kezar Pizzetta"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Analyze test data from the morning's inspection and author a detailed compliance report.",
+                        "geocode": {
+                            "lat": 37.794515,
+                            "lng": -122.4143612,
+                            "formatted_address": "1500 Owens St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Quality Engineering Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a cross-departmental meeting to discuss a new Corrective and Preventive Action (CAPA) plan.",
+                        "geocode": {
+                            "lat": 37.7622159,
+                            "lng": -122.4577569,
+                            "formatted_address": "2634A011, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Health Sciences Building, Conference Room 4A"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Final log entries and preparation for the next day's quality audits.",
+                        "geocode": {
+                            "lat": 37.794515,
+                            "lng": -122.4143612,
+                            "formatted_address": "1500 Owens St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 35,
+                        "location": "UCSF Quality Engineering Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Carpool commute home, listening to a true-crime podcast to decompress.",
+                        "geocode": {
+                            "lat": 37.7453273,
+                            "lng": -122.4401057,
+                            "formatted_address": "Diamond Heights, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 25,
+                        "location": "En route to Diamond Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery stop to pick up ingredients for dinner and fresh produce.",
+                        "geocode": {
+                            "lat": 37.7435707,
+                            "lng": -122.4390064,
+                            "formatted_address": "5290 Diamond Heights Blvd, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 30,
+                        "location": "Safeway at Diamond Heights Village"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Change into workout clothes and go for a brisk run through the neighborhood hills.",
+                        "geocode": {
+                            "lat": 37.7415588,
+                            "lng": -122.4431851,
+                            "formatted_address": "Glen Canyon Park, Elk St and, Chenery St, San Francisco, CA 94127, USA"
+                        },
+                        "duration": 50,
+                        "location": "Glen Canyon Park"
+                    },
+                    {
+                        "emoji": "\ud83e\udd55",
+                        "action": "Prepare and eat dinner while catching up with a friend on the phone.",
+                        "geocode": {
+                            "lat": 37.743529,
+                            "lng": -122.4356062,
+                            "formatted_address": "1755 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down by watching a new episode of a favorite streaming series.",
+                        "geocode": {
+                            "lat": 37.743529,
+                            "lng": -122.4356062,
+                            "formatted_address": "1755 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: tidy up, prepare work bag, skincare, and read a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.743529,
+                            "lng": -122.4356062,
+                            "formatted_address": "1755 Diamond St, San Francisco, CA 94114"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured and productive day for a Quality Control Engineer, balancing detailed work at UCSF with an active evening of exercise and relaxation in her Diamond Heights neighborhood.",
+                "home_address": "1755 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.743529,
+                    "lng": -122.4356062,
+                    "formatted_address": "1755 Diamond St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jenkins Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Javier Rodriguez",
+    "givenName": "Javier",
+    "familyName": "Rodriguez",
+    "jobTitle": "Residential Counselor",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Non-profit"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Javier Rodriguez grew up in the fog-drenched streets of Daly City, the son of hardworking immigrants from El Salvador who ran a small pupuseria. His childhood was a blend of his parents\u2019 unwavering work ethic and the vibrant, multicultural energy of the Bay Area. They pushed him toward a stable future, envisioning him as a businessman or engineer, a world away from the grueling hours of the restaurant.\n\nFollowing their wishes, Javier enrolled in business courses at City College of San Francisco. He was a capable student but felt a profound disconnect from the material. The abstract world of supply chains and marketing strategies felt hollow compared to the tangible struggles he saw in his own community. The turning point came when a close childhood friend, battling addiction and housing insecurity, overdosed. The loss was a seismic shock, shattering Javier\u2019s borrowed ambitions and replacing them with a raw, urgent need to help.\n\nHe dropped out of the business program and took an entry-level position at a non-profit providing supportive housing. His empathy and calm demeanor made him a natural, and he was soon promoted to Residential Counselor. Today, Javier lives where he works, in a converted SOMA apartment building that houses formerly homeless individuals. His commute is a walk down the hallway.\n\nHis daily life is a tightrope walk of compassion and boundary-setting. He mediates disputes, connects residents with mental health services, coordinates group meals, and simply listens. His social life is modest; dating is difficult when your home is also your workplace. He finds solidarity with his colleagues and escapes the intensity by visiting his family for Sunday dinners.\n\nJavier\u2019s connection to San Francisco is not through its glittering tech campuses but through its resilient, often-invisible communities. He dreams of returning to school, this time for a Master of Social Work, aspiring to become a licensed clinical therapist. He doesn\u2019t want to escape the city\u2019s problems; he wants to be better equipped to face them, embodying a side of San Francisco grounded not in profit, but in profound, necessary care."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, start coffee, and check overnight work notifications.",
+                        "geocode": {
+                            "lat": 37.80569089999999,
+                            "lng": -122.4054082,
+                            "formatted_address": "2455 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 2455 Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Quick morning stretch and apartment tidy-up before the day begins.",
+                        "geocode": {
+                            "lat": 37.80569089999999,
+                            "lng": -122.4054082,
+                            "formatted_address": "2455 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 2455 Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for work, and pack a snack for later.",
+                        "geocode": {
+                            "lat": 37.80569089999999,
+                            "lng": -122.4054082,
+                            "formatted_address": "2455 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 2455 Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Cycle commute to work, navigating the morning traffic down Broadway and 3rd Street.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Commute Route: Telegraph Hill to SoMa"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Morning team huddle to review the resident log and plan the day's client support strategy.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SoMa Supportive Housing Project"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Conduct one-on-one check-in sessions with residents and update their case files.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "SoMa Supportive Housing Project"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Grab a quick and hearty lunch to go.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Sentinel Sandwiches"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udfeb",
+                        "action": "Facilitate a group life-skills workshop for residents on conflict resolution.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "SoMa Supportive Housing Project"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Complete daily progress notes and prepare handover report for the evening shift counselor.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "SoMa Supportive Housing Project"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4",
+                        "action": "Cycle commute home, tackling the challenging uphill climb to Telegraph Hill.",
+                        "geocode": {
+                            "lat": 37.8009425,
+                            "lng": -122.4052612,
+                            "formatted_address": "Telegraph Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Commute Route: SoMa to Telegraph Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up ingredients for dinner and breakfast.",
+                        "geocode": {
+                            "lat": 37.8050802,
+                            "lng": -122.4254187,
+                            "formatted_address": "North Point St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's - Northpoint"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple meal, eat dinner, and decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.80569089999999,
+                            "lng": -122.4054082,
+                            "formatted_address": "2455 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 2455 Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Meet up with a friend for a decaf coffee and catch up.",
+                        "geocode": {
+                            "lat": 37.7986417,
+                            "lng": -122.4073139,
+                            "formatted_address": "601 Vallejo St., San Francisco, CA 94133, USA"
+                        },
+                        "duration": 75,
+                        "location": "Caffe Trieste"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a book and setting out clothes for the next day.",
+                        "geocode": {
+                            "lat": 37.80569089999999,
+                            "lng": -122.4054082,
+                            "formatted_address": "2455 Montgomery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - 2455 Montgomery St"
+                    }
+                ],
+                "day_overview": "A busy but fulfilling day for Javier, balancing his demanding role as a Residential Counselor in SoMa with his active bicycle commute and personal time in his North Beach/Telegraph Hill neighborhood.",
+                "home_address": "2455 Montgomery St, San Francisco, CA 94111",
+                "home_geocode": {
+                    "lat": 37.80569089999999,
+                    "lng": -122.4054082,
+                    "formatted_address": "2455 Montgomery St, San Francisco, CA 94111, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Rodriguez Family"
+    }
+}

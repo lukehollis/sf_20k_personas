@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Lin",
+    "givenName": "Mei",
+    "familyName": "Lin",
+    "jobTitle": "Logistics Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Lin\u2019s San Francisco story began not in a gleaming tech campus, but on the fog-laced streets of the Inner Richmond. She arrived from Guangzhou with her parents at age seven, her world shrinking to the cozy confines of their two-bedroom apartment above a bustling dim sum restaurant. Her childhood was a blend of Cantonese spoken at home and the rapid-fire English of the schoolyard, a constant navigation between two cultures. Her parents, who worked tirelessly in the service industry, instilled in her a profound sense of duty and pragmatism.\n\nWhile peers dreamed of far-off universities, Mei\u2019s path was more grounded. She enrolled at City College of San Francisco, earning an Associate's degree in Business Administration. It was a practical choice that allowed her to work part-time and help support her family. Her career began in a series of administrative and operations roles, where she discovered an innate talent for creating order out of chaos. She eventually found her niche in tech, not as a coder, but as a Logistics Coordinator\u2014the unseen force ensuring that millions of dollars in server equipment arrived on time, every time.\n\nA key turning point was the passing of her mother a decade ago. Mei seamlessly stepped into the role of primary caregiver for her aging father, a responsibility that anchors her to her neighborhood. Her life orbits her rent-controlled apartment, where she has worked remotely since before the pandemic made it commonplace. Her 0.0-mile commute affords her a quiet, structured routine: a morning walk in Golden Gate Park, a day of coordinating global shipments from her spare bedroom, and evenings spent preparing meals for her father.\n\nHer social life isn't about trendy wine bars but a tight-knit circle of childhood friends, with whom she shares weekly dim sum. For Mei, San Francisco isn't a city of disruption and IPOs; it's the familiar taste of pork buns on Clement Street and the steadfast presence of her father. Her dream isn't a promotion, but a future where she can finally take a long trip to see the ancestral villages in China she\u2019s only heard about in stories, a quiet reward for a life dedicated to others."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers her first morning, age seven. The window didn't show a grand city, just a wall of gray fog pressed against the glass. She thought America was broken. But then, the rich smell drifted up from the restaurant below: roasting duck and star anise. It was the scent of home in a place that felt overwhelmingly alien. In that moment, San Francisco stopped being a scary idea and became a place she could exist. That smell became her first anchor.\n\n2.\nIn her early twenties, a massive server shipment was a disaster\u2014mismatched manifests, frantic engineers. While others panicked, Mei felt a strange calm. She took the chaotic paperwork, built a simple spreadsheet, and worked until midnight, methodically untangling every knot. The relief on her manager\u2019s face was nice, but the deep, quiet satisfaction of creating order was profound. It wasn't glamorous, but she knew then she\u2019d found her place, her own practical value in a world of code.\n\n3.\nA decade ago, her mother grew too weak to stand at the stove. Mei remembers her mother guiding her from a kitchen chair, her voice a fragile whisper, as Mei prepared the family\u2019s traditional herbal soup for the first time by herself. It was more than just following a recipe; it was the unspoken transfer of care, the acceptance of a sacred duty. Stirring that pot, she felt the immense weight of the future settle onto her shoulders, a burden she accepted with love.\n\n4.\nOn a quiet evening a few years ago, her father pulled out a worn, red photo album. He pointed a trembling finger at a faded picture of a stone archway. \u201cOur village gate,\u201d he said, his voice thick with memory as he told her about the banyan tree just inside. For Mei, the abstract tales of China suddenly coalesced into a real place. Her dream of visiting was born in that moment, no longer a vague wish but a mission to see that gate for him.\n\n5.\nJust last week, on her morning walk, she stood by the Dutch Windmill in Golden Gate Park. The salty fog mingled with the scent of cypress trees as she watched the sun begin to burn through the marine layer. She saw the same elderly man walking his terrier that she sees every day. This quiet predictability, this simple, repeated moment of peace, felt more valuable than any promotion or stock option. It was the grounding force of her stable life, a quiet reward in itself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to alarm, check the weather, and do a 15-minute morning yoga session.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mei Lin's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Shower, get dressed, and prepare a quick breakfast of congee and a hard-boiled egg.",
+                        "geocode": {
+                            "lat": 37.7597234,
+                            "lng": -122.3877473,
+                            "formatted_address": "958 Illinois St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mei Lin's Apartment Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk from her apartment to the nearby Muni stop to catch the bus.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Howard Street Sidewalks"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Ride the SF Muni 12-Folsom bus through SoMa towards the Mission District.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "SF Muni Bus 12"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle in at her dedicated desk, grab a coffee, and organize her task list for the day.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 20,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Tackle the morning's logistics: track incoming international shipments, coordinate with freight forwarders, and resolve customs clearance issues.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 180,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Step out for a quick lunch, grabbing a delicious banh mi sandwich from a local favorite.",
+                        "geocode": {
+                            "lat": 37.7831271,
+                            "lng": -122.4173619,
+                            "formatted_address": "560 Larkin St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 50,
+                        "location": "Saigon Sandwich"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Hold a video conference call with the distribution center team to review inventory levels and forecast demand.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 90,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focus on afternoon tasks: preparing shipping documentation and analyzing carrier performance data.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 120,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk to the bus stop and begin the commute home, listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7637152,
+                            "lng": -122.4151786,
+                            "formatted_address": "Folsom St & 17th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "17th Street & Folsom Street Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the grocery store to pick up items for dinner and the next few days.",
+                        "geocode": {
+                            "lat": 37.76922570000001,
+                            "lng": -122.4148782,
+                            "formatted_address": "1745 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 40,
+                        "location": "Rainbow Grocery Cooperative"
+                    },
+                    {
+                        "emoji": "\ud83e\udd62",
+                        "action": "Prepare and eat dinner while watching the local evening news.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mei Lin's Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Have a video call with her parents to catch up on family news.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mei Lin's Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind for the evening by reading a chapter of a mystery novel and drinking herbal tea.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mei Lin's Living Room"
+                    }
+                ],
+                "day_overview": "A productive day for Mei Lin, balancing her logistics coordination work at a Mission coworking space with evening errands and personal relaxation time in her SoMa neighborhood.",
+                "home_address": "1534 Howard St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7727999,
+                    "lng": -122.4162993,
+                    "formatted_address": "1534 Howard St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1979",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

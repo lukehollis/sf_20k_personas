@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Senior Urban Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s passion for cities was born from their absence. Growing up in the sprawling, sun-baked landscape of California\u2019s Central Valley, her world was defined by strip malls and wide, fast roads. It was a college semester in Copenhagen that served as her foundational turning point. Immersed in a city built for people\u2014with its bustling public squares, ubiquitous bike lanes, and human-scale architecture\u2014she discovered her calling. She wasn\u2019t just interested in cities; she needed to build them.\n\nThis revelation guided her to UC Berkeley, where she earned a Master of Urban Planning. She excelled, driven by a desire to bring principles of livability and equity back to her home state. Landing a role with the San Francisco Planning Department felt like the ultimate validation. She quickly distinguished herself not as a bureaucrat, but as a passionate advocate for community-centric design, rising to the rank of Senior Urban Planner. Her work is her mission: to untangle the knotted legacy of car-first development and champion projects that prioritize walkability, green space, and diverse housing.\n\nSarah lives her philosophy. Her modern Hayes Valley condo, where she works remotely, overlooks the park that replaced a divisive freeway\u2014a daily reminder of the city's capacity for transformation. Her 0.0-mile commute is a conscious choice. Mornings start with a walk to a local cafe, followed by hours spent analyzing zoning codes, drafting policy memos, and leading virtual community outreach meetings. Evenings are for unwinding with a close-knit group of friends\u2014architects, policy wonks, and artists\u2014at a neighborhood wine bar or attending a local planning meeting as a resident, not an official.\n\nAt 33, Sarah feels deeply rooted in San Francisco. Her ambition is to one day lead a landmark project, perhaps the redevelopment of a waterfront district or a new transit corridor that connects underserved communities. She sees the city not just as her home, but as a living canvas, and she is determined to leave a lasting, positive mark on its future fabric."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was twenty, sitting at an outdoor caf\u00e9 in Nyhavn, Copenhagen. It wasn't the famed colorful buildings that struck her, but the sounds: the near-silent glide of bicycles, the murmur of a hundred conversations, the joyful absence of roaring engines. She watched people of all ages share the same public space with an uncomplicated ease. It was a feeling of profound, placid rightness\u2014a blueprint for a life she suddenly knew she had to build, both for herself and for the cities she would one day serve.\n\n2.\nThe email arrived on a foggy Berkeley morning when she was 25, drowning in student debt and doubt: \"Offer of Employment \u2013 San Francisco Planning Department.\" She read it three times in her cramped student apartment, the screen blurring through tears. This wasn't just a job; it was the key. It was validation that her grand, abstract ideals could become concrete. The relief was so immense, so physical, that it felt like the entire weight of the Central Valley's sprawling design had finally lifted from her shoulders.\n\n3.\nAt 28, during a tense community meeting for a new parklet, an elderly resident railed against the loss of a single parking space. Instead of citing policy, Sarah listened, then simply spoke about having a bench\u2014a place for him to rest on his walk to the market. Weeks later, she saw him sitting on that exact bench, chatting with a neighbor. That quiet, tangible victory taught her that cities aren't changed with blueprints alone, but with empathy, one small, human interaction at a time.\n\n4.\nShe was 30 when she first stood on the empty balcony of the Hayes Valley condo. Below wasn't just a park; it was a scar that had healed. She could almost feel the ghost of the concrete freeway that once sliced the neighborhood in two. Looking at the children playing on Patricia\u2019s Green, she felt a sense of profound purpose. This wasn't just buying an apartment; it was a daily vow to her mission, a decision to live inside the very proof that a city can choose to heal itself.\n\n5.\nLast year, at her favorite wine bar, a casual chat with her friends\u2014an architect and a policy analyst\u2014turned serious. They started sketching an \"impossible\" transit line on a cocktail napkin, connecting two long-neglected neighborhoods with fervent energy. There was no agenda, no meeting minutes. In that moment, surrounded by the hum of her city and the brilliance of her chosen family, Sarah felt a deep sense of belonging. This wasn't her job; this was her life, her community, and her purpose, all joyfully intertwined."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, start coffee brewing, and read local news updates on SFGate.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Church St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Quick jog through the hilly streets of Noe Valley to get the blood flowing.",
+                        "geocode": {
+                            "lat": 37.7473543,
+                            "lng": -122.4388663,
+                            "formatted_address": "Douglass Playground Park, Douglass St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 30,
+                        "location": "Douglass Park Loop"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Church St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Eat breakfast (avocado toast & yogurt) with her partner before they both head out.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Church St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the designated carpool spot to meet her colleague from the transportation department.",
+                        "geocode": {
+                            "lat": 37.7451205,
+                            "lng": -122.4299846,
+                            "formatted_address": "28th St, San Francisco, CA, USA"
+                        },
+                        "duration": 5,
+                        "location": "Corner of Church & 28th St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute across town, discussing city politics and listening to an urbanism podcast.",
+                        "geocode": {
+                            "lat": 37.76471859999999,
+                            "lng": -122.4319401,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "Carpool with Colleague"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Settle in at her desk, grab a second coffee, and review the agenda for the new mixed-use development proposal on Geary Blvd.",
+                        "geocode": {
+                            "lat": 37.7977025,
+                            "lng": -122.4317496,
+                            "formatted_address": "1974 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "NEON (SF Planning Dept. Satellite Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Attend a virtual inter-departmental meeting to discuss the environmental impact report for a proposed public space.",
+                        "geocode": {
+                            "lat": 37.7847222,
+                            "lng": -122.4016667,
+                            "formatted_address": "720 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "NEON Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to pick up a healthy, quick lunch to eat at the office.",
+                        "geocode": {
+                            "lat": 37.8003111,
+                            "lng": -122.4377083,
+                            "formatted_address": "3344 Steiner St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 55,
+                        "location": "Blue Barn on Union Street"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Deep focus work: Analyzing land use data and updating GIS maps for the Western SoMa Area Plan.",
+                        "geocode": {
+                            "lat": 37.7977025,
+                            "lng": -122.4317496,
+                            "formatted_address": "1974 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 120,
+                        "location": "NEON (SF Planning Dept. Satellite Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Call with a community group representative to schedule an upcoming public feedback session.",
+                        "geocode": {
+                            "lat": 37.7977025,
+                            "lng": -122.4317496,
+                            "formatted_address": "1974 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "NEON (SF Planning Dept. Satellite Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Pack up and meet her carpool partner for the commute home, navigating evening traffic.",
+                        "geocode": {
+                            "lat": 37.76471859999999,
+                            "lng": -122.4319401,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Carpool with Colleague"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Get dropped off and pop into the neighborhood market to grab ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7519697,
+                            "lng": -122.4308871,
+                            "formatted_address": "3950 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Whole Foods Market on 24th St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Unwind from the day while cooking dinner with her partner and sharing stories.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home on Church St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Relax and decompress by reading a book on sustainable architecture.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home on Church St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening wind-down routine and preparing for the next day.",
+                        "geocode": {
+                            "lat": 37.7549896,
+                            "lng": -122.4277742,
+                            "formatted_address": "Church St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home on Church St"
+                    }
+                ],
+                "day_overview": "A structured day for Sarah, an urban planner, balancing focused project work on development proposals in Cow Hollow with local errands and relaxation with her partner in her Noe Valley neighborhood.",
+                "home_address": "1536 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.746308,
+                    "lng": -122.4271833,
+                    "formatted_address": "1536 Church St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1991",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

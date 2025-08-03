@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mark Jones",
+    "givenName": "Mark",
+    "familyName": "Jones",
+    "jobTitle": "Custodian",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Building and grounds maintenance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mark Jones\u2019s world is measured in hallways and stairwells. Born in a small coastal town near Cebu in the Philippines to a Filipina mother and a father of Spanish descent, his upbringing was one of pragmatism and hard work. He was never one for books, finishing his high school education with the sole aim of finding work to help his family. At 21, he followed an older sister to San Francisco, the city\u2019s promise of opportunity a powerful lure.\n\nThe reality was a series of grueling, under-the-table jobs\u2014washing dishes in a Chinatown restaurant, hauling debris at construction sites. The city was a fast-moving, isolating place. The turning point arrived nearly two decades ago when he landed a job as a live-in custodian for a pre-war apartment building in Nob Hill. It wasn't a career ladder, but it was a lifeline, offering a small basement apartment in exchange for his constant vigilance. The 0.0-mile commute cemented his existence within the building's brick confines.\n\nMark is a solitary figure, more an observer than a participant in the lives swirling around him. He knows the tenants by their habits: the law student on the third floor who orders takeout every night, the elderly woman on the fifth floor whose cat he sometimes feeds, the young tech couple whose arguments seep through the floorboards. His primary social connection is a weekly phone call with his sister, now a nurse living in Daly City. A past relationship crumbled under the weight of his on-call life; he was never truly off the clock, his home and his work inextricably linked.\n\nNow 51, Mark\u2019s dreams have become smaller and more tangible. He no longer imagines wealth, but rather peace. He hopes to save enough to visit his parents\u2019 graves back home, a journey he hasn\u2019t made in thirty years. His most private aspiration is to one day have a small garden of his own, a patch of earth to cultivate for himself, not for his employer. He is an invisible anchor of San Francisco, the quiet man who sweeps the steps and fixes the leaks, maintaining the home of a hundred strangers in a city he serves but can never quite call his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up to the alarm, start the coffee maker, and listen to the KCBS morning news radio broadcast.",
+                        "geocode": {
+                            "lat": 37.8044674,
+                            "lng": -122.4067583,
+                            "formatted_address": "188 Chestnut St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home at 188 Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed into work uniform, and pack a lunch for the day.",
+                        "geocode": {
+                            "lat": 37.8044674,
+                            "lng": -122.4067583,
+                            "formatted_address": "188 Chestnut St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home at 188 Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, navigating the hills and morning traffic from North Beach to the Marina district.",
+                        "geocode": {
+                            "lat": 37.8039435,
+                            "lng": -122.4269002,
+                            "formatted_address": "Bay St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Driving on Bay St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddf9",
+                        "action": "Arrive at work, clock in, and begin the morning cleaning circuit: sanitizing restrooms and cleaning the high-traffic kitchen areas.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 180,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Take a short break to walk and grab a strong coffee from a local spot.",
+                        "geocode": {
+                            "lat": 37.797,
+                            "lng": -122.4353333,
+                            "formatted_address": "2191 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Union Street Coffee Roastery"
+                    },
+                    {
+                        "emoji": "\ud83d\udca8",
+                        "action": "Continue shift: systematically vacuuming office pods, dusting all surfaces, and cleaning interior glass.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 125,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Lunch break. Eat a packed sandwich while sitting on a bench enjoying the bay view.",
+                        "geocode": {
+                            "lat": 37.7677079,
+                            "lng": -122.4678813,
+                            "formatted_address": "Great Mdw, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Fort Mason Great Meadow"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfc",
+                        "action": "Final afternoon tasks: restock all paper goods and soap dispensers, and respond to any specific cleaning requests.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 90,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Clock out and drive home, taking Lombard St to avoid the worst of the traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Driving Home"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for weekly groceries to restock the pantry and fridge.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Safeway on North Point St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Unpack groceries, cook a simple pasta dinner, and eat while watching the evening news.",
+                        "geocode": {
+                            "lat": 37.8044674,
+                            "lng": -122.4067583,
+                            "formatted_address": "188 Chestnut St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home at 188 Chestnut St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk a few blocks to meet an old friend for a couple of beers at a classic neighborhood dive bar.",
+                        "geocode": {
+                            "lat": 37.7976574,
+                            "lng": -122.4060026,
+                            "formatted_address": "12 William Saroyan Place, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 120,
+                        "location": "Specs' Twelve Adler Museum Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Walk home, change, and wind down by scrolling through the news on a tablet before bed.",
+                        "geocode": {
+                            "lat": 37.8044674,
+                            "lng": -122.4067583,
+                            "formatted_address": "188 Chestnut St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home at 188 Chestnut St"
+                    }
+                ],
+                "day_overview": "A structured day for Mark, balancing the physical demands of his custodial work with a quiet evening of errands, socializing with a friend in his North Beach neighborhood, and relaxing at home.",
+                "home_address": "188 Chestnut St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8044674,
+                    "lng": -122.4067583,
+                    "formatted_address": "188 Chestnut St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1973",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jones Family"
+    }
+}

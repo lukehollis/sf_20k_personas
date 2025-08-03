@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story is one of quiet resilience, written in the margins of a life she didn\u2019t quite plan. Raised in Modesto, the only child of a mechanic and a waitress, she grew up with a practical understanding of hard work. Her artistic inclinations led her to a community college, where she earned an Associate\u2019s degree in Graphic Design, dreaming of creating logos and layouts.\n\nThe move to San Francisco in her early twenties was an act of love; she followed a boyfriend with tech ambitions. The relationship dissolved within a year, but her fascination with the city\u2019s chaotic charm did not. Stranded and needing to pay rent, she took the first job she could get: a sales associate at a boutique home goods store. The immediacy of retail\u2014solving problems, connecting with customers\u2014was an unexpected fit. Her graphic design portfolio gathered dust as she climbed the ladder, her eye for composition translating surprisingly well to merchandising displays. Within a decade, she was the store manager.\n\nNow 41, Sarah\u2019s life is contained within a few blocks of Hayes Valley. A key turning point was securing the rent-controlled apartment directly above the shop she manages, reducing her commute to a single flight of stairs. This convenience, however, has become a gilded cage. Her days are a predictable rhythm: unlocking the store, managing inventory, coaching her small team, and handling the occasional demanding customer. Her social life is woven into her work; she\u2019s on a first-name basis with the barista next door and shares pleasantries with other local merchants. She has a few close friends, but long retail hours make deep connections difficult.\n\nWhile proud of the competence and stability she has built, a quiet melancholy sometimes surfaces. She misses the feeling of creating something from scratch. Her dream is no longer to be a graphic designer for a big firm, but a smaller, more tangible ambition has taken its root: to one day own a small shop of her own, perhaps selling vintage prints and locally made pottery. It\u2019s a hope she nurtures on quiet evenings, alone in her apartment, listening to the muffled sounds of the city she reluctantly, and then wholeheartedly, came to call home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up and do a 15-minute guided meditation and stretching session.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a smart-casual outfit for the gallery, and do skincare/makeup.",
+                        "geocode": {
+                            "lat": 37.7832173,
+                            "lng": -122.4200368,
+                            "formatted_address": "750 Eddy St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bedroom/Bathroom"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Prepare and eat a quick breakfast of Greek yogurt with berries and make a pour-over coffee.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the corner of Diamond and Chenery to meet her carpool partner.",
+                        "geocode": {
+                            "lat": 37.7361783,
+                            "lng": -122.4344201,
+                            "formatted_address": "Glen Park, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 5,
+                        "location": "Glen Park Neighborhood Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute across town, listening to an art history podcast with her colleague.",
+                        "geocode": {
+                            "lat": 37.7505246,
+                            "lng": -122.4761024,
+                            "formatted_address": "19th Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Cross-Town Commute via 19th Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, unlock the store, turn on lights, check daily sales reports, and create the staff's task-list for the day.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, United States"
+                        },
+                        "duration": 60,
+                        "location": "Creative IQ Art Studio & CIQ Gallery"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Manage the sales floor, assist customers with finding specific art supplies, and plan the merchandising for a new shipment of pottery tools.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, United States"
+                        },
+                        "duration": 150,
+                        "location": "Creative IQ Art Studio & CIQ Gallery"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break, walking to a nearby spot to eat her packed lunch and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7774816,
+                            "lng": -122.5105772,
+                            "formatted_address": "Sutro Heights, 846 Point Lobos Ave, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 45,
+                        "location": "Sutro Heights Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Handle administrative duties: process invoices, place new inventory orders with suppliers, and draft the email newsletter for the upcoming artist workshop.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 150,
+                        "location": "Creative IQ Art Studio - Back Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udd12",
+                        "action": "Close out the cash register, do a final store walkthrough, and lock up for the day before meeting her carpool.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, United States"
+                        },
+                        "duration": 30,
+                        "location": "Creative IQ Art Studio & CIQ Gallery"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute home, chatting with her carpool partner about their day.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Cross-Town Commute via Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Stop at the local market to pick up fresh fish and asparagus for dinner.",
+                        "geocode": {
+                            "lat": 37.7340945,
+                            "lng": -122.4336886,
+                            "formatted_address": "2815 Diamond St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 20,
+                        "location": "Canyon Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook and eat dinner while listening to music to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83e\udd42",
+                        "action": "Meet a friend for a glass of wine to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7341845,
+                            "lng": -122.4341597,
+                            "formatted_address": "2816 Diamond St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 75,
+                        "location": "Glen Park Station Bar"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down at home by watching an episode of a British crime drama.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: skincare, set out clothes for tomorrow, and read a few chapters of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A busy but balanced weekday for Sarah, managing her retail art gallery in the Outer Richmond, navigating a cross-town carpool commute, and winding down with neighborhood errands and social time in Glen Park.",
+                "home_address": "2465 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7389046,
+                    "lng": -122.435307,
+                    "formatted_address": "2465 Diamond St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Tanaka",
+    "givenName": "Sarah",
+    "familyName": "Tanaka",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Tanaka is a product of Silicon Valley, born and raised in the quiet, sun-drenched suburbs of San Jose. Her father, a second-generation Japanese-American, was a hardware engineer who spent his career at the same semiconductor company, while her mother taught elementary school. From a young age, the path seemed clear: excel in math and science, attend a good UC, and secure a stable job in tech. Sarah followed the script, but with a quiet deviation. Instead of computer science, she pursued a Sociology degree at UC Davis, fascinated more by the human systems behind the technology than the code itself.\n\nHer parents were privately bewildered but publicly supportive. The turning point came after graduation. Facing a job market that didn't quite know what to do with a sociology major, Sarah made a pragmatic choice. She enrolled in an intensive six-month data science bootcamp, discovering she could apply her passion for societal patterns to the rigid logic of data sets. This fusion of humanities and tech landed her a role as a Data Analyst for a growing FinTech startup.\n\nThe job offer was her ticket out of the suburbs. She moved into a small, modern apartment in San Francisco's Mission District, trading manicured lawns for vibrant murals and the hum of BART. Her commute is non-existent; the company went fully remote during the pandemic, and her desk is a corner of her living room overlooking Valencia Street. The isolation of working from home was initially jarring, but Sarah built a new routine. Mornings start with coffee from a local roaster, her workday is punctuated by the sounds of the city, and she breaks her digital confinement with evening trips to a bouldering gym or long walks through Dolores Park.\n\nHer social life is small but meaningful, built around her climbing partners and a few friends from her bootcamp cohort. She loves her neighborhood's energy\u2014the constant discovery of a new taqueria, a hidden gallery, or a street performance. Sarah feels she's finally building a life on her own terms, one that honors her family\u2019s pragmatism but is defined by her own curiosities. Her dream is to one day transition to a role where her analysis directly serves the community, perhaps working for a housing non-profit or a public transit initiative, using data not just for profit, but to better understand and improve the city she now calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf1e",
+                        "action": "Waking up to a gentle alarm, scrolling through morning news headlines and social media.",
+                        "geocode": {
+                            "lat": 37.7836046,
+                            "lng": -122.3976651,
+                            "formatted_address": "1 St Francis Pl, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bedroom, SoMa Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2640\ufe0f",
+                        "action": "Morning spin class and stretching session to get energized for the day.",
+                        "geocode": {
+                            "lat": 37.7876543,
+                            "lng": -122.39454,
+                            "formatted_address": "488 Folsom St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "The Avery Building Fitness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Showering, completing a skincare routine, and getting dressed in comfortable work-from-home clothes.",
+                        "geocode": {
+                            "lat": 37.7843572,
+                            "lng": -122.4033442,
+                            "formatted_address": "135 4th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bathroom, SoMa Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf75",
+                        "action": "Making a homemade matcha latte and grabbing a yogurt with granola for breakfast.",
+                        "geocode": {
+                            "lat": 37.7836046,
+                            "lng": -122.3976651,
+                            "formatted_address": "1 St Francis Pl, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 20,
+                        "location": "Kitchen, SoMa Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Commencing the workday: logging on, checking Slack notifications, and reviewing overnight data pipeline health dashboards.",
+                        "geocode": {
+                            "lat": 37.7888898,
+                            "lng": -122.3981036,
+                            "formatted_address": "535 Mission St #2028, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office Nook, SoMa Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session writing and running SQL queries to pull customer behavior data for a new marketing campaign.",
+                        "geocode": {
+                            "lat": 37.7888898,
+                            "lng": -122.3981036,
+                            "formatted_address": "535 Mission St #2028, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office Nook, SoMa Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Taking a short walk to grab a 'Be Well' salad and eating it outside in the sun.",
+                        "geocode": {
+                            "lat": 37.7897395,
+                            "lng": -122.3961656,
+                            "formatted_address": "Salesforce Park, 425 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt, Salesforce Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Joining the weekly Data Team sync via Zoom to discuss project blockers and upcoming deadlines.",
+                        "geocode": {
+                            "lat": 37.7888898,
+                            "lng": -122.3981036,
+                            "formatted_address": "535 Mission St #2028, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office Nook, SoMa Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Analyzing query results from the morning and building visualizations in Tableau for a stakeholder presentation.",
+                        "geocode": {
+                            "lat": 37.7888898,
+                            "lng": -122.3981036,
+                            "formatted_address": "535 Mission St #2028, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Nook, SoMa Apartment"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Signing off for the day: pushing final updates to the team's shared drive and tidying the workspace.",
+                        "geocode": {
+                            "lat": 37.7888898,
+                            "lng": -122.3981036,
+                            "formatted_address": "535 Mission St #2028, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook, SoMa Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf79",
+                        "action": "Taking a Muni bus to meet a friend for after-work drinks and gossip.",
+                        "geocode": {
+                            "lat": 37.7768448,
+                            "lng": -122.4243199,
+                            "formatted_address": "482 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 105,
+                        "location": "Anina, Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83e\udd59",
+                        "action": "Grabbing a quick and delicious lamb gyro for dinner before heading home.",
+                        "geocode": {
+                            "lat": 37.7765267,
+                            "lng": -122.4249906,
+                            "formatted_address": "517 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "Souvla, Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Calling parents while unpacking from the day for a weekly check-in.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Living Room, SoMa Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Winding down by watching an episode of a trending drama series on Netflix.",
+                        "geocode": {
+                            "lat": 37.7836046,
+                            "lng": -122.3976651,
+                            "formatted_address": "1 St Francis Pl, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 45,
+                        "location": "Couch, SoMa Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: skincare, prepping clothes for the next day, and reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7836046,
+                            "lng": -122.3976651,
+                            "formatted_address": "1 St Francis Pl, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bedroom, SoMa Apartment"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a data analyst, blending focused work in her SoMa apartment with a neighborhood lunch break, a social evening in Hayes Valley, and time to unwind.",
+                "home_address": "370 Howard St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7894939,
+                    "lng": -122.3952275,
+                    "formatted_address": "370 Howard St, San Francisco, CA 94105, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

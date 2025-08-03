@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anya Sharma",
+    "givenName": "Anya",
+    "familyName": "Sharma",
+    "jobTitle": "Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anya Sharma\u2019s life is a study in controlled opposition. Born in Fremont to Indian immigrant parents who prized stability above all else, she was a dutiful daughter with a secret, passionate love for the Impressionists. While her parents envisioned a future for her in medicine or engineering, Anya enrolled in a prestigious graduate program for Art History, dreaming of a life spent curating museum collections.\n\nThe turning point came not with a parental ultimatum, but with the 2008 financial crisis, which decimated her father's small business. Witnessing her family\u2019s vulnerability instilled in Anya a new, urgent need for security. She abruptly left her PhD program, pivoting to a Master's in Finance. It felt like a betrayal of her soul, but a necessary act of pragmatism. She excelled, her sharp, analytical mind finding a strange solace in the black-and-white certainty of spreadsheets.\n\nNow, at 35, Anya is a successful financial analyst. Her life is contained within the clean, minimalist lines of her Marina apartment, where her commute is a ten-step walk from her bedroom to her desk. The pandemic cemented a remote work lifestyle she has no desire to change. Her days are a disciplined rhythm of market analysis, client calls, and virtual meetings, broken only by a non-negotiable morning run along the waterfront, the Golden Gate Bridge a stoic, beautiful constant against the fog.\n\nHer social life is small but meaningful, consisting of a weekly dinner with her best friend from grad school\u2014a constant, gentle reminder of the path not taken. Anya\u2019s connection to San Francisco is aesthetic; she loves the city for its beauty, not its social scene, often spending weekends alone at the de Young Museum, losing herself in the art she left behind. Her greatest aspiration is to one day merge her two worlds: to build enough wealth to leave corporate finance and start an art investment fund, using her financial acumen to support emerging artists. It\u2019s a distant dream, but it's the single thread of defiant passion she allows herself to hold onto."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to a smart alarm, check financial headlines on Bloomberg, and drink a glass of lemon water.",
+                        "geocode": {
+                            "lat": 37.7635735,
+                            "lng": -122.4338394,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on Market St, Castro District"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Complete a 30-minute HIIT workout session using the Peloton app in the living room.",
+                        "geocode": {
+                            "lat": 37.7635735,
+                            "lng": -122.4338394,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Market St, Castro District"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack a work bag with a laptop and notebook.",
+                        "geocode": {
+                            "lat": 37.7635735,
+                            "lng": -122.4338394,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Apartment on Market St, Castro District"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of Greek yogurt and berries while listening to 'The Journal' podcast by WSJ.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Kitchen, Apartment on Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to Castro Station and take the K/L/M Muni Metro inbound to Embarcadero Station.",
+                        "geocode": {
+                            "lat": 37.783081,
+                            "lng": -122.409969,
+                            "formatted_address": "33 Turk St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni Metro K-Ingleside Line"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab a coffee from the kitchen, and review overnight market performance data.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Chime HQ, California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Deep focus session: building a financial model for the upcoming quarterly earnings forecast.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 150,
+                        "location": "Anya's Desk, Chime HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk with a coworker to grab a healthy, upscale salad bowl and chat about non-work topics.",
+                        "geocode": {
+                            "lat": 37.7927841,
+                            "lng": -122.4023581,
+                            "formatted_address": "465 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mendocino Farms, Financial District"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a cross-functional strategy meeting to present key financial insights on a new product feature.",
+                        "geocode": {
+                            "lat": 37.7964911,
+                            "lng": -122.4024302,
+                            "formatted_address": "415 Jackson St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 75,
+                        "location": "Conference Room 'The Vault', Chime HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Finalize presentation slides, respond to urgent Slack messages, and plan tomorrow's priorities.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 120,
+                        "location": "Anya's Desk, Chime HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\ude86",
+                        "action": "Walk from the office to Embarcadero Station and take the Muni Metro outbound to Castro.",
+                        "geocode": {
+                            "lat": 37.7140489,
+                            "lng": -122.4590591,
+                            "formatted_address": "Oceanview, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 35,
+                        "location": "Muni Metro M-Ocean View Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce, chicken, and a bottle of wine for the week.",
+                        "geocode": {
+                            "lat": 37.7606704,
+                            "lng": -122.4365066,
+                            "formatted_address": "4201 18th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mollie Stone's Market, Castro"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook a simple lemon-herb chicken with roasted vegetables while video-calling her parents.",
+                        "geocode": {
+                            "lat": 37.7635735,
+                            "lng": -122.4338394,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Apartment on Market St, Castro District"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a cup of chamomile tea and read a few chapters of a non-fiction book on behavioral economics.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "Living Room Couch, Apartment on Market St"
+                    }
+                ],
+                "day_overview": "A productive day for a Financial Analyst, blending deep analytical work at Chime's downtown office with an efficient commute on Muni and a relaxing evening enjoying the vibrant life of her Castro neighborhood.",
+                "home_address": "3680 Market St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7550065,
+                    "lng": -122.4419216,
+                    "formatted_address": "3680 Market St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

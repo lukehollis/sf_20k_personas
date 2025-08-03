@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Naomi Goldstein",
+    "givenName": "Naomi",
+    "familyName": "Goldstein",
+    "jobTitle": "Preschool Teacher",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Naomi Goldstein\u2019s world is a kaleidoscope of tempera paint, drying clay, and the joyful chaos of small children. Her Inner Richmond Edwardian flat serves a dual purpose: the ground floor is \"The Painted Easel,\" her beloved arts-focused preschool, and the top floor is her sanctuary. This arrangement explains her 0.0-mile commute, a rare luxury in San Francisco.\n\nRaised in the sprawling suburbs of Los Angeles, Naomi was the daughter of a pragmatic dentist and an accountant who encouraged a \"sensible\" path. She obliged, earning a Bachelor's degree in Economics from UCLA and landing a job as a junior analyst. For five years, she drowned in spreadsheets, the grey monotony of her cubicle a stark contrast to her vibrant inner world. The turning point came during a particularly soul-crushing quarterly review; she walked out, packed her car, and drove north to San Francisco, a city she\u2019d always romanticized as a haven for misfits and dreamers.\n\nIn her late twenties, she found her calling not in finance, but in the finger-painting corner of a community center where she volunteered. She enrolled in early childhood education courses and slowly built her vision. She poured her savings into transforming the ground floor of her flat into a licensed preschool, a space dedicated to process over product, where mess-making was a celebrated part of learning.\n\nNow at 53, Naomi is a beloved neighborhood fixture. She has never married and has no children of her own, but considers the hundreds of toddlers she has guided her legacy. Her social life is woven into her community\u2014dinners with parents who have become lifelong friends, weekend walks through Golden Gate Park, and quiet evenings spent on her own pottery wheel. Her hopes are not for expansion or wealth, but for sustainability. She dreams of simply being able to continue her work, to keep her little school affordable for local families, and to continue finding profound fulfillment in the messy, beautiful world she has so carefully crafted for herself, one hand-print at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up to a gentle alarm, followed by a brief morning meditation and stretching session.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Brew a strong pour-over coffee and prepare a simple breakfast of yogurt with fruit and granola.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf92",
+                        "action": "Pack a lunch and fill a thermos with tea while listening to the news on NPR.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the long morning walk to work, listening to an art history podcast while heading through the Panhandle.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Panhandle & Golden Gate Park Path"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Arrive at the studio, greet colleagues, and prep the classroom stations with tempera paints, clay, and recycled materials.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 30,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83d\udd8c\ufe0f",
+                        "action": "Lead the 'Toddler Textures' morning art class, helping children explore different sensory materials.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 120,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break, eating her packed meal at a parklet outside a local cafe.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Parklet on Balboa Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Facilitate the afternoon 'Story & Illustrations' session, reading a book and guiding the children in drawing their own characters.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 90,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\u2728",
+                        "action": "Clean up the art supplies, wipe down tables, and lay out materials for the next day's projects.",
+                        "geocode": {
+                            "lat": 37.7756081,
+                            "lng": -122.4956421,
+                            "formatted_address": "3423 Balboa St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 45,
+                        "location": "Creative IQ Art Studio"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Commence the walk home, taking a scenic route to watch the fog roll in over Ocean Beach before heading east.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce, a loaf of sourdough, and a bottle of wine for the evening.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 25,
+                        "location": "Mollie Stone's Markets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Settle in at home and make her weekly phone call to her elderly mother in Arizona to catch up.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a nourishing dinner of roasted vegetables and salmon while watching a documentary.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind by sketching in her personal journal with a cup of chamomile tea.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Do her evening skincare routine and get into bed to read a few pages of a novel before sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A day centered on nurturing young artists at a Richmond district studio, punctuated by long, meditative walks across the city from her Market Street home.",
+                "home_address": "1968 Market St, San Francisco, CA 94111",
+                "home_geocode": {
+                    "lat": 37.7699833,
+                    "lng": -122.4259798,
+                    "formatted_address": "1968 Market St, San Francisco, CA 94102, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1971",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Goldstein Family"
+    }
+}

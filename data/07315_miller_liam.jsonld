@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Miller",
+    "givenName": "Liam",
+    "familyName": "Miller",
+    "jobTitle": "Research Assistant, UCSF",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Miller\u2019s story began not in the fog-draped slopes of San Francisco, but in the sun-drenched, manicured suburbs of Fremont. The only child of first-generation Indian immigrants, his name was a conscious choice by parents who wanted him to navigate America with ease. His father, a software engineer, and his mother, a pharmacist, instilled in him a profound respect for education and a clear expectation: he would become a doctor.\n\nFor years, Liam followed the prescribed path, excelling in science and math. The turning point came during his undergraduate years at UC Berkeley. His grandmother, living with them, struggled with complications from poorly managed Type 2 diabetes. Liam witnessed firsthand the systemic gaps in patient education and community support. The experience shifted his focus from treating individual ailments to fixing the systems that failed patients like her. This revelation led him to pursue a Master of Public Health, a decision that caused a quiet rift with his parents, who saw it as a detour from the more prestigious M.D. track.\n\nNow, at 24, Liam\u2019s life is a disciplined loop within San Francisco\u2019s Inner Sunset. His 0.0-mile commute is a short walk from his small apartment to his UCSF research lab on Parnassus Avenue, where he assists on a major study analyzing healthcare access in underserved communities. His days are a blur of data analysis, literature reviews, and the quiet hum of the lab.\n\nEvenings are for runs in Golden Gate Park, its eucalyptus groves a welcome escape from sterile work environments. His social circle is small and tight-knit, composed mostly of fellow graduate students who share his passion and financial constraints. They meet for cheap pho on Irving Street or beers at a dimly lit neighborhood bar.\n\nLiam\u2019s connection to San Francisco is academic and aspirational. He sees the city not as a playground, but as a living laboratory for the healthcare innovation he wants to be a part of. His dream is to eventually lead his own research, focusing on preventative care models for diabetes. He hopes to one day earn his parents\u2019 full understanding, proving that his impact on health can be just as profound from behind a dataset as from behind a stethoscope."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udecc",
+                        "action": "Wake up, silence alarm, and scroll through science news and personal notifications.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "2188 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 15,
+                        "location": "Bedroom at 2188 Cole St"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make a quick breakfast of oatmeal and French press coffee while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in casual lab attire (jeans and a sweatshirt), and pack lunch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the designated carpool spot to meet a colleague from another lab.",
+                        "geocode": {
+                            "lat": 37.7640386,
+                            "lng": -122.4496286,
+                            "formatted_address": "Grattan St & Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 5,
+                        "location": "Corner of Cole St & Grattan St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute across town, navigating traffic while discussing research papers.",
+                        "geocode": {
+                            "lat": 37.7706831,
+                            "lng": -122.3895903,
+                            "formatted_address": "Mission Bay, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Cross-Town Commute to Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Begin morning experiments: run a PCR, check on cell cultures, and prepare samples.",
+                        "geocode": {
+                            "lat": 37.7699284,
+                            "lng": -122.3897032,
+                            "formatted_address": "Helen Diller Family Cancer Research Bldg, 1450 3rd St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 180,
+                        "location": "UCSF Mission Bay - Helen Diller Family Cancer Research Building Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Eat a packed lunch with lab mates, sitting outside to get some sun.",
+                        "geocode": {
+                            "lat": 37.7681212,
+                            "lng": -122.3930817,
+                            "formatted_address": "1675 Owens St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Green at UCSF Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon work session focused on data analysis using imaging software.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Research Workstation"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a weekly lab meeting to present findings and discuss project roadblocks.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Conference Room 4A"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd3",
+                        "action": "Clean up the lab bench, log results in the digital notebook, and plan tomorrow's tasks.",
+                        "geocode": {
+                            "lat": 37.7699284,
+                            "lng": -122.3897032,
+                            "formatted_address": "Helen Diller Family Cancer Research Bldg, 1450 3rd St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 30,
+                        "location": "UCSF Mission Bay - Helen Diller Family Cancer Research Building Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Carpool commute home, listening to music to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Return Commute to Cole Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Change into running gear and go for a jog through the neighborhood's famous park.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 50,
+                        "location": "Golden Gate Park Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery run to pick up ingredients for dinner and breakfast.",
+                        "geocode": {
+                            "lat": 37.7650139,
+                            "lng": -122.4496722,
+                            "formatted_address": "960 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Luke's Local on Cole St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner while catching up with his roommates about their day.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen & Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk down the street to meet a friend for a local craft beer.",
+                        "geocode": {
+                            "lat": 37.7703753,
+                            "lng": -122.4451778,
+                            "formatted_address": "1398 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Magnolia Brewing - Haight Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down at home, reading a non-science book before setting an alarm for the next day.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "2188 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Living Room at 2188 Cole St"
+                    }
+                ],
+                "day_overview": "A productive day for a UCSF research assistant, balancing focused lab work in Mission Bay with a refreshing run in Golden Gate Park and a casual evening beer with a friend in his Cole Valley neighborhood.",
+                "home_address": "2188 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7601959,
+                    "lng": -122.4488527,
+                    "formatted_address": "2188 Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

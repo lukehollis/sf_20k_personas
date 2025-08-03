@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Marcus Tanaka",
+    "givenName": "Marcus",
+    "familyName": "Tanaka",
+    "jobTitle": "Senior Commercial Property Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Marcus Tanaka\u2019s life is a study in vertical efficiency. At 41, he lives on the 38th floor and works on the 25th floor of the same gleaming high-rise in SoMa, a 0.0-mile commute that perfectly encapsulates his detached existence. A third-generation Japanese American, Marcus grew up in the quiet suburbs of San Jose, the son of a pragmatic engineer and a nurturing schoolteacher. They instilled in him a powerful drive for security, a reaction to the hardships their own parents had faced.\n\nFueled by a youthful idealism, Marcus pursued a Master's in Urban Planning from UC Berkeley. He dreamed of designing equitable public spaces and revitalizing communities. But reality, in the form of crippling student debt and a competitive job market, intervened. A \"temporary\" job offer from a major financial firm's commercial real estate division was too lucrative to ignore. He discovered an unnerving talent for it; his academic knowledge of urban systems made him ruthlessly effective at maximizing a property\u2019s value. The temporary detour became a 15-year career.\n\nThe key turning point was a failed engagement a decade ago. His fianc\u00e9e, a vibrant artist, accused him of seeing the city not as a home, but as a portfolio of assets. She was right. He managed multi-million dollar leases for the towers that defined the skyline but hadn't visited a neighborhood festival in years. After she left, he doubled down on his work, accepting the promotion that came with a luxury condo in the building he managed.\n\nHis daily routine is a closed loop: a 6 AM workout in the building\u2019s gym, an espresso from the lobby caf\u00e9, and an elevator ride to his office. He is professionally respected but personally isolated, his connections primarily transactional. Now, in the quiet of his minimalist apartment overlooking the city lights, Marcus feels a growing hollowness. He hopes to one day leverage his wealth and expertise for something that aligns with his forgotten ideals\u2014perhaps funding a public park or mentoring a new generation of city planners. He dreams of finally closing the distance between his sterile, successful life and the vibrant, messy city that exists just an elevator ride away."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check overnight emails and financial news on phone.",
+                        "geocode": {
+                            "lat": 37.7909733,
+                            "lng": -122.3993901,
+                            "formatted_address": "302 Market St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 302 Market St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Morning coffee and conversation with his partner before the day gets started.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f",
+                        "action": "Quick workout session in the building's fitness center, focusing on cardio.",
+                        "geocode": {
+                            "lat": 37.79408979999999,
+                            "lng": -122.3957769,
+                            "formatted_address": "San Francisco, CA 94105, USA"
+                        },
+                        "duration": 40,
+                        "location": "Residences Fitness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed in business casual attire, and prepare briefcase for work.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the nearby cable car stop to begin the uphill commute to Nob Hill.",
+                        "geocode": {
+                            "lat": 37.7847118,
+                            "lng": -122.4077009,
+                            "formatted_address": "Powell St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 10,
+                        "location": "Powell & Market Cable Car Turnaround"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Ride the Powell-Hyde cable car up the hill, enjoying the iconic city views.",
+                        "geocode": {
+                            "lat": 37.8068681,
+                            "lng": -122.4209381,
+                            "formatted_address": "Powell-Hyde Cable Car, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 20,
+                        "location": "Powell-Hyde Cable Car Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at his desk, review tenant communications, and prioritize tasks for the day.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Health Saint Francis Hospital - Property Management Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Meet with the hospital's facilities director to discuss capital expenditure planning for the next fiscal year.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Saint Francis Hospital Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to a nearby cafe to grab a quick and healthy lunch to-go.",
+                        "geocode": {
+                            "lat": 37.7864605,
+                            "lng": -122.4183232,
+                            "formatted_address": "925 Larkin St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Jane on Larkin"
+                    },
+                    {
+                        "emoji": "\ud83d\udd11",
+                        "action": "Conduct a site walk-through of a medical office suite with a contractor to get quotes for a tenant improvement project.",
+                        "geocode": {
+                            "lat": 37.789412,
+                            "lng": -122.4172328,
+                            "formatted_address": "909 Hyde St, San Francisco, CA 941094822, USA"
+                        },
+                        "duration": 90,
+                        "location": "909 Hyde Medical Office Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze property financials and prepare a quarterly performance report for UCSF leadership.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Health Saint Francis Hospital - Property Management Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Take a leisurely walk home downhill, using the time to decompress and listen to a podcast.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Streets of Nob Hill & Downtown"
+                    },
+                    {
+                        "emoji": "\ud83e\uddc0",
+                        "action": "Stop at the renowned marketplace to pick up fresh pasta and cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.808705,
+                            "lng": -122.4140458,
+                            "formatted_address": "301 Embarcadero N St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 25,
+                        "location": "Ferry Building Marketplace"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner with his partner while sharing stories from their respective days.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the sofa, watch an episode of a drama series, and enjoy the city lights from their apartment window.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: read a few pages of a novel and set out clothes for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A busy day for Marcus, a senior property manager, involving high-stakes meetings at the hospital, a classic San Francisco commute, and unwinding with his partner in their downtown home.",
+                "home_address": "302 Market St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7909733,
+                    "lng": -122.3993901,
+                    "formatted_address": "302 Market St, San Francisco, CA 94105, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

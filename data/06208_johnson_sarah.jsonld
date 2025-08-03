@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Johnson",
+    "givenName": "Sarah",
+    "familyName": "Johnson",
+    "jobTitle": "Administrative Assistant, Outpatient Clinic",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Johnson\u2019s world is contained within three city blocks in San Francisco\u2019s Inner Richmond. Raised in Sacramento as the reliable older sister, she was the one who always had a plan. Her move to San Francisco in her early twenties was her one grand, unplanned act of rebellion. She enrolled at City College, earning an Associate's degree in Liberal Arts, not for a career, but for the thrill of learning about art history, philosophy, and poetry\u2014worlds away from her practical upbringing.\n\nHer dream of working in a museum archives or a small press withered under the financial pressures of city life. A temporary position as a receptionist at a UCSF outpatient clinic, taken purely for the steady paycheck and health insurance, became a turning point. Sarah discovered a quiet satisfaction in bringing order to the chaos of patient scheduling and medical records. She was good at it. The temp job became permanent, and fifteen years later, she\u2019s the unflappable administrative anchor of the clinic.\n\nSarah\u2019s life is a study in deliberate routine. Her 0.0-mile commute consists of walking from her second-floor apartment to the clinic on the ground floor of the adjacent building. Her small, rent-controlled apartment is her sanctuary, a space that holds the ghost of her former self in its overflowing bookshelves and a single, framed print from a long-forgotten art class. Her social life is small but cherished: a weekly book club with two other women from the neighborhood and a standing Saturday morning coffee at a local cafe.\n\nShe feels a deep, quiet connection to San Francisco\u2014not the glamour of downtown, but the fog-drenched avenues of her neighborhood, the proximity to Golden Gate Park, and the comforting predictability of her local grocer. At 47, Sarah\u2019s aspirations are modest but meaningful. She doesn't dream of leaving her job, but she recently started a personal blog, writing short essays about the books she reads and the quiet moments she observes from her window. It\u2019s a small act of reclaiming the person who first came to the city, a hope that her life\u2019s story can be both practical and poetic."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, shower, get dressed, and have a quick cup of coffee while reviewing the day's calendar.",
+                        "geocode": {
+                            "lat": 37.7425693,
+                            "lng": -122.4820465,
+                            "formatted_address": "1481 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (1481 Taraval St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare a simple breakfast (oatmeal and fruit) and pack lunches for herself and her teenage son.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk from her apartment to the nearest Muni stop to begin her commute.",
+                        "geocode": {
+                            "lat": 37.7427816,
+                            "lng": -122.4821498,
+                            "formatted_address": "25th Ave & Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 5,
+                        "location": "Taraval St & 25th Ave Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Commute Part 1: Ride the L Taraval train inbound, reading the news on her phone.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni L Taraval Line"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute Part 2: Transfer at Van Ness Station and take the 9 San Bruno bus to the hospital campus.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 25,
+                        "location": "Van Ness Muni Station"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the clinic, log into the EMR system, review the day's patient schedule, and sort incoming faxes.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 210,
+                        "location": "ZSFG Outpatient Clinic, Admin Desk"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break. Walks to a nearby cafe to grab a Banh Mi sandwich and eat outside for some fresh air.",
+                        "geocode": {
+                            "lat": 37.7621919,
+                            "lng": -122.4098711,
+                            "formatted_address": "1975 Bryant St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mission Dispatch Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Return to work. Focus on processing patient check-outs, scheduling follow-up appointments, and managing referral paperwork.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 225,
+                        "location": "ZSFG Outpatient Clinic, Admin Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Clock out and begin the reverse commute, starting with the bus ride back toward Van Ness.",
+                        "geocode": {
+                            "lat": 37.7568275,
+                            "lng": -122.406791,
+                            "formatted_address": "22nd St & Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Potrero Ave & 22nd St Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Catch the L Taraval train outbound, listening to a podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.742647,
+                            "lng": -122.4854933,
+                            "formatted_address": "Taraval St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Muni L Taraval Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Hop off the train a few stops early to pick up fresh vegetables and chicken for dinner.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "The Other Avenues Grocery Cooperative"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Arrive home, unpack groceries, and start cooking dinner while catching up with her son about his day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a crime drama, and fold a basket of laundry.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: Tidy up the kitchen, pack her work bag for the morning, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7425693,
+                            "lng": -122.4820465,
+                            "formatted_address": "1481 Taraval St, San Francisco, CA 94116"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured weekday for Sarah, juggling her essential role as a healthcare administrator, navigating a cross-city Muni commute, and managing household responsibilities as the primary adult in her Parkside home.",
+                "home_address": "1481 Taraval St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7425693,
+                    "lng": -122.4820465,
+                    "formatted_address": "1481 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Johnson Family"
+    }
+}

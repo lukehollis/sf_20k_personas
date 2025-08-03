@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Tanaka",
+    "givenName": "David",
+    "familyName": "Tanaka",
+    "jobTitle": "Project Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Tanaka\u2019s story is woven into the fabric of the Bay Area itself. A third-generation Japanese American, or *Sansei*, he was raised in the quiet suburbs of San Jose. His parents, an engineer and a dental hygienist, embodied the post-internment drive for quiet stability and professional success. They hoped David would follow a similar, practical path. But David was a dreamer, more fascinated by the stories of the past than the promise of future technology. He eschewed computer science for a Bachelor\u2019s in History from UC Santa Cruz, losing himself in narratives of empires and revolutions.\n\nHis idealistic path collided with reality during the 2008 financial crisis. Graduating with a humanities degree into a cratered job market was a stark turning point. Out of necessity, he took a low-level customer support job at a small San Francisco startup. There, his ability to understand people and translate complex problems into clear narratives proved invaluable. He wasn't a coder, but he could bridge the gap between engineers and clients. Over a decade, he diligently climbed the ladder from support to quality assurance, finally landing as a Project Manager, where he now orchestrates digital projects from the comfort of his home.\n\nToday, David lives a life of measured calm in the Outer Richmond. His 0.0-mile commute means his days begin not with traffic, but with the fog rolling in from the Pacific. He shares his condo with his partner, Elena, a landscape architect whose work physically shapes the city he manages digitally. Their life is a comfortable routine of morning walks in Golden Gate Park, strong coffee from a local cafe on Balboa Street, and quiet evenings together. His social circle is small but tight, a mix of old college friends and former colleagues.\n\nHaving achieved the financial security his parents prized, David feels a familiar pull toward his original passion. His greatest aspiration isn't a C-suite title, but to finally use his History degree. He spends his weekends interviewing his aging grandmother, meticulously documenting his family\u2019s story of displacement and resilience during WWII. His dream is to write a book, a personal history that honors his heritage and connects the quiet, foggy streets of his present with the silent sacrifices of his past."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, start the coffee maker, and spend a few minutes meditating by the window overlooking the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7469199,
+                            "lng": -122.4250456,
+                            "formatted_address": "1404 Dolores St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - 1404 Dolores St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Drink coffee while reviewing a mix of tech news on Hacker News and scanning overnight emails to mentally prep for the day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of yogurt and granola, then get showered and dressed in a smart-casual outfit for the office.",
+                        "geocode": {
+                            "lat": 37.7469199,
+                            "lng": -122.4250456,
+                            "formatted_address": "1404 Dolores St, San Francisco, CA 94110"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute to work, enjoying the mostly downhill ride along the Valencia and Market Street protected bike lanes.",
+                        "geocode": {
+                            "lat": 37.7724667,
+                            "lng": -122.4226391,
+                            "formatted_address": "Market St & Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Valencia & Market Street Bike Lanes"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, park bike in the building's bike room, and grab a sparkling water from the office kitchen while catching up with a coworker.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 15,
+                        "location": "Chime HQ - 101 California St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Lead back-to-back daily stand-up meetings with two different engineering pods to review progress and unblock issues.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Chime HQ - Conference Room 'Golden Gate'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work session: updating project timelines in Asana, clearing Slack messages, and preparing a slide deck for an afternoon meeting.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 120,
+                        "location": "Chime HQ - Desk"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Step out of the office to grab a well-deserved carnitas torta for a change of scenery and a quick walk.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 50,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead a long-term strategic planning session with product and design leads to map out the next quarter's roadmap.",
+                        "geocode": {
+                            "lat": 37.7928678,
+                            "lng": -122.3978827,
+                            "formatted_address": "101 California St Suite 500, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 150,
+                        "location": "Chime HQ - Collaboration Space"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2642\ufe0f",
+                        "action": "Cycle home, tackling the gradual incline as a good end-of-day workout, listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7639605,
+                            "lng": -122.4153192,
+                            "formatted_address": "Folsom St & 17th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 40,
+                        "location": "Folsom St & 17th St Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up fresh pasta, parmesan, and some vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.761345,
+                            "lng": -122.424711,
+                            "formatted_address": "3639 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bi-Rite Market on 18th"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Unpack groceries and have a video call with his parents to catch up on their week and make plans for the weekend.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat dinner while watching an episode of a new sci-fi series to decompress.",
+                        "geocode": {
+                            "lat": 37.7469199,
+                            "lng": -122.4250456,
+                            "formatted_address": "1404 Dolores St, San Francisco, CA 94110"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by tidying up, packing his bag for the next day, and reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7469199,
+                            "lng": -122.4250456,
+                            "formatted_address": "1404 Dolores St, San Francisco, CA 94110"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive day for a tech Project Manager, balancing focused work and meetings in the Financial District with an active bicycle commute from his Noe Valley home. The evening includes a quick stop at a local market, a call with his parents, and time to unwind.",
+                "home_address": "1404 Dolores St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7469199,
+                    "lng": -122.4250456,
+                    "formatted_address": "1404 Dolores St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

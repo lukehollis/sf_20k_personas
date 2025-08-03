@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah O'Connell",
+    "givenName": "Sarah",
+    "familyName": "O'Connell",
+    "jobTitle": "Caregiver for Seniors",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Haight-Ashbury"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, make coffee, and check overnight messages from client families.",
+                        "geocode": {
+                            "lat": 37.7544924,
+                            "lng": -122.4752922,
+                            "formatted_address": "1056 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1056 Noriega St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of toast and yogurt while listening to the local news.",
+                        "geocode": {
+                            "lat": 37.7544924,
+                            "lng": -122.4752922,
+                            "formatted_address": "1056 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (1056 Noriega St)"
+                    },
+                    {
+                        "emoji": "\ud83e\udde5",
+                        "action": "Get ready for the day and pack a work bag with a laptop and client files.",
+                        "geocode": {
+                            "lat": 37.7544924,
+                            "lng": -122.4752922,
+                            "formatted_address": "1056 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (1056 Noriega St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Walk to the corner and catch the N Judah Muni train inbound towards downtown.",
+                        "geocode": {
+                            "lat": 37.7608774,
+                            "lng": -122.490678,
+                            "formatted_address": "2649 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "N Judah Stop (19th Ave & Judah St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at a hot desk, grab a coffee, and create a priority list for the day.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 15,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Morning administrative block: Respond to emails, update client care logs, and manage scheduling for the week.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 150,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to Hayes Valley to pick up a pre-ordered salad for a quick lunch.",
+                        "geocode": {
+                            "lat": 37.7765267,
+                            "lng": -122.4249906,
+                            "formatted_address": "517 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 50,
+                        "location": "Souvla (Hayes St)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Conduct a scheduled video call with a client's family to provide a weekly update.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 60,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Research and coordinate transportation services for a client's upcoming doctor appointment.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 90,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Pack up, clear hot desk, and send final confirmation texts for tomorrow's client visits.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 15,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Board the outbound N Judah train at Van Ness station for the commute home.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Van Ness Muni Metro Station"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local grocery store to pick up items for dinner and the next few days.",
+                        "geocode": {
+                            "lat": 37.7528602,
+                            "lng": -122.5035591,
+                            "formatted_address": "3701 Noriega St Unit A, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market (Noriega St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Go for a brisk walk along the path at Ocean Beach to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Ocean Beach Promenade"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Prepare and eat dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7544924,
+                            "lng": -122.4752922,
+                            "formatted_address": "1056 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (1056 Noriega St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch a show on Netflix, and text with a friend.",
+                        "geocode": {
+                            "lat": 37.7544924,
+                            "lng": -122.4752922,
+                            "formatted_address": "1056 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (1056 Noriega St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Tidy up the kitchen, lay out clothes for tomorrow, and read a book before bed.",
+                        "geocode": {
+                            "lat": 37.7544924,
+                            "lng": -122.4752922,
+                            "formatted_address": "1056 Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1056 Noriega St)"
+                    }
+                ],
+                "day_overview": "A busy day for Sarah, a senior caregiver, balancing administrative work at her Mid-Market coworking space with personal errands and relaxation in her Outer Sunset neighborhood.",
+                "home_address": "1056 Noriega St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7544924,
+                    "lng": -122.4752922,
+                    "formatted_address": "1056 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "O'Connell Family"
+    }
+}

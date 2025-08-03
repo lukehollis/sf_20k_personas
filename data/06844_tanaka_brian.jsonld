@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Brian Tanaka",
+    "givenName": "Brian",
+    "familyName": "Tanaka",
+    "jobTitle": "Payroll Clerk",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Brian Tanaka\u2019s life is a study in precision and quiet consistency, much like the payroll spreadsheets that occupy his days. A third-generation Japanese-American, he grew up in the fog belt of Daly City, the son of a meticulous dental hygienist and a pragmatic postal worker. His parents preached the virtues of stability and a dependable paycheck, values that Brian internalized completely. He was never an ambitious student, finding the abstract theories of high school less compelling than the clear, logical path toward a secure future.\n\nInstead of a four-year university, Brian enrolled at City College of San Francisco, earning an Associate's degree in Business Administration. The program was practical, direct, and led him straight to an entry-level job in a downtown finance firm. For a decade, his life was a predictable rhythm: the pre-dawn BART ride, the hum of the office, the satisfying click of a reconciled account, and the commute home.\n\nThe key turning point was not a promotion, but a pandemic. When his company shifted to permanent remote work, Brian\u2019s 15-mile commute shrank to 0.0 miles. The sudden change unshackled him from his downtown routine and tethered him intimately to his small apartment in the Outer Richmond. His world became the blocks between his building, the Ocean Beach promenade, and the trails of Golden Gate Park.\n\nNow 36, Brian\u2019s daily life is a structured ballet of remote work and local exploration. He logs in at 8:59 AM and logs off at 5:01 PM. In between, the world is numbers. After, it\u2019s the salty air and the cry of gulls. His social life consists of a tight-knit group of friends from CCSF, with whom he plays board games every other Thursday. He is single, finding the prospect of modern dating more chaotic than his ordered life can comfortably accommodate. His dream isn\u2019t to climb the corporate ladder, but to save enough for a down payment on a small condo in his neighborhood. His secret passion is photography, capturing the subtle shifts of light as the fog rolls over the cypress trees\u2014a quiet, artistic rebellion against the black-and-white certainty of his profession."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7840703,
+                            "lng": -122.4536504,
+                            "formatted_address": "Laurel Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Laurel Heights"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Eat a quick breakfast and chat with his mother about her day's plans.",
+                        "geocode": {
+                            "lat": 37.7840703,
+                            "lng": -122.4536504,
+                            "formatted_address": "Laurel Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Laurel Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the corner to catch the bus to work.",
+                        "geocode": {
+                            "lat": 37.7873126,
+                            "lng": -122.4468237,
+                            "formatted_address": "California St & Presidio Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 5,
+                        "location": "Muni Stop - California St & Presidio Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute downtown, listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7933931,
+                            "lng": -122.3967727,
+                            "formatted_address": "1 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni 1-California Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning work session: Process bi-weekly timesheets and verify overtime hours.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 210,
+                        "location": "SF Dept. of Technology Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to Hayes Valley to grab a quick and healthy lunch to go.",
+                        "geocode": {
+                            "lat": 37.7765267,
+                            "lng": -122.4249906,
+                            "formatted_address": "517 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Souvla - Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon work session: Reconcile payroll data, prepare disbursement reports, and respond to employee inquiries.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "SF Dept. of Technology Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home as the evening rush begins, reading a book on his Kindle.",
+                        "geocode": {
+                            "lat": 37.7933931,
+                            "lng": -122.3967727,
+                            "formatted_address": "1 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 35,
+                        "location": "Muni 1-California Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the neighborhood market to pick up milk and fresh bread for dinner.",
+                        "geocode": {
+                            "lat": 37.7862725,
+                            "lng": -122.4529153,
+                            "formatted_address": "3585 California St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Cal-Mart Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Change into workout clothes and go for a jog to clear his head.",
+                        "geocode": {
+                            "lat": 37.7923841,
+                            "lng": -122.4810057,
+                            "formatted_address": "Presidio of San Francisco, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Presidio National Park Trails"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Sit down for dinner with his parents, sharing stories from the workday.",
+                        "geocode": {
+                            "lat": 37.7840703,
+                            "lng": -122.4536504,
+                            "formatted_address": "Laurel Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Laurel Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a crime drama, and scroll through social media.",
+                        "geocode": {
+                            "lat": 37.7840703,
+                            "lng": -122.4536504,
+                            "formatted_address": "Laurel Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Laurel Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Prepare for the next day: lay out his clothes and pack his work bag.",
+                        "geocode": {
+                            "lat": 37.7840703,
+                            "lng": -122.4536504,
+                            "formatted_address": "Laurel Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Laurel Heights"
+                    }
+                ],
+                "day_overview": "A structured day for a government payroll clerk, balancing detailed office work in Civic Center with a refreshing run in the Presidio and a quiet evening at home with family in Laurel Heights.",
+                "home_address": "3302 California St, San Francisco, CA 94111",
+                "home_geocode": {
+                    "lat": 37.7872081,
+                    "lng": -122.448866,
+                    "formatted_address": "3302 California St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

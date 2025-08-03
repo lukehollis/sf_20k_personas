@@ -1,0 +1,212 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Wong",
+    "givenName": "Sarah",
+    "familyName": "Wong",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Urban Planning"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Wong\u2019s relationship with San Francisco is etched in her DNA. Born and raised in the foggy avenues of the Sunset District, she is the daughter of first-generation immigrants from Hong Kong who ran a small, bustling grocery store. Her childhood was a symphony of MUNI bus rumbles, the clang of the N-Judah streetcar, and the daily ebb and flow of neighbors stopping by her parents' shop. This ground-level view of a neighborhood as a living organism, reliant on arteries of transit and community trust, sparked an early fascination with how cities work.\n\nThis fascination propelled her to UCLA for a Master's in Urban and Regional Planning, where she specialized in transportation systems. While her peers were drawn to real estate development or environmental policy, Sarah was captivated by the elegant complexity of moving people efficiently and equitably. A key turning point came during an internship when she analyzed the displacement effects of a new transit line. Witnessing how infrastructure could inadvertently harm the very communities it was meant to serve cemented her mission: to plan with people, not just for them.\n\nNow 36, Sarah lives in Hayes Valley, a physical manifestation of her professional ideals. Her 0.0-mile commute consists of walking from her bedroom to her home office, where she analyzes data for the San Francisco Municipal Transportation Agency. Her days are a mix of digital mapping, community outreach Zooms, and drafting proposals for projects like protected bike lanes on Fell Street or improving bus rapid transit efficiency. Her apartment overlooks Patricia's Green, a constant reminder of how thoughtful planning can transform urban space.\n\nHer social life is deeply woven into the city's fabric. Weekends are for farmers' markets in the Ferry Building, long walks through the Presidio with her tight-knit group of friends, and trying new restaurants in the Mission. She feels a profound responsibility to the city that raised her. Sarah dreams of a future San Francisco where a family like her own could still afford to live and thrive, where accessibility isn\u2019t a luxury, and where the commute for a service worker is as seamless as it is for a tech executive. Her ultimate aspiration is to lead a major transit project from conception to completion, leaving a tangible legacy of connectivity for the next generation of San Franciscans."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was eight, standing on a milk crate to see over the counter of her parents\u2019 grocery store. A foggy rain slicked the street outside. Mrs. Wei, a daily customer, anxiously watched the minutes tick by, worried she\u2019d miss the N-Judah. When the streetcar\u2019s familiar rumble finally grew louder, Sarah felt the woman\u2019s relief as if it were her own. In that moment, the train wasn't just a machine; it was a promise, a lifeline connecting her small world. This was the first time she understood infrastructure as kindness.\n\n2.\nAt sixteen, she waited with her exhausted mother at a cold MUNI stop after closing the store. The bus was twenty minutes late. When it finally arrived, it was so crowded they could barely squeeze aboard, her mother\u2019s shoulders slumping with weariness. A quiet, protective anger sparked in Sarah. She saw the city not through the lens of its beauty, but through the daily, grinding fatigue of her parents. That night, her abstract fascination with cities became a deeply personal mission to fight for their dignity and time.\n\n3.\nIt was a hot afternoon during her UCLA internship, at age 24. She wasn't looking at a spreadsheet; she was standing in the living room of a family whose home was being acquired for a new rail line. The maps she\u2019d analyzed were spread on their coffee table. Seeing the disconnect between her neat data points and their tear-streaked faces was a physical blow. The experience cemented her core principle: planning must begin and end with listening to the people whose lives are drawn onto the maps.\n\n4.\nShe was 34, taking an evening walk. She turned onto Fell Street and saw a father running alongside his daughter\u2019s small bicycle, both of them safe and laughing inside the protected bike lane she had helped propose. Sarah stopped, her breath catching. All the data, the contentious community meetings, the endless revisions\u2014it all distilled into this one, simple moment of urban joy. It was the first tangible proof that her work could create pockets of safety and happiness, a feeling of profound, quiet accomplishment.\n\n5.\nJust last year, at the Ferry Building farmers\u2019 market, she overheard a young couple, juggling a toddler and bags of vegetables, quietly discussing having to move to the East Bay. \"We just can't make it work here anymore,\" the woman said, her voice laced with a familiar Bay Area grief. Sarah saw her own parents in their tired faces and ached with a sense of urgency. The memory wasn't a victory, but a catalyst, fueling her ambition to build a city where a family like theirs\u2014a family like hers\u2014could still dare to call San Francisco home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up and enjoy a morning walk to grab a cappuccino and pastry.",
+                        "geocode": {
+                            "lat": 37.7986417,
+                            "lng": -122.4073139,
+                            "formatted_address": "601 Vallejo St., San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Caffe Trieste"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning prep: shower, get dressed into WFH attire, and organize desk space.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office on Stockton St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Morning Work Block: Analyze GIS data and traffic flow statistics for a new Muni Forward project.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office on Stockton St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Virtual Team Sync: Join a video call with colleagues to review project progress and coordinate deliverables.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office on Stockton St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Lunch Break: Walk over to grab a classic Italian deli sandwich and eat it in the sun.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Afternoon Work Block: Draft a community impact report and respond to stakeholder emails.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office on Stockton St"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "End of Day 'Commute': Finalize daily to-do list, send last emails, and log off from work systems.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office on Stockton St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6c",
+                        "action": "Post-work errand run to pick up fresh produce and groceries for dinner.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Local Market on Stockton Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Evening Workout: A vigorous run up the Filbert Street Steps for a rewarding view from Pioneer Park.",
+                        "geocode": {
+                            "lat": 37.8023949,
+                            "lng": -122.4058222,
+                            "formatted_address": "1 Telegraph Hill Blvd, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Filbert Street Steps & Coit Tower"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner with her partner, catching up on the day while making a fresh pasta dish.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home on Stockton St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet a friend for a glass of wine at a classic neighborhood bar.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening Wind-Down: Tidy up, then relax on the couch and read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home on Stockton St"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Transportation Planner, balancing deep work on urban projects with enjoying the walkability and local flavor of her North Beach neighborhood, including a run up to Coit Tower and an evening drink with a friend.",
+                "home_address": "1365 Stockton St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7984416,
+                    "lng": -122.4089695,
+                    "formatted_address": "1365 Stockton St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Thompson",
+    "givenName": "Sarah",
+    "familyName": "Thompson",
+    "jobTitle": "Environmental Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Indian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Environmental Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Thompson\u2019s story is a blend of two worlds, much like the Bay Area itself. Born in Fremont to a software engineer father from Ohio and a food scientist mother from Mumbai, her childhood was a vibrant mix of Midwest practicality and Indian tradition. She grew up navigating the space between Christmas and Diwali, her palate shaped equally by her father\u2019s barbecue and her mother\u2019s fragrant curries. This bicultural upbringing fostered in her a unique ability to observe, adapt, and find harmony in contrasts.\n\nThe turning point that set her life\u2019s course came at sixteen during a family trip to India. While she was enchanted by the culture, she was horrified by the visible environmental degradation\u2014a once-sacred river choked with industrial runoff near her mother\u2019s ancestral village. The image seared into her mind, transforming a passive interest in nature into an urgent calling. She pursued an undergraduate degree in Environmental Science at UC Berkeley, followed by a Master\u2019s in Environmental Management, determined to be part of the solution.\n\nAfter a few years at a large corporate firm where she felt like a cog in a greenwashing machine, Sarah struck out on her own. As an independent environmental consultant, she now works from her bright, plant-filled apartment in the Inner Richmond. Her 0.0-mile commute offers a quiet start to her day, usually with a run through the misty trails of Golden Gate Park before diving into complex land use reports and sustainability audits for her clients.\n\nHer last name, Thompson, is a remnant of a brief marriage in her late twenties\u2014a relationship that taught her valuable lessons about her own independence and what she truly wants in a partner. Now, her social life revolves around a tight-knit circle of friends, a monthly book club, and exploring the culinary landscape of Clement Street. San Francisco, for Sarah, is the perfect ecosystem: a city at the forefront of environmental policy, with wild, natural beauty just steps from her door. She dreams of one day moving from consulting on individual projects to shaping broader environmental policy, ensuring that the balance between the urban and the wild she cherishes is protected for generations to come."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, hydrate, and listen to the morning news on KQED.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Go for a brisk walk along the sand to clear her head before the day.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready, pack a lunch, and brew a thermos of coffee.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, listening to an environmental science podcast.",
+                        "geocode": {
+                            "lat": 37.7801284,
+                            "lng": -122.4177535,
+                            "formatted_address": "355 McAllister St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 50,
+                        "location": "Great Highway to Civic Center Parking Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning work block: Analyze data for a new renewable energy project and respond to emails.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "San Francisco Dept. of Technology"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick salad bowl from a nearby favorite spot.",
+                        "geocode": {
+                            "lat": 37.77606249999999,
+                            "lng": -122.4295929,
+                            "formatted_address": "Hayes Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt (Hayes Valley)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Afternoon work session: Attend a virtual stakeholder meeting regarding new water conservation policies.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "San Francisco Dept. of Technology"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Final work block: Draft a report on the meeting's outcomes and plan tasks for the next day.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "San Francisco Dept. of Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, navigating the evening rush hour traffic.",
+                        "geocode": {
+                            "lat": 37.7590135,
+                            "lng": -122.4955623,
+                            "formatted_address": "Outer Sunset, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Van Ness Ave to Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Stop for a restorative Vinyasa yoga class to de-stress from the day.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Ocean Beach Yoga SF"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quickly pick up some fresh produce and bread for dinner.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "The Other Avenues Grocery Co-op"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Prepare and eat a simple dinner while catching up with a friend on the phone.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and planning her outfit for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Outer Sunset)"
+                    }
+                ],
+                "day_overview": "A productive day for an environmental consultant, involving data analysis and policy drafting, balanced by a rejuvenating walk on Ocean Beach and an evening yoga session in the Outer Sunset.",
+                "home_address": "3281 Judah St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7606397,
+                    "lng": -122.4972993,
+                    "formatted_address": "3281 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

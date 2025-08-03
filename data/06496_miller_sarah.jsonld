@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Medical Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s world is contained within a single block of San Francisco\u2019s Inner Richmond. Raised in the flat, sun-baked landscape of Modesto, she was the daughter of a pragmatic mechanic and a compassionate home health aide. Her childhood was defined by the scent of motor oil and the quiet dignity of her mother\u2019s work caring for the elderly. The turning point came when Sarah was sixteen; a serious motorcycle accident left her father with a long, painful recovery. Watching the calm competence of the nurses and medical assistants who guided her family through the chaos, Sarah found her calling not in abstract ambition, but in the tangible act of helping people heal.\n\nChoosing a practical path, she earned an Associate's Degree in Medical Assisting from a local community college. San Francisco, with its fog-laced promise of a grander life, was an irresistible pull away from the familiar heat of the Central Valley. She scraped by for a year, sharing a cramped apartment in the Excelsior, before landing a unique opportunity: a Medical Assistant position at a small, private family practice run by an aging doctor who was looking for a dependable successor of sorts. The real prize was the offer to rent the small, rent-stabilized apartment directly above the clinic.\n\nHer commute is now just a single flight of stairs. Sarah\u2019s days are a structured rhythm of checking in patients, taking vitals, and managing records. She knows the neighborhood regulars by name\u2014the elderly woman with the persistent cough, the young family with their first baby. Her apartment, shared with two other young women, is her sanctuary. While her life is financially tight and geographically confined during the week, it provides a crucial stability.\n\nThis small world, however, fuels a larger ambition. Sarah sees the limitations of her role every day. She yearns to do more, to understand the \"why\" behind the treatments she helps administer. Her dream is to become a Registered Nurse. She spends her evenings researching bridge programs at SF State and meticulously saving every spare dollar. Her weekends are for breaking her routine: long runs through Golden Gate Park, exploring the Mission\u2019s vibrant murals, and feeling the cold spray of the Pacific at Ocean Beach. For Sarah, San Francisco is not a final destination, but a launchpad. Her life above the clinic is a necessary, grounding chapter in a much larger story she is determined to write for herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, scroll through daily news, and get dressed for a quick workout.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "At-home yoga session in the living room using a YouTube tutorial.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in scrubs, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make and eat a quick breakfast of avocado toast and coffee with her partner.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 15,
+                        "location": "Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Meet her colleague downstairs for their daily carpool commute to the clinic.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Morning patient care: rooming patients, taking vitals, updating charts, and assisting physicians.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 220,
+                        "location": "Sutter Pacific Medical Associates"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to get a quick and healthy lunch to eat in the breakroom.",
+                        "geocode": {
+                            "lat": 37.7985834,
+                            "lng": -122.4356504,
+                            "formatted_address": "3130 Fillmore St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt on Fillmore St."
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon clinic duties and administrative wrap-up, including returning patient calls and managing prescription refills.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 210,
+                        "location": "Sutter Pacific Medical Associates"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute home, listening to a true crime podcast on the way.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Change out of scrubs and go for a de-stressing run to clear her head after the long day.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walk to the local market to pick up fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook and eat dinner with her partner, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 75,
+                        "location": "Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a couple of episodes of a show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "Cole Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: tidying up the kitchen, skincare, and reading a few pages of a book before sleep.",
+                        "geocode": {
+                            "lat": 37.7903775,
+                            "lng": -122.3902173,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Cole Valley Apartment"
+                    }
+                ],
+                "day_overview": "A busy but balanced day for Sarah, a Medical Assistant in San Francisco. Her day involves a structured clinical workday, a carpool commute, followed by an evening of exercise, cooking with her partner, and relaxing at their Cole Valley home.",
+                "home_address": "472 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7706986,
+                    "lng": -122.4502378,
+                    "formatted_address": "472 Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Wong",
+    "givenName": "Sarah",
+    "familyName": "Wong",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Wong is a product of two San Franciscos. She grew up in the fog-drenched avenues of the Outer Sunset, the daughter of Hong Kong immigrants who ran a small, beloved corner market. Her childhood was a mosaic of stacking produce, the chime of the shop's door, and the unspoken expectation of diligent, steady work. This world, built on tangible goods and face-to-face community, shaped her understanding of loyalty and perseverance.\n\nSeeking to understand the larger patterns of the communities she knew, Sarah pursued a degree in Sociology at UC Davis. She was fascinated by social structures and human behavior, but upon graduating, she faced a harsh reality: her qualitative knowledge didn't easily translate into a stable career in the city she called home. This became her crucial turning point. Watching her friends get swept up in the tech boom, Sarah made a pragmatic pivot. She enrolled in an intensive six-month data science bootcamp, trading sociological theory for Python libraries and SQL queries.\n\nNow, Sarah works as a data analyst for a mid-size tech firm, her commute a 0.0-mile walk from her bed to her desk in her small Hayes Valley apartment. Her daily routine is a study in self-discipline. She starts each morning with a walk to a local coffee shop, creating a small boundary between home and work. Her days are spent wrangling datasets and building dashboards, finding stories in numbers\u2014a skill she realizes isn't so different from her sociological roots.\n\nHer social life is intentional. She maintains a tight-knit circle of friends, mostly fellow bootcamp alumni who understand the grind. They meet for weekly trivia at a pub in the Mission or go for long runs through Golden Gate Park, consciously breaking the isolation of remote work.\n\nSarah feels a quiet dissonance living in the city's trendy core, a world away from her parents' market in the Sunset. While grateful for the financial security her career provides, she dreams of bridging her two worlds. Her ultimate aspiration is to use her data skills for social good, perhaps analyzing housing inequality for a local non-profit or improving public transit efficiency. She wants to prove, mostly to herself, that the new San Francisco can still work to better the old one."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was ten, the air in the market thick with the scent of cardboard and cilantro. For Lunar New Year, her father had her stack a pyramid of mandarin oranges. He didn't say a word, just watched with quiet approval, his hand occasionally reaching out to steady a wobbly orange. In that shared, silent task, surrounded by neighbors picking through bok choy, she felt the immense, grounding weight of her family\u2019s work. It was a loyalty she could feel in her bones, built on the simple, steady act of providing.\n\n***\n\n2.\nAt twenty-three, back in her childhood bedroom after another dead-end interview for a non-profit job, she scrolled through her phone. A photo of a college friend clinking glasses at a lavish tech company offsite appeared. The stark contrast between their gleaming success and her own stagnant frustration hit her not as envy, but as a cold, pragmatic shock. That night, with the fog pressing against the window, she googled \"data science bootcamps.\" It was a pivot born from the quiet desperation of wanting to stay in the city that made her.\n\n***\n\n3.\nIt was 2 AM during the bootcamp. Her brain was fried from a SQL query that kept failing, and the feeling of being an imposter was overwhelming. A Slack message popped up from a classmate: \u201cTry a LEFT JOIN instead.\u201d She typed it in, hit enter, and the data table appeared, clean and perfect. The surge of relief was electric, a shared victory in the digital trenches. It wasn\u2019t just about the code; it was the moment she realized she wasn\u2019t navigating this new, abstract world alone.\n\n***\n\n4.\nSix months into her first analyst job, she built a dashboard tracking user engagement. As she clicked a filter for a specific demographic, the charts and graphs instantly morphed, revealing a hidden behavioral pattern she\u2019d only hypothesized. It was a silent, thrilling discovery\u2014the same jolt of understanding she\u2019d felt decoding social theories in college was happening in pixels. For the first time, she saw this career not as a detour, but as a powerful new language for telling human stories.\n\n***\n\n5.\nRiding a crowded N-Judah train back to Hayes Valley from her parents' market, she felt the city shift around her. As the fog-drenched avenues gave way to the Mission's murals, she didn't just see passengers; she saw datasets\u2014ridership peaks, route inefficiencies, fare-gate logs. The old dissonance between her two worlds was still there, but now it was fused with a new, urgent purpose. She finally saw, with absolute clarity, how the tools of the new San Francisco could be used to serve the old one."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for a day at the office.",
+                        "geocode": {
+                            "lat": 37.7864741,
+                            "lng": -122.3920971,
+                            "formatted_address": "401 Harrison St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment at The Harrison, Rincon Hill"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and have a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7860817,
+                            "lng": -122.392958,
+                            "formatted_address": "Rincon Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment Kitchen, Rincon Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the bus stop while listening to the start of a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 15,
+                        "location": "Market & 3rd Street Muni Station"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute across town on the bus, reading emails and continuing the podcast.",
+                        "geocode": {
+                            "lat": 37.7880172,
+                            "lng": -122.4032542,
+                            "formatted_address": "38 Geary St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "Muni 38R Geary Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Settle in at desk, check daily tasks on Jira, and review project priorities.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Kaiser Permanente SF Medical Center Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: Run SQL queries to analyze patient admission trends.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 170,
+                        "location": "Kaiser Permanente SF Medical Center Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy lunch bowl to eat outside.",
+                        "geocode": {
+                            "lat": 37.7864742,
+                            "lng": -122.4509647,
+                            "formatted_address": "3445 California St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt, Laurel Village"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Build out new dashboards in Tableau to visualize Q3 operational efficiency.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 180,
+                        "location": "Kaiser Permanente SF Medical Center Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work, respond to final Slack messages, and pack up.",
+                        "geocode": {
+                            "lat": 37.7826471,
+                            "lng": -122.4432378,
+                            "formatted_address": "2425 Geary Blvd, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 15,
+                        "location": "Kaiser Permanente SF Medical Center Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8d",
+                        "action": "Take the bus back towards the SoMa neighborhood.",
+                        "geocode": {
+                            "lat": 37.7880172,
+                            "lng": -122.4032542,
+                            "formatted_address": "38 Geary St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 55,
+                        "location": "Muni 38 Geary Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Attend a high-intensity interval training class to de-stress.",
+                        "geocode": {
+                            "lat": 37.7777809,
+                            "lng": -122.3927031,
+                            "formatted_address": "236 King St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 60,
+                        "location": "Barry's SoMa"
+                    },
+                    {
+                        "emoji": "\ud83e\udd61",
+                        "action": "Pick up take-out and have dinner while on a video call with parents.",
+                        "geocode": {
+                            "lat": 37.7860817,
+                            "lng": -122.392958,
+                            "formatted_address": "Rincon Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Apartment Dining Area, Rincon Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, chat with roommates, and watch an episode of a trending show.",
+                        "geocode": {
+                            "lat": 37.7860817,
+                            "lng": -122.392958,
+                            "formatted_address": "Rincon Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Apartment Living Room, Rincon Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: Read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7860817,
+                            "lng": -122.392958,
+                            "formatted_address": "Rincon Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment Bedroom, Rincon Hill"
+                    }
+                ],
+                "day_overview": "A busy but balanced weekday for a young data analyst, blending focused work in healthcare tech, a rigorous workout, and winding down in her SoMa apartment.",
+                "home_address": "145 Folsom St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7891383,
+                    "lng": -122.3919787,
+                    "formatted_address": "145 Folsom St, San Francisco, CA 94105, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

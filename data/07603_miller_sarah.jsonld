@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Administrative Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Inner Sunset Resident"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a study in quiet competence, built on the foundations of a Midwestern upbringing. Raised in a suburb of Cleveland, Ohio, by a teacher and an accountant, she was instilled with a sense of pragmatism and a love for order. This clashed with her youthful idealism, which led her to pursue a Bachelor\u2019s degree in English Literature at Ohio State University, dreaming of a life surrounded by books in a bustling publishing house.\n\nUpon graduating in the late 90s, the reality of the job market hit hard. After a disillusioning, unpaid internship in New York, she took a temporary administrative assistant position at a hospital to make ends meet. It was there she had a crucial realization: while she loved literature, she *excelled* at logistics. She discovered a deep satisfaction in creating order from chaos, managing complex schedules, and streamlining inefficient processes. This accidental career path became her calling.\n\nThe key turning point came in her late twenties when she followed a serious boyfriend to San Francisco for his tech job. The relationship eventually dissolved under the city\u2019s intense pressures, but Sarah had already fallen in love with the fog-laced hills and cultural vibrancy. She stayed, securing a role at a major medical center and steadily working her way up.\n\nNow 48, Sarah is the Administrative Manager for a large outpatient clinic, a role she performs entirely from her meticulously organized, rent-controlled apartment in the Inner Richmond. Her 0.0-mile commute offers a life of structured solitude. Mornings begin with a walk with her aging beagle, Clementine, in Golden Gate Park, followed by hours of managing budgets, staff schedules, and telehealth systems via her laptop. Her social life is small but meaningful, revolving around a weekly book club and a close friend from a former yoga class.\n\nThough content, the English major in her still yearns for something more. Her dream is to save enough to take a six-month sabbatical to walk the Camino de Santiago in Spain\u2014a grand, romantic adventure she plans with the same precise detail she applies to her work. For Sarah, San Francisco is no longer a place of romantic folly, but a quiet harbor from which she plans her next chapter."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for 10 minutes, and do a gentle yoga routine to start the day.",
+                        "geocode": {
+                            "lat": 37.7804684,
+                            "lng": -122.412455,
+                            "formatted_address": "Mid-Market, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mid-Market Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get dressed, and prepare a quick breakfast of coffee and avocado toast.",
+                        "geocode": {
+                            "lat": 37.7804684,
+                            "lng": -122.412455,
+                            "formatted_address": "Mid-Market, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Mid-Market Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to work along the Market Street corridor, listening to a healthcare industry podcast.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Market Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at Mindspace, settle in at the hot desk, organize daily tasks, and respond to urgent emails.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 15,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead the weekly administrative team meeting, reviewing project statuses and assigning new tasks.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mindspace Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Head out for a quick and healthy lunch, grabbing a custom salad to-go.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt at Yerba Buena Lane"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Focus on administrative tasks: processing invoices, managing schedules for senior staff, and coordinating with vendors.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 180,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Conduct a one-on-one performance check-in with a direct report to discuss goals and challenges.",
+                        "geocode": {
+                            "lat": 37.75087389999999,
+                            "lng": -122.4162826,
+                            "formatted_address": "1398 S Van Ness Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mindspace Phone Booth"
+                    },
+                    {
+                        "emoji": "\ud83c\udfd9\ufe0f",
+                        "action": "Walk home, enjoying the transition from the work day and the downtown city buzz.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Market Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up items for dinner and tomorrow's breakfast.",
+                        "geocode": {
+                            "lat": 37.7765452,
+                            "lng": -122.4169669,
+                            "formatted_address": "Market Square, 1355 Market St suite 900, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "The Market at Twitter HQ"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet a friend for happy hour appetizers and a glass of wine to catch up.",
+                        "geocode": {
+                            "lat": 37.7768993,
+                            "lng": -122.4240297,
+                            "formatted_address": "450 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 90,
+                        "location": "A Mano in Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Return home, change into comfortable clothes, and watch an episode of a favorite streaming series.",
+                        "geocode": {
+                            "lat": 37.7804684,
+                            "lng": -122.412455,
+                            "formatted_address": "Mid-Market, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mid-Market Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: prepare work bag for the next day, enjoy a cup of herbal tea, and read a novel.",
+                        "geocode": {
+                            "lat": 37.7804684,
+                            "lng": -122.412455,
+                            "formatted_address": "Mid-Market, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mid-Market Apartment"
+                    }
+                ],
+                "day_overview": "A productive and balanced day for Sarah, a healthcare administrative manager. Her day revolves around a walkable commute between her Mid-Market apartment and her FiDi coworking space, incorporating focused work sessions, a healthy lunch, a necessary errand, and relaxing social time with a friend.",
+                "home_address": "1205 Market St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7782549,
+                    "lng": -122.4147605,
+                    "formatted_address": "1205 Market St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

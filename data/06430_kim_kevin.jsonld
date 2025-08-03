@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Kim",
+    "givenName": "Kevin",
+    "familyName": "Kim",
+    "jobTitle": "Restaurant Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Hospitality"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Kim\u2019s world is a 50-foot radius centered on \u201cSeoul Sunset,\u201d his family\u2019s Korean restaurant in the Richmond District. The son of first-generation immigrants, Kevin\u2019s childhood was a blend of American cartoons and the persistent, comforting aroma of his mother\u2019s cooking. He and his sister spent their afternoons doing homework in a corner booth, their lives interwoven with the restaurant\u2019s daily rhythm. He never planned to inherit this life; his ambitions were pointed south towards San Jose State, where he was two years into a graphic design degree, dreaming of a career in digital art.\n\nThe turning point came abruptly during his junior year. His father suffered a major health scare, leaving him unable to manage the restaurant\u2019s demanding 16-hour days. Without hesitation, Kevin put his education on indefinite hold and returned home. What began as a temporary measure to help his mother soon became a permanent role. He learned the business from the inside out\u2014not from a textbook, but from mastering inventory, placating difficult customers, and earning the respect of the long-serving kitchen staff.\n\nNow 27, Kevin is a master of his small domain. His 0.0-mile commute consists of walking down a flight of stairs from his small apartment above the restaurant. His days are a blur of pre-dawn market runs, managing lunch and dinner rushes, and closing up long after the last customers have gone. His social life is largely confined to sharing late-night drinks with his staff or catching up with the neighborhood regulars who have watched him grow up. A serious relationship ended a year ago, a casualty of his all-consuming schedule.\n\nWhile he is proud to uphold his parents' legacy, a quiet dream still flickers within him. He sketches new logos and modern menu layouts in a notebook he keeps under the counter. His aspiration isn't to escape, but to evolve. He hopes to one day transform Seoul Sunset, blending his parents' authentic flavors with his own modern, artistic vision, proving that he didn\u2019t just sacrifice his dream\u2014he reshaped it."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check phone for overnight restaurant alerts and news.",
+                        "geocode": {
+                            "lat": 37.7974829,
+                            "lng": -122.4069701,
+                            "formatted_address": "1040 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Chinatown Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38",
+                        "action": "Quick at-home workout focusing on stretching and bodyweight exercises.",
+                        "geocode": {
+                            "lat": 37.7974829,
+                            "lng": -122.4069701,
+                            "formatted_address": "1040 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Chinatown Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in work-casual attire, and prepare for the day.",
+                        "geocode": {
+                            "lat": 37.7974829,
+                            "lng": -122.4069701,
+                            "formatted_address": "1040 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 25,
+                        "location": "Chinatown Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\ud83e\udd5f",
+                        "action": "Walk to a local bakery to grab a pork bun and a hot soy milk for breakfast.",
+                        "geocode": {
+                            "lat": 37.795455,
+                            "lng": -122.408356,
+                            "formatted_address": "1039 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 20,
+                        "location": "Good Mong Kok Bakery"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Administrative Work Block: Finalize the weekly staff schedule, approve payroll, and respond to vendor emails.",
+                        "geocode": {
+                            "lat": 37.7974829,
+                            "lng": -122.4069701,
+                            "formatted_address": "1040 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Chinatown Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Commute from Chinatown to the Inner Sunset via public transit.",
+                        "geocode": {
+                            "lat": 37.7613338,
+                            "lng": -122.4855952,
+                            "formatted_address": "Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "MUNI N Judah Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Arrive at the restaurant; conduct a pre-lunch huddle with the kitchen and front-of-house staff.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 25,
+                        "location": "The Parnassus Plate at UCSF"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Actively manage the busy lunch rush, assisting staff, talking to hospital workers, and ensuring food quality.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 150,
+                        "location": "The Parnassus Plate at UCSF"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a quick lunch break, eating one of the daily specials in the back office.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Parnassus Plate at UCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Afternoon Operations: Place produce orders, conduct inventory of dry goods, and interview a candidate for a server position.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "The Parnassus Plate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udc4b",
+                        "action": "Hand off operations to the evening shift supervisor and discuss any notes for the dinner service.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "The Parnassus Plate at UCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Take the MUNI N Judah back towards the downtown area.",
+                        "geocode": {
+                            "lat": 37.7613338,
+                            "lng": -122.4855952,
+                            "formatted_address": "Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "MUNI N Judah Line"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend in North Beach for a post-work beer and to catch up.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Walk home and prepare a simple dinner with groceries from the cupboard.",
+                        "geocode": {
+                            "lat": 37.7974829,
+                            "lng": -122.4069701,
+                            "formatted_address": "1040 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Chinatown Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a streaming series to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7974829,
+                            "lng": -122.4069701,
+                            "formatted_address": "1040 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 75,
+                        "location": "Chinatown Apartment on Grant Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Wind down for the night, lay out clothes for tomorrow, and set the alarm.",
+                        "geocode": {
+                            "lat": 37.7974829,
+                            "lng": -122.4069701,
+                            "formatted_address": "1040 Grant Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "Chinatown Apartment on Grant Ave"
+                    }
+                ],
+                "day_overview": "A hybrid day for a restaurant manager, starting with administrative work from his Chinatown home, commuting to the UCSF hospital for the busy lunch and afternoon service, and ending with a social drink in nearby North Beach before heading home.",
+                "home_address": "530 Grant Ave, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7919367,
+                    "lng": -122.4056895,
+                    "formatted_address": "530 Grant Ave, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Kim Family"
+    }
+}

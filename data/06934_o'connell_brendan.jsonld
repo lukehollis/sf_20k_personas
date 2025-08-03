@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Brendan O'Connell",
+    "givenName": "Brendan",
+    "familyName": "O'Connell",
+    "jobTitle": "Logistics Coordinator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Logistics/Transportation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Brendan O\u2019Connell\u2019s world was once defined by the salty air of the Boston waterfront, where his father worked as a longshoreman. Growing up in a working-class Irish-American family, the expectation was simple: get a practical education and a steady job. Brendan, a reserved but diligent young man, followed this path, earning an Associate's degree in Supply Chain Management from a local community college. He quickly found work with a Boston shipping company, tracking freight and ensuring container ships were loaded efficiently\u2014a digital version of his father's physical labor.\n\nFor years, Brendan felt a quiet sense of stagnation. His life was mapped out, comfortable but predictable. The turning point came at age 27, during a trip to visit a friend in San Francisco. He was captivated by the city's dynamic energy and the feeling that reinvention was possible. Six months later, he accepted a remote position as a Logistics Coordinator for a larger, West Coast-based company, packed two suitcases, and left the only home he\u2019d ever known.\n\nNow, at 32, Brendan lives in a modest one-bedroom apartment in the Inner Richmond. His 0.0-mile commute is a ten-step shuffle from his bed to his desk, where he spends his days coordinating shipments across the Pacific. The work is a flurry of emails, tracking software, and timezone calculations. To combat the isolation of working from home, he has a strict routine: a morning run in Golden Gate Park, a standing Wednesday night trivia game at a pub on Clement Street, and weekends exploring new neighborhoods on his bike.\n\nHe\u2019s friendly with his neighbors and has a small, solid group of friends, mostly other transplants he met through a rec kickball league. While he values the freedom his life in San Francisco affords him, he sometimes feels adrift, a logistical piece that hasn't quite slotted into place. His greatest aspiration isn't a career promotion, but a deeper sense of belonging. He dreams of saving enough for a down payment on a small condo in the Sunset, a tangible anchor in the city he chose to call home, hoping to finally build a life as permanent as the fog that rolls in each evening."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew coffee, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on Stockton St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Eat a quick breakfast of toast and fruit while checking the morning news.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on Stockton St"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Commute to work, riding a motor scooter from North Beach to the Inner Richmond.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Streets of San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Arrive at the university's mail hub and begin sorting the morning's influx of packages and inter-departmental mail.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "USF Mail & Logistics Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Eat lunch at a favorite spot near campus, popular with staff and students.",
+                        "geocode": {
+                            "lat": 37.7630248,
+                            "lng": -122.4661206,
+                            "formatted_address": "1358 9th Ave, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kogi Gogi BBQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Coordinate with external vendors via phone and email for an upcoming campus event, confirming delivery windows and equipment needs.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "USF Mail & Logistics Center Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Manage afternoon logistics, including processing outgoing shipments and conducting an inventory check of university supplies.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "USF Storage Warehouse"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Wrap up final tasks, send out end-of-day reports, and plan the logistics schedule for the following day.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "USF Mail & Logistics Center Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Commute home on the scooter, weaving through evening traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Streets of San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery stock-up for the next few days.",
+                        "geocode": {
+                            "lat": 37.8054852,
+                            "lng": -122.4137755,
+                            "formatted_address": "401 Bay St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Trader Joe's on Bay St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Change and go for a refreshing run along the waterfront to clear his head.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Make and eat dinner while watching a show and catching up on texts with friends.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Apartment on Stockton St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, tidy up the apartment, and read a few chapters of a book before sleep.",
+                        "geocode": {
+                            "lat": 37.7940728,
+                            "lng": -122.4079258,
+                            "formatted_address": "Stockton St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Apartment on Stockton St"
+                    }
+                ],
+                "day_overview": "A busy day for Brendan, managing logistics at the University of San Francisco, commuting via scooter across the city, and unwinding with a run along the Embarcadero before relaxing in his North Beach apartment.",
+                "home_address": "3345 Stockton St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.8051128,
+                    "lng": -122.4101492,
+                    "formatted_address": "3345 Stockton St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "O'Connell Family"
+    }
+}

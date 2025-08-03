@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Tanaka",
+    "givenName": "Liam",
+    "familyName": "Tanaka",
+    "jobTitle": "Senior Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Tanaka is a third-generation resident of the Bay Area, but the first in his family to truly call San Francisco home. Raised in the quiet, sprawling suburbs of San Jose, his upbringing was a blend of Japanese diligence and Californian optimism. His parents, a pharmacist and an architect, instilled in him a profound respect for structure, precision, and hard work\u2014values that would shape his future in unexpected ways.\n\nA quiet, observant child, Liam was fascinated not by stories themselves, but by the patterns within them. This led him to pursue Linguistics at UC Berkeley, where he fell in love with the mathematical underpinnings of human language. He followed this passion to Stanford, earning a Master's degree in Computational Linguistics, a field that perfectly merged his love for language and data. He was recruited straight into a major tech firm before the ink on his diploma was dry.\n\nHis career grew quickly. By his late twenties, Liam was a Senior Data Scientist, training and refining the large language models that were beginning to reshape the digital world. His life was a predictable rhythm of Caltrain commutes and long hours at a sprawling corporate campus. The true turning point was the global pandemic. The mandated work-from-home policy became permanent for his role, severing his physical tie to Silicon Valley and ending a long-term relationship that couldn't survive the sudden, intense domesticity.\n\nNow, at 30, Liam\u2019s life is defined by his 0.0-mile commute. He lives in a minimalist apartment in Hayes Valley, his world compressed into a vibrant, walkable radius. His days begin with coffee from a local roaster, followed by hours of intense focus at his standing desk, manipulating vast datasets that exist only in the cloud. His social life consists of a tight-knit group of friends for bouldering at Dogpatch Boulders or sharing ramen in Japantown.\n\nThough professionally successful, a quiet restlessness gnaws at him. He feels a disconnect between the abstract digital world he builds and the tangible city outside his window. His dream isn't a promotion, but a pivot: to apply his skills to urban planning or environmental modeling, using data to solve the very real problems of the city he has finally, and fully, embraced as his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a pour-over coffee from Sightglass beans, and check personal emails and news headlines.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Pacific Heights Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Morning prep: get ready for the day and chat with his partner about their evening plans before they both head out.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Pacific Heights Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and take the 22 Fillmore Muni bus south towards the Van Ness corridor.",
+                        "geocode": {
+                            "lat": 37.7975642,
+                            "lng": -122.4307288,
+                            "formatted_address": "1901 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 25,
+                        "location": "Fillmore St & Pacific Ave Bus Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Transfer to the T Third Street light rail at Van Ness Station, listening to the 'Data Skeptic' podcast.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "Van Ness Muni Station"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab a sparkling water from a microkitchen, and triage overnight Slack messages.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 20,
+                        "location": "Uber HQ - Mission Bay"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Daily stand-up meeting with the pricing anomaly detection team to discuss progress and blockers.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Uber HQ - 'Project Phoenix' Pod"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focused work: running SQL queries and refining a predictive model in Python to analyze rider demand elasticity.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Uber HQ - Desk"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Break for lunch at the office cafeteria, catching up with colleagues from the engineering team.",
+                        "geocode": {
+                            "lat": 37.7763673,
+                            "lng": -122.4261191,
+                            "formatted_address": "550 Laguna St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Commons at Uber HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Meet with Product Managers and designers to present initial findings on a new feature's potential market impact.",
+                        "geocode": {
+                            "lat": 37.7992627,
+                            "lng": -122.3976732,
+                            "formatted_address": "Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Uber HQ - 'Embarcadero' Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0e",
+                        "action": "Perform a peer code review for a junior data scientist's analysis, then wrap up personal tasks and plan for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 105,
+                        "location": "Uber HQ - Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Walk to the T Third light rail stop and begin the reverse commute home, reading a novel on his Kindle.",
+                        "geocode": {
+                            "lat": 37.768237,
+                            "lng": -122.389366,
+                            "formatted_address": "Ucsf / Chase Center (16th Street), San Francisco, CA 94158, USA"
+                        },
+                        "duration": 55,
+                        "location": "UCSF/Chase Center T-Line Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Hop off the bus a few stops early to pick up fresh pasta and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mollie Stone's Markets (California St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a refreshing run to de-stress, heading up the iconic steps of Alta Plaza Park for the city views.",
+                        "geocode": {
+                            "lat": 37.79120899999999,
+                            "lng": -122.4377047,
+                            "formatted_address": "Alta Plaza Park, Jackson St. &, Steiner St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 45,
+                        "location": "Alta Plaza Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner and eat with his partner, sharing stories from their respective days.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Pacific Heights Residence"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch with his partner, watching an episode of a show on HBO Max before bed.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Pacific Heights Residence"
+                    }
+                ],
+                "day_overview": "A productive day for Liam, balancing deep data work at Uber's Mission Bay campus with a scenic run and quality time with his partner back in his Pacific Heights neighborhood.",
+                "home_address": "2097 Pacific Ave, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7937903,
+                    "lng": -122.4295265,
+                    "formatted_address": "2097 Pacific Ave, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1994",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

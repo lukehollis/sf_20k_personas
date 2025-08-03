@@ -1,0 +1,212 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Arjun Patel",
+    "givenName": "Arjun",
+    "familyName": "Patel",
+    "jobTitle": "Junior Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Arjun Patel\u2019s life has been a study in contrasts, a careful navigation between the tangible sacrifices of his parents and the abstract world of data he now inhabits. The son of Gujarati immigrants who poured their life savings into a small, sun-bleached motel in Fresno, Arjun was raised on the principles of hard work and upward mobility. His childhood was spent behind the check-in counter, watching his parents build a life from scratch, their hopes pinned on their bright, studious son.\n\nHe arrived at UC Berkeley not with dreams of coding, but with a passion for political theory. He devoured books on social structures and policy, believing he could understand the world by deciphering its human systems. Majoring in Political Science felt like an act of intellectual rebellion, a departure from the prescribed paths of medicine or engineering. However, upon graduating, the stark reality of the job market and the weight of his parents\u2019 expectations triggered a pragmatic pivot. The idealism of political theory wouldn't pay San Francisco rent. He enrolled in an intensive data science bootcamp, trading political philosophy for Python libraries.\n\nThe decision was a turning point that led him to his current role as a junior data scientist. Today, Arjun lives in a compact, modern apartment in Nob Hill. His 0.0-mile commute means his world is often confined to the 500 square feet that serve as his home, office, and gym. His days are a routine of caffeine and code, of cleaning datasets and building predictive models for a company whose mission feels distant and impersonal.\n\nTo combat the isolation of remote work, Arjun forces himself into the city. He has a ritualistic afternoon walk for coffee, deliberately taking different routes through the steep streets, admiring the bay windows and fog-shrouded views. He maintains a tight-knit circle of college friends, meeting for Mission burritos or drinks in Hayes Valley, where conversations often drift back to the ideals they once shared.\n\nArjun\u2019s dream is to reconcile his two selves. He aspires to use his data skills for a cause he believes in\u2014working for a political campaign, a non-profit, or a civic tech startup. For him, San Francisco is a city of immense potential, a place where he has a foothold but not yet a purpose. He hopes to one day analyze data that doesn't just predict clicks, but charts a course for a better community."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Wake up, quick bodyweight workout, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Grant Ave Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make breakfast (avocado toast) and brew a fresh cup of coffee with an AeroPress.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Virtual 'commute' - Settle into home office, review Slack notifications, and join the daily team stand-up via Zoom.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\uddf9",
+                        "action": "Morning deep work: Data cleaning and preprocessing for a new customer churn prediction model using Python.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Lunch break: Walk to a nearby deli to grab a sandwich and eat it outside.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon work: Begin building a baseline logistic regression model in scikit-learn.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Collaborative session: Virtual pair programming with a senior data scientist to review model performance.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "End of day wrap-up: Document code, update project progress in Jira, and plan tasks for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Log off and decompress with a run along the waterfront for some fresh air and exercise.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cook a simple and healthy dinner (chicken and veggie stir-fry) while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet up with a friend for a drink at a classic neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Wind down by reading a sci-fi novel and getting ready for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a junior data scientist, balancing focused coding sessions with virtual collaboration, and capped off with a scenic run and social time in his vibrant North Beach neighborhood.",
+                "home_address": "179 Grant Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.7883124,
+                    "lng": -122.4053045,
+                    "formatted_address": "179 Grant Ave, San Francisco, CA 94108, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Patel Family"
+    }
+}

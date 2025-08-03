@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Yang",
+    "givenName": "Sarah",
+    "familyName": "Yang",
+    "jobTitle": "Assembler",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Yang\u2019s life is measured in small, precise movements. Born and raised in the fog-laced avenues of San Francisco\u2019s Outer Richmond, she is the daughter of Cantonese immigrants who ran a small dry-cleaning business on Geary Boulevard. Her childhood was a symphony of hissing steam presses, the scent of chemical detergents, and the responsibility of helping her parents after school. College was a distant, abstract dream, overshadowed by the immediate, tangible needs of the family business.\n\nAfter graduating from George Washington High School, Sarah, with her steady hands and quiet focus, found work in the burgeoning electronics industry of the '90s. While others were designing software, she was on the assembly line, meticulously piecing together the physical hardware that powered the digital revolution. She never wrote a line of code, but she built the machines that ran it.\n\nThe key turning point in her life came fifteen years ago when her mother fell ill. Needing to be home as a full-time caregiver, Sarah was on the verge of quitting her job. In a rare act of corporate flexibility, her long-time employer allowed her to transition to a specialized work-from-home role, assembling delicate, high-value prototypes from a custom-built, anti-static station in her spare bedroom.\n\nHer mother passed away five years ago, but the work arrangement remained. Now, Sarah\u2019s days follow a quiet, solitary rhythm in the same rent-controlled apartment she grew up in. Her commute is the ten steps from her kitchen to her workstation. Her colleagues are voices on a weekly check-in call. Her social life is modest, consisting of weekly dim sum with a cousin in the Sunset and conversations with the aging shopkeepers on Clement Street.\n\nHer connection to San Francisco is deep and intensely personal. She sees the city not as a hub of innovation, but as a collection of memories: the specific bench at Land's End where her father taught her to fly a kite, the changing murals in the alleys, the persistent cry of the gulls. Her dream is not to launch a startup or change the world, but to save enough to one day visit her parents' ancestral village in Guangdong and to finally have the time to learn watercolor painting, capturing the foggy, ethereal landscapes just outside her window."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers being ten, standing on a wooden stool in the back of the shop. The air was thick with the scent of hot steam and perchloroethylene. Her father, his own hands calloused and sure, guided hers to show her the precise, sweeping motion needed to press a perfect shirt collar. He never used many words, but in that moment, Sarah felt the weight of his trust. It was then she learned that care was a tangible thing, a series of small, perfect actions.\n\n2.\nOne brilliant, windy afternoon when she was thirteen, her father closed the shop early. They took the 38 bus to the end of the line and walked to Land's End. He unfurled a cheap, diamond-shaped kite and showed her how to catch the wind coming off the Pacific. For a whole hour, she was not the quiet daughter from the dry-cleaners, but a girl holding a string connected to the sky, watching a splash of red dance against the endless grey fog.\n\n3.\nThe day her employer agreed she could work from home, relief washed over her so intensely she felt dizzy. She remembers unboxing the sensitive equipment in her old bedroom, the sterile smell of the anti-static mat mingling with the aroma of the herbal broth simmering for her mother on the stove. This room, once her childhood refuge, became her new world: a workstation, a sickroom, a haven. It was a trade she'd make again without hesitation.\n\n4.\nHer first weekly check-in call after her mother passed felt impossibly hollow. She sat at her workstation, the silence of the apartment pressing in on her. Her manager asked if she was okay, and the simple kindness of the question nearly broke her. Staring at the delicate circuits under her magnifying lamp, she focused on her hands, on the work. The steady, precise movements became an anchor, a quiet ritual that pulled her through the grief, one connection at a time.\n\n5.\nLast month, after dim sum with her cousin, Sarah found herself staring into the window of an art supply shop on Clement Street. She saw a small, wooden box of watercolor pans, jewel-like and full of promise. She pictured herself at her own window, brush in hand, trying to capture the way the fog softened the edges of the buildings across the street. It was the first time in years a dream felt not like an escape, but a destination."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Wake up, prepare breakfast and sort morning medication for her elderly mother.",
+                        "geocode": {
+                            "lat": 37.7908251,
+                            "lng": -122.3931435,
+                            "formatted_address": "169 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment at 169 Howard St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Eat breakfast with her mother while watching the morning news together.",
+                        "geocode": {
+                            "lat": 37.7908251,
+                            "lng": -122.3931435,
+                            "formatted_address": "169 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment at 169 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, navigating downtown traffic and finding street parking near the workshop.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SoMa Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Clock in and begin the morning's work: soldering delicate components onto custom circuit boards for an interactive sculpture.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 210,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to a local park to eat her packed lunch and get some fresh air away from the workshop.",
+                        "geocode": {
+                            "lat": 37.7770921,
+                            "lng": -122.4060738,
+                            "formatted_address": "Victoria Manalo Draves Park, 16 Sherman St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Victoria Manalo Draves Park"
+                    },
+                    {
+                        "emoji": "\u2728",
+                        "action": "Return for the afternoon work session, performing quality control and testing on the assembled electronic modules.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 240,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udc8a",
+                        "action": "Drive from work, making a quick stop at the pharmacy to pick up a prescription refill.",
+                        "geocode": {
+                            "lat": 37.7771075,
+                            "lng": -122.3952901,
+                            "formatted_address": "670 4th St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Walgreens on 4th & Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Arrive home, greet her mother, and put away the shopping before starting dinner.",
+                        "geocode": {
+                            "lat": 37.7908251,
+                            "lng": -122.3931435,
+                            "formatted_address": "169 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment at 169 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Cook and eat a home-made dinner (wonton soup and bok choy) with her mother.",
+                        "geocode": {
+                            "lat": 37.7908251,
+                            "lng": -122.3931435,
+                            "formatted_address": "169 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment at 169 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Clean up the kitchen and watch their favorite Cantonese drama series together.",
+                        "geocode": {
+                            "lat": 37.7908251,
+                            "lng": -122.3931435,
+                            "formatted_address": "169 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Apartment at 169 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83e\udde9",
+                        "action": "Unwind with a personal hobby, working on a complex 1,000-piece jigsaw puzzle at the dining table.",
+                        "geocode": {
+                            "lat": 37.7908251,
+                            "lng": -122.3931435,
+                            "formatted_address": "169 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment at 169 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83e\uded6",
+                        "action": "Help her mother get ready for bed, then tidy up the apartment for the morning.",
+                        "geocode": {
+                            "lat": 37.7908251,
+                            "lng": -122.3931435,
+                            "formatted_address": "169 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment at 169 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Get ready for bed and read a few chapters of a novel to relax.",
+                        "geocode": {
+                            "lat": 37.7908251,
+                            "lng": -122.3931435,
+                            "formatted_address": "169 Howard St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment at 169 Howard St"
+                    }
+                ],
+                "day_overview": "A structured day balancing meticulous assembly work at a creative tech space with her duties as a dedicated caregiver for her elderly mother in their SoMa apartment.",
+                "home_address": "169 Howard St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7908251,
+                    "lng": -122.3931435,
+                    "formatted_address": "169 Howard St, San Francisco, CA 94105, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "High school or equivalent",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Yang Family"
+    }
+}

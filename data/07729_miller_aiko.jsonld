@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aiko Miller",
+    "givenName": "Aiko",
+    "familyName": "Miller",
+    "jobTitle": "Senior Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Aiko Miller is a woman of quiet contradictions, a life story written in two distinct parts. The daughter of a Japanese koto teacher and a steadfast Caucasian-American engineer, she grew up in San Jose surrounded by the twin influences of ephemeral art and concrete logic. Her childhood home was a place where the precise, mathematical beauty of a musical score coexisted with the pragmatic schematics of Silicon Valley hardware. For the first half of her life, Aiko chose art.\n\nShe pursued this passion to Mills College, earning a Master of Fine Arts in Poetry. She lived the life of a Bay Area artist, working in cafes, attending readings, and pouring her soul into meticulously crafted verses. However, the financial instability and a difficult divorce in her early thirties served as a harsh awakening. The romance of the starving artist faded, replaced by a desperate need for solid ground. In a move that shocked her creative circle, Aiko leveraged her sharp analytical mind\u2014the same one that could deconstruct a complex poem\u2014and enrolled in a graduate finance program at Golden Gate University.\n\nThe transition was jarring but successful. The same focus she applied to stanza and meter, she now applied to market trends and risk assessment. She discovered a surprising satisfaction in the clear-cut certainty of numbers. Aiko moved to San Francisco and quickly ascended the corporate ladder, finding her niche as a Senior Financial Analyst.\n\nToday, Aiko lives a disciplined life in a minimalist Hayes Valley apartment that doubles as her office. Her 0.0-mile commute offers a structured tranquility she once craved. Mornings are for market analysis and virtual meetings; afternoons are for walks through her neighborhood, admiring the boutiques and grabbing an espresso. Her social life is small but meaningful, comprising a few trusted colleagues and one old friend from her poetry days. Her greatest hope is not for a promotion, but for synthesis. In the quiet of the evening, after the markets have closed, Aiko has started writing again. Not sprawling verses, but disciplined, seventeen-syllable haikus\u2014a perfect fusion of her two worlds, finding poetry within the ledger of her life."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up and start the day with a guided meditation session using a mindfulness app.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment on Haight St"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Brew a pour-over coffee and review the morning's financial news on her tablet.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack a work bag.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Haight St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the energizing morning walk to work, listening to a finance podcast.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "The Wiggle Bikeway to Market Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at her dedicated desk for a deep work session, building out Q3 forecasting models.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 120,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Join a video conference call with her team to sync on portfolio performance and market shifts.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 45,
+                        "location": "Private Phone Booth at Anchor Coworking"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Continue work on a detailed performance attribution report for a key client.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 105,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to Hayes Valley for a quick and healthy lunch break.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Souvla"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Return to work for an afternoon of market research and updating investment theses.",
+                        "geocode": {
+                            "lat": 37.7750314,
+                            "lng": -122.4199901,
+                            "formatted_address": "1540 Market St #100, San Francisco, CA 94102, United States"
+                        },
+                        "duration": 150,
+                        "location": "Anchor Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Walk home, stopping to pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38\u200d\u2640\ufe0f",
+                        "action": "Attend a Vinyasa flow class to de-stress and stretch after a day at the desk.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Prepare and eat a simple, healthy dinner, like roasted salmon and asparagus.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Relax on the couch for a scheduled weekly video call with her parents.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the evening by reading a novel with a glass of pinot noir.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A productive and balanced day for a finance professional, blending focused work at a coworking space with a healthy walking commute, neighborhood errands, a rejuvenating yoga class, and quiet time at her Haight-Ashbury home.",
+                "home_address": "631 Haight St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7715351,
+                    "lng": -122.4326368,
+                    "formatted_address": "631 Haight St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Preschool Teacher Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Education"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s journey to San Francisco was less a grand ambition and more a quiet secession from the life she was supposed to live. Raised in a suburb of Cleveland, Ohio, by a pragmatic family of accountants and insurance agents, Sarah was a gentle, observant child who preferred sketching in notebooks to team sports. Her parents encouraged a stable path, so she dutifully enrolled at Ohio State University to study communications, a major she chose for its perceived practicality rather than any real passion.\n\nThe turning point came during her sophomore year. Feeling adrift in the sprawling university, she spent a summer visiting a cousin in San Francisco. The city, with its fog-draped hills, vibrant neighborhood murals, and the casual acceptance of eccentricity, felt like an exhale. She saw lives being lived on their own terms and realized her own path felt suffocatingly narrow. She never returned for her junior year.\n\nArriving back in SF with little money and no plan, Sarah took a job as a part-time helper at the \"Little Sprouts Cooperative,\" a small, play-based preschool in the Inner Richmond. It was meant to be a temporary stopgap, but she was captivated. The chaos, creativity, and unfiltered honesty of three- and four-year-olds resonated with her in a way lectures never had. She found purpose not in textbooks, but in moderating disputes over building blocks and celebrating the mastery of tying a shoe.\n\nToday, Sarah\u2019s life is deeply woven into the fabric of her neighborhood. Her 0.0-mile commute is literal; she lives in a small studio apartment directly above the preschool, a benefit that makes her modest assistant\u2019s salary tenable. Her days are a comforting rhythm of story time, art projects, and playground supervision. Her social circle is an extension of her work: the other teachers, the parents she chats with during pickup, and the owner of the corner caf\u00e9 where she gets her morning coffee. Her dream isn't to climb a corporate ladder, but to complete an online Child Development Associate (CDA) credential. She envisions a future where she might one day co-lead a small school like Little Sprouts, fostering a space where children, like her, feel free to discover who they truly are."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditation, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Morning walk to grab a latte and a croissant.",
+                        "geocode": {
+                            "lat": 37.7831653,
+                            "lng": -122.4625598,
+                            "formatted_address": "306 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Blue Danube Coffee House"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat breakfast and chat with partner before the workday begins.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning 'commute'; tidy desk, open laptop, and review the day's to-do list.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Respond to parent emails and update the class communication app with weekly announcements.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf9",
+                        "action": "Join a video call with the lead teacher to plan next month's learning themes and activities.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch break. Walk down the block to pick up a delicious Tea Leaf Salad.",
+                        "geocode": {
+                            "lat": 37.78281399999999,
+                            "lng": -122.4625643,
+                            "formatted_address": "309 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Burma Superstar"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Afternoon creative work: design and prepare digital art templates for the children's upcoming 'Under the Sea' project.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Final work block: record a short video of herself reading a storybook to be shared with the families tomorrow.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "End of day 'commute'; log off from work, close the laptop, and straighten up the workspace.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a de-stressing jog through the park to get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh vegetables and tofu for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.7827054,
+                            "lng": -122.4668356,
+                            "formatted_address": "707 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "New May Wah Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83e\udd62",
+                        "action": "Cook a stir-fry dinner with her partner while talking about their day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Cozy up on the couch with her partner to watch a new documentary.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Evening routine: skincare, change into pajamas, and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for Sarah, blending remote educational support tasks with enjoying the local charm of her Richmond District neighborhood. The day includes creative work, a refreshing walk in Golden Gate Park, and a relaxing evening at home with her partner.",
+                "home_address": "2158 Clement St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7823258,
+                    "lng": -122.4825609,
+                    "formatted_address": "2158 Clement St, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

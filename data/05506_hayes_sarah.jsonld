@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Hayes",
+    "givenName": "Sarah",
+    "familyName": "Hayes",
+    "jobTitle": "Case Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Non-profit/Social Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Hayes\u2019s path to a cluttered Inner Richmond apartment, where her work and life blur into one, began in a quiet Sacramento suburb. Growing up, she was the steady anchor in a family rocked by her older brother\u2019s struggles with mental health and addiction. While her parents navigated crises, Sarah learned to be observant, resilient, and deeply empathetic, developing a quiet strength that would define her future. This firsthand experience with a fractured system, where help was often hard to find and harder to sustain, planted a seed of purpose in her.\n\nShe pursued a Bachelor's in Sociology at UC Santa Cruz, where her vague desire to \"help\" crystallized into a passion for systemic change. The coastal redwood campus was a world away from suburban Sacramento, and it was there she learned the language to describe the social inequities she had only felt before. After graduation, she was drawn to San Francisco's history of activism and community organizing. She moved into a group house and took an entry-level job at a housing non-profit, drawn by the mission rather than the meager paycheck.\n\nNow 26, Sarah is a Case Manager for a non-profit serving unhoused youth. Her 0.0-mile commute means her laptop, perpetually open on her small dining table, is her office. Her days are a grueling marathon of video calls with clients, navigating bureaucratic red tape for benefits, and acting as a remote crisis counselor. To decompress, she runs in Golden Gate Park or loses herself in the aisles of Green Apple Books on Clement Street, finding solace in the neighborhood's calm persistence.\n\nHer social life is a small, tight-knit circle of friends, mostly fellow non-profit workers who understand the emotional toll of the job. Her dream isn\u2019t one of wealth, but of sustainability\u2014for her clients and for herself. She hopes to eventually get her Master's in Social Work to move into a policy-making role, wanting to fix the broken systems she fights against daily. For now, she finds meaning in the small victories: a client securing a stable room, a successful benefits application, or a simple, heartfelt \"thank you\" cutting through the static of a difficult day."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers being fourteen, finding her brother in the garage after a screaming match with their parents. He was curled up beside the old lawnmower, exhausted and broken. Sarah didn't speak; she just sat on the cold concrete, a silent sentinel until he was ready. That moment wasn't about fixing him, but simply bearing witness to his pain. It forged in her a profound, quiet empathy\u2014the deep-seated need to show up when everyone else looks away, a feeling that would later define her entire career.\n\n2.\nIt was a sophomore year sociology lecture at UCSC, sunlight streaming through the redwoods outside. The professor spoke of \"systemic failures\" and \"gaps in social safety nets.\" Suddenly, her family\u2019s private, chaotic struggle wasn't just a personal tragedy; it was a data point in a larger, broken design. The feeling was one of profound, heartbreaking clarity. Her path snapped into focus: she wouldn\u2019t just help individuals navigate the maze, she would dedicate her life to trying to redraw it.\n\n3.\nSix months into her job, burnout already creeping in, a client called her. He wasn't crying, just breathing shakily. \"I got the key, Sarah. I'm standing in the room.\" He described the small, clean space for five full minutes. For Sarah, sitting in her cluttered apartment, that call was a lifeline. It was the first tangible proof that her mountain of paperwork and endless phone calls could manifest as four walls and a door for someone. That feeling of shared victory became the fuel she runs on.\n\n4.\nLast winter, after a brutal day where a client relapsed, she trudged to her friend's apartment. No one asked for details. They just handed her a bowl of takeout curry and put on a stupid movie. Curled on the cramped sofa, surrounded by the quiet, knowing presence of people who *get it*, she felt the tension in her shoulders finally release. It wasn\u2019t a solution, but it was support. That unspoken solidarity is her anchor in the city, a reminder she isn\u2019t weathering the storm alone.\n\n5.\nA few months ago, after a week of back-to-back crises, her mind felt like static. She forced herself out, running hard through Golden Gate Park until the fog cooled the frantic energy in her chest. Afterward, she drifted into the quiet aisles of Green Apple Books, inhaling the scent of paper. She bought nothing. The simple act of being anonymous among stories, of reclaiming her own inner world without being needed, was the entire point. It\u2019s her essential ritual for finding herself again."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, hydrate, and get into running clothes.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a refreshing morning run along the waterfront.",
+                        "geocode": {
+                            "lat": 37.8064291,
+                            "lng": -122.4506915,
+                            "formatted_address": "Crissy Field East Beach, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 45,
+                        "location": "Crissy Field East Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for work, and do a quick makeup routine.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Apartment on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make coffee and a quick avocado toast for breakfast.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, listening to a true-crime podcast to zone out from the traffic.",
+                        "geocode": {
+                            "lat": 37.7505246,
+                            "lng": -122.4761024,
+                            "formatted_address": "19th Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Driving via 19th Avenue"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle in at desk, review student caseload, and prioritize the day's tasks.",
+                        "geocode": {
+                            "lat": 37.7275826,
+                            "lng": -122.4520562,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 30,
+                        "location": "Office at CCSF Student Services"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Hold back-to-back advising sessions with students, helping them access resources and academic support.",
+                        "geocode": {
+                            "lat": 37.7275826,
+                            "lng": -122.4520562,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 150,
+                        "location": "Office at CCSF Student Services"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Eat a packed salad at desk while catching up on urgent emails.",
+                        "geocode": {
+                            "lat": 37.7275826,
+                            "lng": -122.4520562,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 30,
+                        "location": "Office at CCSF Student Services"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a weekly team meeting to discuss high-needs cases and program updates.",
+                        "geocode": {
+                            "lat": 37.724438,
+                            "lng": -122.4529414,
+                            "formatted_address": "55 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "CCSF Conference Room MUB 140"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Focus on administrative work: inputting case notes and processing student support applications.",
+                        "geocode": {
+                            "lat": 37.7275826,
+                            "lng": -122.4520562,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 120,
+                        "location": "Office at CCSF Student Services"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Commute home, dealing with the northbound traffic.",
+                        "geocode": {
+                            "lat": 37.7473461,
+                            "lng": -122.4947458,
+                            "formatted_address": "Sunset Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Driving via Sunset Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a few essential groceries for dinner.",
+                        "geocode": {
+                            "lat": 37.8044671,
+                            "lng": -122.4328651,
+                            "formatted_address": "15 Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 25,
+                        "location": "Safeway on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Decompress from the day, change into comfy clothes, and chat with roommates about their day.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple and healthy dinner of roasted vegetables and chicken with a roommate.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel on the couch.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment on Marina Blvd"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: skincare, pack a bag for tomorrow, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.8060726,
+                            "lng": -122.4401602,
+                            "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment on Marina Blvd"
+                    }
+                ],
+                "day_overview": "A busy but structured day for a non-profit case manager, balancing a demanding job and a cross-city commute with personal wellness and social time at her home in the Marina.",
+                "home_address": "3381 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8060726,
+                    "lng": -122.4401602,
+                    "formatted_address": "Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1998",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Hayes Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Rahul Sharma",
+    "givenName": "Rahul",
+    "familyName": "Sharma",
+    "jobTitle": "Laboratory Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Rahul Sharma\u2019s life is a quiet study in pragmatism, contained almost entirely within the few city blocks of the UCSF Parnassus campus. Born in Lucknow, India, to a shopkeeper father and a homemaker mother, his upbringing was steeped in practicality. Yet, a young Rahul was a dreamer, fascinated by light and shadow. He arrived in San Francisco in his early twenties, armed with an Associate's degree in Liberal Arts from a community college, his true passion being photography. The city, vibrant and unforgiving, was supposed to be his canvas.\n\nThe reality was harsher. The bohemian artist's life he envisioned was a fantasy for those without a safety net. After a series of low-wage jobs and a painful breakup, the need for stability eclipsed his artistic ambitions. A friend mentioned an entry-level opening as a specimen processor at the university hospital. It was a job, nothing more. But Rahul discovered an aptitude for the meticulous, orderly world of the laboratory. He pursued certifications, slowly working his way up over two decades to become a trusted Laboratory Technician. His photography degree became a forgotten line item on a dusty resume.\n\nHis most defining life choice was moving into the subsidized staff housing on campus fifteen years ago. This decision solidified his 0.0-mile commute and shrank his world. His days follow a predictable rhythm: the walk across the courtyard to the lab, the precise and repetitive tasks of analyzing samples, a solitary lunch in the staff cafeteria, and the walk back. His social connections are fleeting\u2014a friendly nod to the night-shift nurses, a brief chat with the elderly woman in his building whose groceries he sometimes helps carry.\n\nRahul\u2019s San Francisco isn't the Golden Gate Bridge or bustling cable cars; it's the fog rolling over Mount Sutro, the hum of ventilators, and the quiet dignity of a campus dedicated to healing. At 48, his youthful dreams are ghosts. In a drawer, under neatly folded sweaters, lies his old Minolta film camera. His quietest hope is that one day he\u2019ll have the courage to pick it up again, not to capture a grand cityscape, but to find the hidden beauty and humanity within the sterile, predictable world he has built for himself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Wake up and prepare a traditional Indian breakfast, like poha, for himself and his mother.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home on Union Street"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Share breakfast and chai with his mother while watching the morning news.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Union Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Get dressed for work and help his mother with her morning medication.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home on Union Street"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, navigating the dense traffic from North Beach towards the Financial District.",
+                        "geocode": {
+                            "lat": 37.7992232,
+                            "lng": -122.4086742,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Streets (Columbus Ave to Kearny St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Arrive at the lab, run daily calibrations on the PCR machines and centrifuges.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 70,
+                        "location": "Mindspace Coworking Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\ude78",
+                        "action": "Process patient samples, performing a series of diagnostic assays.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Mindspace Coworking Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to get a quick and healthy lunch, picking up a customized salad bowl.",
+                        "geocode": {
+                            "lat": 37.7888502,
+                            "lng": -122.3991958,
+                            "formatted_address": "560 Mission St Suite 125, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt on Mission St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Input morning test results into the Laboratory Information Management System (LIMS).",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 135,
+                        "location": "Mindspace Coworking Desk"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Clean lab equipment, restock disposables, and prepare kits for the next day's sample run.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 90,
+                        "location": "Mindspace Coworking Lab"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, taking Stockton St to avoid some of the worst of the evening rush hour traffic.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Streets (Financial District to North Beach)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce and groceries for dinner.",
+                        "geocode": {
+                            "lat": 37.8054852,
+                            "lng": -122.4137755,
+                            "formatted_address": "401 Bay St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's on Bay St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5b",
+                        "action": "Cook dinner and eat with his mother, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home on Union Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Take an evening constitutional walk to unwind and enjoy the neighborhood ambiance.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a Hindi movie on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home on Union Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a chapter of a novel before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7977236,
+                            "lng": -122.4305839,
+                            "formatted_address": "Union St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home on Union Street"
+                    }
+                ],
+                "day_overview": "A structured day for Rahul, balancing his precise lab work in the Financial District with his responsibilities as a caregiver for his elderly parent in their North Beach home, punctuated by the typical challenges of a San Francisco commute.",
+                "home_address": "614 Union St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8004444,
+                    "lng": -122.4097997,
+                    "formatted_address": "614 Union St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

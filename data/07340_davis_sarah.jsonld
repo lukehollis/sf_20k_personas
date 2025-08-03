@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Senior Administrative Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Administrative Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s San Francisco story began not with a dream of tech fortunes, but with a boy from back home in Des Moines. In 1994, armed with a freshly printed Associate's degree in Office Administration and a heart full of Midwestern earnestness, she followed him west. He was chasing the nascent dot-com boom; she was just chasing him. They found a small apartment in the Inner Richmond, a neighborhood that felt more like a real community than the frantic city center.\n\nThe relationship dissolved as quickly as the speculative bubble inflated. He left for a startup in Austin, but Sarah, surprisingly, found she had put down roots. The city had captivated her, not for its ambition, but for its fog-draped mornings, its proximity to the ocean, and the anonymous freedom it offered. Her greatest turning point was securing her own rent-controlled lease on that same Inner Richmond apartment, an anchor that would allow her to weather three decades of the city\u2019s tumultuous changes.\n\nHer career mirrored her personal life: steady and reliable. She started as a temp and worked her way up to Senior Administrative Assistant at a downtown consulting firm. For years, she was the unflappable keeper of schedules and institutional knowledge, the quiet hub around which louder, more ambitious colleagues revolved. The pandemic shifted her world inward; her commute vanished, and her apartment became her entire universe. Her desk now overlooks the street she\u2019s lived on for nearly thirty years.\n\nNow at 50, Sarah\u2019s life is a collection of cherished routines. Her day starts with a walk to a local bakery for coffee and ends with a book. She knows the names of the cashiers at the corner market and has a small, tight-knit circle of friends, mostly other long-term residents who remember the city before smartphones. Her hope isn\u2019t for a career change or a dramatic upheaval, but for quiet enrichment. She dreams of finally taking that pottery class she\u2019s bookmarked for years and using her vacation time to see the European art she\u2019s only ever seen in prints, adding new colors to the life she so carefully built for herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, start coffee maker, and listen to the morning news on KQED.",
+                        "geocode": {
+                            "lat": 37.7819445,
+                            "lng": -122.4900681,
+                            "formatted_address": "2848 Clement St, San Francisco, CA 94118"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Shower, get dressed for the office, and have a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7819445,
+                            "lng": -122.4900681,
+                            "formatted_address": "2848 Clement St, San Francisco, CA 94118"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from the Outer Richmond to work, dealing with traffic through Golden Gate Park.",
+                        "geocode": {
+                            "lat": 37.7697474,
+                            "lng": -122.4787624,
+                            "formatted_address": "Crossover Dr, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Car on Crossover Drive"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at work, find parking in the notoriously full garage, and walk to the office.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "UCSF Parnassus Parking Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in, review executive calendars for conflicts, and respond to high-priority overnight emails.",
+                        "geocode": {
+                            "lat": 37.7627927,
+                            "lng": -122.4580873,
+                            "formatted_address": "San Francisco, CA 94131, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Medical Sciences Building Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Prepare materials and agenda for an upcoming departmental planning meeting.",
+                        "geocode": {
+                            "lat": 37.7627927,
+                            "lng": -122.4580873,
+                            "formatted_address": "San Francisco, CA 94131, USA"
+                        },
+                        "duration": 120,
+                        "location": "UCSF Medical Sciences Building Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk down the hill for a quick lunch break to grab a fresh salad away from the desk.",
+                        "geocode": {
+                            "lat": 37.763954,
+                            "lng": -122.464751,
+                            "formatted_address": "627 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 50,
+                        "location": "Pluto's on Irving St"
+                    },
+                    {
+                        "emoji": "\u2708\ufe0f",
+                        "action": "Focus on project work: arranging flights and accommodations for a visiting professor.",
+                        "geocode": {
+                            "lat": 37.7627927,
+                            "lng": -122.4580873,
+                            "formatted_address": "San Francisco, CA 94131, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF Medical Sciences Building Office"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfe",
+                        "action": "Process and submit expense reports for the department head.",
+                        "geocode": {
+                            "lat": 37.7627927,
+                            "lng": -122.4580873,
+                            "formatted_address": "San Francisco, CA 94131, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Medical Sciences Building Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up for the day, organize desk, and create a to-do list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7627927,
+                            "lng": -122.4580873,
+                            "formatted_address": "San Francisco, CA 94131, USA"
+                        },
+                        "duration": 20,
+                        "location": "UCSF Medical Sciences Building Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute home, listening to a true-crime podcast to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7505246,
+                            "lng": -122.4761024,
+                            "formatted_address": "19th Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Car on 19th Avenue"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up items for dinner and the next few days.",
+                        "geocode": {
+                            "lat": 37.7838941,
+                            "lng": -122.4075205,
+                            "formatted_address": "865 Market St UNIT 223, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gus's Community Market on Clement"
+                    },
+                    {
+                        "emoji": "\ud83e\udd62",
+                        "action": "Cook a simple but healthy dinner, like salmon and roasted vegetables.",
+                        "geocode": {
+                            "lat": 37.7819445,
+                            "lng": -122.4900681,
+                            "formatted_address": "2848 Clement St, San Francisco, CA 94118"
+                        },
+                        "duration": 55,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Eat dinner while catching up on a show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7819445,
+                            "lng": -122.4900681,
+                            "formatted_address": "2848 Clement St, San Francisco, CA 94118"
+                        },
+                        "duration": 60,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax with a good book and a cup of herbal tea.",
+                        "geocode": {
+                            "lat": 37.7819445,
+                            "lng": -122.4900681,
+                            "formatted_address": "2848 Clement St, San Francisco, CA 94118"
+                        },
+                        "duration": 90,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: prepare for bed, lay out clothes for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7819445,
+                            "lng": -122.4900681,
+                            "formatted_address": "2848 Clement St, San Francisco, CA 94118"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A structured and busy day for Sarah, managing a demanding administrative role at UCSF, navigating the daily SF commute, and winding down with essential errands and relaxing activities in her Outer Richmond neighborhood.",
+                "home_address": "2848 Clement St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7819445,
+                    "lng": -122.4900681,
+                    "formatted_address": "2848 Clement St, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1974",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

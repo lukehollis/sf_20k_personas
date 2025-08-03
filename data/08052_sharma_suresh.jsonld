@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Suresh Sharma",
+    "givenName": "Suresh",
+    "familyName": "Sharma",
+    "jobTitle": "Project Coordinator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Indian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Suresh Sharma\u2019s story is one of quiet deviation. Born in Fremont to Indian immigrants who prioritized STEM education, Suresh was a dutiful son but a daydreaming historian. While his parents envisioned him coding in Silicon Valley, he spent his youth lost in library books, fascinated by the rise and fall of empires. He dutifully enrolled at UC Davis but chose a path that felt like a small rebellion: a Bachelor\u2019s degree in History.\n\nUpon graduating, the practicality of life in the Bay Area set in. With student loans and rent to consider, he took a customer support job at a burgeoning San Francisco startup. There, an unexpected talent emerged. Suresh had a natural ability to see the big picture, organize chaotic workflows, and mediate between departments\u2014skills honed by studying complex historical narratives. Management noticed, and he was promoted into a junior project coordinator role. Over the next decade, he methodically climbed the ladder, becoming a trusted coordinator who ensured software engineers and designers stayed on schedule.\n\nThe true turning point was his move to a small apartment in Hayes Valley eight years ago. Leaving the suburban sprawl of his youth for the city's vibrant core was an act of personal independence. His life is now defined by the 0.0-mile commute from his bedroom to his ergonomic desk chair. A typical day starts with pour-over coffee from a local cafe, followed by a flurry of Slack messages and Zoom calls. He breaks for lunch with a walk to Patricia\u2019s Green, soaking in the neighborhood\u2019s energy before returning to the digital world of Gantt charts and project milestones.\n\nNow 37, Suresh lives a comfortable but contained existence. His social life consists of a tight-knit group of friends and the familiar, often frustrating, cycle of dating apps. While he is grateful for the stability his career provides, he feels a growing disconnect. His history books line his shelves, silent reminders of a passion left behind. His dream is to one day write a popular history book or find a way to apply his storytelling skills to a more tangible, fulfilling venture, reconnecting with the person he was before he became a name on a project plan."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew coffee with an Aeropress, and review tech news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7676121,
+                            "lng": -122.4312108,
+                            "formatted_address": "Duboce Triangle, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Duboce Triangle Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Quick bodyweight and resistance band workout session in the living room.",
+                        "geocode": {
+                            "lat": 37.7676121,
+                            "lng": -122.4312108,
+                            "formatted_address": "Duboce Triangle, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Duboce Triangle Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and pack work essentials for the day.",
+                        "geocode": {
+                            "lat": 37.7676121,
+                            "lng": -122.4312108,
+                            "formatted_address": "Duboce Triangle, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Duboce Triangle Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive to work, navigating morning traffic on Market Street and heading to the company's designated parking garage.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Commute to SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office, organize daily tasks in Asana, and respond to urgent Slack messages.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the daily cross-functional team stand-up meeting to align on priorities and resolve blockers.",
+                        "geocode": {
+                            "lat": 37.7792719,
+                            "lng": -122.4098122,
+                            "formatted_address": "Minna St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Conference Room 'Minna'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focused work block: updating project Gantt charts and preparing a draft for the weekly progress report.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 105,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk with a colleague to grab a quick lunch.",
+                        "geocode": {
+                            "lat": 37.78673010000001,
+                            "lng": -122.4022101,
+                            "formatted_address": "71 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Oren's Hummus"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Afternoon work session: follow up on action items from meetings and provide support to team members via Slack.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 180,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final tasks, send a summary of the day's progress, and plan the next day's to-do list.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 30,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Commute home, driving from SoMa back to the Duboce Triangle neighborhood.",
+                        "geocode": {
+                            "lat": 37.7676121,
+                            "lng": -122.4312108,
+                            "formatted_address": "Duboce Triangle, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Commute to Duboce Triangle"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7965896,
+                            "lng": -122.4216627,
+                            "formatted_address": "2140 Polk St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Bi-Rite Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a healthy dinner while listening to an industry podcast.",
+                        "geocode": {
+                            "lat": 37.7676121,
+                            "lng": -122.4312108,
+                            "formatted_address": "Duboce Triangle, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Duboce Triangle Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Evening weightlifting session at the local gym.",
+                        "geocode": {
+                            "lat": 37.7637395,
+                            "lng": -122.4334293,
+                            "formatted_address": "2301 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Fitness SF - Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a streaming series, and unwind before bed.",
+                        "geocode": {
+                            "lat": 37.7676121,
+                            "lng": -122.4312108,
+                            "formatted_address": "Duboce Triangle, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Duboce Triangle Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a tech Project Coordinator, balancing focused work and meetings in SoMa with a fitness routine and relaxation in his Duboce Triangle neighborhood.",
+                "home_address": "411 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7643791,
+                    "lng": -122.4277498,
+                    "formatted_address": "411 Church St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

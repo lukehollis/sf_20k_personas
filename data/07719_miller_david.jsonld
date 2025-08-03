@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "City Planner",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s fascination with cities began in their absence. Raised in the sprawling suburbs of Fresno, his world was one of tract homes and strip malls, connected only by the family minivan. His parents, proprietors of a local hardware store, instilled in him a pragmatic appreciation for things that were well-built and functional. Yet, David yearned for the density and dynamism he only saw in movies, a yearning that led him to pursue a history degree, focusing on the growth of American metropolises.\n\nThis academic passion solidified into a career path. He attended UCLA, earning a Master of Urban and Regional Planning, where he became obsessed with transit-oriented development and creating walkable, human-scale communities. His first job was with the City of Oakland, cutting his teeth on zoning variances and community outreach meetings. But the ultimate prize was across the bay. In his early thirties, he landed a coveted position as a planner for the City and County of San Francisco.\n\nThe first decade was a whirlwind of professional triumphs and personal costs. David was a key planner on a complex mixed-use housing project in the Mission, a project he remains immensely proud of, despite the political battles it entailed. However, the long hours and consuming nature of his work contributed to the slow erosion of his long-term relationship, which ended five years ago.\n\nNow, at 44, David lives a quieter, more solitary life. His 0.0-mile commute is to a standing desk in the corner of his Hayes Valley condo, a neighborhood he loves for its successful post-freeway revitalization. His days are a disciplined mix of digital blueprints, Zoom calls with developers, and policy draft reviews. He breaks up the day with walks to Patricia's Green or a coffee from a local cafe, observing the urban fabric he helps manage.\n\nHe is no longer the wide-eyed idealist who arrived from Fresno. The city\u2019s intractable problems have tempered his optimism with a heavy dose of pragmatism. Still, a flicker of hope remains. David\u2019s deepest aspiration is to see a truly affordable, large-scale housing project break ground before he retires\u2014a tangible legacy that makes the city he loves just a little more equitable and livable for the next generation."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew a french press, and catch up on local development news via SF YIMBY.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Powell Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "Morning workout at a local gym to get the day started.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Live Fit Gym"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Get ready for work and pack a lunch.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Powell Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from North Beach to SoMa, listening to a podcast on sustainable urbanism.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 40,
+                        "location": "His Car on SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Settle in at the office, review the day's agenda and draft a memo on a recent community feedback session.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 90,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead a project review meeting with architects and community partners regarding the Minna-Natoma Art Corridor.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Upside Artspace Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to a local spot for a quick lunch of soup and a sandwich.",
+                        "geocode": {
+                            "lat": 37.780602,
+                            "lng": -122.3961766,
+                            "formatted_address": "212 Ritch St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 50,
+                        "location": "Darwin Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Conduct a site visit to assess pedestrian improvements and new public art installations near the I-80 underpass.",
+                        "geocode": {
+                            "lat": 37.7962244,
+                            "lng": -122.3799173,
+                            "formatted_address": "I-80, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Rainbow Alley (under I-80)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Return to the office for focused work; analyzing GIS data and preparing presentation slides for an upcoming Planning Commission hearing.",
+                        "geocode": {
+                            "lat": 37.7677871,
+                            "lng": -122.4190185,
+                            "formatted_address": "1333 Minna St, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 120,
+                        "location": "Upside Artspace"
+                    },
+                    {
+                        "emoji": " congested",
+                        "action": "Commute home, navigating the evening rush hour traffic.",
+                        "geocode": {
+                            "lat": 37.78233280000001,
+                            "lng": -122.4076038,
+                            "formatted_address": "66 Mint St 2nd floor, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "His Car on SF Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for ingredients for dinner and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7780834,
+                            "lng": -122.4265022,
+                            "formatted_address": "555 Fulton St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 25,
+                        "location": "Trader Joe's"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a drink and to decompress from the week.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 75,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple salmon and vegetable dinner at home.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Powell Street Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Eat dinner and unwind by reading a non-fiction book about urban resilience.",
+                        "geocode": {
+                            "lat": 37.7965073,
+                            "lng": -122.4101021,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Powell Street Apartment"
+                    }
+                ],
+                "day_overview": "A busy day for a City Planner, blending strategic work on SoMa's cultural district with the logistical challenges of a cross-city commute, and winding down with exercise and social time in his home neighborhood of North Beach.",
+                "home_address": "3254 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.8007819,
+                    "lng": -122.4109746,
+                    "formatted_address": "3254 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1980",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

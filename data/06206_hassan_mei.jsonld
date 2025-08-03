@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Hassan",
+    "givenName": "Mei",
+    "familyName": "Hassan",
+    "jobTitle": "Production Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "The daughter of a pragmatic Pakistani engineer and a storytelling Chinese librarian from Queens, Mei Hassan\u2019s life has been a study in synthesis. Her upbringing was a quiet blend of disciplined homework sessions and fantastical bedtime stories, fostering both a logical mind and a creative soul. She carried this duality to U.C. Berkeley, where she surprised her father by choosing to major in English Literature instead of a STEM field.\n\nMei graduated in the mid-90s, just as the Bay Area was being electrified by the first dot-com boom. She found her entry into the nascent tech world not as a coder, but as a technical writer, her humanities degree giving her a unique ability to translate complex engineering jargon into clear, human-centric language. She thrived on the frenetic energy, and her knack for organization saw her transition naturally from documenting projects to managing them. Mei survived the dot-com bust through sheer competence, staying on while others were laid off, and steadily climbed the ladder to her current role as a Production Manager.\n\nA key turning point was her divorce at 38. The split was amicable but profound, ending a decade-long marriage to a software architect she\u2019d met during the boom. It forced a period of introspection, leading her to trade a fast-paced SOMA lifestyle for the foggy tranquility of the Inner Richmond. Now, at 50, her life is her own. Her 0.0-mile commute means her work day begins after a long walk through Golden Gate Park, coffee in hand from her favorite spot on Clement Street. Her apartment, filled with books and modern art, doubles as her command center.\n\nHer social life consists of a tight-knit circle of friends\u2014veterans of the same tech wars\u2014and a monthly book club that feels more essential than any sprint planning meeting. Mei feels a deep, quiet connection to San Francisco, having watched it morph and change around her. Her dream is no longer about shipping the next big app. Instead, she fantasizes about cashing out her stock options in a few years to open a small, curated bookstore-caf\u00e9, a place where logic and stories can coexist peacefully, just as they did in her childhood home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf75",
+                        "action": "Wake up, brew a cup of oolong tea, and review the day's headlines.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "3127 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 3127 Cole St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc75",
+                        "action": "Check in with her elderly mother, help prepare a shared breakfast of congee and fruit.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "3127 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - 3127 Cole St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed in business casual, and pack work bag.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "3127 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 3127 Cole St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to the N Judah stop and commute downtown, listening to a project management podcast.",
+                        "geocode": {
+                            "lat": 37.7895433,
+                            "lng": -122.401063,
+                            "formatted_address": "Montgomery St. Station, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "N Judah Line: Carl & Cole Station to Montgomery St. Station"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab a coffee from the micro-kitchen, and triage overnight emails and Slack messages.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "LinkedIn HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the daily production stand-up meeting, reviewing team progress and identifying blockers.",
+                        "geocode": {
+                            "lat": 37.8269775,
+                            "lng": -122.4229555,
+                            "formatted_address": "San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "LinkedIn HQ - Conference Room 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep focus time: Update project timelines and resource allocation spreadsheets.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 105,
+                        "location": "LinkedIn HQ - Her Desk"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Step out for a refreshing lunch and a break from the office environment.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt - Yerba Buena"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct back-to-back 1-on-1 meetings with direct reports to discuss career growth and project status.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "LinkedIn HQ - Quiet Pods"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a cross-functional strategy session with Engineering and Marketing leads for the upcoming quarter.",
+                        "geocode": {
+                            "lat": 37.7552213,
+                            "lng": -122.4527624,
+                            "formatted_address": "Sutro Tower, 1 La Avanzada St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 90,
+                        "location": "LinkedIn HQ - 'Sutro Tower' Think Tank"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up final tasks, send out meeting summary emails, and plan top priorities for the next day.",
+                        "geocode": {
+                            "lat": 37.7864844,
+                            "lng": -122.3981281,
+                            "formatted_address": "222 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 30,
+                        "location": "LinkedIn HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Commute home on the N Judah, using the time to read a novel on her Kindle.",
+                        "geocode": {
+                            "lat": 37.7894058,
+                            "lng": -122.4011117,
+                            "formatted_address": "Montgomery, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "N Judah Line: Montgomery St. Station to Carl & Cole Station"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6c",
+                        "action": "Quick stop at the local market to pick up fresh bok choy and tofu for dinner.",
+                        "geocode": {
+                            "lat": 37.7667283,
+                            "lng": -122.4501518,
+                            "formatted_address": "Cole Valley, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Cole Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf72",
+                        "action": "Cook a healthy dinner and eat with her mother, catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "3127 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - 3127 Cole St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Watch an episode of a favorite historical drama series together.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udec1",
+                        "action": "Wind down with a warm bath and prepare for bed.",
+                        "geocode": {
+                            "lat": 37.7601959,
+                            "lng": -122.4488527,
+                            "formatted_address": "3127 Cole St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 3127 Cole St"
+                    }
+                ],
+                "day_overview": "A structured day for a tech production manager, balancing demanding meetings in SoMa with caring for her elderly parent and personal wellness in her Cole Valley neighborhood.",
+                "home_address": "3127 Cole St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.7601959,
+                    "lng": -122.4488527,
+                    "formatted_address": "3127 Cole St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1974",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Hassan Family"
+    }
+}

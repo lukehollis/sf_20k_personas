@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ethan Davis",
+    "givenName": "Ethan",
+    "familyName": "Davis",
+    "jobTitle": "Junior Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ethan Davis\u2019s story began not under the California sun, but beneath the perpetually overcast skies of Portland, Oregon. Raised by a librarian mother and a graphic designer father, his childhood was a quiet tapestry of books, art, and intellectual curiosity. He was taught to ask \"why\" before \"how,\" a trait that led him not to computer science, but to a fascination with the human mind. He pursued this at UC Berkeley, earning a Master's degree in Cognitive Science, driven to understand the intricate wiring behind human behavior and decision-making.\n\nThe turning point came during his thesis project, where he analyzed datasets from a mental health app to identify patterns in user engagement. Staring at visualizations of human habit, Ethan had an epiphany: the abstract theories of cognitive science had a powerful, tangible application in the digital world. The pull of Silicon Valley, once a distant noise, became a siren song. He was recruited by a mid-size tech firm, not for his coding prowess initially, but for his unique ability to interpret data through a humanistic lens.\n\nNow, at 25, Ethan is a Junior Data Scientist. His 0.0-mile commute means his world has shrunk to the size of his Hayes Valley apartment, a sleek but sterile space where his work laptop and personal laptop sit side-by-side. His days are a rhythm of Slack notifications, SQL queries, and the distant sounds of the city. He breaks up the digital monotony with walks to a local cafe for an oat milk latte or a lunchtime run through Patricia's Green, observing the vibrant neighborhood life from his work-from-home bubble.\n\nHis primary social connection is the Mission Cliffs climbing gym, where the physical challenge and shared goal of reaching the top fosters an easier camaraderie than forced virtual happy hours. He feels like a resident of Hayes Valley more than a resident of San Francisco, his experience of the city curated by his immediate surroundings. Ethan dreams of leading projects that use data for genuine social good, bridging the gap between his academic ideals and his corporate reality. More than that, he yearns to build a life that feels authentic and rooted, to find connections that exist beyond a screen and forge an identity in this overwhelming city that is entirely his own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check emails, and get into running clothes.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Go for a morning jog along the waterfront for views of the Golden Gate and Alcatraz.",
+                        "geocode": {
+                            "lat": 37.8097002,
+                            "lng": -122.4265927,
+                            "formatted_address": "Aquatic Park Pier, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 40,
+                        "location": "Aquatic Park Pier"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready for the day, and eat a quick breakfast of yogurt and granola with his partner.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and ride the 30 Stockton bus, then transfer to BART at Montgomery Station.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Public Transit to Mission District"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the coworking space, grab a coffee, and join the daily team stand-up meeting via Slack/Zoom.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 30,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep work session: cleaning and preparing a large dataset for a new predictive model using Python.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 150,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to a local institution to grab a classic Mission-style carne asada burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Taqueria"
+                    },
+                    {
+                        "emoji": "\ud83e\udd16",
+                        "action": "Afternoon work: Building and iterating on a machine learning model, and documenting the results.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 180,
+                        "location": "Coworking SF by LANS"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Pack up and begin the commute home, taking BART from 16th St Mission back downtown to catch the bus.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Public Transit to North Beach"
+                    },
+                    {
+                        "emoji": "\ud83e\udd56",
+                        "action": "Stop by a neighborhood Italian deli to pick up fresh pasta and sauce for dinner.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 15,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner with his partner while catching up on their days, then sit down to eat together.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a trending sci-fi series together.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, lay out clothes for tomorrow, and read a few chapters of a non-fiction book.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "North Beach Apartment"
+                    }
+                ],
+                "day_overview": "A productive workday for a data scientist, starting with a scenic run in North Beach, commuting via public transport to a coworking space in the Mission, and ending with a shared home-cooked meal and relaxation with his partner.",
+                "home_address": "3761 Columbus Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8018052,
+                    "lng": -122.4123026,
+                    "formatted_address": "Columbus Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

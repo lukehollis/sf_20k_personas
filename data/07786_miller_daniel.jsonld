@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Miller",
+    "givenName": "Daniel",
+    "familyName": "Miller",
+    "jobTitle": "IT Support Technician",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Miller\u2019s life is a quiet study in adaptation. Born in Sacramento to a Korean immigrant mother and a white American father, he grew up navigating the space between two cultures. His mother, a pragmatic nurse, valued stability and education, while his father, a mechanic, taught him the satisfying logic of taking things apart to see how they worked. Daniel was a creative kid, more interested in sketching and art history than code. He enrolled in community college, aiming for a degree in graphic design, a path that felt like a perfect blend of his parents\u2019 influences: art and function.\n\nHis trajectory shifted abruptly at nineteen when his father suffered a debilitating stroke. Daniel dropped out of college to get a full-time job and help with bills, landing an entry-level help desk position. He discovered a surprising aptitude for the work; troubleshooting software glitches and hardware failures scratched the same problem-solving itch as fixing an engine. What began as a necessity evolved into a career. He earned certifications on his own time, and a decade ago, a lucrative offer from a major San Francisco tech firm brought him to the city.\n\nNow 42, Daniel lives and works in the same one-bedroom apartment in the Inner Richmond. His 0.0-mile commute means his days are defined by the glow of his monitors. His routine is methodical: coffee, log in, solve a river of support tickets, and a midday walk through the fog to clear his head. His social life, once anchored by a long-term girlfriend who grew tired of his quiet homebodiness, has become smaller, mostly revolving around a weekly online gaming session with old friends.\n\nLately, Daniel feels a pull toward the life he left behind. He\u2019s started carrying a camera on his walks, capturing the unique light filtering through the cypress trees in Golden Gate Park. His hope is not to quit his stable IT job, but to find a way to integrate his lost creative self back into his life. He dreams of one day having a small gallery show\u2014a tangible result of his own vision, not just a series of closed support tickets on a screen. He remains a fixer, but now he\u2019s trying to fix the part of himself he long thought was broken."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check work alerts and personal notifications on phone.",
+                        "geocode": {
+                            "lat": 37.7440004,
+                            "lng": -122.4269586,
+                            "formatted_address": "1682 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (1682 Church St)"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make coffee and a quick breakfast of toast and avocado.",
+                        "geocode": {
+                            "lat": 37.7440004,
+                            "lng": -122.4269586,
+                            "formatted_address": "1682 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (1682 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Change into cycling gear and do a quick check of bike tires and brakes.",
+                        "geocode": {
+                            "lat": 37.7440004,
+                            "lng": -122.4269586,
+                            "formatted_address": "1682 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (1682 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5\u200d\u2642\ufe0f",
+                        "action": "Bike commute to work, navigating the hills and using 'The Wiggle' bike route.",
+                        "geocode": {
+                            "lat": 37.7420216,
+                            "lng": -122.4280175,
+                            "formatted_address": "30th St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Bike Route 30 (The Wiggle)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at work, park bike, shower, and change into office attire.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 25,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning ticket queue. Prioritize and resolve incoming IT support requests from desk.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 180,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a quick and healthy lunch bowl.",
+                        "geocode": {
+                            "lat": 37.6172452,
+                            "lng": -122.3814042,
+                            "formatted_address": "173 Airport Access Rd, San Francisco, CA 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Plant Cafe Organic"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Afternoon project: configure and deploy new laptops for the marketing team.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 150,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Final check of the support ticket system and document work for the day.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 60,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb4\u200d\u2642\ufe0f",
+                        "action": "Bike commute home, taking the Valencia St bike corridor for a change of scenery.",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Valencia Street Corridor"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7a",
+                        "action": "Stop for a quick craft beer to unwind before heading home.",
+                        "geocode": {
+                            "lat": 37.7611469,
+                            "lng": -122.4285425,
+                            "formatted_address": "3801 18th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Woods Cervecer\u00eda Dolores"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner a simple pasta dish while calling his parents to catch up.",
+                        "geocode": {
+                            "lat": 37.7440004,
+                            "lng": -122.4269586,
+                            "formatted_address": "1682 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (1682 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch a new sci-fi series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7440004,
+                            "lng": -122.4269586,
+                            "formatted_address": "1682 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (1682 Church St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down, tidy up the kitchen, and read a few chapters of a book before bed.",
+                        "geocode": {
+                            "lat": 37.7440004,
+                            "lng": -122.4269586,
+                            "formatted_address": "1682 Church St, San Francisco, CA 94131, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1682 Church St)"
+                    }
+                ],
+                "day_overview": "A typical weekday for Daniel, balancing IT support tasks at a corporate office with a hilly bike commute from his Noe Valley home, followed by evening errands and personal relaxation time.",
+                "home_address": "1682 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7440004,
+                    "lng": -122.4269586,
+                    "formatted_address": "1682 Church St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

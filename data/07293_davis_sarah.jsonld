@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Operations Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s life is a study in quiet competence, a narrative woven into the very fabric of San Francisco. She was born in the Sunset District, the only child of Cantonese immigrants who ran a small, bustling laundry on Irving Street. Her parents, who sacrificed everything for her future, envisioned her as a doctor or lawyer. Sarah, however, was more interested in societal systems than anatomy or case law. In a move of quiet rebellion, she pursued a Sociology degree at UC Berkeley, fascinated by how communities and organizations functioned.\n\nHer entry into the tech world was accidental. In the late 1990s, needing a job after graduation, she took a temp position as an office assistant at a burgeoning dot-com startup. Amid the chaos of beanbag chairs and pre-IPO fervor, Sarah discovered her true calling: creating order. She was the one who developed workflows, managed vendors, and ensured payroll happened on time. While engineers and founders chased glory, Sarah built the scaffolding that kept the company from collapsing. She parlayed this natural talent into a steady, successful career in operations, witnessing booms and busts from the stable core of the industry.\n\nA key turning point was her divorce a decade ago. Her marriage to a charismatic but work-obsessed product manager had mirrored the frenetic energy of the tech world she managed. When it ended, Sarah felt a sense of liberation. She used her savings to buy her own condo, a peaceful Edwardian flat in Noe Valley. For the first time, her space was entirely her own.\n\nToday, her 0.0-mile commute offers a structured tranquility. Her mornings begin with a walk to a local caf\u00e9 on 24th street for an oat latte, followed by a day of managing global teams via Slack and Zoom from her sunlit home office. Her social circle is small but deep, consisting of a few friends from her two decades in the city. Her aspirations are no longer tied to a corporate ladder. Instead, she dreams of taking a sabbatical to travel through Southeast Asia and perfecting her skills at a local ceramics studio. Sarah Davis found success not in a flashy title, but in building a life of profound, self-directed stability in the city that has always been her home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, check overnight work alerts, and enjoy coffee and news with partner.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home on Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning prep: shower, get dressed in business casual, and prepare work bag.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home on Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from Noe Valley to the Financial District, listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.7718521,
+                            "lng": -122.4192881,
+                            "formatted_address": "US-101N, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF Roadways (US-101 N)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the daily Operations team stand-up meeting to review KPIs and daily priorities.",
+                        "geocode": {
+                            "lat": 37.7704306,
+                            "lng": -122.4131086,
+                            "formatted_address": "1532 Harrison St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Landmark HQ - Conference Room 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: analyzing Q3 logistics data and drafting a process improvement proposal.",
+                        "geocode": {
+                            "lat": 37.7704306,
+                            "lng": -122.4131086,
+                            "formatted_address": "1532 Harrison St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 180,
+                        "location": "Sarah's Office - Landmark HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a quick power salad for lunch, eating while catching up on industry news.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Strategy meeting with VPs of Engineering and Sales to align on the Q4 product launch.",
+                        "geocode": {
+                            "lat": 37.7757606,
+                            "lng": -122.4213449,
+                            "formatted_address": "131 Franklin St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 90,
+                        "location": "Landmark HQ - Executive Boardroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct one-on-one check-in meetings with two direct reports to discuss progress.",
+                        "geocode": {
+                            "lat": 37.7704306,
+                            "lng": -122.4131086,
+                            "formatted_address": "1532 Harrison St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sarah's Office - Landmark HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Commute home, navigating evening traffic while on a hands-free call with her sister.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "SF Roadways (Franklin St to Dolores)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc8a",
+                        "action": "Stop to pick up a pre-ordered prescription.",
+                        "geocode": {
+                            "lat": 37.7610063,
+                            "lng": -122.4351993,
+                            "formatted_address": "498 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 15,
+                        "location": "Walgreens Pharmacy on Castro St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Unwind and decompress from the workday with a restorative yoga class.",
+                        "geocode": {
+                            "lat": 37.7511829,
+                            "lng": -122.4329994,
+                            "formatted_address": "4049 24th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Yoga Flow Noe"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare a simple dinner (grilled salmon and asparagus) with her partner while discussing their days.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen on Dolores St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch with her partner, watching an episode of a crime drama.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: review personal calendar for the next day and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.755044,
+                            "lng": -122.4254063,
+                            "formatted_address": "Dolores St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home on Dolores St"
+                    }
+                ],
+                "day_overview": "A structured and productive weekday for a tech Operations Manager, balancing a demanding job in the Financial District with personal wellness, errands, and quality time with her partner in her Noe Valley neighborhood.",
+                "home_address": "2861 Dolores St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7424163,
+                    "lng": -122.4239835,
+                    "formatted_address": "2861 Dolores St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1972",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

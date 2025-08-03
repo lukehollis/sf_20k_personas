@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Senior Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Japanese Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life was built on a foundation of predictable inputs and reliable outputs. As the daughter of Taiwanese immigrants who sacrificed everything to give her a stable American life, she absorbed their core lesson: security is paramount. Growing up in Cupertino, she wasn't pressured into a specific field, but her natural aptitude for mathematics and logic made the path clear. The chaotic art of her parents\u2019 restaurant business felt like a warning; the clean certainty of numbers felt like a promise.\n\nShe pursued this promise with fierce dedication, earning a B.S. in Economics from UC Berkeley followed by a highly specialized Master's in Financial Engineering from Stanford. This prestigious degree was her golden ticket, landing her a coveted analyst position at a major investment firm in San Francisco\u2019s Financial District. For over a decade, her life was a blur of long hours, market analyses, and steady promotions. She was good at her job\u2014exceptionally so\u2014and the six-figure salary afforded her a sleek high-rise apartment in Rincon Hill with a stunning view of the Bay Bridge.\n\nThe pandemic was the key turning point. Her firm went fully remote, and Sarah\u2019s commute vanished overnight. Initially, it was a dream of pure efficiency. Now, years later, her 0.0-mile commute has become a gilded cage. Her world has shrunk to the size of her apartment, her colleagues reduced to icons on a screen. Her daily routine is a quiet, disciplined loop: up at 5:30 AM to check European markets, a long day of complex modeling, a solitary walk along the Embarcadero to clear her head, and often, more work in the evening.\n\nAt 38, Sarah finds herself at a disconcerting crossroads. She has achieved the security her parents dreamed of, but feels a profound lack of connection. Her friendships are maintained through meticulously scheduled dinners, and romantic relationships have fizzled under the weight of her demanding career. Staring out at the city lights, she no longer sees a landscape of opportunity, but a reminder of the vibrant life happening just beyond her window. Her quiet hope is to find a way to apply her analytical mind to something with more tangible meaning, perhaps impact investing, and to finally build a life that isn't just successful, but truly fulfilling."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers being ten, hiding at a back table in the family restaurant. The air was thick with sizzling garlic and her parents' urgent shouts in Mandarin. Overwhelmed, she\u2019d opened her math homework. The clean lines of a long division problem were a quiet sanctuary. In that moment, she didn\u2019t just solve for x; she found the formula for her own safety. It taught her that in a chaotic world, the right answer offered the only true peace.\n\n2.\nAt 24, clutching her Stanford diploma, she stood on the Oval, looking north. The offer from the firm felt like a key in her hand. The San Francisco skyline, hazy in the distance, wasn\u2019t a city; it was a fortress of security she was about to conquer. This wasn\u2019t luck, it was logic. This was the predictable output she had engineered her entire life to achieve. It was the moment she felt truly invincible, the architect of her own stable world.\n\n3.\nIt was after closing her first nine-figure deal, sometime around her 32nd birthday. Instead of celebrating, she sat alone in her dark apartment, the Bay Bridge lights a glittering reward outside her window. The silence wasn\u2019t empty; it was earned. Each twinkling light felt like a data point proving her success. She had bought this view, this quiet, this security. At that moment, being alone at the top felt like the entire point of the climb.\n\n4.\nDuring a virtual team happy hour in 2021, Sarah found herself smiling at the grid of faces, none of whom she\u2019d seen in person for a year. When the call ended, the screen went black, replaced by her own tired reflection. The sudden, absolute silence of her apartment was deafening. The efficiency she once celebrated now felt like a vacuum. For the first time, her high-rise felt less like a castle and more like a cell with a beautiful view.\n\n5.\nOn her usual evening walk along the Embarcadero a few months ago, she paused. Near the Ferry Building, a small group of people were tending a community garden, their hands in the dirt, laughing. They were building something small, real, and alive. Staring at their work, the billions she moved on screen felt abstract and weightless. It was a quiet, aching realization: she could calculate the value of anything, except the feeling of her own two hands making something grow."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check news headlines and work emails on phone.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (Pacific Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Morning routine: shower, get dressed in business casual attire, and do skincare.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Pacific Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and have a quick breakfast of Greek yogurt and granola with partner.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (Pacific Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from Pac Heights to the Mission, listening to an economics podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Personal Car"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, settle in at desk, review daily priorities and flag urgent emails.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Doorhaus HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Finance team stand-up meeting to discuss departmental KPIs and project statuses.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Doorhaus HQ - Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Deep work: Analyze quarterly financial data and update corporate forecasting models in Excel.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 150,
+                        "location": "Doorhaus HQ"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk over with a coworker to grab a Sisig Burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.757149,
+                            "lng": -122.4213259,
+                            "formatted_address": "990 Valencia St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Se\u00f1or Sisig"
+                    },
+                    {
+                        "emoji": "\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3",
+                        "action": "Build a slide deck summarizing Q3 performance for an upcoming leadership review.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Doorhaus HQ"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Take a quick coffee break to clear her head and discuss a data discrepancy with a junior analyst.",
+                        "geocode": {
+                            "lat": 37.7670234,
+                            "lng": -122.4217806,
+                            "formatted_address": "375 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Four Barrel Coffee"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Finalize reports for the day and respond to outstanding Slack messages and emails.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Doorhaus HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Pack up and begin the evening commute home, dealing with city traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Personal Car"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Stop for an intense vinyasa yoga class to de-stress from the workday.",
+                        "geocode": {
+                            "lat": 37.7755347,
+                            "lng": -122.4463872,
+                            "formatted_address": "Masonic Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "CorePower Yoga (Masonic Ave)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Prepare a salmon and roasted vegetable dinner with her partner while catching up on their days.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Pacific Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a new series on a streaming service.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Pacific Heights Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, read a few chapters of a novel, and set alarm for the next day.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home (Pacific Heights Apartment)"
+                    }
+                ],
+                "day_overview": "A busy day for a senior financial analyst, balancing deep analytical work at a tech company in the Mission with a de-stressing yoga session before heading home to Pacific Heights for a relaxing evening with her partner.",
+                "home_address": "2155 California St, San Francisco, CA 94111",
+                "home_geocode": {
+                    "lat": 37.7891878,
+                    "lng": -122.4298287,
+                    "formatted_address": "2155 California St, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

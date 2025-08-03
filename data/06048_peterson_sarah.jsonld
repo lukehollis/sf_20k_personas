@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Peterson",
+    "givenName": "Sarah",
+    "familyName": "Peterson",
+    "jobTitle": "Medical Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Peterson\u2019s life story isn\u2019t written in grand gestures, but in the quiet, steady rhythm of a San Francisco survivor. Raised in Modesto as the only child of a mechanic and a part-time librarian, Sarah was instilled with a sense of pragmatism and duty from a young age. She was the first in her family to pursue a college degree, enrolling in a four-year nursing program with dreams of becoming an RN. However, during her second year, her mother was diagnosed with early-onset Alzheimer's, and Sarah dropped out to become her primary caregiver, completing a shorter Associate's degree in medical sciences online to have some qualification.\n\nAfter her mother passed away, a grieving Sarah, then 28, felt untethered from her hometown. A friend told her about a Medical Assistant opening at a small, private family practice in San Francisco's Inner Richmond. The move was a desperate grasp for a new start. The real miracle, however, was the apartment. The retiring doctor who owned the practice also owned the building and offered her a small, rent-controlled one-bedroom unit directly above the clinic.\n\nFor twenty years, that has been her entire world. Her 0.0-mile commute consists of walking down a single flight of stairs. Her days are a predictable cycle of taking vitals, scheduling appointments, and calming anxious patients. She knows the names of her patients' children and the best place to get pho on Clement Street. Her social life is woven into her neighborhood: weekly chats with the grocer at \"Arguello Market,\" nodding acquaintances with other tenants, and a close, familial bond with the young doctor who now runs the practice. She never married, as the demands of caregiving followed by the financial precarity of city life left little room for romance.\n\nNow 48, Sarah's aspirations are modest. She dreams of having a small balcony where she could grow tomatoes and herbs. While a quiet regret for the RN career she never had sometimes surfaces on foggy evenings, her primary hope is simply to remain. Her greatest fear isn't loneliness, but an eviction notice that would shatter the small, stable universe she has so carefully maintained within the bustling, ever-changing city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up with the alarm, followed by light stretching and a brief meditation to start the day centered.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Presidio Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in scrubs, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Presidio Heights"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Share a coffee and oatmeal with her partner, discussing their plans for the day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to work, listening to an episode of 'The Daily' podcast while heading east towards the Marina.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Presidio Heights Neighborhood Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Arrive at the clinic, boot up the systems, review the day's employee appointments, and prep the exam rooms.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "WSI Employee Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83e\ude79",
+                        "action": "Morning patient block: perform vitals checks, administer flu shots, and provide first aid for minor office-related complaints.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "WSI Employee Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a healthy lunch, choosing a pre-made quinoa salad and an iced green tea.",
+                        "geocode": {
+                            "lat": 37.797,
+                            "lng": -122.4353333,
+                            "formatted_address": "2191 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Union Street Coffee Roastery"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon work: see a few more employees for health consultations and spend the rest of the time on administrative tasks like updating electronic health records (EHR) and ordering medical supplies.",
+                        "geocode": {
+                            "lat": 37.7679357,
+                            "lng": -122.395101,
+                            "formatted_address": "Gene Friend, San Francisco, CA, USA"
+                        },
+                        "duration": 240,
+                        "location": "WSI Employee Wellness Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Walk home, taking a slightly different route up the Lyon Street steps for a bit of exercise.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Pacific Heights Neighborhood"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local market to pick up fresh salmon and asparagus for dinner.",
+                        "geocode": {
+                            "lat": 37.7864721,
+                            "lng": -122.450843,
+                            "formatted_address": "3445 California St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bryan's Grocery on California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Prepare dinner with her partner while catching up on the details of their respective days.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Sit down for dinner together, enjoying the meal and conversation without any screens.",
+                        "geocode": {
+                            "lat": 37.6078443,
+                            "lng": -122.38679,
+                            "formatted_address": "S Area Dr, California 94128, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Dining Area"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch with her partner, watching an episode of a new documentary series.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night by reading a chapter of a new novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Bedroom"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Lights out, getting ready for a good night's sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A balanced weekday for Sarah, featuring a healthy walk-commute through her neighborhood, focused patient care at a corporate wellness clinic, and a relaxing evening at home with her partner in Presidio Heights.",
+                "home_address": "3524 Bush St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.7878767,
+                    "lng": -122.4267896,
+                    "formatted_address": "3524 Bush St, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1976",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Peterson Family"
+    }
+}

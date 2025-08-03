@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Eleanor Vance",
+    "givenName": "Eleanor",
+    "familyName": "Vance",
+    "jobTitle": "Senior Museum Archivist",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Eleanor Vance\u2019s life is a curated collection, much like the archives she oversees. Born in Portland to a restless history professor and a textile artist, her childhood was a peripatetic journey across the Pacific Northwest. While her parents thrived on change, Eleanor craved stillness. She found it in the stories held by objects: a box of her great-grandmother's letters discovered in a dusty attic, the faded tintype of an unknown relative. These artifacts were anchors in a constantly shifting world, sparking a lifelong fascination with preserving the past.\n\nThis passion led her to pursue a Master's in Art History, focusing on archival studies. She chose San Francisco for its vibrant, layered history and was immediately captivated. After graduation, a turning point arrived not in her career, but in her personal life. The amicable end of a decade-long relationship with a fellow academic\u2014a man who shared her father\u2019s wanderlust\u2014solidified her resolve. She would not chase a moving target; she would build a sanctuary.\n\nHer sanctuary became the Beauregard Foundation, a small, private museum in a historic Pacific Heights townhouse dedicated to a forgotten school of Bay Area impressionists. For twenty years, she has been its Senior Archivist. Her 0.0-mile commute consists of walking down an internal flight of stairs from her rent-controlled apartment, a rare perk offered with the position.\n\nEleanor\u2019s days are spent in the climate-controlled silence of the archive, piecing together artistic legacies from letters, sketches, and canvases. Her social life is quiet but meaningful: a weekly dinner with a curator from SFMOMA, correspondence with her sister in Seattle, and a warm acquaintance with the owner of her local bookstore. She is a woman who chose stability over adventure, finding profundity in the specific. Her greatest aspiration is not to travel the world, but to finally publish the definitive catalogue raisonn\u00e9 of the foundation's collection\u2014a quiet, monumental testament to a life spent ensuring that beautiful things are not forgotten."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcfb",
+                        "action": "Wake up to the alarm, make a pour-over coffee, and listen to NPR's Morning Edition.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on Market Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a simple breakfast of Greek yogurt and berries while reading the news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Market Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower and get dressed for work in professional but comfortable layers suitable for a climate-controlled archive.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Market Street"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Begin the morning commute, navigating city traffic while listening to a history podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Portola Drive & 19th Avenue"
+                    },
+                    {
+                        "emoji": "\ud83c\udfdb\ufe0f",
+                        "action": "Arrive at the museum, review emails, and begin the day's main task: accessioning a new collection of maritime charts.",
+                        "geocode": {
+                            "lat": 37.7222513,
+                            "lng": -122.4793678,
+                            "formatted_address": "San Francisco State University, Fine Arts building, 1600 Holloway Ave Room 203, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 120,
+                        "location": "SFSU Global Museum Archives"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udfeb",
+                        "action": "Meet with a graduate student intern to provide guidance on handling fragile photographic negatives.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "SFSU Museum Conservation Lab"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a lunch break off-campus, driving to a quiet cafe for a salad and to briefly step away from work.",
+                        "geocode": {
+                            "lat": 37.76047450000001,
+                            "lng": -122.5090835,
+                            "formatted_address": "Java Beach Cafe, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 50,
+                        "location": "Java Beach Cafe at the Zoo"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0e",
+                        "action": "Fulfill a research query from a visiting scholar, carefully retrieving documents related to early 20th-century San Francisco.",
+                        "geocode": {
+                            "lat": 37.7222513,
+                            "lng": -122.4793678,
+                            "formatted_address": "San Francisco State University, Fine Arts building, 1600 Holloway Ave Room 203, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 150,
+                        "location": "SFSU Global Museum Archives"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Wrap up for the day by updating collection records in the database and planning the next day's tasks.",
+                        "geocode": {
+                            "lat": 37.7241492,
+                            "lng": -122.4799405,
+                            "formatted_address": "1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Eleanor's Office, SFSU"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, taking the slightly longer but scenic route along Sloat Boulevard to unwind.",
+                        "geocode": {
+                            "lat": 37.7341963,
+                            "lng": -122.4893051,
+                            "formatted_address": "Sloat Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Sloat Boulevard & Twin Peaks"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Arrive home and decompress by changing clothes and pouring a glass of chilled white wine.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Market Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Take a short walk to the neighborhood grocery store to pick up fresh bread and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7606704,
+                            "lng": -122.4365066,
+                            "formatted_address": "4201 18th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "Mollie Stone's Market, Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Cook and enjoy a simple, healthy dinner of roasted chicken and vegetables at her dining table.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Apartment on Market Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Settle onto the couch to read a new historical fiction novel from a local bookstore.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Apartment on Market Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Wind down for the night with a cup of herbal tea and prepare for the next day.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Apartment on Market Street"
+                    }
+                ],
+                "day_overview": "A structured day for a Senior Museum Archivist, balancing meticulous work with historical artifacts at SF State University with a relaxing evening involving a neighborhood walk, home-cooked meal, and reading in her vibrant Castro apartment.",
+                "home_address": "2286 Market St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7648025,
+                    "lng": -122.4328465,
+                    "formatted_address": "2286 Market St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1972",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Vance Family"
+    }
+}

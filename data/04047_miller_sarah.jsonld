@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is contained within a few vibrant blocks of San Francisco\u2019s Hayes Valley. Born and raised on the sun-baked asphalt of Fresno, she saw the city as an escape. She arrived at 18 with dreams of an Art History degree from SF State, trading the Central Valley\u2019s oppressive heat for the cool, fog-laced promise of reinvention.\n\nHer academic journey was cut short after three semesters. A call from home changed everything: her father had a severe stroke, and the family\u2019s finances crumbled. Sarah, pragmatic and duty-bound, dropped out to work full-time. She took a job as a cashier at a boutique gift shop, intending it to be temporary. But she discovered an unexpected talent for retail\u2014a flair for visual merchandising and an innate ability to connect with customers. The temporary job became a career.\n\nThe key turning point came a decade ago when the owner of the independent shop she managed offered her the manager position at a new, larger location. The role came with a unique perk: a small one-bedroom apartment directly above the store. For Sarah, it was the ultimate security. She poured her life into the shop, which now feels more like her living room than a place of business.\n\nHer days follow a comfortable rhythm. She wakes to the sounds of street cleaners, grabs a coffee from the barista she knows by name, and heads downstairs to open up. Her commute is a single flight of stairs. Her social circle is tight-knit, composed of a few longtime employees and other neighborhood mainstays who frequent her shop. Relationships have come and go, often fizzling out due to her deep entanglement with her work and her quiet, self-contained lifestyle.\n\nAt 42, Sarah harbors a quiet dream. She imagines, one day, selling the business for the owner and finally taking the trip to Europe she planned in her Art History classes. She yearns to see the canvases she only ever experienced in textbooks. For now, though, she finds contentment in the world she has carefully curated\u2014a small, stable kingdom built on resilience, just steps from her own front door."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers the first lungful of city air at 18. It was damp, tasting of salt and exhaust, completely alien after Fresno\u2019s oppressive heat. Standing on the pavement, she felt the fog cling to her skin not as cold, but as a promise. It wasn\u2019t just a change in weather; it was a physical shedding of her old life. That cool dampness felt like freedom itself, wiping away the sun-baked dust of her past. It was the moment she knew she could become someone entirely of her own making.\n\n2.\nThe memory is a sharp, cold point: the payphone in the SF State library hallway, her mother\u2019s voice fracturing over the line. \"It's your father.\" The words collapsed her expansive new world into a single, terrifying point of duty. In that instant, the vibrant pages of her art history textbook felt weightless, frivolous. She hung up the phone not as a student with dreams of Florence, but as a daughter who had to go to work. It was the moment pragmatism eclipsed passion.\n\n3.\nHer old boss, retiring, pressed the keys into her palm ten years ago. One was for the shop, the other for the apartment upstairs. The weight of the metal felt more significant than any diploma. After years of financial anxiety stemming from her father\u2019s illness, this was the ultimate anchor. Walking up that flight of stairs for the first time as a resident, she felt a profound sense of safety she hadn\u2019t realized she\u2019d been so desperately seeking. This was her fortress.\n\n4.\nA few years back, a tourist bought a postcard and spoke of seeing Botticelli\u2019s *Primavera* at the Uffizi. She described the light, the colors\u2014details Sarah knew intimately from slides in a dark lecture hall. For a fleeting moment, the scent of the shop\u2019s potpourri vanished, replaced by a phantom smell of old canvas and Italian dust. The brief exchange left an ache, a sweet, painful reminder of the girl who studied art and the trip she still promised herself she would take.\n\n5.\nJust last week, standing with her coffee before unlocking the shop door. The street was quiet except for the hum of the street cleaner. She looked at the window display she\u2019d perfected the night before, the light catching the glass just so. This small kingdom, from the curb to her apartment window above, was hers. It wasn't the life she'd planned at 18, but a deep, quiet contentment settled in her chest. This was the life she had built, resilient and real."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to the alarm, check overnight texts and the morning news on her phone.",
+                        "geocode": {
+                            "lat": 37.7633141,
+                            "lng": -122.4870333,
+                            "formatted_address": "2706 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 15,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and have a quick breakfast of toast with avocado.",
+                        "geocode": {
+                            "lat": 37.7633141,
+                            "lng": -122.4870333,
+                            "formatted_address": "2706 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 20,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for work, and pack a snack for the afternoon.",
+                        "geocode": {
+                            "lat": 37.7633141,
+                            "lng": -122.4870333,
+                            "formatted_address": "2706 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 35,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from the Outer Sunset to Lower Nob Hill, listening to a true-crime podcast to pass the time in traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Her Honda CR-V"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe5",
+                        "action": "Arrive at the hospital, check in with the morning shift employee, review opening tasks, and count the register.",
+                        "geocode": {
+                            "lat": 37.7916828,
+                            "lng": -122.4009749,
+                            "formatted_address": "155 Sansome St #500, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 45,
+                        "location": "St. Francis Foundation Gift Shop"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "In the back office, sort through vendor invoices, respond to emails from hospital administration, and check inventory levels.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "Gift Shop Back Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Take an hour to cover the floor during the employee's lunch break, assisting customers and restocking shelves.",
+                        "geocode": {
+                            "lat": 37.7916828,
+                            "lng": -122.4009749,
+                            "formatted_address": "155 Sansome St #500, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "St. Francis Foundation Gift Shop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Grab a quick lunch, walking to a nearby cafe for a sandwich and a change of scenery.",
+                        "geocode": {
+                            "lat": 37.7876956,
+                            "lng": -122.4143293,
+                            "formatted_address": "754 Post St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 50,
+                        "location": "farm:table"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Work on the staff schedule for the next two weeks and approve payroll hours.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Gift Shop Back Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Meet with a sales representative to review a new line of sentimental gifts and baby items.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Gift Shop Back Office"
+                    },
+                    {
+                        "emoji": " \u091f\u094d\u0930\u0948\u092b\u093f\u0915",
+                        "action": "Drive home, navigating the evening rush hour across town.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Her Honda CR-V"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up some items for dinner and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7528602,
+                            "lng": -122.5035591,
+                            "formatted_address": "3701 Noriega St Unit A, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market - Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Arrive home, put away groceries, and change into comfortable clothes to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7633141,
+                            "lng": -122.4870333,
+                            "formatted_address": "2706 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 25,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Walk to meet a friend for dinner and a catch-up at a favorite neighborhood restaurant.",
+                        "geocode": {
+                            "lat": 37.7732851,
+                            "lng": -122.4389738,
+                            "formatted_address": "306 Broderick St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 100,
+                        "location": "Nopalito"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down by watching an episode of a show on Netflix.",
+                        "geocode": {
+                            "lat": 37.7633141,
+                            "lng": -122.4870333,
+                            "formatted_address": "2706 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 55,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a novel before turning out the light.",
+                        "geocode": {
+                            "lat": 37.7633141,
+                            "lng": -122.4870333,
+                            "formatted_address": "2706 Irving St, San Francisco, CA 94122"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A busy day for a retail manager, balancing work responsibilities in a bustling hospital with a cross-town commute, and ending with a relaxing neighborhood dinner with a friend.",
+                "home_address": "2706 Irving St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7633141,
+                    "lng": -122.4870333,
+                    "formatted_address": "2706 Irving St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Senior Environmental Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Environmental Consulting"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s environmentalism was born in the damp, mossy forests of the Oregon countryside. Raised by a pragmatic schoolteacher mother and a perpetually optimistic woodworker father, she learned to appreciate both the beauty of nature and the anxieties of a fluctuating income. Her childhood was spent hiking, identifying native plants, and watching her father\u2019s small business struggle, instilling in her a dual desire for ecological preservation and financial stability.\n\nDrawn to the Bay Area for a Master\u2019s in Environmental Policy at UC Berkeley, Sarah fell in love with Northern California's unique blend of progressive ideals and rugged coastline. Her early career was a blur of passionate but underfunded non-profit work, where she fought fiercely but felt she was making little large-scale impact. A key turning point came after a grueling, failed campaign to block a development project. Burnt out and disillusioned, she made the pragmatic leap to environmental consulting, deciding she could effect more change from within the system.\n\nNow 43, Sarah is a respected Senior Environmental Consultant. Her commute is a ten-step walk from her bed to her desk in her sunny Hayes Valley apartment, a space that is both office and sanctuary. Her days are a structured rhythm of client calls, data analysis, and technical report writing, helping large corporations navigate California\u2019s complex environmental regulations. It\u2019s a job that satisfies her intellect and provides the security her childhood lacked, though a quiet part of her still misses the activist fire.\n\nHer connection to San Francisco is deeply neighborhood-centric. She knows the baristas at her local coffee shop by name, gets her produce from the farmers' market at Patricia's Green, and unwinds with walks through the neatly curated streets. Her social life is a tight-knit circle of friends, a mix from her Berkeley days and fellow professionals. Weekends are for escaping the city\u2019s concrete grid with her hiking group, tackling trails in Marin and finding solace on windswept coastal bluffs. Sarah\u2019s ultimate dream is to buy a small, degraded plot of land in Sonoma\u2014a personal project to restore a piece of California to its native state, a tangible legacy beyond corporate compliance reports."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, brew coffee, and review daily headlines with partner.",
+                        "geocode": {
+                            "lat": 37.7505774,
+                            "lng": -122.4340462,
+                            "formatted_address": "1391 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - 1391 Castro St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Morning yoga session in the living room.",
+                        "geocode": {
+                            "lat": 37.7505774,
+                            "lng": -122.4340462,
+                            "formatted_address": "1391 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - 1391 Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7505774,
+                            "lng": -122.4340462,
+                            "formatted_address": "1391 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home - 1391 Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Walk to Castro Station and take the Muni Metro downtown.",
+                        "geocode": {
+                            "lat": 37.7841282,
+                            "lng": -122.3915505,
+                            "formatted_address": "329 Bryant St #3a, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni K/L/M Line"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at desk, grab a coffee, and outline priorities for the day.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 30,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Deep work session: Writing a technical report on water quality findings for a corporate client.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Video conference call with a client to discuss a new sustainability initiative.",
+                        "geocode": {
+                            "lat": 37.8097313,
+                            "lng": -122.4101511,
+                            "formatted_address": "The Embarcadero, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mindspace - 'The Cable Car' Meeting Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "Mixt on Yerba Buena Lane"
+                    },
+                    {
+                        "emoji": "\ud83d\uddfa\ufe0f",
+                        "action": "Afternoon work: Analyzing GIS data for an environmental impact assessment.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up work, clear inbox, and create task list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 30,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Commute home, reading an industry journal on the Muni.",
+                        "geocode": {
+                            "lat": 37.7841282,
+                            "lng": -122.3915505,
+                            "formatted_address": "329 Bryant St #3a, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "Muni M Line"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh bread and cheese for dinner.",
+                        "geocode": {
+                            "lat": 37.761345,
+                            "lng": -122.424711,
+                            "formatted_address": "3639 18th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bi-Rite Market on 18th"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook dinner and share details about the day with her partner.",
+                        "geocode": {
+                            "lat": 37.7505774,
+                            "lng": -122.4340462,
+                            "formatted_address": "1391 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - 1391 Castro St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Evening walk with her partner to enjoy the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Walk around Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udfac",
+                        "action": "Unwind by watching an episode of a historical drama series.",
+                        "geocode": {
+                            "lat": 37.7505774,
+                            "lng": -122.4340462,
+                            "formatted_address": "1391 Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 55,
+                        "location": "Home - 1391 Castro St"
+                    }
+                ],
+                "day_overview": "A productive day for an environmental consultant, blending focused work on sustainability projects at a Financial District coworking space with a relaxing evening spent with her partner in their Castro neighborhood.",
+                "home_address": "1391 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7505774,
+                    "lng": -122.4340462,
+                    "formatted_address": "1391 Castro St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1981",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

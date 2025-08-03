@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "Principal Systems Architect",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka\u2019s life is a study in quiet precision, much like the complex systems he designs. The only child of *Nisei* (second-generation Japanese-American) parents, he grew up in the nascent Silicon Valley of San Jose. His father, an electrical engineer who valued stability after his family's internment experience, and his mother, a librarian who curated worlds on shelves, instilled in Kenji a deep respect for logic and a quiet, profound curiosity.\n\nThis led him not to a straightforward computer science degree, but to Stanford's Symbolic Systems program, a unique blend of philosophy, linguistics, and computation. It taught him to see technology not just as code, but as a language shaping human interaction. His career began in the exhilarating chaos of the first dot-com boom. He married young, another ambitious programmer, and they rode the wave of stock options and frantic innovation until the bubble burst. The crash was a pivotal moment. It cost him his job and, eventually, his marriage, which buckled under the shared stress and divergent paths.\n\nThe experience forged Kenji\u2019s professional philosophy. He turned away from volatile startups, seeking roles where he could build elegant, durable systems. Now a Principal Systems Architect, he works from his pristine Mission Bay condo, his commute a ten-step walk from his kitchen to his desk. His days are a disciplined cycle of virtual meetings, digital whiteboarding, and deep concentration, architecting the invisible infrastructure that powers a city he now mostly observes through his floor-to-ceiling windows.\n\nHis connection to San Francisco is more structural than social. He appreciates the city's beauty on his weekend walks along the Embarcadero but rarely engages with its nightlife. His social circle is small, consisting of a few old colleagues. To counter the abstraction of his work, he has taken up Japanese woodworking, finding solace in the tangible perfection of a well-made joint. At 54, Kenji isn't chasing promotions. He dreams of mentoring the next generation of engineers and perhaps, one day, designing something physical\u2014a house, a piece of furniture\u2014that possesses the same enduring elegance as the code he writes."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udf0a",
+                        "action": "Wake up and have a quiet morning walk to clear the head before the day begins.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Beach Promenade"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare pour-over coffee while catching up on tech news and personal emails.",
+                        "geocode": {
+                            "lat": 37.7538326,
+                            "lng": -122.4863661,
+                            "formatted_address": "Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Kenji's Kitchen, Noriega St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude86",
+                        "action": "Commute downtown on the Muni train, listening to a podcast about software engineering.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "N Judah Muni Metro"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at work, settle in with tea, and review the day's priorities and system performance dashboards.",
+                        "geocode": {
+                            "lat": 37.7830207,
+                            "lng": -122.4059085,
+                            "formatted_address": "863 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Balay Kreative Studios, SoMa"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Deep work session focused on reviewing and refining the architecture for a new cloud service.",
+                        "geocode": {
+                            "lat": 37.7830207,
+                            "lng": -122.4059085,
+                            "formatted_address": "863 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 105,
+                        "location": "Kenji's Desk, Balay Kreative Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a cross-functional strategy meeting with product and engineering leads to align on the quarterly roadmap.",
+                        "geocode": {
+                            "lat": 37.7830207,
+                            "lng": -122.4059085,
+                            "formatted_address": "863 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "'The Engine' Conference Room, Balay Kreative"
+                    },
+                    {
+                        "emoji": "\ud83c\udf59",
+                        "action": "Step out for a quick and healthy lunch away from the desk.",
+                        "geocode": {
+                            "lat": 37.791435,
+                            "lng": -122.4043665,
+                            "formatted_address": "343 Kearny St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "Onigilly Japanese Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "One-on-one mentoring session with a senior engineer to unblock a technical challenge and discuss career growth.",
+                        "geocode": {
+                            "lat": 37.7830207,
+                            "lng": -122.4059085,
+                            "formatted_address": "863 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Fireside Lounge, Balay Kreative Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon focus block for writing technical specifications and responding to high-priority design questions.",
+                        "geocode": {
+                            "lat": 37.7830207,
+                            "lng": -122.4059085,
+                            "formatted_address": "863 Mission St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 150,
+                        "location": "Kenji's Desk, Balay Kreative Studios"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, using the time to unwind by listening to a jazz playlist.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "N Judah Muni Metro"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh fish and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7641474,
+                            "lng": -122.4711468,
+                            "formatted_address": "1200 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Andronico's Community Market, Inner Sunset"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Prepare a home-cooked meal, a simple but flavorful salmon and rice bowl.",
+                        "geocode": {
+                            "lat": 37.7538326,
+                            "lng": -122.4863661,
+                            "formatted_address": "Noriega St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Kenji's Kitchen, Noriega St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax and unwind by reading a non-fiction book on history.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Living Room, Kenji's Residence"
+                    }
+                ],
+                "day_overview": "A structured day for a senior tech architect, balancing deep technical work in SoMa with a quiet, routine-driven life in the Outer Sunset, including a walk by the ocean and a home-cooked meal.",
+                "home_address": "375 Noriega St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7544197,
+                    "lng": -122.4676873,
+                    "formatted_address": "375 Noriega St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1970",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

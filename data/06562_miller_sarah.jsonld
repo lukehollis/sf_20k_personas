@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Medical Office Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is a quiet study in contained efficiency, lived entirely within a single Inner Richmond block. Raised in Portland, Oregon, by a loving but pragmatic family, Sarah was always the dreamer. She enrolled at Portland State University to study art history, losing herself in the romanticism of Renaissance frescoes and Impressionist light. However, financial pressures and the slow-motion collapse of a serious relationship forced her to drop out after two years. Feeling adrift and suffocated by the familiar, she made a snap decision at 25, packing her car and driving south to San Francisco, seeking the anonymity only a big city can provide.\n\nHer first years were a struggle, a series of temp jobs and shared rooms. The turning point came when she answered an ad for a Medical Office Assistant. The job was at a small, private dermatology practice, and the real prize was the rent-controlled one-bedroom apartment directly above it, offered as part of the compensation. She took it immediately.\n\nFor the past eight years, Sarah\u2019s life has been defined by that 0.0-mile commute. Her days are a predictable rhythm of walking downstairs to unlock the clinic, managing patient appointments with a calm empathy, and handling billing. Her world is small but stable. She knows the names of the grocer on the corner and the librarian at the Anza Branch. Her social life consists of a weekly yoga class and a standing Friday night dinner with her one close friend, a fellow transplant she met years ago.\n\nWhile she treasures her stability, a quiet ache for the person she once was remains. She spends her weekends wandering through the de Young Museum, feeling a bittersweet connection to the art she left behind. Sarah doesn't dream of a dramatic life change. Her aspiration is simpler: to save enough money to finally visit Florence, to see in person the masterpieces she only ever studied in books. San Francisco, for Sarah, is both her safe harbor and her self-contained world, a place where she found her footing but is still cautiously planning her next step."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, make coffee, and catch up on news and emails.",
+                        "geocode": {
+                            "lat": 37.7676526,
+                            "lng": -122.4284448,
+                            "formatted_address": "2059 Market St # 14, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Market Street Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "At-home stretching and light yoga to start the day.",
+                        "geocode": {
+                            "lat": 37.7676526,
+                            "lng": -122.4284448,
+                            "formatted_address": "2059 Market St # 14, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Market Street Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, skincare routine, and get dressed for the workday.",
+                        "geocode": {
+                            "lat": 37.7676526,
+                            "lng": -122.4284448,
+                            "formatted_address": "2059 Market St # 14, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Market Street Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Catch the F-Line streetcar for the short commute down Market Street.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "MUNI Streetcar on Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at her desk, organize the day's tasks, and begin processing patient appointment requests and updating digital health records.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 180,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a healthy lunch bowl to eat at a nearby parklet.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Sweetgreen (SoMa)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Afternoon work session: Participate in a team video call, handle patient billing inquiries, and follow up on insurance claims.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Wrap up the day's tasks, confirm tomorrow's schedule, and organize her digital workspace.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 60,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Take the MUNI F-Line streetcar back towards her apartment.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "MUNI Streetcar on Market St"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up items for dinner and breakfast.",
+                        "geocode": {
+                            "lat": 37.7853239,
+                            "lng": -122.4055518,
+                            "formatted_address": "10 4th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 35,
+                        "location": "Trader Joe's (4th and Market)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Decompress from the day with a hot yoga class at a nearby studio.",
+                        "geocode": {
+                            "lat": 37.7889632,
+                            "lng": -122.3944752,
+                            "formatted_address": "215 Fremont St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 75,
+                        "location": "CorePower Yoga (SoMa)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Meet a friend for a casual ramen dinner and catch up on the week.",
+                        "geocode": {
+                            "lat": 37.7851005,
+                            "lng": -122.4320079,
+                            "formatted_address": "1581 Webster St #235, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 90,
+                        "location": "Marufuku Ramen (Japantown)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax at home, watch a new episode of a favorite show on streaming.",
+                        "geocode": {
+                            "lat": 37.7676526,
+                            "lng": -122.4284448,
+                            "formatted_address": "2059 Market St # 14, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Market Street Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: skincare, set out clothes for tomorrow, and read a few pages of a book before sleep.",
+                        "geocode": {
+                            "lat": 37.7676526,
+                            "lng": -122.4284448,
+                            "formatted_address": "2059 Market St # 14, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Market Street Apartment)"
+                    }
+                ],
+                "day_overview": "A busy and productive weekday for Sarah, balancing her administrative duties at a coworking space with personal wellness, errands, and social connection in the heart of downtown San Francisco.",
+                "home_address": "811 Market St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.785275,
+                    "lng": -122.4060985,
+                    "formatted_address": "811 Market St, San Francisco, CA 94102, USA"
+                },
+                "neighborhood": "Castro",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Johnson",
+    "givenName": "David",
+    "familyName": "Johnson",
+    "jobTitle": "Database Administrator",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Indian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Johnson\u2019s life is a story of quiet synthesis. Born in Fremont to a first-generation Chinese father, a pragmatic software engineer, and a Caucasian-American mother, a poetic history professor, David grew up navigating two distinct worlds. His father pushed for stability and logic, while his mother championed the humanities and the importance of legacy. This duality shaped him, making him both meticulously organized and deeply introspective.\n\nInstead of the expected computer science degree, David pursued his mother\u2019s passion through a modern lens, earning a Bachelor's in Information Science. He dreamed of being an archivist for a museum or a university, preserving history. However, after a stark post-graduation stint at an underfunded historical society, he faced a turning point. The digital world offered the stability his father preached. He taught himself SQL and Oracle on nights and weekends, discovering that a database was simply a new kind of archive. He pivoted, landing a job as a Database Administrator, and found he was exceptionally good at creating order from digital chaos.\n\nNow 33, David lives a deliberately structured life in a cozy one-bedroom apartment in the Inner Richmond. His 0.0-mile commute means his days are self-contained. He begins with pour-over coffee, listening to the foghorns, before logging in to manage massive corporate datasets. His work is precise, logical, and remote, a stark contrast to his analog passion: collecting and cataloging rare post-punk vinyl. His apartment, filled with meticulously organized records, is his personal archive.\n\nHis connection to San Francisco is hyperlocal. He knows the best dim sum spots on Clement Street, frequents the small, independent bookstores, and takes long, meditative walks through Golden Gate Park. His social circle is small\u2014a few friends from his old archivist days and a weekly board game group. David\u2019s quiet dream is to eventually merge his worlds: to use his high-paying tech skills to build a sophisticated, open-source database for a non-profit, perhaps one dedicated to preserving independent music or local histories. He seeks to prove that a life built on logic can still serve a purpose rooted in passion."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, silence alarm, and do a quick check of system monitoring alerts on the phone from bed.",
+                        "geocode": {
+                            "lat": 37.7729021,
+                            "lng": -122.4158457,
+                            "formatted_address": "1518 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "1518 Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and have a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7729021,
+                            "lng": -122.4158457,
+                            "formatted_address": "1518 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "1518 Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in a typical tech-casual outfit, and pack a work bag.",
+                        "geocode": {
+                            "lat": 37.7729021,
+                            "lng": -122.4158457,
+                            "formatted_address": "1518 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "1518 Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Grab the electric scooter for a quick commute through SoMa to the Civic Center.",
+                        "geocode": {
+                            "lat": 37.7817629,
+                            "lng": -122.4046217,
+                            "formatted_address": "Howard St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Howard Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udda5\ufe0f",
+                        "action": "Settle in at the desk, boot up systems, and review overnight database backup logs and performance dashboards.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 60,
+                        "location": "San Francisco Dept Of Technology"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Attend the daily IT infrastructure stand-up meeting to sync on project statuses and daily priorities.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 15,
+                        "location": "San Francisco Dept Of Technology"
+                    },
+                    {
+                        "emoji": "\u2699\ufe0f",
+                        "action": "Begin primary task: executing and monitoring scripts for a scheduled database migration project.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 150,
+                        "location": "San Francisco Dept Of Technology"
+                    },
+                    {
+                        "emoji": "\ud83e\udd59",
+                        "action": "Walk over to Hayes Valley to grab a quick and healthy lunch to-go.",
+                        "geocode": {
+                            "lat": 37.7765267,
+                            "lng": -122.4249906,
+                            "formatted_address": "517 Hayes St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 60,
+                        "location": "Souvla - Hayes Valley"
+                    },
+                    {
+                        "emoji": "\ud83c\udd98",
+                        "action": "Investigate and resolve a high-priority ticket regarding a slow-running query affecting a public-facing application.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 120,
+                        "location": "San Francisco Dept Of Technology"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Collaborate with a front-end developer to optimize database calls for an upcoming feature launch.",
+                        "geocode": {
+                            "lat": 37.7748889,
+                            "lng": -122.4185881,
+                            "formatted_address": "1 Van Ness Ave 2nd Floor, San Francisco, CA 94103, United States"
+                        },
+                        "duration": 90,
+                        "location": "San Francisco Dept Of Technology"
+                    },
+                    {
+                        "emoji": "\ud83c\udfd9\ufe0f",
+                        "action": "Scooter ride home, weaving through the late-afternoon traffic.",
+                        "geocode": {
+                            "lat": 37.7905359,
+                            "lng": -122.4224769,
+                            "formatted_address": "Van Ness Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Van Ness Avenue"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Quickly change into workout clothes after getting home.",
+                        "geocode": {
+                            "lat": 37.7729021,
+                            "lng": -122.4158457,
+                            "formatted_address": "1518 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 10,
+                        "location": "1518 Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Head to the gym for a strength training session focused on compound lifts.",
+                        "geocode": {
+                            "lat": 37.7695117,
+                            "lng": -122.406561,
+                            "formatted_address": "1001 Brannan St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF - SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the neighborhood grocery store to pick up ingredients for dinner and a few things for the week.",
+                        "geocode": {
+                            "lat": 37.7709821,
+                            "lng": -122.4077706,
+                            "formatted_address": "555 9th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's - 9th & Bryant"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple but healthy meal, like chicken stir-fry, while listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7729021,
+                            "lng": -122.4158457,
+                            "formatted_address": "1518 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 50,
+                        "location": "1518 Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfae",
+                        "action": "Relax on the couch and play an online multiplayer game with friends.",
+                        "geocode": {
+                            "lat": 37.7729021,
+                            "lng": -122.4158457,
+                            "formatted_address": "1518 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "1518 Howard St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading articles on a tech blog, check personal email, and prep for the next day.",
+                        "geocode": {
+                            "lat": 37.7729021,
+                            "lng": -122.4158457,
+                            "formatted_address": "1518 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "1518 Howard St Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a Database Administrator, starting with routine system checks, followed by project work and collaborative troubleshooting. The evening is balanced with a gym session, grocery shopping, and relaxing at his SoMa apartment.",
+                "home_address": "1518 Howard St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7729021,
+                    "lng": -122.4158457,
+                    "formatted_address": "1518 Howard St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1991",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Johnson Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aisha Patel",
+    "givenName": "Aisha",
+    "familyName": "Patel",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Transportation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Aisha Patel\u2019s fascination with how cities move began with the stillness of suburban traffic. Raised in Fremont by Gujarati immigrant parents, her childhood was defined by the Bay Area\u2019s sprawling, car-centric landscape. Her father, a software engineer, and her mother, who ran a small catering business from their home, preached the value of education and discipline. For Aisha, this often meant long hours spent in the back of a Honda Accord, crawling along I-880, observing the frustrating inefficiency of it all. This experience ignited a quiet passion not for engineering code like her father, but for engineering movement.\n\nShe pursued an undergraduate degree at UC Davis, where she fell in love with a city designed for bicycles, not just cars. This solidified her path, leading her to a Master's in Urban and Regional Planning from UCLA. Armed with her degree, she aimed for the ultimate challenge: San Francisco. She landed a coveted planner position with the SFMTA, eager to untangle the city\u2019s complex transit knots.\n\nA key turning point was her work on a new bus rapid transit lane in the Mission. The fierce public debate and neighborhood pushback taught her a crucial lesson: transportation isn't about lines on a map, but about the messy, human algorithm of community, equity, and politics. The COVID-19 pandemic served as another catalyst, shifting her work entirely remote and forcing a city-wide rethinking of public space, a puzzle she now works on from her apartment.\n\nToday, Aisha lives in a classic bay-window flat in the Inner Richmond. Ironically, the planner who orchestrates the daily commute of millions has a commute of zero miles. Her days start with a walk to a local bakery for coffee, followed by hours of analyzing data and attending virtual meetings. Her social life is a tight-knit circle of policy wonks and old friends, often meeting for dim sum on Clement Street or long walks through Golden Gate Park. She loves her neighborhood for its walkability and direct access to the 38-Geary bus line\u2014a route she has studied and helped optimize. Aisha\u2019s ultimate dream is to help build a San Francisco where a car is an option, not a necessity for a dignified life, creating the freedom of movement she craved as a child."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, meditate for 10 minutes, and get into workout clothes.",
+                        "geocode": {
+                            "lat": 37.8018052,
+                            "lng": -122.4123026,
+                            "formatted_address": "3441 Columbus Ave, San Francisco, CA 94133"
+                        },
+                        "duration": 15,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk run along the waterfront, enjoying the morning views of the bay.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Embarcadero Path"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.8018052,
+                            "lng": -122.4123026,
+                            "formatted_address": "3441 Columbus Ave, San Francisco, CA 94133"
+                        },
+                        "duration": 40,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Eat a quick breakfast of yogurt and granola while reading the latest Streetsblog SF articles.",
+                        "geocode": {
+                            "lat": 37.8018052,
+                            "lng": -122.4123026,
+                            "formatted_address": "3441 Columbus Ave, San Francisco, CA 94133"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and ride the Muni 30 Stockton bus, observing passenger flow and traffic patterns on the way.",
+                        "geocode": {
+                            "lat": 37.7861363,
+                            "lng": -122.4059941,
+                            "formatted_address": "30 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni 30 Stockton Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at work, analyzing GIS data for a proposed protected bike lane project in the Sunset District.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 165,
+                        "location": "Miro Studios at 744 Alabama St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Walk to a local favorite spot for a torta and an agua fresca.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Lead a hybrid team meeting to review the progress of a new transit-oriented development policy.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Miro Studios Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Focus time writing a summary report and responding to emails before logging off for the day.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Miro Studios at 744 Alabama St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, listening to a podcast about urban planning.",
+                        "geocode": {
+                            "lat": 37.7861363,
+                            "lng": -122.4059941,
+                            "formatted_address": "30 Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 50,
+                        "location": "Muni 30 Stockton Bus"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Stop for some fresh produce and essentials for tonight's dinner.",
+                        "geocode": {
+                            "lat": 37.8054852,
+                            "lng": -122.4137755,
+                            "formatted_address": "401 Bay St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's (Bay Street)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Cook a healthy dinner, eat while watching an episode of a favorite show.",
+                        "geocode": {
+                            "lat": 37.8018052,
+                            "lng": -122.4123026,
+                            "formatted_address": "3441 Columbus Ave, San Francisco, CA 94133"
+                        },
+                        "duration": 75,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet a friend for a glass of wine and conversation at a cozy neighborhood bar.",
+                        "geocode": {
+                            "lat": 37.797494,
+                            "lng": -122.406454,
+                            "formatted_address": "255 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Vesuvio Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night: tidy up, read a few chapters of a novel, and set out clothes for tomorrow.",
+                        "geocode": {
+                            "lat": 37.8018052,
+                            "lng": -122.4123026,
+                            "formatted_address": "3441 Columbus Ave, San Francisco, CA 94133"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive day for Aisha, a Transportation Planner, involving data-heavy work in the Mission, a scenic commute on Muni, and balancing evening errands with social time in her North Beach neighborhood.",
+                "home_address": "3441 Columbus Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8018052,
+                    "lng": -122.4123026,
+                    "formatted_address": "Columbus Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Patel Family"
+    }
+}

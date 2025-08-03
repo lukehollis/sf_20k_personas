@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Williams",
+    "givenName": "Sarah",
+    "familyName": "Williams",
+    "jobTitle": "Financial Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Williams was a product of the quiet, orderly Midwest, raised in Omaha by an accountant father and a librarian mother. This dual influence shaped her perfectly: a mind for numbers and a soul stirred by art. Following her heart first, she pursued a Master's in Art History, dreaming of a life spent curating exhibits in grand, hushed museums. However, the harsh reality of a scarce, low-paying job market prompted a sharp, pragmatic pivot in her late twenties. Leveraging her father's knack for logic, she passed the rigorous CFA exams and dove headfirst into the world of finance.\n\nThe ambition of the dot-com era lured her to San Francisco in the late 1990s. She thrived on the city\u2019s frenetic energy, building a formidable career as a financial analyst. She married, bought a condo in Russian Hill, and for a decade, lived a life that looked perfect on paper. The marriage ended amicably ten years ago, a mutual uncoupling driven by divergent paths rather than conflict. This turning point solidified her independence, leaving her with the condo, a demanding career, and a quiet sense of solitude.\n\nNow at 50, her life is a study in disciplined contrasts. Her Russian Hill condo, with its sweeping views of the fog-draped bay, is both her office and her sanctuary. The 0.0-mile commute means her days start not with traffic, but with market reports and coffee as cable cars clang in the distance. Her world is a landscape of spreadsheets and video calls until 5 PM, after which she deliberately unplugs. Her evenings are for analog escapes: long, steep walks to Polk Street for groceries, a neighborhood yoga class, or hosting her small, tight-knit book club.\n\nThough financially secure, Sarah feels a familiar pull. Her aspirations are no longer tied to market performance. She dreams of using the wealth she\u2019s built to circle back to her first love, perhaps by funding an emerging artist's first show or creating a small foundation to support public art. San Francisco, once a landscape for her ambition, is now the home she hopes to enrich, connecting the analytical woman she became with the art historian she once was."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf0",
+                        "action": "Wake up, make a cup of tea, and check morning financial news on a tablet.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Morning stretching and mobility routine to prepare for a day of sitting.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in business casual attire, and pack work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from Nob Hill to the Mission/Potrero Hill, listening to an economics podcast.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle in at the office, grab coffee, review emails, and prioritize daily tasks related to departmental budgets.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Health System Finance Office, ZSFG"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a quarterly budget review meeting with the Surgical Services department leadership.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "ZSFG Conference Room 4A"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Analyze financial data for a new capital equipment request and develop a cost-benefit model.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Health System Finance Office, ZSFG"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a nearby spot to grab a quick and healthy lunch away from the desk.",
+                        "geocode": {
+                            "lat": 37.7955703,
+                            "lng": -122.3933208,
+                            "formatted_address": "21, 1 Ferry Building, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 50,
+                        "location": "Daily Driver Bagels"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Prepare a summary report and data visualizations based on the morning's analysis for senior management.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 105,
+                        "location": "Health System Finance Office, ZSFG"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Follow-up phone calls and emails to various department admins to clarify budget line items.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Health System Finance Office, ZSFG"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive home, navigating the afternoon traffic heading north through the city.",
+                        "geocode": {
+                            "lat": 37.8020179,
+                            "lng": -122.4195579,
+                            "formatted_address": "Lombard St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "San Francisco Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Unwind from the day and make the daily check-in call to her elderly father.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Drop off dry cleaning and pick up a few grocery items for the next couple of days.",
+                        "geocode": {
+                            "lat": 37.7833698,
+                            "lng": -122.4478739,
+                            "formatted_address": "3 Masonic Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 40,
+                        "location": "Trader Joe's - Masonic Ave"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Prepare and eat a simple homemade dinner while listening to music.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Watch an episode of a historical drama series on a streaming service to relax.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a book and a cup of herbal tea before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A structured day for a seasoned financial analyst, balancing demanding work at SF General Hospital with a personal routine of health, errands, and family responsibilities, commuting by car from her Nob Hill home.",
+                "home_address": "1267 Broadway, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.796095,
+                    "lng": -122.4178837,
+                    "formatted_address": "1267 Broadway, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1974",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Patel Family"
+    }
+}

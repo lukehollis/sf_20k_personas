@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maria O'Connell",
+    "givenName": "Maria",
+    "familyName": "O'Connell",
+    "jobTitle": "Marketing Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Latino Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maria O\u2019Connell is a product of two worlds, a fact reflected in her very name. Born in Concord, her Chilean mother filled their home with the scent of empanadas and the rhythm of cumbia, while her second-generation Irish-American father taught her the art of a well-told, rambling story. This vibrant, bicultural upbringing in a working-class suburb instilled in her a unique ability to bridge gaps and find common ground, a skill that would later define her career.\n\nWhile her parents hoped she\u2019d pursue a stable profession, Maria followed her passion for storytelling to San Jose State University, earning a Bachelor\u2019s degree in Communications with a minor in Art History. Graduating into the burgeoning world of social media, she took a risk on a small, chaotic San Francisco startup. There, she discovered her true calling: translating the complex, often sterile language of technology into compelling narratives that people could connect with. She learned on the job, her creativity and relentless work ethic helping the company grow, and her own reputation along with it.\n\nNow a Marketing Manager for a larger tech firm, Maria\u2019s life is centered in her stylish apartment in Hayes Valley. Her 0.0-mile commute from her bedroom to her standing desk is a post-pandemic norm she has fully embraced. Her days are a blur of Zoom calls and campaign analytics, often broken up by a midday run through Alamo Square Park. Evenings are for unwinding with her partner, Leo, a sous-chef who keeps her life delightfully detached from the tech bubble. Her social circle is a tight-knit group of old college friends and a few trusted colleagues who share her cynical-but-optimistic view of the industry.\n\nThough successful, Maria feels a familiar pull toward her creative roots. She dreams of one day leaving the corporate world to open a small consultancy firm dedicated to helping local artists and galleries with their marketing. For Maria, San Francisco isn't just the city where she built her career; it\u2019s a canvas of creativity and reinvention, mirroring her own journey and holding the promise of her future aspirations."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Morning Routine: Wake up, quick stretch, shower, and get dressed for the office.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Breakfast & Connect: Share coffee and oatmeal with her partner, quickly discussing their plans for the day.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Morning Commute: Drive from Noe Valley to Downtown, listening to a marketing podcast to catch up on industry trends.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Driving to Downtown SF"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Park & Settle In: Park in the company's designated garage and grab a latte from the lobby cafe.",
+                        "geocode": {
+                            "lat": 37.7869811,
+                            "lng": -122.4026621,
+                            "formatted_address": "45 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Hearst Parking Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Team Sync: Lead the weekly marketing stand-up meeting, reviewing campaign dashboards and setting priorities.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Deep Work Block: Draft creative briefs and copy for the upcoming Q4 holiday campaign.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 120,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch with a Mentor: Walk to grab a healthy salad bowl with her mentor from another department.",
+                        "geocode": {
+                            "lat": 37.7856,
+                            "lng": -122.4042562,
+                            "formatted_address": "51 Yerba Buena Ln, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt (Yerba Buena Lane)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Strategy Session: Collaborate with the product marketing team to brainstorm the launch plan for a new feature.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Afternoon Email & Task Management: Clear her inbox and respond to Slack messages before the end of the day.",
+                        "geocode": {
+                            "lat": 37.7872169,
+                            "lng": -122.4036575,
+                            "formatted_address": "703 Market St # 1706, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Central Tower Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf07",
+                        "action": "Evening Commute: Drive back home, navigating the usual heavy traffic on the city streets.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Driving to Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Post-Work Decompression: Attend a vinyasa flow class to unwind and stretch after a day at the desk.",
+                        "geocode": {
+                            "lat": 37.7525851,
+                            "lng": -122.413017,
+                            "formatted_address": "24th St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Love Story Yoga (24th St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Cook Dinner with Partner: Prepare a simple but delicious meal together while catching up.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax & Watch TV: Cuddle on the couch with her partner to watch an episode of a show on Netflix.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Noe Valley)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind-Down Routine: Read a few chapters of a book and do her nightly skincare routine before bed.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Noe Valley)"
+                    }
+                ],
+                "day_overview": "A busy but productive weekday for Maria, balancing a demanding tech marketing job in Downtown SF with her life as a partner in Noe Valley. Her day is structured around key work meetings and project deadlines, punctuated by traffic-filled commutes and relaxing evening time at home.",
+                "home_address": "3530 Church St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7422186,
+                    "lng": -122.4267793,
+                    "formatted_address": "3530 Church St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "O'Connell Family"
+    }
+}

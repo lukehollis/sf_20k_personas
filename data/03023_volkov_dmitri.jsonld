@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Dmitri Volkov",
+    "givenName": "Dmitri",
+    "familyName": "Volkov",
+    "jobTitle": "Junior Data Analyst",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Other"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Dmitri Volkov is a product of deferred dreams. Born in Sacramento just two years after his parents emigrated from St. Petersburg, his childhood was colored by the quiet, immense weight of their sacrifice. They had been an engineer and a teacher in Russia; in California, they were a handyman and a motel cleaner. Their hopes were poured into Dmitri, a constant, unspoken pressure to achieve a stability they had left behind.\n\nHis path wasn't linear. At UC Davis, he eschewed the expected engineering or computer science degrees, instead pursuing a Bachelor's in Sociology. He was fascinated by the systems that govern human interaction and the hidden patterns within societal structures. However, graduation brought the harsh reality of a humanities degree in a tech-dominated world. This was his crucial turning point. Motivated by pragmatism and a desire to finally reward his parents' faith, Dmitri dedicated a year to intensive online bootcamps, teaching himself Python, SQL, and data visualization. He discovered he could apply his sociological lens to data sets, finding the human stories within the numbers.\n\nThis self-made skill set landed him his junior data analyst position. Now, Dmitri lives a life confined to the 800 square feet of his apartment in the Inner Richmond. His 0.0-mile commute means his day is a disciplined cycle: morning coffee from his AeroPress, hours before his dual monitors where the rhythmic click of his keyboard is the day\u2019s primary soundtrack, and a late-afternoon walk to clear his head. He chose the neighborhood for its foggy tranquility and the faint, familiar echo of his heritage found in the Russian bakeries and delis along Geary Boulevard.\n\nHis social life is mostly digital\u2014Discord channels with gaming friends and occasional, awkward video calls with college acquaintances. He yearns for a deeper connection to the vibrant city just outside his window, a connection that feels impossible to forge when your world is your workspace. Dmitri dreams of one day leading a data insights team, using analytics to tell compelling stories that drive change. More fundamentally, he aspires to build a life beyond his laptop screen, to replace the hum of his computer with the genuine noise of friendship and to finally feel like a true resident of San Francisco, not just an occupant."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe was sixteen, watching his father fix the ancient water heater in their garage. He saw the knuckles, scraped and raw, and the deep, grease-stained lines on his palms. These weren't the hands of the structural engineer his father had been in St. Petersburg. In the quiet hum of the garage, Dmitri felt the immense, unspoken weight of that sacrifice. It wasn't a burden of guilt, but a profound, formative sense of debt\u2014a silent promise to make their new life mean something more.\n\n2.\nIn a crowded UC Davis lecture hall, the professor diagrammed social mobility on the whiteboard, a web of invisible forces dictating lives. For Dmitri, it was like seeing the schematic for his own family\u2019s story. The lines and arrows explained their journey far better than engineering ever could. In that moment, choosing Sociology wasn't an act of rebellion, but one of profound understanding. He had to learn the blueprint of the world before he could ever hope to build something in it.\n\n3.\nIt was 2 A.M. during his self-imposed bootcamp year, staring at a Python error he couldn\u2019t solve. The futility was crushing; the weight of his \"useless\" degree felt immense. He almost gave up, but then thought of his mother, on her feet all day cleaning motel rooms. He took a breath, changed a single indentation in the code, and hit \u2018run.\u2019 The silent, green success message on his screen felt like a sunrise. It was the moment he knew he could build this new future himself.\n\n4.\nHis first weekend in the Inner Richmond, he stepped inside a bakery on Geary Boulevard. The dense, warm smell of rye and sweet cheese was a scent he knew only from his parents\u2019 stories of home. The woman behind the counter greeted him in soft, lilting Russian. As he walked out with a warm piroshok, the fog felt less isolating. For the first time, San Francisco felt less like an address and more like a place that held a small, familiar piece of him.\n\n5.\nMonths into his junior analyst job, he was staring at a giant dataset of user activity. It was just a wall of numbers until he applied a theory from an old sociology textbook. Suddenly, a pattern emerged\u2014a digital trail that mirrored social withdrawal. These weren't metrics; they were the ghosts of lonely people. This was the moment his past and present fused. He wasn't just a data analyst, he was a sociologist with a new language, one who could find the human story inside the machine."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check phone for overnight data-pipeline alerts, and scroll through tech news.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Bedroom at Castro St Apartment"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make a pour-over coffee and eat a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Kitchen at Castro St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Commute on an electric scooter, skillfully navigating the city streets and hills.",
+                        "geocode": {
+                            "lat": 37.7971726,
+                            "lng": -122.442307,
+                            "formatted_address": "Cow Hollow, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF City Streets (Castro to Cow Hollow)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Settle in at a hot desk, run daily data validation scripts, and check for any anomalies.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 120,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Virtual stand-up meeting with the data team to discuss project progress and blockers.",
+                        "geocode": {
+                            "lat": 37.75087389999999,
+                            "lng": -122.4162826,
+                            "formatted_address": "1398 S Van Ness Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "Phone Booth at AvantSpace"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Break for lunch, walking to a nearby spot for a salad bowl to eat at the parklet outside.",
+                        "geocode": {
+                            "lat": 37.8003111,
+                            "lng": -122.4377083,
+                            "formatted_address": "3344 Steiner St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Blue Barn - Union Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Afternoon focus session: Building out a new customer churn dashboard in Tableau.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 180,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up for the day by pushing code updates to GitHub and planning tomorrow's tasks.",
+                        "geocode": {
+                            "lat": 37.7988573,
+                            "lng": -122.4355648,
+                            "formatted_address": "2181 Greenwich St, San Francisco, CA 94123, United States"
+                        },
+                        "duration": 30,
+                        "location": "AvantSpace San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udef4",
+                        "action": "Ride the electric scooter home, enjoying the downhill cruise back to the Castro.",
+                        "geocode": {
+                            "lat": 37.7608937,
+                            "lng": -122.435033,
+                            "formatted_address": "The Castro, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF City Streets (Cow Hollow to Castro)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f",
+                        "action": "Decompress from the day with a weightlifting session and some time on the treadmill.",
+                        "geocode": {
+                            "lat": 37.7637395,
+                            "lng": -122.4334293,
+                            "formatted_address": "2301 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for groceries to pick up ingredients for a simple weeknight dinner.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mollie Stone's Markets"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook dinner while listening to a data science podcast.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Kitchen at Castro St Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a local craft beer on the balcony overlooking Castro Street.",
+                        "geocode": {
+                            "lat": 37.7643682,
+                            "lng": -122.433446,
+                            "formatted_address": "3600 16th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Lookout"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a chapter of a non-fiction book before bed.",
+                        "geocode": {
+                            "lat": 37.7524013,
+                            "lng": -122.4342208,
+                            "formatted_address": "Castro St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Living Room at Castro St Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Dmitri, balancing data analysis at his Cow Hollow co-working space with an active evening of fitness and socializing in his Castro neighborhood, all navigated via his electric scooter.",
+                "home_address": "2274 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7433977,
+                    "lng": -122.4336121,
+                    "formatted_address": "2274 Castro St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Volkov Family"
+    }
+}

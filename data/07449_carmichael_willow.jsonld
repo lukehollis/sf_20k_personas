@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Willow Carmichael",
+    "givenName": "Willow",
+    "familyName": "Carmichael",
+    "jobTitle": "Product Development Engineer",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Willow Carmichael was raised not in a suburb, but in the quiet, misty redwood forests of Humboldt County. Her father, a fine woodworker, taught her the language of grain and joinery, while her botanist mother taught her the elegant systems of the natural world. This upbringing instilled in Willow a deep appreciation for things that were both beautiful and functional, a philosophy that guided her to pursue a Bachelor's in Industrial and Product Design. For her, it was the perfect synthesis of her father\u2019s artistry and her mother\u2019s systematic view of nature.\n\nThe transition to San Francisco after college was a profound culture shock. The steel and glass towers were a stark contrast to the ancient trees of her youth. She landed a coveted role as a Product Development Engineer after a standout internship where her unique portfolio, featuring hand-carved ergonomic prototypes, caught the eye of a recruiter. She now works for a company developing high-end smart home devices, designing the physical objects that house complex technology.\n\nWillow\u2019s 0.0-mile commute means her Dogpatch apartment doubles as her workshop. The space is a controlled chaos of 3D printers, calipers, and sketches, softened by dozens of houseplants and pieces of her father\u2019s woodwork. Her days are structured by routine: a morning walk to a local cafe for an oat milk latte, hours of deep focus on CAD models, then an afternoon break at the waterfront to clear her head. To combat the isolation of working from home, she is a regular at Mission Cliffs, where her core group of friends was forged through a shared love of bouldering.\n\nWhile she values her career, Willow feels a pull back to her roots. Her ultimate dream is to launch her own design firm focused on sustainable technology\u2014creating beautiful, intuitive products from biodegradable or reclaimed materials. She sees San Francisco not as a final destination, but as an essential incubator for the skills and connections she needs to one day build a company that truly reflects the values she learned among the redwoods."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, quick at-home yoga session, and get ready for the workday.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Pacific Heights Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat a quick breakfast of oatmeal and coffee.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Pacific Heights Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, navigating traffic on Van Ness and parking in the company garage.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Driving from Pacific Heights to Marina"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Settle in at desk, check emails, and attend the daily product team stand-up meeting.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 60,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: CAD modeling and refining schematics for a new cookware line.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 120,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk with a colleague to grab a quick and healthy lunch.",
+                        "geocode": {
+                            "lat": 37.7979938,
+                            "lng": -122.4219664,
+                            "formatted_address": "2300 Polk St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt on Chestnut St"
+                    },
+                    {
+                        "emoji": "\u267b\ufe0f",
+                        "action": "Collaborate with the materials sourcing team to review sustainable component options.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "WSI Corporate Office Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udd2c",
+                        "action": "Perform hands-on durability and performance testing on a 3D-printed prototype.",
+                        "geocode": {
+                            "lat": 37.7812014,
+                            "lng": -122.4081011,
+                            "formatted_address": "981 Mission St #7, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 105,
+                        "location": "WSI Product Lab"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up testing notes, answer final emails, and plan tasks for tomorrow.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 30,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute home, driving from the office back to Pacific Heights.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Driving from Marina to Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "De-stress and sweat at a high-intensity interval training class.",
+                        "geocode": {
+                            "lat": 37.7998524,
+                            "lng": -122.4387636,
+                            "formatted_address": "2246 Lombard St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Barry's Marina"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh produce and other essentials for the week.",
+                        "geocode": {
+                            "lat": 37.797913,
+                            "lng": -122.435536,
+                            "formatted_address": "3060 Fillmore St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Real Food Company on Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Cook a healthy dinner while listening to a true-crime podcast.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Pacific Heights Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch the latest episode of a popular streaming show.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Pacific Heights Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a skincare routine and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Pacific Heights Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a Product Development Engineer, balancing focused work on new prototypes with a healthy lunch break and an intense evening workout before unwinding at her Pacific Heights home.",
+                "home_address": "1929 Broadway, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7947983,
+                    "lng": -122.4289792,
+                    "formatted_address": "1929 Broadway, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Carmichael Family"
+    }
+}

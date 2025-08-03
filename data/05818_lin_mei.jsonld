@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Lin",
+    "givenName": "Mei",
+    "familyName": "Lin",
+    "jobTitle": "Environmental Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "North Beach"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Environmental Services"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Lin\u2019s story began not in her own life, but in that of her parents, who immigrated from Guangzhou to San Francisco in the 1990s. They planted their roots in the city's foggy Excelsior district, building a life of tireless work running a small grocery store. For them, success was tangible: a paid-off mortgage, a child who wouldn't have to endure their struggles. They envisioned a stable future for Mei as a doctor or an engineer.\n\nWhile Mei respected their sacrifice, her heart was captured elsewhere. Her childhood was defined by the contrast between the Excelsior's concrete landscape and the wild freedom of Golden Gate Park. The turning point came on a family trip to Yosemite at age twelve. Standing beneath the giant sequoias, feeling insignificantly small and profoundly connected, she knew her life\u2019s work would be to protect such places. This conviction led her to UC Santa Cruz, where she earned a Bachelor's degree in Environmental Studies, a choice her parents supported with a mixture of pride and quiet confusion.\n\nNow 25, Mei works as an environmental consultant from her cozy apartment in the Inner Richmond. Her 0.0-mile commute is a blessing and a curse. Days are a disciplined blur of data analysis, environmental impact reports, and video calls, her world often confined to the glow of her monitor. To combat the isolation, she forces herself on daily walks through the Presidio or Golden Gate Park, recharging among the cypress and eucalyptus trees that first inspired her.\n\nHer social life revolves around a tight-knit group of college friends and weekly dim sum with her family, where conversations about her career are loving but brief. Though her work is meaningful\u2014helping companies navigate California's complex environmental regulations\u2014Mei dreams of more. She aspires to transition into policy advocacy for a major nonprofit, shaping the laws rather than just ensuring compliance. Her quiet hope is to one day see her efforts result in a tangible, protected piece of California's landscape, a legacy far greener than the cash her parents taught her to value. Her connection to San Francisco is etched in its parks and shorelines, the very places she is determined to preserve."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, start coffee, and do a quick 20-minute yoga flow to stretch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Shower, get dressed, and have a quick breakfast of oatmeal and fruit.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across town from the Mission to Lower Nob Hill, listening to an environmental science podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, settle in at her desk, review overnight facility alerts, and respond to urgent emails regarding waste disposal compliance.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Health Saint Francis Hospital Office"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Conduct a scheduled walk-through of the surgical floors to audit hazardous waste segregation and collection procedures.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "UCSF Health Saint Francis Hospital Patient Floors"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a healthy lunch bowl to go.",
+                        "geocode": {
+                            "lat": 37.7905176,
+                            "lng": -122.4170789,
+                            "formatted_address": "1030 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Nourish Cafe on Hyde"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Eat lunch at her desk while analyzing data from the morning's audit and preparing notes for an afternoon meeting.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Health Saint Francis Hospital Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Meet with the hospital's Facilities Management team to present a proposal for a new composting initiative in the cafeteria.",
+                        "geocode": {
+                            "lat": 37.7847222,
+                            "lng": -122.4016667,
+                            "formatted_address": "720 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Hospital Conference Room B"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Wrap up final reports for the day and create a to-do list for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7895567,
+                            "lng": -122.416863,
+                            "formatted_address": "900 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF Health Saint Francis Hospital Office"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Commute home, dealing with the evening rush hour traffic heading south.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38",
+                        "action": "Stop for a de-stressing Vinyasa flow class to unwind from the workday.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Mission Flow Yoga Studio"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh vegetables and tofu for dinner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a stir-fry for dinner while catching up with a friend on the phone.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch an episode of a documentary series, and scroll through social media.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for Mei, an Environmental Consultant, involving hospital site inspections, data analysis, and an evening focused on wellness with a yoga class and home-cooked meal in the Mission.",
+                "home_address": "2419 Folsom St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7585746,
+                    "lng": -122.4144338,
+                    "formatted_address": "2419 Folsom St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

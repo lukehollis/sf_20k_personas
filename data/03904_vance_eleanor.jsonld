@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Eleanor Vance",
+    "givenName": "Eleanor",
+    "familyName": "Vance",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Eleanor Vance grew up in a quiet Sacramento suburb, the daughter of a high school history teacher and a dental hygienist who valued stability above all else. A thoughtful and observant child, Eleanor found her passion not in pragmatism, but in the hushed halls of museums. She saw the world as a collection of patterns and stories, which led her to pursue a Bachelor's degree in Art History at San Francisco State University. She spent four years happily deconstructing the narratives within Renaissance brushstrokes and modernist sculptures, believing this was her path.\n\nThe reality after graduation was a stark turning point. The art world was competitive and offered little financial security. Facing mounting student loans and gentle pressure from her parents, Eleanor made a pragmatic pivot. She enrolled in an intensive six-month data analytics bootcamp, discovering that her knack for spotting patterns in art translated remarkably well to interpreting datasets. She landed a job as a Data Analyst for a mid-size tech firm, a position that allowed her to work entirely from home.\n\nNow, Eleanor\u2019s world is largely confined to her cozy one-bedroom apartment in the Inner Richmond. Her 0.0-mile commute means her daily routine is a highly structured loop: coffee from the cafe on Clement Street, hours spent wrangling spreadsheets and building dashboards, and a late-afternoon walk through the Presidio or Golden Gate Park to clear her head. Her social life is small but meaningful, revolving around her former college roommate and a handful of friends met through a book club.\n\nHer connection to San Francisco is intimate and hyperlocal. She knows the best dim sum spots within a four-block radius but rarely ventures downtown. While grateful for her financial independence, a quiet longing persists. Eleanor dreams of merging her two lives, perhaps by working for a museum to analyze visitor engagement data or using her skills to create artistic data visualizations. For now, she finds solace in the logical certainty of her work, a structured counterpoint to the boundless, chaotic beauty of the city just outside her window."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u23f0",
+                        "action": "Wake up, check personal emails and the weather forecast, especially the fog level in the Sunset.",
+                        "geocode": {
+                            "lat": 37.74152249999999,
+                            "lng": -122.506574,
+                            "formatted_address": "3853 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (3853 Taraval St)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Quick morning yoga session using a YouTube guide to stretch out before the long bike ride.",
+                        "geocode": {
+                            "lat": 37.74152249999999,
+                            "lng": -122.506574,
+                            "formatted_address": "3853 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (3853 Taraval St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in work-appropriate but bike-friendly layers, and pack a change of shoes.",
+                        "geocode": {
+                            "lat": 37.74152249999999,
+                            "lng": -122.506574,
+                            "formatted_address": "3853 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (3853 Taraval St)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee with beans from Andytown Roasters and eat a quick breakfast of toast and avocado.",
+                        "geocode": {
+                            "lat": 37.74152249999999,
+                            "lng": -122.506574,
+                            "formatted_address": "3853 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (3853 Taraval St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Commute across town on an electric bike, riding through Golden Gate Park and The Wiggle bike route.",
+                        "geocode": {
+                            "lat": 37.7597412,
+                            "lng": -122.4011391,
+                            "formatted_address": "Potrero Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Cross-City Bike Route (Sunset to Potrero Hill)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, park bike in the secure cage, and review overnight public health data dashboards.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Zuckerberg SF General Hospital Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk over for a quick lunch break, grabbing a famous burrito to eat at a parklet.",
+                        "geocode": {
+                            "lat": 37.7508961,
+                            "lng": -122.4180867,
+                            "formatted_address": "2889 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 50,
+                        "location": "La Taqueria (Mission District)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a departmental meeting to present findings on patient readmission rate trends.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "ZSFG Hospital Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Afternoon deep work: cleaning a large dataset for an upcoming epidemiological study.",
+                        "geocode": {
+                            "lat": 37.7553498,
+                            "lng": -122.4054036,
+                            "formatted_address": "1001 Potrero Ave, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 150,
+                        "location": "Zuckerberg SF General Hospital Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Pack up and begin the evening e-bike commute home, enjoying the downhill stretches.",
+                        "geocode": {
+                            "lat": 37.7467314,
+                            "lng": -122.4863492,
+                            "formatted_address": "Sunset District, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Cross-City Bike Route (Potrero Hill to Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for some fresh produce and essentials for the next few days.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Other Avenues Grocery Cooperative (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Cook a simple vegetarian stir-fry with the groceries just purchased and eat while catching up on a podcast.",
+                        "geocode": {
+                            "lat": 37.74152249999999,
+                            "lng": -122.506574,
+                            "formatted_address": "3853 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (3853 Taraval St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend for a casual beer and to chat about the week.",
+                        "geocode": {
+                            "lat": 37.76025910000001,
+                            "lng": -122.5055792,
+                            "formatted_address": "4045 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 90,
+                        "location": "Woods Outbound (Outer Sunset)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel and tidying the apartment for the morning.",
+                        "geocode": {
+                            "lat": 37.74152249999999,
+                            "lng": -122.506574,
+                            "formatted_address": "3853 Taraval St, San Francisco, CA 94116, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (3853 Taraval St)"
+                    }
+                ],
+                "day_overview": "A productive day for Eleanor, a data analyst balancing a demanding job at SF General Hospital with a cross-city e-bike commute. The day ends with errands and relaxation in her Outer Sunset neighborhood.",
+                "home_address": "3853 Taraval St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.74152249999999,
+                    "lng": -122.506574,
+                    "formatted_address": "3853 Taraval St, San Francisco, CA 94116, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Vance Family"
+    }
+}

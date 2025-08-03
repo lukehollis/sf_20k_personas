@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Benjamin Miller",
+    "givenName": "Benjamin",
+    "familyName": "Miller",
+    "jobTitle": "Senior Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Benjamin Miller\u2019s life is a story told in datasets. Raised in the quiet, academic suburbs of Minneapolis, he was the son of a stoic history professor and a pragmatic librarian. His childhood was structured around books, intellectual debates at the dinner table, and a deep-seated belief that patterns could be found in everything, from Civil War battle strategies to the Dewey Decimal System. This fascination with human systems led him not to computer science, but to a Master\u2019s in Computational Sociology from the University of Chicago, where he learned to model human behavior with algorithms.\n\nHis initial plan for a life in academia dissolved after a post-grad research position revealed the field\u2019s slow pace and scant funding. A recruiter\u2019s call was his turning point. The burgeoning tech industry in San Francisco was willing to pay handsomely for the exact skills he possessed: understanding why people click, share, and buy. In his late twenties, he packed two suitcases and moved west for a \u201chard reset,\u201d trading university archives for the gleaming open-plan offices of a rising startup.\n\nNow 41, Benjamin is a senior data scientist at a major tech firm, his world contained within the walls of his meticulously organized Hayes Valley apartment. His 0.0-mile commute offers peak efficiency but fosters a comfortable isolation. His days follow a strict rhythm: pour-over coffee at 7 AM, a block of deep work analyzing user-engagement funnels, a midday walk to Patricia\u2019s Green for fresh air, and an afternoon of meetings.\n\nHis social life is small but curated. He has a tight-knit circle of friends from a former rock-climbing gym and a long-standing weekly D&D campaign held over Discord. A serious relationship ended two years ago, a casualty of differing life goals and the intense, insulating pressures of their respective tech careers.\n\nBenjamin\u2019s connection to San Francisco is more observational than participatory. He sees the city as a living dataset\u2014a complex interplay of demographic shifts, economic tides, and cultural movements. His quiet aspiration is to pivot his skills toward civic tech, perhaps modeling public transit efficiency or resource allocation for the homeless. He dreams of a day when his work optimizes not just corporate profits, but human well-being, finally closing the loop between the sociologist he was and the data scientist he has become."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, hydrate, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7646767,
+                            "lng": -122.4318369,
+                            "formatted_address": "2261 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Castro Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Morning walk with his partner to grab coffee and a pastry.",
+                        "geocode": {
+                            "lat": 37.7710697,
+                            "lng": -122.4320952,
+                            "formatted_address": "201 Steiner St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Reveille Coffee Co."
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into the home office, check Slack and email, and outline the day's priorities and data queries.",
+                        "geocode": {
+                            "lat": 37.7611442,
+                            "lng": -122.4196236,
+                            "formatted_address": "2240 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office - 'The Data Den'"
+                    },
+                    {
+                        "emoji": "\ud83e\udde0",
+                        "action": "Deep Work Session: Building out a new feature engineering pipeline in Python.",
+                        "geocode": {
+                            "lat": 37.7611442,
+                            "lng": -122.4196236,
+                            "formatted_address": "2240 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office - 'The Data Den'"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbb",
+                        "action": "Daily Stand-up: Video call with the data science team to sync on project progress and blockers.",
+                        "geocode": {
+                            "lat": 37.7611442,
+                            "lng": -122.4196236,
+                            "formatted_address": "2240 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office - 'The Data Den'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Step away from the desk to pick up a healthy grain bowl for lunch.",
+                        "geocode": {
+                            "lat": 37.7608937,
+                            "lng": -122.435033,
+                            "formatted_address": "The Castro, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Sweetgreen Castro"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Eat lunch with his partner on their patio, avoiding work talk.",
+                        "geocode": {
+                            "lat": 37.7843094,
+                            "lng": -122.4064971,
+                            "formatted_address": "845 Market St Patio, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - Patio"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Code Review: Review a junior data scientist's pull request for a new recommendation algorithm.",
+                        "geocode": {
+                            "lat": 37.7611442,
+                            "lng": -122.4196236,
+                            "formatted_address": "2240 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office - 'The Data Den'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Stakeholder Meeting: Present Q3 model performance metrics to the product management team via Zoom.",
+                        "geocode": {
+                            "lat": 37.7611442,
+                            "lng": -122.4196236,
+                            "formatted_address": "2240 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office - 'The Data Den'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Final Work Block: Analyze results from an A/B test and document findings in Confluence.",
+                        "geocode": {
+                            "lat": 37.7611442,
+                            "lng": -122.4196236,
+                            "formatted_address": "2240 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Office - 'The Data Den'"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0c",
+                        "action": "Log off for the day, clean the workspace, and mentally switch from 'work mode' to 'home mode'.",
+                        "geocode": {
+                            "lat": 37.7611442,
+                            "lng": -122.4196236,
+                            "formatted_address": "2240 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office - 'The Data Den'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcaa",
+                        "action": "High-intensity interval training class to de-stress and re-energize.",
+                        "geocode": {
+                            "lat": 37.7648235,
+                            "lng": -122.4327542,
+                            "formatted_address": "2280 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Barry's Castro"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery stop to pick up fresh pasta and wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mollie Stone's Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Cook dinner and catch up on the day with his partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home - Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf78",
+                        "action": "Meet up with a friend for after-dinner cocktails at a neighborhood bar.",
+                        "geocode": {
+                            "lat": 37.7672597,
+                            "lng": -122.4295904,
+                            "formatted_address": "2124 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Blackbird"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a non-fiction history book.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Prepare for the next day and head to bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home - Bedroom"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a Senior Data Scientist, balancing deep analytical work with team collaboration. The day is punctuated by local Castro neighborhood activities, including a morning walk, a gym session, and evening cocktails with his partner and friends.",
+                "home_address": "1461 Castro St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7497896,
+                    "lng": -122.4337584,
+                    "formatted_address": "1461 Castro St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

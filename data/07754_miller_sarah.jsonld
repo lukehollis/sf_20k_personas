@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Retail Operations Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life is contained within a four-block radius of Hayes Valley, and she wouldn\u2019t have it any other way. At 40, her commute is a simple walk downstairs from her sunny, second-floor apartment to the curated home goods boutique she manages. This hyper-local existence is the quiet culmination of a life that once felt sprawling and uncertain.\n\nRaised in a planned suburban community outside of Columbus, Ohio, Sarah was the creative outlier in a practical family. Her parents, a dental hygienist and a civil engineer, were baffled when she chose to study Art History. They envisioned a stable teaching career, but Sarah was captivated by the stories objects could tell. After graduating, however, the reality of finding work in a niche field set in. She took a part-time job at a Pottery Barn to pay the bills and discovered a surprising aptitude for the unseen side of retail: logistics, inventory management, and creating systems that made the storefront hum.\n\nHer major turning point came at 28. Feeling stagnant and uninspired by the Midwest life she was expected to lead, she packed two suitcases and moved to San Francisco on a whim, drawn by a city that celebrated creative energy. She started as a sales associate in her current boutique, and her quiet competence quickly shone through. The owner recognized Sarah\u2019s unique blend of aesthetic sensibility\u2014a gift from her \"useless\" degree\u2014and her knack for operational efficiency. Over a decade, she rose to become the indispensable Retail Operations Manager.\n\nSarah\u2019s life now is one of comfortable routine and deep neighborhood connection. Mornings start with a coffee from her regular barista, followed by overseeing shipments and staff schedules. Her social life is a close-knit group of friends, a \u201cfound family\u201d of fellow transplants who gather for dinners at local haunts or wine on her fire escape. Though she\u2019s content, a dream simmers beneath the surface: to one day transition from manager to partner, using her savings to buy into the business. For Sarah, this would be the ultimate fusion of her past and present\u2014finally curating a space that is wholly her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up, quick meditation, and review personal calendar.",
+                        "geocode": {
+                            "lat": 37.7972231,
+                            "lng": -122.4361825,
+                            "formatted_address": "2232 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (2232 Union St)"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Make coffee and a light breakfast while listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.7972231,
+                            "lng": -122.4361825,
+                            "formatted_address": "2232 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home (2232 Union St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare work bag for the day.",
+                        "geocode": {
+                            "lat": 37.7972231,
+                            "lng": -122.4361825,
+                            "formatted_address": "2232 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home (2232 Union St)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive across town, navigating morning traffic on Van Ness.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Morning team huddle to review previous day's sales figures and set daily goals.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 60,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\uddbc\ufe0f",
+                        "action": "Meeting with the visual merchandising team to plan the next floor set.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Miro Studios Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to grab a quick lunch - a delicious Cubana torta.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Focus time: Analyze inventory reports and approve upcoming staff schedules.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 120,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Walk the studio floor, check in with staff, and handle an unexpected shipment issue.",
+                        "geocode": {
+                            "lat": 37.7598772,
+                            "lng": -122.4119508,
+                            "formatted_address": "744 Alabama St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 50,
+                        "location": "Miro Studios"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, listening to a true crime podcast to decompress from the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "SF City Streets"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Change into workout clothes for a refreshing run along the waterfront with views of the bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 45,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop to pick up a nice bottle of wine and some cheese for the weekend.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Luke's Local"
+                    },
+                    {
+                        "emoji": "\ud83c\udf54",
+                        "action": "Meet a friend for a casual dinner and catch-up over burgers and cocktails.",
+                        "geocode": {
+                            "lat": 37.8003429,
+                            "lng": -122.4420181,
+                            "formatted_address": "2346 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 90,
+                        "location": "Causwells"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down at home, watch an episode of a show on HBO Max, and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7972231,
+                            "lng": -122.4361825,
+                            "formatted_address": "2232 Union St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (2232 Union St)"
+                    }
+                ],
+                "day_overview": "A busy day for a retail manager, involving a cross-town commute from Cow Hollow to the Mission, strategic work meetings, and unwinding with an evening run and dinner with a friend in her neighborhood.",
+                "home_address": "2232 Union St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7972231,
+                    "lng": -122.4361825,
+                    "formatted_address": "2232 Union St, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1984",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

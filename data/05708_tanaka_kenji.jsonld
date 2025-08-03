@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenji Tanaka",
+    "givenName": "Kenji",
+    "familyName": "Tanaka",
+    "jobTitle": "Senior Systems Architect",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kenji Tanaka is a third-generation Japanese American whose life has been a quiet study in structure and order. Raised in the fog-dusted suburbs of Daly City by a florist father and a bookkeeper mother, he inherited an appreciation for both natural systems and meticulous precision. This sensibility guided his academic path away from the obvious choice of computer science. Instead, Kenji pursued a Master's in Library and Information Science from UC Berkeley in the late 1990s, fascinated by the challenge of organizing the world's exploding digital information.\n\nHis career began not in a startup, but in Stanford's digital archives. However, the first dot-com boom lured him into the private sector. A key turning point was the implosion of the over-hyped startup he worked for in 2001. While others fled tech, Kenji saw the failure as a problem of poor architecture. The chaos solidified his professional mission: to build resilient, elegant, and logical systems that could withstand pressure. This reputation for calm competence made him an invaluable Senior Systems Architect, the quiet engineer who ensures the entire digital infrastructure doesn\u2019t collapse.\n\nNow, Kenji\u2019s 0.0-mile commute defines his routine. His world is his meticulously organized Hayes Valley condo, a minimalist space of clean lines and curated objects. His day starts with a pour-over coffee from a local roaster, followed by hours of deep work, designing the invisible blueprints of the cloud. His social life is small but deep, centered on his long-term partner, Elena, a landscape architect. They connect over their shared love for design, whether in a data flow diagram or a drought-tolerant garden plan.\n\nKenji\u2019s connection to San Francisco is structural. He finds beauty not in the nightlife but in the grid of the city, the engineering of the Golden Gate Bridge, and the predictable advance of the fog. At 49, his ambition is no longer about climbing a ladder, but achieving a state of professional nirvana: to design one truly perfect system, a legacy of invisible elegance. He dreams of taking a sabbatical with Elena to Kyoto, to study the analog perfection of ancient temples and gardens, seeking the source code for the tranquility he builds his life around."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check overnight system alerts and read tech news headlines.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Mission St Condo)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare and eat breakfast: a precise pour-over coffee and oatmeal.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Mission St Condo)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, listening to a systems design podcast to bypass the traffic noise.",
+                        "geocode": {
+                            "lat": 37.7742823,
+                            "lng": -122.4359741,
+                            "formatted_address": "Fell St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "The Fell Street Funnel"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Morning stand-up meeting with the IT team to review project statuses and system performance.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "UCSF St. Mary's Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep Work Session: Architecting the cloud infrastructure for a new patient data platform.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 155,
+                        "location": "Kenji's Office, UCSF St. Mary's"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Lunch break: Drive off-campus to grab a famous burrito and clear his head.",
+                        "geocode": {
+                            "lat": 37.7757245,
+                            "lng": -122.4459646,
+                            "formatted_address": "1777 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Papalote Mexican Grill"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Stakeholder meeting with the Radiology department to define technical requirements for new imaging software.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF St. Mary's Boardroom"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Afternoon Focus: Write technical documentation and troubleshoot a reported network latency issue.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 150,
+                        "location": "Kenji's Office, UCSF St. Mary's"
+                    },
+                    {
+                        "emoji": "\ud83c\udf07",
+                        "action": "Commute home, navigating the evening rush hour.",
+                        "geocode": {
+                            "lat": 37.7732248,
+                            "lng": -122.4369011,
+                            "formatted_address": "Oak St, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "The Oak Street Crawl"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Decompress from the day with a weightlifting session at the gym.",
+                        "geocode": {
+                            "lat": 37.7762952,
+                            "lng": -122.4164528,
+                            "formatted_address": "1 10th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Fitness SF - Mid Market"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for ingredients for a healthy dinner.",
+                        "geocode": {
+                            "lat": 37.7766667,
+                            "lng": -122.4169444,
+                            "formatted_address": "1355 Market St suite 100, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "The Market on Market"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Cook and eat a simple, nourishing dinner like pan-seared salmon with asparagus.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Mission St Condo)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd43",
+                        "action": "Wind down by reading a non-fiction book with a glass of Japanese whisky.",
+                        "geocode": {
+                            "lat": 37.7506499,
+                            "lng": -122.4183132,
+                            "formatted_address": "Mission St, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Mission St Condo)"
+                    }
+                ],
+                "day_overview": "A demanding but structured day for a senior tech architect, balancing critical hospital system projects with a personal routine focused on fitness, healthy eating, and quiet relaxation.",
+                "home_address": "1470 Mission St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7749531,
+                    "lng": -122.4171035,
+                    "formatted_address": "1470 Mission St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1975",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

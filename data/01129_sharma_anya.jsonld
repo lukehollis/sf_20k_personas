@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anya Sharma",
+    "givenName": "Anya",
+    "familyName": "Sharma",
+    "jobTitle": "Data Analyst",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Anya Sharma's story is one of quiet rebellion against a carefully planned life. Raised in the warm suburbs of Fremont by Indian immigrant parents, her future was mapped out: a prestigious UC, a stable degree in engineering, and a predictable career path. Anya, however, was a dreamer, more interested in the human stories behind systems than the systems themselves. She dutifully enrolled at UC Irvine to study business but felt a profound sense of being an actor in someone else\u2019s play.\n\nThe turning point came during her sophomore year. Overwhelmed and uninspired, she took a weekend trip to San Francisco and was captivated by its chaotic, creative energy. She saw a different kind of ambition\u2014one fueled by passion, not just expectation. Within months, she dropped out of college, a decision that caused a deep rift with her family. With little money and a defiant heart, she moved into a shared apartment in the Mission and began teaching herself to code, discovering a love for the elegant logic of data. It felt like the perfect marriage of her analytical mind and her fascination with human patterns.\n\nHer career was built through grit and late nights, starting with small freelance data visualization projects for local non-profits. Her portfolio, showcasing her ability to turn raw numbers into compelling narratives, eventually landed her a full-time remote role as a Data Analyst for a health-tech startup.\n\nNow 29 and living in a small but sunny studio in the Inner Sunset, Anya\u2019s life has found its rhythm. Her 0.0-mile commute means her mornings begin with coffee from a local cafe before diving into datasets at her standing desk. Lunch breaks are often spent on long runs through Golden Gate Park, the fog a familiar, comforting blanket. She has rebuilt the relationship with her parents, who now see her success and respect her journey. Her social life is a close-knit group of friends who share her love for rock climbing at Dogpatch Boulders and exploring the city\u2019s endless culinary scene. Anya\u2019s dream is to eventually lead a data science team for a company focused on climate change. She came to San Francisco seeking a different path, and in the patterns of the city, she finally found her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers sitting on the grass in Dolores Park, age 19, on that first weekend escape from Irvine. It wasn't just the city's beauty but its symphony of tolerated chaos: a drum circle, tech bros talking startups, a couple reading poetry. Instead of the quiet pressure of the suburbs, she felt a vibrant, collective permission to be strange, to be ambitious on one\u2019s own terms. In that noise, she heard the first notes of a life she could actually compose herself. It was the moment rebellion became a tangible plan.\n\n2.\nThe memory is steeped in the smell of instant ramen and stale coffee. It was 2 AM in her frigid, shared Mission apartment, age 20. Her family wasn't speaking to her, and her bank account was a joke. But then, the Python script she\u2019d battled for hours finally ran. Seeing the messy data snap into elegant, logical patterns was a jolt of pure triumph. In that lonely, flickering light, she wasn't just learning to code; she was proving to herself she could build a new foundation from scratch.\n\n3.\nShe was 25 when her father called. He\u2019d seen an article that featured a data visualization she\u2019d built for a local housing non-profit. His voice, usually reserved, held a note of awe. \"I don't understand it all, Anya,\" he admitted, \"but I can see that you are helping people.\" The dam of years of disappointment broke in that moment. It wasn't just acceptance of her career; it was respect for her character. That single phone call healed a wound she hadn't realized was still so open.\n\n4.\nHer fingers ached, chalk dusting her face. She was at Dogpatch Boulders last fall, staring at a V5 problem that had defeated her for weeks. Below, her friends shouted encouragement. On the wall, every thought vanished except the next hold. She reached, muscles screaming, and latched on. The relief at the top was less about physical strength and more a confirmation of her journey. This was the ambition she\u2019d craved: focused, gritty, and supported by a community that celebrated every hard-won victory.\n\n5.\nIt was a recent Tuesday morning. She was on her run through Golden Gate Park, the fog so thick it felt like a hug. A decade ago, she came to the city seeking escape; now, she felt deeply rooted. As her feet hit the damp earth, she wasn't the defiant girl from Fremont anymore. She was just Anya, a woman who owned her studio, her career, and this quiet moment. The fog wasn\u2019t obscuring the world\u2014it was quieting it, leaving only the rhythm of her breath and a profound sense of peace."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and get ready for the day.",
+                        "geocode": {
+                            "lat": 37.7760571,
+                            "lng": -122.4642232,
+                            "formatted_address": "665 6th Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Apartment, Inner Richmond"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Make a quick breakfast smoothie and coffee.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the long morning walk to work, listening to a data science podcast.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Golden Gate Park Path to SoMa"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab coffee, and review the day's priorities.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 15,
+                        "location": "SOMAcentral Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: Write SQL queries to pull user data for a new engagement report.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 120,
+                        "location": "SOMAcentral Desk"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Daily stand-up meeting with the product and engineering teams to sync on project progress.",
+                        "geocode": {
+                            "lat": 37.7877004,
+                            "lng": -122.4414821,
+                            "formatted_address": "2863 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "SOMAcentral Conference Room 'The Yard'"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to get a healthy lunch bowl and eat outside.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze data in Python and build interactive dashboards in Tableau.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 150,
+                        "location": "SOMAcentral Desk"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Wrap up analysis and send out a summary email with key insights to stakeholders.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "SOMAcentral Desk"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commence the walk home, switching to a true-crime podcast to unwind.",
+                        "geocode": {
+                            "lat": 37.7808535,
+                            "lng": -122.4664321,
+                            "formatted_address": "Inner Richmond, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 90,
+                        "location": "SoMa to Inner Richmond Walk"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the neighborhood market to pick up fresh produce for dinner.",
+                        "geocode": {
+                            "lat": 37.775658,
+                            "lng": -122.4581416,
+                            "formatted_address": "782 Arguello Blvd, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 20,
+                        "location": "Arguello Super Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a salmon and quinoa dinner while FaceTiming with family.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Meet a friend for a glass of wine at a cozy neighborhood bar.",
+                        "geocode": {
+                            "lat": 37.7828298,
+                            "lng": -122.4641116,
+                            "formatted_address": "443 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 90,
+                        "location": "High Treason"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: Read a novel and plan the next day's outfit.",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A structured and active day for a SoMa-based data analyst living in the Inner Richmond, balanced between focused work, a lengthy walking commute that doubles as exercise, and relaxed evening socializing in her neighborhood.",
+                "home_address": "633 Balboa St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7769907,
+                    "lng": -122.4657612,
+                    "formatted_address": "633 Balboa St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Sharma Family"
+    }
+}

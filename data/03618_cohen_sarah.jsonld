@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Cohen",
+    "givenName": "Sarah",
+    "familyName": "Cohen",
+    "jobTitle": "Senior City Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Government"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Cohen\u2019s worldview was forged in the flat, predictable landscapes of a Chicago suburb. Growing up in a sea of identical houses and strip malls, her escape was poring over maps of dense, historic cities. This fascination led her to pursue a Master's in Urban and Regional Planning from UC Berkeley, a degree that felt less like a choice and more like a calling. It was during a graduate school visit that she first stood on a hill in San Francisco, mesmerized by the chaotic yet harmonious tapestry of neighborhoods below. She knew instantly this was where she had to be.\n\nAfter graduating, Sarah landed an entry-level position with the San Francisco Planning Department. Over the next thirteen years, she meticulously worked her way up, driven by a fierce belief in public service and the power of thoughtful urban design. Her turning point came five years ago when she led a contentious project to rezone a swath of industrial land for mixed-use housing. Facing heated community meetings and bureaucratic inertia, she learned to navigate the city's complex political ecosystem, emerging as a respected, pragmatic voice for sustainable growth.\n\nNow a Senior City Planner, Sarah\u2019s life is deeply embedded in her Hayes Valley neighborhood. Her 0.0-mile commute is to a meticulously organized home office in her second-floor apartment, its walls covered in topographical maps and project blueprints. Her days are a blend of virtual hearings, policy analysis, and deep-dive work on her current passion project: expanding the city\u2019s affordable housing density bonus program.\n\nHer social life revolves around a tight-knit circle of friends\u2014fellow civil servants, an architect, and a public school teacher\u2014who share her commitment to the city\u2019s future. Evenings often involve walks through Patricia\u2019s Green to observe how people interact with public space, followed by dinner at a favorite local spot. Sarah isn\u2019t just a planner of San Francisco; she is an active participant in its daily life. Her ultimate dream isn't a promotion, but to one day walk through a vibrant, equitable neighborhood she helped make possible, knowing she left a lasting, positive mark on the city she long ago chose as her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Wake up and go for a foggy morning run along the Great Highway.",
+                        "geocode": {
+                            "lat": 37.75939210000001,
+                            "lng": -122.510734,
+                            "formatted_address": "Ocean Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Ocean Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed for the office, and listen to the KQED news podcast.",
+                        "geocode": {
+                            "lat": 37.760569,
+                            "lng": -122.4992898,
+                            "formatted_address": "3467 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home at 3467 Judah St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Eat a quick breakfast of Greek yogurt and granola with her partner.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8b",
+                        "action": "Commute on the N Judah Muni line, reading public comments on a new housing proposal on her tablet.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "N Judah Muni Metro"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab an oat milk latte, and quickly review the day's calendar.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Philz Coffee - Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning work session: Reviewing environmental impact reports and responding to emails from other city departments.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "City Planning Dept. - FiDi Annex"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Project meeting with the team to coordinate on the upcoming community outreach plan for a new transit corridor.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Office Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to lunch, grabbing a healthy grain bowl while catching up with a colleague from SFMTA.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt - Financial District"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Afternoon 'deep work' session: Writing a policy brief on pedestrian safety improvements for the Vision Zero program.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "City Planning Dept. - FiDi Annex"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Final tasks for the day: Update project tracking software and prepare notes for tomorrow's meeting with a supervisor.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "City Planning Dept. - FiDi Annex"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home on the N Judah, switching from work mode by listening to a true-crime podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "N Judah Muni Metro"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Other Avenues Grocery Co-op"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a salmon and roasted vegetable dinner with her partner while sharing stories from the day.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch with her partner, watching an episode of a popular streaming series.",
+                        "geocode": {
+                            "lat": 37.760569,
+                            "lng": -122.4992898,
+                            "formatted_address": "3467 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home at 3467 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: Tidy up the kitchen, get ready for bed, and read a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive day for a Senior City Planner, balancing project meetings in the Financial District with a relaxing evening with her partner in their Outer Sunset neighborhood.",
+                "home_address": "3467 Judah St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.760569,
+                    "lng": -122.4992898,
+                    "formatted_address": "3467 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1986",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Cohen Family"
+    }
+}

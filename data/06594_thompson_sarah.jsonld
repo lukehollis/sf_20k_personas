@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Thompson",
+    "givenName": "Sarah",
+    "familyName": "Thompson",
+    "jobTitle": "Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Thompson is a San Franciscan by birth and by heart, a permanent fixture in the Russian Hill neighborhood she has always called home. Her life is contained within a single city block, where she lives in the apartment above \u2018Hearth & Harbor,\u201d the home goods and gift shop she manages, and which her parents opened in 1978. Her commute is a mere flight of stairs.\n\nGrowing up, Sarah was the artistic daughter of pragmatic shopkeepers. While her parents focused on inventory and ledgers, she dreamed of museums and faraway places. She enrolled at San Francisco State University, majoring in art history, convinced her future lay beyond the familiar chime of the shop's door. That future, however, was rerouted during her junior year when her father suffered a major stroke. Sarah dropped out to help her mother run the business, a temporary measure that slowly, imperceptibly, became permanent.\n\nThe ensuing years were a blur of duty and quiet sacrifice. She learned the business not in a classroom, but through early mornings and late nights stocking shelves and managing suppliers. Her artistic eye, once meant for curating exhibits, proved invaluable for creating beautiful store displays. A serious relationship in her late twenties ended when her partner wanted to move to Portland; Sarah knew she could never abandon the shop, which had become her responsibility and her identity. After her mother passed away a decade ago, Sarah became the sole guardian of her family\u2019s legacy.\n\nNow, at 54, Sarah\u2019s life moves to a steady, comforting rhythm. Her days are defined by greeting regulars by name, helping tourists find the perfect gift, and the constant, tangible work of running a small business. Her social life is woven into the neighborhood fabric\u2014lattes from the cafe next door, chats with the mail carrier, and monthly dinners with a small circle of friends. While the dream of a different life has long since faded, a new one has taken its place: to keep Hearth & Harbor thriving against the tide of e-commerce and city changes. She hopes to one day find a successor who loves the little shop as much as she does, ensuring this small corner of San Francisco remains a place of warmth and community."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, do a quick stretching routine, and make a pour-over coffee while listening to the morning news.",
+                        "geocode": {
+                            "lat": 37.7906965,
+                            "lng": -122.4218982,
+                            "formatted_address": "1668 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home at 1668 California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower and get dressed in professional but comfortable attire for a long day on the sales floor.",
+                        "geocode": {
+                            "lat": 37.7906965,
+                            "lng": -122.4218982,
+                            "formatted_address": "1668 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home at 1668 California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the 45-minute walk to work, listening to a retail management podcast.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "City Streets from Nob Hill to SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\udd11",
+                        "action": "Arrive at the store, conduct a morning walkthrough, and check in with the opening shift.",
+                        "geocode": {
+                            "lat": 37.7170423,
+                            "lng": -122.4408049,
+                            "formatted_address": "5090 Mission St, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 30,
+                        "location": "Literary Hub SF"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Lead the morning team huddle, outlining sales goals for the day and new promotions.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Staff Breakroom at Literary Hub SF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Manage the sales floor, assist customers, and ensure merchandising displays are pristine.",
+                        "geocode": {
+                            "lat": 37.7170423,
+                            "lng": -122.4408049,
+                            "formatted_address": "5090 Mission St, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 180,
+                        "location": "Main Floor at Literary Hub SF"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Grab a quick and healthy lunch from a favorite local spot.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Work in the back office, responding to corporate emails and creating the staff schedule for next week.",
+                        "geocode": {
+                            "lat": 37.7647916,
+                            "lng": -122.4240919,
+                            "formatted_address": "Mission Dolores, San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Manager's Office at Literary Hub SF"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Assist on the floor during the afternoon rush, leading by example and motivating the team.",
+                        "geocode": {
+                            "lat": 37.7170423,
+                            "lng": -122.4408049,
+                            "formatted_address": "5090 Mission St, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 60,
+                        "location": "Cash Wrap at Literary Hub SF"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk home, using the uphill climb as daily exercise while listening to a jazz playlist to unwind.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "City Streets from SoMa to Nob Hill"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Attend a restorative yoga class to stretch and de-stress from the day.",
+                        "geocode": {
+                            "lat": 37.7910067,
+                            "lng": -122.4174229,
+                            "formatted_address": "Nob Hill, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Yoga Flow Nob Hill"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up a few groceries for dinner on the way home from yoga.",
+                        "geocode": {
+                            "lat": 37.7875598,
+                            "lng": -122.4445777,
+                            "formatted_address": "California St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Trader Joe's - California Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a simple dinner while watching an episode of a favorite mystery series.",
+                        "geocode": {
+                            "lat": 37.7906965,
+                            "lng": -122.4218982,
+                            "formatted_address": "1668 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home at 1668 California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel (for pleasure, not for work!) before bed.",
+                        "geocode": {
+                            "lat": 37.7906965,
+                            "lng": -122.4218982,
+                            "formatted_address": "1668 California St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Living Room at 1668 California St"
+                    }
+                ],
+                "day_overview": "A busy but structured day for Sarah, a retail store manager. The day is bookended by a healthy walk through the city, balancing a demanding job in SoMa with a quiet residential life in Nob Hill. Her evening focuses on personal wellness and relaxation after a long day on her feet.",
+                "home_address": "1668 California St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7906965,
+                    "lng": -122.4218982,
+                    "formatted_address": "1668 California St, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1970",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

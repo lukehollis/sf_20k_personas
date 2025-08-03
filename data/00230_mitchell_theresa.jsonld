@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Theresa Mitchell",
+    "givenName": "Theresa",
+    "familyName": "Mitchell",
+    "jobTitle": "Restaurant Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Black or African American"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Theresa Mitchell entered the world in Oakland, a city her parents, Robert and Angela, had moved to from the South during the Great Migration. Her father worked on the docks, a man of quiet strength, while her mother was a vibrant force, working as a CNA and filling their modest home with love and gospel music. Growing up, Theresa was the eldest of three, learning responsibility early, helping care for younger siblings and contributing to household chores. Weekends were often spent across the bay in San Francisco, visiting relatives and exploring Golden Gate Park, fostering an early love for the city.\n\nExcelling academically, Theresa was drawn to the energy of the service industry. A scholarship allowed her to pursue a Bachelor's in Hospitality Management at a state university down the coast. Her internships solidified her passion, particularly the fast-paced environment of restaurants. Upon graduating, she returned to the Bay Area, drawn to the diverse culinary scene of San Francisco. She started as a hostess, working her way up through server roles, learning every facet of the front of house.\n\nA turning point came in her late 30s when offered a management position at a popular restaurant in the Mission District. This was her chance to implement her vision of exceptional service and a positive work environment. It wasn't easy, navigating challenging staff dynamics and the demanding pace of the industry, but her resilience and leadership skills shone through. She met her partner, David, an architect she met through mutual friends, whose calm demeanor balances her high-energy profession. They share a love for exploring the city's hidden gems and trying new restaurants.\n\nNow 50, Theresa is a seasoned restaurant manager, respected for her fairness and dedication. Her days are a whirlwind of managing staff, interacting with guests, and ensuring smooth operations. Her commute via public transportation is a cherished time to decompress, reading or listening to podcasts as the city whizzes by. Living in the Richmond District, she appreciates the neighborhood's mix of cultures and proximity to Golden Gate Park, her sanctuary for weekend strolls.\n\nLooking ahead, Theresa dreams of opening her own small, intimate restaurant, focusing on elevated comfort food inspired by her Southern roots. She envisions a place that feels like home, welcoming to all. For now, she finds fulfillment in mentoring her staff and providing memorable dining experiences. San Francisco, with its constant evolution and vibrant spirit, feels like her true home, the place where her career has bloomed and her life has unfolded."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1. The first time she took the bus across the bridge, leaving Oakland and seeing the city lights shimmer. A sense of boundless possibility washed over her, a whisper of the life that awaited across the water. It solidified her feeling that San Francisco held her future, a promise she carried within her since childhood visits. (Age early 20s)\n\n2. Opening the doors on her first night as manager in the Mission. The controlled chaos, the hum of satisfied diners \u2013 it was everything she had worked for. A wave of exhaustion mixed with immense pride swelled in her chest. It was a validation of her hard work and a commitment to building a positive team culture. (Age late 30s)\n\n3. Walking hand-in-hand with David through Golden Gate Park, the scent of eucalyptus filling the air. He pointed out architectural details she\u2019d never noticed before. A quiet contentment settled over her; she had found a partner who truly saw and appreciated the city, just as she did. Their shared love for exploration deepened their bond. (Age 40s)\n\n4. A guest\u2019s sincere thank you after a challenging dinner service, recognizing her team's efforts. The exhaustion of the night melted away, replaced by a surge of meaningful connection. It reaffirmed her belief in the power of genuine hospitality and fueled her dedication to creating positive experiences for others. (Age 40s)\n\n5. Sitting on a bench in the Richmond, watching the fog roll in off the ocean. A wave of gratitude for her life in this vibrant, ever-changing city washed over her. This quiet moment of reflection solidified her sense of belonging and peace, a culmination of her journey and the life she had built. (Age 50)"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, do a 30-minute stretching and yoga routine.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get dressed, and have a quick breakfast of coffee and toast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to work, stopping for a specialty pour-over coffee to go.",
+                        "geocode": {
+                            "lat": 37.613747,
+                            "lng": -122.3851908,
+                            "formatted_address": "299 Domestic Terminals Departures Level, San Francisco, CA 94128, USA"
+                        },
+                        "duration": 25,
+                        "location": "Ritual Coffee Roasters"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the coworking space for administrative tasks: reviewing payroll, answering emails, and creating staff schedules.",
+                        "geocode": {
+                            "lat": 37.763551,
+                            "lng": -122.4209259,
+                            "formatted_address": "3388 17th St, San Francisco, CA 94110, United States"
+                        },
+                        "duration": 180,
+                        "location": "coworking sf by lans"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Pick up a torta for lunch and walk to the park to eat.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 20,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Enjoy lunch and people-watching in the sun before heading to the restaurant.",
+                        "geocode": {
+                            "lat": 37.7602015,
+                            "lng": -122.4267959,
+                            "formatted_address": "Mission Dolores Park, Dolores St &, 19th St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 40,
+                        "location": "Dolores Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Arrive at the restaurant for on-site management. Check inventory and meet with the head chef about tonight's specials.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Agave Cantina (Managed Restaurant)"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead the pre-shift meeting with front-of-house staff to ensure a smooth dinner service.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Agave Cantina (Managed Restaurant)"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Walk home, enjoying the late afternoon energy of the Mission.",
+                        "geocode": {
+                            "lat": 37.7635614,
+                            "lng": -122.4173724,
+                            "formatted_address": "Mission District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Mission District Streets"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.76922570000001,
+                            "lng": -122.4148782,
+                            "formatted_address": "1745 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 35,
+                        "location": "Rainbow Grocery Cooperative"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Unwind at home by preparing and eating a simple, home-cooked meal.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Catch up with her sister on the East Coast via a video call.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Read a few chapters of a novel and relax on the couch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: Tidy up, check work email for emergencies, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A balanced day for a seasoned restaurant manager in the Mission, blending administrative work with on-the-ground management, punctuated by local errands and a relaxing evening at home.",
+                "home_address": "2162 Folsom St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7627012,
+                    "lng": -122.4154091,
+                    "formatted_address": "2162 Folsom St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1974",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Mitchell Family"
+    }
+}

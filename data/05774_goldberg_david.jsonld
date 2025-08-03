@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Goldberg",
+    "givenName": "David",
+    "familyName": "Goldberg",
+    "jobTitle": "Store Manager, Independent Bookstore",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Muslim"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Goldberg\u2019s world smells of aging paper, brewed tea, and the faint, sweet scent of bookbinding glue. He was born and raised in the Richmond District, the son of a pragmatic tailor and a quiet school librarian. His father preached the value of a steady trade, while his mother filled their foggy home with stories, whispering worlds into existence from the pages of worn library hardcovers. This duality defined David\u2019s youth: a pull between the practical and the poetic.\n\nHe dutifully enrolled in business classes at San Francisco State University, a compromise to appease his father. But the fluorescent lights of the lecture halls felt sterile compared to the warm, cluttered aisles of the city's bookstores. After three semesters, David made his first and most definitive life choice: he dropped out. He found his true education stocking shelves and running the register at \"The Last Page,\" a beloved, slightly ramshackle independent bookstore in North Beach. The owner, a sharp-witted woman named Eleanor, saw in him not just an employee, but a successor.\n\nThe key turning point came fifteen years ago. When Eleanor retired, she sold David the store\u2014and the small apartment above it\u2014for a price that was more gift than transaction. His commute became a short walk down a creaky wooden staircase. His life and livelihood fused. This devotion likely cost him his long-term relationship; his partner grew tired of competing with dusty first editions for his attention.\n\nNow, at 53, David\u2019s days are a familiar ritual. He wakes before the city, curates the window display, and shares quiet conversations with his regulars\u2014the grad students, the neighborhood poets, the tourists seeking an authentic piece of San Francisco. These people are his true family. He remains a fixture of an older San Francisco, a quiet protest against the city\u2019s frantic modernization. His greatest hope is not wealth or fame, but simply to keep the lights on for another year, ensuring that in a city obsessed with the future, there is always a place to turn the last page."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf0",
+                        "action": "Wake up, brew a strong pour-over coffee, and read the physical copy of the San Francisco Chronicle.",
+                        "geocode": {
+                            "lat": 37.7875598,
+                            "lng": -122.4445777,
+                            "formatted_address": "California St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment on California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Spend some quiet time reading a new galleys copy of an upcoming literary fiction novel, making notes for a potential staff pick.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Living Room Armchair"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Shower, get dressed in smart casual attire, and pack a work bag with a laptop and reading materials.",
+                        "geocode": {
+                            "lat": 37.7875598,
+                            "lng": -122.4445777,
+                            "formatted_address": "California St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on California St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work, driving down Pine Street and navigating the downtown morning traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "In-Car Commute"
+                    },
+                    {
+                        "emoji": "\ud83c\udd7f\ufe0f",
+                        "action": "Park the car and walk the last few blocks to the office, grabbing a quick espresso from a cart.",
+                        "geocode": {
+                            "lat": 37.7869811,
+                            "lng": -122.4026621,
+                            "formatted_address": "45 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Hearst Parking Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, check overnight sales data from the store locations, and sort through high-priority emails from staff and publishers.",
+                        "geocode": {
+                            "lat": 37.8035212,
+                            "lng": -122.4018398,
+                            "formatted_address": "1300 Battery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 90,
+                        "location": "Fog City Books HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Hold a conference call with the manager of the Haight Street branch to discuss staffing and plan the next window display.",
+                        "geocode": {
+                            "lat": 37.8035212,
+                            "lng": -122.4018398,
+                            "formatted_address": "1300 Battery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "Fog City Books HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk to a favorite local deli for lunch, picking up a corned beef sandwich to go.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\ud83d\udcda",
+                        "action": "Review publisher catalogs and place new inventory orders for the coming season, focusing on local authors and special editions.",
+                        "geocode": {
+                            "lat": 37.8035212,
+                            "lng": -122.4018398,
+                            "formatted_address": "1300 Battery St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 150,
+                        "location": "Fog City Books HQ"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Leave the office and begin the drive home, taking Franklin St to avoid some of the heavier Market St congestion.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "In-Car Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the neighborhood market to pick up items for breakfast and a good bottle of Chianti for dinner.",
+                        "geocode": {
+                            "lat": 37.7929099,
+                            "lng": -122.4162614,
+                            "formatted_address": "1263 Leavenworth St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 25,
+                        "location": "Le Beau Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Meet a friend for an early dinner at a cozy, long-standing neighborhood Italian restaurant.",
+                        "geocode": {
+                            "lat": 37.7969139,
+                            "lng": -122.415407,
+                            "formatted_address": "1701 Jones St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 90,
+                        "location": "Allegro Romano"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Take an evening stroll through the park to digest and enjoy the city lights and fog rolling in.",
+                        "geocode": {
+                            "lat": 37.7922657,
+                            "lng": -122.4121403,
+                            "formatted_address": "Huntington Park, California St & Taylor St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 30,
+                        "location": "Huntington Park"
+                    },
+                    {
+                        "emoji": "\ud83c\udfb6",
+                        "action": "Wind down at home by listening to a classic Miles Davis record and reading a few chapters of a history book for pleasure.",
+                        "geocode": {
+                            "lat": 37.7875598,
+                            "lng": -122.4445777,
+                            "formatted_address": "California St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment on California St"
+                    }
+                ],
+                "day_overview": "A structured day for a seasoned bookstore manager, balancing administrative duties at the downtown office with a quiet, cultured evening in his Nob Hill neighborhood.",
+                "home_address": "1786 California St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7901915,
+                    "lng": -122.4238615,
+                    "formatted_address": "1786 California St, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1971",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Goldberg Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ivan Garcia",
+    "givenName": "Ivan",
+    "familyName": "Garcia",
+    "jobTitle": "Manufacturing Engineer",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Russian Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Manufacturing"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Ivan Garcia is a man defined by process and pragmatism, a tangible anchor in a digital city. Born in Richmond to a third-generation Spanish-American father who worked the docks and a Polish immigrant mother who ran a small bakery, Ivan\u2019s upbringing was a blend of loud family dinners, the smell of sourdough, and the value of hard, honest work. He was the first in his family to earn a four-year degree, though his path was anything but direct.\n\nHe enrolled at San Francisco State University, initially captivated by the grand narratives of the past, and graduated with a Bachelor's degree in History. However, post-college reality hit hard. A temp job on the assembly floor of a small electronics company unexpectedly became his turning point. Ivan wasn\u2019t interested in the finished product; he was mesmerized by the machinery, the workflow, and the elegant dance of efficiency and problem-solving. He found a new calling in the \"how\" of creation. He went back to school for night classes, earning certifications and eventually landing an entry-level position as a manufacturing engineer.\n\nNow 42, Ivan has built a life of deliberate simplicity in the Dogpatch neighborhood. He lives in a converted warehouse loft just three blocks from the specialized manufacturing plant where he works, making his commute a short, pleasant walk. This 0.0-mile commute is a core principle of his life: maximum efficiency, minimal fuss. His days are spent optimizing production lines and troubleshooting complex machinery, a hands-on role that feels more connected to San Francisco\u2019s industrial roots than its tech-fueled present.\n\nSocially, Ivan is a listener. After a long-term relationship ended in his late thirties, he has remained single, preferring the quiet company of a few close work colleagues and the familiar faces at his local brewery. His nights are often spent reading non-fiction or tinkering with a vintage motorcycle in his building's shared garage. His greatest aspiration isn't a corporate climb but to one day open his own small-scale, custom fabrication shop in the Bayview, using sustainable materials. For Ivan, fulfillment isn't found in disruption, but in the quiet satisfaction of making something solid, useful, and built to last."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, meditate for 10 minutes, and read tech news on phone.",
+                        "geocode": {
+                            "lat": 37.7769628,
+                            "lng": -122.4071899,
+                            "formatted_address": "1081 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1081 Folsom St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Shower, get dressed in business casual, and eat a quick breakfast of avocado toast while preparing coffee for his parents.",
+                        "geocode": {
+                            "lat": 37.7769628,
+                            "lng": -122.4071899,
+                            "formatted_address": "1081 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (1081 Folsom St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the designated carpool meeting point to meet his colleagues.",
+                        "geocode": {
+                            "lat": 37.7616419,
+                            "lng": -122.4149807,
+                            "formatted_address": "Folsom St, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Corner of 7th & Folsom St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool across town, catching up with work friends and listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.8043849,
+                            "lng": -122.4370011,
+                            "formatted_address": "Marina District, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "SF Commute Route: SoMa to Marina"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at his desk, sort through priority emails, and begin reviewing CAD models for a new kitchen product line.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 90,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend a daily stand-up meeting with product design and global sourcing teams to troubleshoot a material sourcing issue.",
+                        "geocode": {
+                            "lat": 37.7923841,
+                            "lng": -122.4810057,
+                            "formatted_address": "Presidio of San Francisco, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Conference Room 'The Presidio'"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk with a coworker to grab a quick and casual lunch.",
+                        "geocode": {
+                            "lat": 37.7744007,
+                            "lng": -122.4209357,
+                            "formatted_address": "1 Franklin St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 55,
+                        "location": "The Italian Homemade Company (Polk St)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf0f",
+                        "action": "Lead a video conference with a manufacturing partner in Taiwan to discuss first-article inspection results.",
+                        "geocode": {
+                            "lat": 37.8058386,
+                            "lng": -122.4252417,
+                            "formatted_address": "3250 Van Ness Ave, San Francisco, CA 94109, United States"
+                        },
+                        "duration": 75,
+                        "location": "WSI Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udee0\ufe0f",
+                        "action": "Head to the in-house lab to test the durability and function of a new 3D-printed prototype handle.",
+                        "geocode": {
+                            "lat": 37.7604266,
+                            "lng": -122.3946816,
+                            "formatted_address": "474 Mississippi St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "WSI Product Development Lab"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Meet colleagues for the carpool ride home, discussing the day and winding down.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "SF Commute Route: Marina to SoMa"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop at the local market to pick up fresh vegetables and chicken for dinner.",
+                        "geocode": {
+                            "lat": 37.7639852,
+                            "lng": -122.4127726,
+                            "formatted_address": "2111 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market (Harrison St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83c\udf73",
+                        "action": "Arrive home, greet his parents, and cook dinner while catching up with them about their day.",
+                        "geocode": {
+                            "lat": 37.7769628,
+                            "lng": -122.4071899,
+                            "formatted_address": "1081 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (1081 Folsom St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Clean up the kitchen with his father, then watch an episode of a documentary series with his parents.",
+                        "geocode": {
+                            "lat": 37.7769628,
+                            "lng": -122.4071899,
+                            "formatted_address": "1081 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 70,
+                        "location": "Home (1081 Folsom St)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prepare his work bag for the next day and read a chapter of a sci-fi novel before going to sleep.",
+                        "geocode": {
+                            "lat": 37.7769628,
+                            "lng": -122.4071899,
+                            "formatted_address": "1081 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home (1081 Folsom St)"
+                    }
+                ],
+                "day_overview": "A productive weekday for Ivan, a manufacturing engineer, balancing detailed work on product prototypes at his corporate office, a structured carpool commute, and caring for his elderly parents in their shared SoMa apartment.",
+                "home_address": "1081 Folsom St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7769628,
+                    "lng": -122.4071899,
+                    "formatted_address": "1081 Folsom St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1982",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Garcia Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Curator Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Arts Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Arts"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s world was once one of tall Oregon pines, not San Francisco high-rises. Raised in a small logging town by a practical-minded teacher and a forester, her love for stories felt like a private rebellion. She pursued this passion at the University of Oregon, earning a Bachelor's degree in English Literature, fascinated by how narratives shape human understanding. After graduating, she felt adrift, working in a Portland bookstore, surrounded by stories but not yet knowing how to create her own.\n\nThe turning point came during a visit to a small gallery. She saw a video installation piece\u2014a fragmented, haunting narrative told through light and sound. It was a revelation; art wasn't just static images, but a living, breathing form of storytelling. Fueled by this new purpose, she moved to San Francisco, drawn by its vibrant and experimental art scene.\n\nHer entry into the art world was a grind. She volunteered, worked the ticket counter at a SoMa museum, and spent her evenings at gallery openings, absorbing everything. Her literary background gave her a unique perspective, allowing her to articulate the narrative threads in abstract works. This insight eventually earned her an interview, and finally, the position of Curator Assistant.\n\nNow 36, Sarah\u2019s life is a curated five-block radius. Her modest, rent-controlled apartment is a short walk from the museum, making her commute a daily stroll through Yerba Buena Gardens. She lives alone, having ended a long-term relationship a year ago, and pours her energy into her work. Her social life is a small, tight-knit circle of friends\u2014a graphic designer and a writer\u2014who meet for wine in Hayes Valley or explore pop-up galleries.\n\nSarah\u2019s dream is to step out from the shadow of the senior curator and helm her own major exhibition. She envisions a show exploring the intersection of folklore and digital media, a concept that bridges her Oregon upbringing with her tech-centric San Francisco reality. She feels the city\u2019s constant thrum of innovation and reinvention, and she is determined to add her own story to its collection."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check personal emails, and scroll through art news on Instagram.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee with beans from Ritual Coffee Roasters and eat a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udc57",
+                        "action": "Shower and get dressed in a 'gallery chic' outfit for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute from the Mission to SoMa, listening to an arts & culture podcast while navigating traffic on Guerrero St and the 101 interchange.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Personal Car"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at her desk, review the day's schedule, and have a brief check-in with the head curator about an upcoming exhibition.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "SoMa Contemporary Arts Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Research and compile a dossier on a potential new artist for a future group show, cross-referencing auction records and art publications.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 120,
+                        "location": "SoMa Contemporary Arts Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to a nearby cafe for a quick lunch, grabbing a salad and an iced tea.",
+                        "geocode": {
+                            "lat": 37.7696166,
+                            "lng": -122.4037764,
+                            "formatted_address": "at Townsend and Division, 1 Henry Adams St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Grove - Design District"
+                    },
+                    {
+                        "emoji": "\ud83d\uddbc\ufe0f",
+                        "action": "Carefully uncrate and conduct a detailed condition report on a newly arrived sculpture, documenting every detail for the gallery's records.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "SoMa Contemporary Arts - Intake Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udccf",
+                        "action": "Coordinate with the lighting technician and art handlers to finalize the placement of works for next week's installation.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "SoMa Contemporary Arts - Main Gallery"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, dealing with the usual evening congestion heading back towards the Mission.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Personal Car"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Stop for a de-stressing Vinyasa flow class to unwind from the workday.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83e\udd55",
+                        "action": "Pop into the local co-op to pick up fresh produce and ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.76922570000001,
+                            "lng": -122.4148782,
+                            "formatted_address": "1745 Folsom St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Rainbow Grocery Cooperative"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple but healthy dinner, like a quinoa bowl with roasted vegetables, while listening to music.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 50,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax on the couch, reading a novel and tidying up before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 80,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A busy day for an arts professional, involving detailed curatorial work in SoMa, navigating a challenging car commute, and unwinding with yoga and home-cooked food in her vibrant Mission District neighborhood.",
+                "home_address": "3893 Valencia St, San Francisco, CA 94110",
+                "home_geocode": {
+                    "lat": 37.7550722,
+                    "lng": -122.420966,
+                    "formatted_address": "Valencia St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1988",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

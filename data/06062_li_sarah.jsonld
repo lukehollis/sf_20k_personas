@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Li",
+    "givenName": "Sarah",
+    "familyName": "Li",
+    "jobTitle": "Environmental Consultant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Consulting"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Li\u2019s story began not in a high-rise, but amidst the crisp, foggy air of San Francisco's Outer Richmond. The only child of first-generation Chinese immigrants who ran a small, bustling grocery store, her childhood was a blend of Cantonese spoken at home and the salty Pacific wind on her walk to school. While her parents hoped she\u2019d pursue a stable career like medicine, Sarah found her calling in the nature that bordered her urban life\u2014the rugged trails of Lands End and the sprawling expanse of Golden Gate Park. She spent weekends observing tidal pools at Ocean Beach, unknowingly laying the foundation for her future.\n\nHer academic path was a deliberate move towards this passion. After earning a B.S. in Environmental Science, she pursued a Master's in Environmental Management from UC Berkeley. A pivotal moment came during a graduate internship where she analyzed the environmental impact reports for a major development project. She realized she could be a bridge between corporate necessity and ecological responsibility. This insight led her to environmental consulting, a field where her analytical mind could translate complex data into actionable policy.\n\nNow 32, Sarah lives in a bright, second-floor apartment in Cole Valley, a neighborhood she chose for its proximity to the park and its village-like atmosphere. Her 0.0-mile commute is a short walk from her bedroom to a sunlit desk overlooking the street. Her day starts with a run through the Panhandle, followed by hours of data analysis, client calls, and writing reports for companies navigating California\u2019s stringent environmental regulations. She lives with her long-term partner, Ben, a software architect whose tech-world stability complements her more mission-driven career.\n\nWhile she finds satisfaction in her work, Sarah dreams of moving beyond the corporate world. Her ultimate goal is to join a Bay Area environmental non-profit, working on tangible restoration projects in the very ecosystems that inspired her as a child. For Sarah, San Francisco is more than a home; it's the complex, beautiful organism she has dedicated her life to understanding and protecting, one data point at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, hydrate, and do a 10-minute meditation session with the Calm app.",
+                        "geocode": {
+                            "lat": 37.8050114,
+                            "lng": -122.4118072,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Powell Street Apartment, North Beach"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Enjoy a quick breakfast of oatmeal and coffee with her partner, Mark, discussing plans for the upcoming weekend.",
+                        "geocode": {
+                            "lat": 37.8050114,
+                            "lng": -122.4118072,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Powell Street Apartment, North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5a",
+                        "action": "Morning prep: shower, get dressed in business casual, and pack work bag with laptop and reports.",
+                        "geocode": {
+                            "lat": 37.8050114,
+                            "lng": -122.4118072,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Powell Street Apartment, North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the designated carpool meeting spot to meet her colleague for the ride downtown.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 10,
+                        "location": "Washington Square Park, North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to work via carpool, catching up on project updates and listening to an NPR podcast.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "North Beach to Financial District Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the office, organize the day's tasks, and respond to urgent client emails regarding a new water quality report.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 90,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Lead a virtual client presentation on a new carbon footprint analysis.",
+                        "geocode": {
+                            "lat": 37.7930303,
+                            "lng": -122.4041427,
+                            "formatted_address": "580 California Street Financial District, 12th and 16th Floor, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 60,
+                        "location": "Regus Conference Room, 580 California St."
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Pick up a pre-ordered 'Be Well' salad for a quick and healthy lunch at her desk while reviewing industry news.",
+                        "geocode": {
+                            "lat": 37.7930278,
+                            "lng": -122.3940062,
+                            "formatted_address": "70 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt, 70 Mission St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep focus session: Analyze field data and draft the key findings for an upcoming Environmental Site Assessment report.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 150,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Internal team huddle to brainstorm on a new corporate sustainability strategy for a tech client.",
+                        "geocode": {
+                            "lat": 37.7930303,
+                            "lng": -122.4041427,
+                            "formatted_address": "580 California Street Financial District, 12th and 16th Floor, San Francisco, CA 94104, United States"
+                        },
+                        "duration": 45,
+                        "location": "Regus Shared Workspace, 580 California St."
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Carpool commute home, discussing the day and decompressing from work.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Financial District to North Beach Commute"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick stop for groceries for dinner and essentials for the week.",
+                        "geocode": {
+                            "lat": 37.8050802,
+                            "lng": -122.4254187,
+                            "formatted_address": "North Point St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's, North Point Shopping Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd38",
+                        "action": "Attend a Vinyasa flow class to de-stress and stretch after a day at the desk.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "North Beach Yoga Collective"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cook a healthy salmon and quinoa dinner with Mark while catching up on each other's day.",
+                        "geocode": {
+                            "lat": 37.8050114,
+                            "lng": -122.4118072,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Powell Street Apartment, North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch with her partner, watching an episode of 'Our Planet' on Netflix.",
+                        "geocode": {
+                            "lat": 37.8050114,
+                            "lng": -122.4118072,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Powell Street Apartment, North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: Read a few chapters of a novel, lay out clothes for tomorrow, and set an alarm.",
+                        "geocode": {
+                            "lat": 37.8050114,
+                            "lng": -122.4118072,
+                            "formatted_address": "Powell St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Powell Street Apartment, North Beach"
+                    }
+                ],
+                "day_overview": "A productive day for environmental consultant Sarah, balancing client work and data analysis in the Financial District with a wellness-focused evening and quality time with her partner in their North Beach neighborhood.",
+                "home_address": "2000 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.8030481,
+                    "lng": -122.4114137,
+                    "formatted_address": "2000 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Li Family"
+    }
+}

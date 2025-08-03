@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Tanaka",
+    "givenName": "Sarah",
+    "familyName": "Tanaka",
+    "jobTitle": "Content Marketing Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian or Pacific Islander"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Tanaka grew up in the quiet, sun-drenched suburbs of Sacramento, the only child of a pragmatic engineer father and a history-loving schoolteacher mother. Her childhood was a comfortable blend of Japanese traditions at home and classic Californian suburban life outside. While her father hoped she\u2019d find a stable career in a practical field, Sarah lost herself in books, eventually pursuing a Bachelor's in English Literature at UC Davis, where she fell in love with narrative theory and postmodern fiction.\n\nAfter graduation, the magnetic pull of San Francisco\u2014a city that felt like a living, breathing story\u2014was undeniable. She moved into a small, fog-laced apartment in the Inner Richmond with a college friend, initially juggling freelance copywriting gigs with a barista job. The turning point came six months ago when she landed a role as a Content Marketing Assistant at a mid-size tech company. The position was a compromise: it was writing, but instead of literary analysis, she now crafted blog posts about B2B cloud solutions and optimized SEO keywords.\n\nHer 0.0-mile commute means her life unfolds within the walls of her apartment. Days begin with the glow of her laptop, translating complex tech jargon into digestible content. The line between her bedroom and her office is nonexistent. Her primary social anchor is her roommate, Chloe, with whom she shares late-night talks over takeout from Clement Street. Weekends are her escape. She religiously explores the city on foot, finding solace in the misty trails of Golden Gate Park and inspiration in the worn facades of historic buildings.\n\nSarah feels perpetually caught between two worlds. By day, she\u2019s a cog in the relentless tech machine. By night, she nurtures a fledgling dream: to write a novel inspired by her grandmother\u2019s immigration story. San Francisco, for her, is both a cage and a catalyst. While the professional world can feel isolating and creatively stifling, the city itself\u2014its vibrant cultures, its dramatic landscapes, its inherent sense of possibility\u2014fuels the very stories she hopes to one day tell."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\udd71",
+                        "action": "Wake up, scroll through phone notifications, and start morning hygiene routine.",
+                        "geocode": {
+                            "lat": 37.7737605,
+                            "lng": -122.4324936,
+                            "formatted_address": "Lower Haight, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Lower Haight Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make avocado toast and pour-over coffee while listening to a news podcast.",
+                        "geocode": {
+                            "lat": 37.7737605,
+                            "lng": -122.4324936,
+                            "formatted_address": "Lower Haight, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Lower Haight Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the McAllister St & Fillmore St stop and take the 5-Fulton bus eastward.",
+                        "geocode": {
+                            "lat": 37.7484703,
+                            "lng": -122.3907006,
+                            "formatted_address": "1301 Cesar Chavez St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 40,
+                        "location": "SFMTA Muni"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at her desk, grab tea from the communal kitchen, and review the day's tasks on Asana.",
+                        "geocode": {
+                            "lat": 37.7910262,
+                            "lng": -122.4035304,
+                            "formatted_address": "364 Bush St, San Francisco, CA 94104, United States"
+                        },
+                        "duration": 60,
+                        "location": "AbOvo Space"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Draft a new blog post analyzing recent industry trends and optimizing it for SEO.",
+                        "geocode": {
+                            "lat": 37.7910262,
+                            "lng": -122.4035304,
+                            "formatted_address": "364 Bush St, San Francisco, CA 94104, United States"
+                        },
+                        "duration": 150,
+                        "location": "AbOvo Space"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a 'Not So Fried' Chicken Sandwich with a coworker for lunch.",
+                        "geocode": {
+                            "lat": 37.7913266,
+                            "lng": -122.3963941,
+                            "formatted_address": "300 Mission St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mendocino Farms"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Design social media graphics in Canva and schedule posts for the upcoming product launch.",
+                        "geocode": {
+                            "lat": 37.7910262,
+                            "lng": -122.4035304,
+                            "formatted_address": "364 Bush St, San Francisco, CA 94104, United States"
+                        },
+                        "duration": 120,
+                        "location": "AbOvo Space"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8d",
+                        "action": "Wrap up the day's projects and join the crowded evening commute home on the bus.",
+                        "geocode": {
+                            "lat": 37.7484703,
+                            "lng": -122.3907006,
+                            "formatted_address": "1301 Cesar Chavez St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 45,
+                        "location": "SFMTA Muni"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pop in to pick up ingredients for dinner and some snacks for the week.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Attend a Vinyasa Flow yoga class to de-stress and stretch after a day at the desk.",
+                        "geocode": {
+                            "lat": 37.7653724,
+                            "lng": -122.4217984,
+                            "formatted_address": "473 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Love Story Yoga"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Cook a simple salmon and roasted broccoli dinner while video-calling her parents.",
+                        "geocode": {
+                            "lat": 37.7737605,
+                            "lng": -122.4324936,
+                            "formatted_address": "Lower Haight, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Lower Haight Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watch an episode of a new streaming series, and unwind.",
+                        "geocode": {
+                            "lat": 37.7737605,
+                            "lng": -122.4324936,
+                            "formatted_address": "Lower Haight, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Lower Haight Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Tidy up, do her skincare routine, and read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7737605,
+                            "lng": -122.4324936,
+                            "formatted_address": "Lower Haight, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Lower Haight Apartment"
+                    }
+                ],
+                "day_overview": "A productive weekday for a young tech professional, balancing focused content creation in the Financial District with a relaxing yoga session and a quiet evening at home in her Lower Haight neighborhood.",
+                "home_address": "373 Fillmore St, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7729043,
+                    "lng": -122.4309156,
+                    "formatted_address": "373 Fillmore St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

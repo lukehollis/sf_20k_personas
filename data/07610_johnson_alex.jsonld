@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Alex Johnson",
+    "givenName": "Alex",
+    "familyName": "Johnson",
+    "jobTitle": "Preschool Teacher's Aide",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Education"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Alex Johnson\u2019s story began not in San Francisco, but in a quiet Sacramento suburb. Adopted as an infant from South Korea by a loving Caucasian couple, his surname was his first lesson in being different. He grew up cherished but perpetually navigating a subtle sense of otherness. His well-meaning parents, an engineer and a dental hygienist, encouraged a practical path. Following their advice, Alex enrolled in the Computer Science program at UC Davis, trying to code his way into a future that felt secure, yet profoundly alien.\n\nThe turning point came during his sophomore year. Staring at lines of Python code, Alex felt a complete and total emptiness. He dropped out, a decision that fractured his relationship with his parents, and spent a year drifting through temp jobs. One of those gigs was a last-minute request to help supervise an after-school program at a community center. Surrounded by the chaotic, unfiltered energy of young children, something clicked. He wasn\u2019t just good with them; he felt a sense of purpose he\u2019d never found in a computer lab. This was his calling.\n\nHe moved to San Francisco, drawn by its promise of acceptance and community. He settled in a small in-law unit in the Inner Richmond, a neighborhood where he could finally blend in and stand out on his own terms. He found a job as a teacher's aide at a small, play-based preschool just three blocks from his apartment. His zero-mile commute is a cornerstone of his life, allowing him to be deeply embedded in his community. His days are a whirlwind of tying shoes, mediating disputes over toy dinosaurs, and finding wonder in sidewalk chalk art.\n\nNow 31, Alex\u2019s life is simple but rich. His social circle revolves around fellow teachers and the families from the school, a found-family that feels more authentic than any he's known. He spends his weekends exploring Golden Gate Park or trying new restaurants on Clement Street. His dream is no longer about financial success but about impact. He\u2019s slowly saving and taking online classes, hoping to earn his Early Childhood Education credential and one day open his own small, community-focused preschool. For the first time, Alex feels completely, unreservedly, himself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Wake up, shower, get dressed, and brew a strong pot of coffee.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Apartment on Grant Avenue"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Pack a lunch and snacks for the day to save money.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Kitchen in North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk to the bus stop, enjoying the morning air in the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7992232,
+                            "lng": -122.4086742,
+                            "formatted_address": "Columbus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Columbus Avenue Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute across town: take the 30 Stockton bus and transfer to the N Judah Muni Metro line.",
+                        "geocode": {
+                            "lat": 37.8071238,
+                            "lng": -122.4115362,
+                            "formatted_address": "2301 Stockton St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 50,
+                        "location": "Muni Bus & Metro System"
+                    },
+                    {
+                        "emoji": "\ud83e\uddf8",
+                        "action": "Arrive at work, greet coworkers, and help set up the classroom for the children's arrival.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "UCSF Child Care Center at Parnassus"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa8",
+                        "action": "Supervise morning free play, lead circle time with songs, and manage an arts and crafts project.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "UCSF Child Care Center at Parnassus"
+                    },
+                    {
+                        "emoji": "\ud83c\udf71",
+                        "action": "Eat a packed lunch and take a short, refreshing walk for some fresh air.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 60,
+                        "location": "UCSF Parnassus Campus Courtyard"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Oversee nap time for the younger children, followed by outdoor playground supervision.",
+                        "geocode": {
+                            "lat": 37.7689662,
+                            "lng": -122.3934803,
+                            "formatted_address": "727 Nelson Rising Ln, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 180,
+                        "location": "UCSF Child Care Center Playground"
+                    },
+                    {
+                        "emoji": "\u2728",
+                        "action": "Tidy the classroom, help children gather their belongings, and say goodbye as parents arrive.",
+                        "geocode": {
+                            "lat": 37.764284,
+                            "lng": -122.454569,
+                            "formatted_address": "Parnassus Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "UCSF Child Care Center at Parnassus"
+                    },
+                    {
+                        "emoji": "\ud83d\ude83",
+                        "action": "Begin the commute home, taking the N Judah Metro back towards downtown to transfer to the bus.",
+                        "geocode": {
+                            "lat": 37.78465,
+                            "lng": -122.40709,
+                            "formatted_address": "Powell Station, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 55,
+                        "location": "UCSF/Parnassus Muni Station"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the neighborhood market to pick up fresh produce for dinner.",
+                        "geocode": {
+                            "lat": 37.8017741,
+                            "lng": -122.411641,
+                            "formatted_address": "725 Greenwich St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "North Beach Farmers' Market Stand"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple and healthy dinner while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Kitchen in North Beach Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch a new episode of a favorite show on a streaming service.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Living Room, Grant Avenue Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Tidy up, lay out clothes for the next day, and read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.797483,
+                            "lng": -122.4069694,
+                            "formatted_address": "Grant Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Apartment on Grant Avenue"
+                    }
+                ],
+                "day_overview": "A busy day for a preschool teacher's aide, involving a cross-town Muni commute from North Beach to Parnassus Heights, a day filled with creative activities with children, and an evening of self-care and relaxation back in the neighborhood.",
+                "home_address": "2619 Grant Ave, San Francisco, CA 94133",
+                "home_geocode": {
+                    "lat": 37.8080891,
+                    "lng": -122.4091148,
+                    "formatted_address": "2619 Grant Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "North Beach",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "1993",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Johnson Family"
+    }
+}

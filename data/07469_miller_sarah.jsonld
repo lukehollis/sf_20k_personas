@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Administrative Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s life has been a quiet study in responsibility. Raised in Concord by her Chinese-American mother and white father, she was the steady, dependable daughter who balanced her American upbringing with the cultural expectations of her maternal family. She enrolled at San Francisco State University, tentatively pursuing a degree in art history, a private passion that felt like a secret world away from the pragmatic suburbs.\n\nHer educational journey was cut short in her third year. When her mother was diagnosed with a chronic illness, Sarah left school without a second thought and moved back home to become a primary caregiver. Needing immediate, stable work, she took an entry-level position at a local insurance company. There, she discovered an innate talent for organization and navigating complex personalities. What began as a temporary measure solidified into a career; she was the unflappable administrative assistant who kept the office running, the quiet engine behind the scenes.\n\nThe major turning point came with the pandemic. Her company transitioned to a permanent remote work model, and for the first time in over fifteen years, Sarah was untethered. With her mother\u2019s health now stable and managed by a home-care aide, Sarah finally made the move she\u2019d dreamed of since college. She found a modest one-bedroom apartment in the Inner Richmond, a neighborhood that felt like a perfect blend of city energy and residential calm.\n\nNow, her daily routine is defined by the 0.0-mile commute from her bedroom to her desk. Her world is her apartment, but her neighborhood is her sanctuary. She starts her mornings with a walk in Golden Gate Park and knows the baristas at her local Clement Street coffee shop by name. Her social life is small but meaningful, consisting of a weekly yoga class and a couple of close friends from her old job. Secure in her career but yearning for more personal fulfillment, Sarah has recently started looking into online courses to finally finish the degree she put on hold. Her dream isn't grand; it's simply to reclaim a piece of the young woman she was, nurturing her love for art in the city she now proudly calls home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, make a pour-over coffee, and have a quick avocado toast breakfast while checking the morning fog over Ocean Beach.",
+                        "geocode": {
+                            "lat": 37.760818,
+                            "lng": -122.5014829,
+                            "formatted_address": "3654 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home at 3654 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Get ready for the day, changing into comfortable walking gear and packing work clothes and essentials for the long commute.",
+                        "geocode": {
+                            "lat": 37.760818,
+                            "lng": -122.5014829,
+                            "formatted_address": "3654 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home at 3654 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Begin the long morning commute walk, listening to a podcast while trekking through Golden Gate Park towards the city.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Golden Gate Park Path"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, change into work attire, and settle in at her desk with a glass of water.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Doorhaus Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Morning work session: manage team calendars, sort through inbound emails, and process expense reports.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 180,
+                        "location": "Doorhaus Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk to a local favorite spot to pick up a carnitas torta and bring it back to the office to eat.",
+                        "geocode": {
+                            "lat": 37.7526784,
+                            "lng": -122.4087289,
+                            "formatted_address": "2833 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Torta Gorda"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Afternoon work session: coordinate logistics for an upcoming team offsite and order new office supplies.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Doorhaus Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Meet with project managers to align on quarterly scheduling and resource allocation.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Doorhaus Conference Room 'Clarion'"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Wrap up final tasks, create a to-do list for tomorrow, and change back into walking shoes for the commute home.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "Doorhaus Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commence the long walk home, switching to a music playlist and enjoying the evening city atmosphere.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Streets of the Mission & The Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83c\udf4e",
+                        "action": "Stop at a neighborhood market to pick up fresh ingredients for a simple dinner.",
+                        "geocode": {
+                            "lat": 37.7606337,
+                            "lng": -122.5043581,
+                            "formatted_address": "3930 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Other Avenues Grocery Co-op"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Prepare and eat a simple homemade dinner while watching a show on a streaming service to unwind.",
+                        "geocode": {
+                            "lat": 37.760818,
+                            "lng": -122.5014829,
+                            "formatted_address": "3654 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home at 3654 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening wind-down: do some light stretching, read a few chapters of a novel, and pack her bag for the next day.",
+                        "geocode": {
+                            "lat": 37.760818,
+                            "lng": -122.5014829,
+                            "formatted_address": "3654 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home at 3654 Judah St"
+                    }
+                ],
+                "day_overview": "A structured day for an administrative assistant who balances a busy work schedule in the Mission with a lengthy, meditative walking commute from her home in the Outer Sunset.",
+                "home_address": "3654 Judah St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.760818,
+                    "lng": -122.5014829,
+                    "formatted_address": "3654 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Patel",
+    "givenName": "Sarah",
+    "familyName": "Patel",
+    "jobTitle": "Clinical Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Outer Sunset Resident"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Patel\u2019s identity was forged in motion. The daughter of a globetrotting Indian academic father and an Irish-American poet mother, her childhood was a collage of university towns and borrowed cultures. She never felt rooted in a single ethnic identity, instead developing a keen sensitivity to the nuances of human connection and the quiet loneliness of being an outsider. This nomadic upbringing became the bedrock of her empathy.\n\nThe turning point came at sixteen when her younger brother, buckling under the weight of undiagnosed anxiety, finally found a lifeline in a compassionate school social worker. Witnessing this practical, gentle intervention succeed where her parents' intellectualism had failed ignited a passion in Sarah. She pursued a Bachelor's in Psychology, followed by a Master of Social Work from San Francisco State University, a degree that brought her to the city she would finally call home.\n\nHer early career was a trial by fire in a bustling, underfunded community clinic in the Mission District. While the work was fulfilling, the relentless pace led to burnout. Seeking sustainability, Sarah made a pivotal change. She established her own private practice, specializing in telehealth for professionals grappling with the city\u2019s unique pressures. Her 0.0-mile commute is from her bedroom to the small, sunlit office nook in her Inner Richmond apartment. Her days are now structured by video calls with clients, punctuated by long, meditative walks through Golden Gate Park.\n\nNow 37, Sarah\u2019s life is one of curated intention. Her social circle is small but deep, comprised of a few trusted friends she meets for leisurely dinners at local Burmese or Russian restaurants. She is deeply connected to her neighborhood's quiet rhythm, a stark contrast to the high-strung energy of her clients' lives. Her dream isn\u2019t expansion or wealth, but depth. She aspires to start a low-cost support group for local artists and mentor new social workers, ensuring the city that gave her a home also benefits from the quiet, steady compassion she has spent a lifetime cultivating."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was sixteen, standing in the hallway when her brother came out from his meeting with the school social worker. He wasn't fixed, but the frantic energy that clung to him like static was gone. He looked at her and gave a small, weary smile\u2014the first real one in months. In that quiet moment, she understood. Help wasn't an intellectual thesis or a poem; it was a calm presence in a quiet room. It was a lifeline. That simple, exhausted smile set the entire course of her life.\n\n2.\nOne foggy evening during her first semester at SF State, feeling utterly adrift, she walked until she hit the western edge of Golden Gate Park. The cypress trees were black silhouettes against the gray, milky sky. For the first time, her anonymity didn't feel like loneliness; it felt like freedom. The city wasn't asking who her parents were or where she'd been. It simply held her in its cool, damp embrace. This, she realized, with a sudden, grounding certainty, was what it felt like to choose a home.\n\n3.\nThe breaking point came in her late twenties, sitting in her car after a grueling shift at the Mission clinic. She stared at the pile of client files on the passenger seat, each one representing a universe of pain she was meant to help navigate. She felt nothing. Not sadness, not frustration, just a terrifying, hollowed-out emptiness. The empathy that had defined her was gone, consumed by the sheer volume of need. It was a brutal lesson in self-preservation, sparking the pivot toward a sustainable, intentional practice.\n\n4.\nShe remembers a recent dinner at Cinderella Bakery, the steam from the pelmeni warming her face. Her friend was recounting a work disaster, her voice tight with stress. Sarah just listened, offering nothing more than her quiet, full attention. There was an unspoken ease between them, a deep comfort that needed no therapeutic framework. This, she thought, is the anchor. This simple, mutual act of witnessing is the nourishment that makes her own work with others possible. It\u2019s what she works to protect.\n\n5.\nA year into her private practice, a high-achieving tech founder stared back at her from the screen, his polished composure finally cracking. He spoke of a loneliness so profound it felt like a physical weight. In that moment of pixelated vulnerability, Sarah felt the connection as deeply as if they were in the same room. It was a profound affirmation. Her quiet work, her 0.0-mile commute, wasn\u2019t a retreat from the world, but a new, vital way of reaching into its most isolated corners."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Morning Routine: Wake up, meditate for 15 minutes, and have coffee and oatmeal with her partner.",
+                        "geocode": {
+                            "lat": 37.76709,
+                            "lng": -122.42965,
+                            "formatted_address": "Market St & Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home (Market & Church)"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Get Ready for Work: Shower, get dressed, and pack her work bag with notes and lunch.",
+                        "geocode": {
+                            "lat": 37.76709,
+                            "lng": -122.42965,
+                            "formatted_address": "Market St & Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Market & Church)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Public Transit Commute: Walk to Church St Station and take the K/L/M Muni Metro to the Financial District.",
+                        "geocode": {
+                            "lat": 37.7895433,
+                            "lng": -122.401063,
+                            "formatted_address": "Montgomery St. Station, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Church St Station to Montgomery St Station"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Morning Prep: Arrive at the office, settle in, review her schedule and confidential client files for the day.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 30,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Employee Counseling Sessions: Conduct two back-to-back confidential one-on-one sessions with employees.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 120,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Clinical Documentation: Write detailed and required progress notes from morning sessions.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 75,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch Break: Walk a few blocks to grab a healthy grain bowl and eat at an outdoor table to clear her head.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 60,
+                        "location": "sweetgreen (SoMa)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcac",
+                        "action": "Afternoon Client Block: Conduct two more employee sessions, one intake and one follow-up.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 120,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Case Consultation Meeting: Meet with her supervisor to discuss complex cases and intervention strategies.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 60,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "End of Day Wrap-Up: Finalize all documentation, respond to non-urgent emails, and plan tomorrow's priorities.",
+                        "geocode": {
+                            "lat": 37.7933632,
+                            "lng": -122.4027737,
+                            "formatted_address": "420 Montgomery St, San Francisco, CA 94111, United States"
+                        },
+                        "duration": 30,
+                        "location": "Wells Fargo Corporate Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe1",
+                        "action": "Commute Home: Take the Muni Metro from Montgomery Station back toward the Castro.",
+                        "geocode": {
+                            "lat": 37.7841282,
+                            "lng": -122.3915505,
+                            "formatted_address": "329 Bryant St #3a, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 35,
+                        "location": "Muni K/L/M Line"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Grocery Errand: Hop off Muni and walk to the local grocery store for dinner ingredients.",
+                        "geocode": {
+                            "lat": 37.7687595,
+                            "lng": -122.4270525,
+                            "formatted_address": "2001 Market St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Whole Foods Market (2001 Market St)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "De-stress with Yoga: Attend a vinyasa flow class to unwind physically and mentally from the day.",
+                        "geocode": {
+                            "lat": 37.7608937,
+                            "lng": -122.435033,
+                            "formatted_address": "The Castro, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 75,
+                        "location": "CorePower Yoga (Castro)"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Dinner with Partner: Cook and eat a salmon and quinoa dinner together, sharing stories from the day.",
+                        "geocode": {
+                            "lat": 37.76709,
+                            "lng": -122.42965,
+                            "formatted_address": "Market St & Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (Market & Church)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Evening Wind-Down: Relax on the sofa with her partner, watching a new episode of a favorite show.",
+                        "geocode": {
+                            "lat": 37.76709,
+                            "lng": -122.42965,
+                            "formatted_address": "Market St & Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Market & Church)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Prepare for Bed: Read a novel (non-work related) to quiet her mind before sleep.",
+                        "geocode": {
+                            "lat": 37.76709,
+                            "lng": -122.42965,
+                            "formatted_address": "Market St & Church St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (Market & Church)"
+                    }
+                ],
+                "day_overview": "A structured day for Sarah, a clinical social worker, balancing an emotionally demanding workday in the Financial District with a decompressive evening of yoga, errands, and quality time with her partner in their Castro/Duboce Triangle neighborhood.",
+                "home_address": "3329 Market St, San Francisco, CA 94111",
+                "home_geocode": {
+                    "lat": 37.7584162,
+                    "lng": -122.4438585,
+                    "formatted_address": "3329 Market St, San Francisco, CA 94114, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1987",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Patel Family"
+    }
+}

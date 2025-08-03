@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel Thompson",
+    "givenName": "Daniel",
+    "familyName": "Thompson",
+    "jobTitle": "Senior Research Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Daniel Thompson\u2019s world was always built on logic. Growing up in a quiet Portland suburb, the son of an electrical engineer father and a librarian mother, he was more comfortable with circuit boards and programming languages than with playground politics. His family background fostered a deep curiosity, encouraging his early aptitude for deconstructing problems and building elegant, digital solutions. This intellectual path led him from the University of Washington to a prestigious graduate program at Carnegie Mellon, where he earned a Master's in Machine Learning.\n\nRecruited directly into a top-tier San Francisco tech firm\u2019s R&D division, Daniel\u2019s ascent was swift. His key turning point came three years ago when he spearheaded a project developing a novel neural network architecture. The breakthrough earned him his \"Senior Research Scientist\" title and a significant raise, but the obsessive 100-hour work weeks it required cost him his five-year relationship. The breakup was a quiet, logical conclusion; their lives had simply become incompatible. This event cemented his current work-centric existence.\n\nToday, Daniel's universe is largely confined to his minimalist SoMa apartment, which doubles as his office. His 0.0-mile commute is a short walk from his bed to a standing desk dominated by three monitors. His days are a disciplined cycle of virtual meetings, deep-focus coding sprints, and digesting academic papers. He\u2019s a regular on Uber Eats, appreciating San Francisco for its world-class culinary options delivered directly to his door. He lives in the city but rarely engages with it, experiencing its vibrancy through his floor-to-ceiling windows.\n\nLately, a new variable has entered his personal equation: a yearning for something less quantifiable. While he professionally aspires to pio\u200b\u200b\u200b\u200bneer ethical AI frameworks, he privately dreams of hiking the Marin Headlands or learning to distinguish the neighborhood microclimates. He feels the pull to log off and connect with the tangible, unpredictable city just outside his building, hoping to solve the complex problem of his own isolation."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe remembers sitting on the edge of his bed three years ago, moments after she\u2019d left for good. There was no shouting, just a shared spreadsheet of their intertwined lives, now neatly partitioned. He felt a profound emptiness, not of heartbreak, but of a successfully solved equation whose result was zero. He closed his laptop, the click echoing in the apartment. That silence became the new architecture of his life, a space he deliberately, logically, filled with work.\n\n2.\nIt was 3 AM, also three years ago, the city a grid of lights below. He watched the validation loss curve for his neural network finally flatten, a perfect, elegant descent. There was no cheer, just a quiet, sharp intake of breath. For that instant, the universe felt comprehensible, a solvable system of inputs and outputs. This single moment of pure, logical victory was the reward that justified the 100-hour weeks. It became his new benchmark for fulfillment.\n\n3.\nHe must have been ten, sitting on the garage floor in Portland with his father. The air smelled of solder and dust. His dad explained how electricity followed the path of least resistance, a simple, beautiful rule. Daniel traced the green lines of a circuit board, feeling a deep sense of order and peace. That garage was his first cleanroom, the place where he learned that the world's messiness could always be contained within a predictable system.\n\n4.\nA few months back, on a Tuesday. He was staring out his SoMa window, processing a dataset, when he saw an elderly couple on the rooftop across the way. They were tending to a small garden of potted plants, laughing as one of them overwatered a tomato vine. The moment was so simple, so analog. It lodged in his mind like a bug in his code\u2014an illogical, inefficient, yet profoundly human variable he couldn't dismiss.\n\n5.\nLast month, during a video call, a colleague\u2019s virtual background wasn't a corporate logo but a photo: the Golden Gate Bridge, half-shrouded in fog, viewed from a windswept hill. The raw, untamed nature of it\u2014the unpredictable fog, the green hills\u2014was a stark contrast to his own curated view. He felt a sudden, visceral pull towards that specific vantage point. That image became the new problem he needed to solve: how to get from his chair to that hill."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up, start the coffee maker, and complete a 15-minute guided meditation.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Daniel's Bedroom, Noe Valley"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Shower, get dressed, and drink a pour-over coffee while reviewing the day's calendar.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Daniel's Home, Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from Noe Valley to the Mission, navigating morning traffic and finding a spot in the company garage.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF Streets & Doorhaus Parking Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Settle in at desk, sync with team on Slack, and analyze data from overnight model training runs.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 150,
+                        "location": "Doorhaus HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83d\udcbb",
+                        "action": "Attend daily stand-up meeting to discuss progress on the new predictive logistics engine.",
+                        "geocode": {
+                            "lat": 37.7876372,
+                            "lng": -122.3967284,
+                            "formatted_address": "44 Tehama St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 25,
+                        "location": "Doorhaus HQ - 'The Last Mile' Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2f",
+                        "action": "Walk with a coworker to grab a Mission-style burrito for lunch.",
+                        "geocode": {
+                            "lat": 37.7120804,
+                            "lng": -122.4054555,
+                            "formatted_address": "98 Leland Ave, San Francisco, CA 94134, USA"
+                        },
+                        "duration": 50,
+                        "location": "El Buen Sabor"
+                    },
+                    {
+                        "emoji": "\ud83d\udd8a\ufe0f",
+                        "action": "Peer review a colleague's code for a new data preprocessing script.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "Doorhaus HQ"
+                    },
+                    {
+                        "emoji": "\ud83e\uddea",
+                        "action": "Deep work session: Writing Python scripts to prototype a new machine learning feature.",
+                        "geocode": {
+                            "lat": 37.7581045,
+                            "lng": -122.4188227,
+                            "formatted_address": "2431 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Doorhaus HQ - 'The Hot Bag' Quiet Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude99",
+                        "action": "Commute home, driving from the Mission back to Noe Valley.",
+                        "geocode": {
+                            "lat": 37.7521167,
+                            "lng": -122.4206802,
+                            "formatted_address": "Valencia St & 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 25,
+                        "location": "Valencia Street & 24th Street"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Stop for a post-work bouldering session to decompress and exercise.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs Climbing & Fitness"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up fresh pasta and produce for dinner.",
+                        "geocode": {
+                            "lat": 37.7734015,
+                            "lng": -122.4213719,
+                            "formatted_address": "Market St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Noe Valley Harvest Market"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple but satisfying dinner while listening to a tech news podcast.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Daniel's Kitchen, Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Unwind by reading a speculative fiction novel on the couch.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Daniel's Living Room, Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Tidy up, pack bag for tomorrow, and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Daniel's Home, Noe Valley"
+                    }
+                ],
+                "day_overview": "A focused day for a research scientist, balancing intense data analysis at his Mission-based tech job with an evening bouldering session and quiet, intellectual pursuits at his Noe Valley home.",
+                "home_address": "583 24th St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7542166,
+                    "lng": -122.385815,
+                    "formatted_address": "583 24th St, San Francisco, CA 94107, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1990",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Thompson Family"
+    }
+}

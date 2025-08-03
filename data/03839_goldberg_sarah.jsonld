@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Goldberg",
+    "givenName": "Sarah",
+    "familyName": "Goldberg",
+    "jobTitle": "Licensed Clinical Social Worker (LCSW)",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Goldberg\u2019s life has been a quiet study in the complexities of human connection, a theme that began in her childhood home in a leafy Boston suburb. Raised by two loving but emotionally reserved academics, she grew up in a house filled with books but short on overt displays of affection. This environment fostered in her a deep curiosity about the unspoken currents that run between people, setting her on a path to understand what her own family couldn't easily articulate.\n\nShe pursued this interest with academic vigor, earning a bachelor\u2019s in psychology before completing a Master of Social Work (MSW) at Boston University. Her early career as an LCSW was a trial by fire in the emergency department of a major hospital, a role that exposed her to the rawest forms of human crisis. The relentless pace, coupled with the slow unraveling of her own marriage, led to profound burnout at age 32. This breaking point became her turning point. Seeking a fundamental life change, she divorced, packed her life into a few boxes, and moved to San Francisco.\n\nIn San Francisco, Sarah found a city that mirrored her own desire for reinvention. After a few years working within a large healthcare system, she took a leap of faith, establishing a private telehealth practice from her quiet apartment in the Inner Sunset. This decision eliminated her commute and allowed her to craft a life of intention.\n\nNow, at 41, her days follow a gentle rhythm. Mornings begin with a foggy walk through Golden Gate Park, followed by hours of telehealth sessions from a sunlit home office, where she guides clients through their own emotional landscapes. Her social life is a small, curated circle of friends met through hiking groups and a shared love for the city\u2019s independent bookstores. Though content, Sarah dreams of deepening her work, perhaps by writing a book on emotional intimacy. More privately, she hopes to find a partnership that embodies the open, honest communication she champions every day, finally closing the loop that began in that quiet, loving, yet distant house in Boston."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers the fever at age nine, not for the illness, but for her father\u2019s voice reading passages on evolutionary biology from a dense armchair. The words were a meaningless drone, but the low, steady cadence was a kind of love\u2014present, yet unintelligible. It was the first time she understood that affection could exist in the spaces between words, a puzzle she would spend her life trying to solve. This memory became the quiet, foundational question of her career and her personal life.\n\n2.\nAt 32, in the fluorescent hum of the ER, she held a clipboard while an elderly man silently held his wife's hand for the last time. He never spoke; he just looked at Sarah with hollowed eyes. In that moment, the weight of her own failing, silent marriage crashed down on her. The profound, wordless grief in the room exposed her own emotional exhaustion. It was the breaking point that proved she couldn't fix others until she addressed the quiet crisis within herself.\n\n3.\nHer first night in San Francisco, she stood on a hill in a friend-of-a-friend\u2019s spare room, looking out at the city lights blurred by a thick blanket of fog. After the cross-country drive from a dismantled life in Boston, the fog didn't feel oppressive; it felt like a curtain, a gentle erasure. It promised not emptiness, but anonymity and a clean slate. For the first time in years, she felt the terrifying, exhilarating thrill of pure possibility, a feeling she\u2019d chase for years.\n\n4.\nOn a solo morning walk a year after starting her private practice, she stumbled into the AIDS Memorial Grove in Golden Gate Park. The quiet was different there\u2014heavy, sacred, and intentional. Reading the names etched in stone, she felt a profound, communal sense of acknowledged loss and resilience. It wasn't about her own pain, but about belonging to a city that holds space for healing. In that moment, San Francisco ceased to be a place she moved to; it became her home.\n\n5.\nJust last year, a client on her screen had a breakthrough, tearfully describing a moment of true, articulated intimacy with their partner. Sarah guided him, her professional joy swelling. But when the session ended and the screen went black, she was left staring at her own reflection in the quiet room. The vicarious triumph was instantly replaced by a sharp, clear longing. It crystallized her final goal: to not just facilitate that connection for others, but to finally build it for herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+                        "action": "Wake up and practice mindfulness meditation to prepare for the day's emotional demands.",
+                        "geocode": {
+                            "lat": 37.7615226,
+                            "lng": -122.478512,
+                            "formatted_address": "1523 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Bedroom, 1523 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Shower, get dressed in business casual attire, and eat a quick breakfast of toast and avocado.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home, 1523 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Walk to the corner to catch the train, listening to the 'KQED Forum' podcast.",
+                        "geocode": {
+                            "lat": 37.7616706,
+                            "lng": -122.4780963,
+                            "formatted_address": "20th Ave & Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 5,
+                        "location": "Judah St & 20th Ave Muni Stop"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Commute on the N Judah Muni Metro line, reading a novel to create mental space before work.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "N Judah Muni Line (Inbound)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle into work: grab a coffee, review the day's patient schedule, and respond to urgent emails from the care team.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 30,
+                        "location": "Personal Office, UCSF Medical Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct back-to-back individual counseling sessions with patients dealing with recent diagnoses.",
+                        "geocode": {
+                            "lat": 37.7627945,
+                            "lng": -122.4580139,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "Patient Consultation Room, UCSF Hospital"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Take a much-needed lunch break, walking to a nearby cafe to grab a salad and get some fresh air.",
+                        "geocode": {
+                            "lat": 37.7642408,
+                            "lng": -122.4646831,
+                            "formatted_address": "624 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 50,
+                        "location": "Crepevine on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Complete detailed patient progress notes and attend an interdisciplinary team meeting to coordinate patient care plans.",
+                        "geocode": {
+                            "lat": 37.7847222,
+                            "lng": -122.4016667,
+                            "formatted_address": "720 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "UCSF Conference Room B"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f\u200d\ud83e\ude79",
+                        "action": "Facilitate a support group for family members of patients in long-term care.",
+                        "geocode": {
+                            "lat": 37.7318065,
+                            "lng": -122.3897866,
+                            "formatted_address": "1601 Lane St, San Francisco, CA 94124, USA"
+                        },
+                        "duration": 75,
+                        "location": "Family Resource Center, UCSF"
+                    },
+                    {
+                        "emoji": "\ud83c\udfb6",
+                        "action": "Commute home on the N Judah, listening to a calming playlist to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "N Judah Muni Line (Outbound)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a refreshing run to clear her head and release the day's stress.",
+                        "geocode": {
+                            "lat": 37.7724448,
+                            "lng": -122.44637,
+                            "formatted_address": "The Panhandle, Stanyan St & Fell St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Prepare and eat a simple dinner while watching an episode of a favorite show on HBO Max.",
+                        "geocode": {
+                            "lat": 37.7615226,
+                            "lng": -122.478512,
+                            "formatted_address": "1523 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Kitchen, 1523 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83e\uddfa",
+                        "action": "Tidy up the apartment, pack lunch for the next day, and lay out work clothes.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home, 1523 Judah St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down with a cup of chamomile tea and read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7853041,
+                            "lng": -122.4005404,
+                            "formatted_address": "181 3rd St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Living Room, Home"
+                    }
+                ],
+                "day_overview": "A structured and emotionally demanding day for a clinical social worker, balancing intensive patient care at UCSF with personal self-care routines. The day is framed by a commute on the N Judah, which serves as a crucial transition time between her work life in Parnassus and her home life in the Outer Sunset.",
+                "home_address": "1523 Judah St, San Francisco, CA 94116",
+                "home_geocode": {
+                    "lat": 37.7615226,
+                    "lng": -122.478512,
+                    "formatted_address": "1523 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1983",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Goldberg Family"
+    }
+}

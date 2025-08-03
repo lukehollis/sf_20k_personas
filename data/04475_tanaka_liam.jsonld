@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Tanaka",
+    "givenName": "Liam",
+    "familyName": "Tanaka",
+    "jobTitle": "Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Tanaka is a third-generation Japanese-American, a child of the quiet suburbs of San Jose. His father, a pragmatic hardware engineer, and his mother, a patient middle-school teacher, raised him with a deep respect for stability and education. His childhood was a comfortable loop of good schools, family trips to Japantown, and the persistent hum of Silicon Valley\u2019s ambition in the background. Yet, Liam always felt a pull toward the messier, less quantifiable aspects of human existence.\n\nThis fascination led him to pursue a B.A. in Cognitive Science at UC Davis, where he fell in love with the architecture of the human mind. However, the pressure to forge a stable career, a quiet inheritance from his parents, guided him toward a more practical path. He enrolled in UC Berkeley\u2019s School of Information, earning a Master's that perfectly bridged his passion with marketability. He learned to translate human behavior into predictive models, a skill that landed him a lucrative Data Scientist role at a mid-sized tech startup.\n\nNow 26, Liam\u2019s life is centered in his Hayes Valley apartment, which doubles as his office. The 0.0-mile commute means his world has become hyperlocal. His days begin with an oat milk latte from a cafe on his block and are structured by focused work sessions analyzing user engagement data. He finds a strange poetry in the digital breadcrumbs people leave behind, a story told in clicks and session times. To escape the isolation of remote work, he is a regular at a rock-climbing gym in the Mission, the physical problem-solving a welcome antidote to his screen-heavy profession.\n\nHis connection to San Francisco is deep but narrow, confined to the walkable radius around his home and his climbing community. He has a tight-knit circle of friends from his Master\u2019s program, but his dating life is a series of polite, app-brokered encounters. Deep down, Liam hopes to one day pivot his skills toward something more meaningful. He dreams of applying his data expertise to urban planning or mental health initiatives, to reconnect his work with the human element that first captivated him. For now, he finds solace in the patterns, both on his screen and in the fog rolling over his neighborhood."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nHe was ten, maybe eleven, at the Cherry Blossom Festival in Japantown. His parents bought him a candied apple, but he barely touched it. He was mesmerized by the taiko drummers, the thunderous, unified rhythm that seemed to shake the pavement. In that crowd, he felt the invisible lines of connection between strangers, a massive, messy, beautiful human algorithm playing out in real time. It was the first time he sensed a pattern in the chaos, a feeling he would chase for the rest of his life.\n\n2.\nIn a fluorescent-lit lecture hall at UC Davis, a professor described phantom limb syndrome, how the brain holds a ghost of what is lost. Liam felt a jolt, a sense of vertigo. It wasn't just neuroscience; it was poetry. The idea that our internal map could be more real than reality itself was the most profound thing he had ever heard. That day, the abstract architecture of the mind became his cathedral, a place of infinite, fascinating complexity he knew he had to explore.\n\n3.\nThe day he chose Berkeley\u2019s School of Information, he sat with his father at their kitchen table. He didn\u2019t mention the Cognitive Science PhD programs he\u2019d bookmarked. As his dad read the acceptance letter, a slow, proud smile spread across his face\u2014the look of a man seeing a stable future for his son. Liam felt a quiet pang of resignation mixed with relief. It was a silent, loving compromise, the moment he steered his passion onto a more practical, paved road.\n\n4.\nIt took him six weeks to solve the blue V5 bouldering problem at the climbing gym. His forearms burned and his fingers were raw. Then one Tuesday night, something clicked. He moved through the sequence, his body remembering what his mind could not, and his hand slapped the final hold. The cheer from his friends below was a physical force. In that moment, sweaty and triumphant under the gym lights, he felt more connected and alive than a thousand hours of remote work had ever made him feel.\n\n5.\nJust last spring, walking home, he saw an older man meticulously tidying one of Hayes Valley\u2019s tiny sidewalk parklets, pulling weeds from a planter box. The simple, analog act of care struck him with unexpected force. It felt more significant than any user engagement metric he had optimized that day. He felt a deep, acute longing to make that kind of tangible, human-scale impact\u2014to use his skills not just to observe patterns, but to nurture a small piece of the world."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udfc3",
+                        "action": "Wake up and go for a refreshing morning run through the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7689203,
+                            "lng": -122.482977,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Golden Gate Park trails"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7820693,
+                            "lng": -122.4929249,
+                            "formatted_address": "3136 Clement St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home at 3136 Clement St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf73",
+                        "action": "Eat a quick breakfast and chat with family before leaving the house.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8f",
+                        "action": "Walk to the corner bus stop and catch the express bus downtown.",
+                        "geocode": {
+                            "lat": 37.7835463,
+                            "lng": -122.4925252,
+                            "formatted_address": "California St & 32nd Ave, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni Stop - California St & 32nd Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the hot desk, review overnight data pipeline jobs, and clean datasets for a new project.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 180,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Step out to grab a healthy salad bowl and eat at a nearby public plaza.",
+                        "geocode": {
+                            "lat": 37.7903917,
+                            "lng": -122.4037873,
+                            "formatted_address": "240 Kearny St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 60,
+                        "location": "Mixt on Kearny Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focus on developing and testing a new machine learning model prototype using Python and Scikit-learn.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 150,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Join a video call with product managers to present initial findings and discuss next steps.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Regus Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Wrap up for the day, comment code, push final changes to GitHub, and organize the task board for tomorrow.",
+                        "geocode": {
+                            "lat": 37.7928635,
+                            "lng": -122.4041134,
+                            "formatted_address": "580 California Street, 580 California St, San Francisco, CA 94104, USA"
+                        },
+                        "duration": 30,
+                        "location": "Regus - 580 California Street"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute home on the bus, listening to a tech podcast to decompress.",
+                        "geocode": {
+                            "lat": 37.7933931,
+                            "lng": -122.3967727,
+                            "formatted_address": "1 California St, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni 1 California Bus"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7",
+                        "action": "Stop for an after-work workout session to climb and de-stress.",
+                        "geocode": {
+                            "lat": 37.804171,
+                            "lng": -122.468189,
+                            "formatted_address": "924 Old Mason St, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 90,
+                        "location": "Movement Presidio Climbing Gym"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Enjoy a home-cooked meal with family and talk about the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Room"
+                    },
+                    {
+                        "emoji": "\ud83c\udfae",
+                        "action": "Relax on the couch, working on a personal data visualization project while streaming a show.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Read a few pages of a book and get ready for bed.",
+                        "geocode": {
+                            "lat": 37.7820693,
+                            "lng": -122.4929249,
+                            "formatted_address": "3136 Clement St, San Francisco, CA 94121, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home at 3136 Clement St"
+                    }
+                ],
+                "day_overview": "A productive day for a Data Scientist, starting with a run in Golden Gate Park, focusing on data modeling in a FiDi co-working space, and winding down with a bouldering session before a family dinner in the Richmond.",
+                "home_address": "3136 Clement St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.7820693,
+                    "lng": -122.4929249,
+                    "formatted_address": "3136 Clement St, San Francisco, CA 94121, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1998",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Williams",
+    "givenName": "Sarah",
+    "familyName": "Williams",
+    "jobTitle": "Licensed Clinical Social Worker",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Buddhist"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Williams\u2019 story began not amidst the cool fog of San Francisco, but in the sun-baked flatness of California's Central Valley. Raised in Fresno by a pragmatic high school history teacher and a no-nonsense CPA, her childhood was stable, predictable, and devoid of overt emotional expression. The turning point came at sixteen when her grandmother entered hospice care. Sarah witnessed a social worker navigate her family\u2019s grief, offering not pity, but practical tools and profound compassion. In those quiet, difficult moments, Sarah found her calling.\n\nShe pursued a psychology degree at UCLA before being accepted into UC Berkeley's prestigious Master of Social Work program, a move that permanently anchored her to the Bay Area. Her early career was a trial by fire: grueling years in child protective services, followed by a demanding role at a community health clinic in the Tenderloin. These experiences hardened her but never extinguished the empathy that drove her. Eventually, she transitioned into a more structured role as a Licensed Clinical Social Worker within a large hospital system, specializing in counseling patients and families navigating chronic illness and end-of-life care.\n\nHer personal life has been a quieter journey. A marriage in her early thirties ended amicably after seven years, a mutual decision that they were better friends than partners. Now, at 47, her life is her own. The pandemic shifted her entire practice to telehealth, eliminating her commute and transforming a spare bedroom into her clinical space.\n\nSarah lives in a cozy, book-filled apartment in the Inner Sunset. Her days follow a distinct rhythm: a morning walk in Golden Gate Park as the fog burns off, followed by hours of video sessions, holding virtual space for people on their hardest days. Evenings are for disconnecting\u2014a glass of wine, a good novel, or dinner with her small, tight-knit circle of friends. Her connection to San Francisco is deep; she loves the city's intellectual rigor and natural beauty but is also intimately aware of its systemic pains through her work. Her aspiration is no longer to climb a career ladder, but to distill her decades of experience. She dreams of writing a book on compassionate caregiving and creating workshops to mentor the next generation of social workers, ensuring the quiet, essential work she values continues long after she closes her laptop for the final time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Wake up and practice mindfulness meditation to center herself before the day's sessions.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare a pour-over coffee and read the news on a tablet while enjoying the morning light.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Transition to the home office, review daily schedule of Chime employee appointments, and organize her digital workspace.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Conduct back-to-back confidential virtual therapy sessions with employees.",
+                        "geocode": {
+                            "lat": 37.8011578,
+                            "lng": -122.4621822,
+                            "formatted_address": "Portal Dr, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 120,
+                        "location": "Chime Virtual Wellness Portal"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Take a short break to write up clinical notes, stretch, and refill water.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk downhill to grab a fresh 'Italian Combo' sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Eat lunch while sitting on a bench and people-watching in the sun.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 30,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Join a virtual weekly sync with the Chime HR and Wellness team to discuss program development and upcoming initiatives.",
+                        "geocode": {
+                            "lat": 37.8011578,
+                            "lng": -122.4621822,
+                            "formatted_address": "Portal Dr, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 60,
+                        "location": "Chime Virtual Wellness Portal"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Hold the final block of afternoon virtual therapy sessions.",
+                        "geocode": {
+                            "lat": 37.8011578,
+                            "lng": -122.4621822,
+                            "formatted_address": "Portal Dr, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 120,
+                        "location": "Chime Virtual Wellness Portal"
+                    },
+                    {
+                        "emoji": "\ud83d\uddc2\ufe0f",
+                        "action": "Complete and file all remaining client notes for the day, ensuring all administrative tasks are closed out.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0c",
+                        "action": "Shut down the work computer, tidy the desk, and consciously transition out of 'work mode'.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a brisk walk up the Filbert Street Steps for exercise and to clear her head with city views.",
+                        "geocode": {
+                            "lat": 37.8018004,
+                            "lng": -122.4056399,
+                            "formatted_address": "Filbert St, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Filbert Street Steps"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Meet a close friend for a casual weeknight dinner of Cioppino and conversation.",
+                        "geocode": {
+                            "lat": 37.7996705,
+                            "lng": -122.4083167,
+                            "formatted_address": "Sotto Mare Oysteria & Seafood, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "Sotto Mare Oysteria & Seafood"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by listening to a history podcast and reading a few chapters of a novel.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Living Room"
+                    }
+                ],
+                "day_overview": "A structured WFH day for Sarah, a corporate therapist, balancing virtual client sessions from her Russian Hill home with refreshing neighborhood walks, local errands, and a social dinner to decompress.",
+                "home_address": "1317 Powell St, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.79673710000001,
+                    "lng": -122.410349,
+                    "formatted_address": "1317 Powell St, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1977",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Williams Family"
+    }
+}

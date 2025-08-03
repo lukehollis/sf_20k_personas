@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Miller",
+    "givenName": "David",
+    "familyName": "Miller",
+    "jobTitle": "Registered Nurse",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Miller\u2019s world is contained within a single city block in the Inner Sunset. Born and raised in a no-nonsense suburb of Cleveland, he was the son of a factory worker, destined for a practical, uninspired life. He dutifully pursued an associate's degree in business, finding the coursework dull but the path secure. That predictable future shattered when his mother suffered a debilitating stroke. During the long weeks in the hospital, David wasn't focused on the doctors; he was mesmerized by the nurses. He watched how they blended clinical precision with a quiet, steady compassion that held his family together. It was a revelation. He dropped his business classes and enrolled in an Associate Degree in Nursing program.\n\nAfter graduating, he worked for five years in a Cleveland ER, but the gray winters and the ghosts of his family's medical trauma weighed on him. Craving a complete reset, he packed his car in his late twenties and drove west, drawn by the promise of San Francisco\u2019s energy and the high demand for nurses. He landed a job in the ICU at a major hospital and never looked back. The work was grueling, a relentless tide of human vulnerability, but he found his purpose in its rhythm. He became known for his unflappable calm during crises, a steady hand and a reassuring voice in the sterile chaos.\n\nA few years ago, an apartment opened up in a staff-priority building directly across the street from the hospital. The allure of a zero-mile commute was irresistible. Now, his life is one of managed simplicity. His days off are for quiet routines: a walk through Golden Gate Park, grocery shopping at the local market, and reading dense history books. His social circle is small, mostly colleagues who understand the unique pressures of their job. He\u2019s had relationships, but the demanding 12-hour shifts made them difficult to sustain.\n\nDavid\u2019s dream isn\u2019t grand. He hopes to transition from the high-intensity ICU to a quieter post-anesthesia care unit for his final working years. He envisions a retirement spent not in the city\u2019s bustling core, but perhaps in a small condo in Pacifica, where he can simply watch the fog roll in off the ocean, finding peace in a different kind of quiet."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check personal and work notifications on phone before getting out of bed.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\u2764\ufe0f",
+                        "action": "Assist his elderly father with his morning medication and getting his day started.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Prepare coffee and a simple breakfast of toast and fruit for himself and his father.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc54",
+                        "action": "Get dressed, pack his work laptop and notes, and say goodbye to his dad.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Drive from North Beach to the Financial District and park in a downtown garage.",
+                        "geocode": {
+                            "lat": 37.7827327,
+                            "lng": -122.4065096,
+                            "formatted_address": "Mission St & 5th St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "5th & Mission / Yerba Buena Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle into his dedicated desk, grab a complimentary coffee, and review his patient caseload for the day.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 60,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Conduct a series of scheduled telehealth video calls with patients, assessing symptoms and providing care advice.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 150,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to a popular local spot to grab a hearty roast beef sandwich for lunch.",
+                        "geocode": {
+                            "lat": 37.7883328,
+                            "lng": -122.4013604,
+                            "formatted_address": "37 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Sentinel"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Update patient electronic health records, coordinate care with other providers, and respond to emails.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 120,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Participate in a weekly virtual team huddle with his healthcare organization to discuss administrative updates.",
+                        "geocode": {
+                            "lat": 37.7896132,
+                            "lng": -122.4003745,
+                            "formatted_address": "575 Market St, San Francisco, CA 94105, United States"
+                        },
+                        "duration": 60,
+                        "location": "Mindspace Coworking San Francisco"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Pack up and begin the drive home, listening to a history podcast to decompress.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Personal Car"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Stop at a local Italian deli to pick up fresh pasta and sauce for an easy dinner.",
+                        "geocode": {
+                            "lat": 37.7984889,
+                            "lng": -122.4078667,
+                            "formatted_address": "373 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 20,
+                        "location": "Molinari Delicatessen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7d\ufe0f",
+                        "action": "Cook and share dinner with his father, discussing the day's events.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Take an evening walk to Washington Square Park, enjoying the view of Saints Peter and Paul Church.",
+                        "geocode": {
+                            "lat": 37.8007752,
+                            "lng": -122.4102464,
+                            "formatted_address": "Washington Square, Filbert St & Stockton Street, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 45,
+                        "location": "Washington Square Park"
+                    },
+                    {
+                        "emoji": "\u26be",
+                        "action": "Relax on the couch, watching a Giants game on TV with his dad.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home (North Beach Apartment)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a few chapters of a novel before turning in for the night.",
+                        "geocode": {
+                            "lat": 37.7994612,
+                            "lng": -122.4089071,
+                            "formatted_address": "North Beach, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Home (North Beach Apartment)"
+                    }
+                ],
+                "day_overview": "A busy day for David, balancing his remote nursing responsibilities as a telehealth case manager with caring for his elderly father in their North Beach home.",
+                "home_address": "2339 Grant Ave, San Francisco, CA 94108",
+                "home_geocode": {
+                    "lat": 37.797836,
+                    "lng": -122.4070403,
+                    "formatted_address": "2339 Grant Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Chinatown",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1973",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

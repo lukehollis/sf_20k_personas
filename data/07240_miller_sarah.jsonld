@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Assistant Store Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Castro Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story began not in the fog of San Francisco, but under the relentless sun of Redding, a place of suburban comfort and predictable futures. Raised by a pragmatic single mother who worked as a dental hygienist, Sarah was encouraged to be practical. But she harbored a quiet love for art and design, filling sketchbooks with visions of a more vibrant, creative life. San Francisco was her escape plan.\n\nAt 19, she made the leap, enrolling in graphic design courses at City College. The city was everything she\u2019d imagined: chaotic, diverse, and electric with possibility. She thrived for two years, working part-time at a clothing boutique to cover her rent in a shared Inner Richmond flat. However, her trajectory shifted when her mother was laid off. Feeling the weight of responsibility, Sarah paused her education, promising herself it was temporary, and took on full-time hours at the boutique to help support her family.\n\nThe \"temporary\" fix stretched into years. Sarah discovered a natural talent for retail management\u2014organizing inventory, managing staff, and connecting with customers. She was promoted to Assistant Manager. Her career success culminated in a rare San Francisco miracle: an apartment opened up in the unit directly above the Hayes Valley store she managed. With a 0.0-mile commute, her life became incredibly efficient but also incredibly contained.\n\nNow 27, Sarah\u2019s daily routine is a short loop. She wakes to the sounds of Hayes Street waking up, walks downstairs to open the shop, and ends her day by simply walking back upstairs. Her world has shrunk to a few city blocks. While she appreciates the security her job provides, a quiet dissatisfaction gnaws at her. She sees the city\u2019s vibrant life through the plate-glass window of the store and knows she is more of an observer than a participant.\n\nHer dream of being a designer hasn\u2019t died, merely hibernates. In the evenings, she sketches on a tablet, her forgotten portfolio a constant, silent reminder of the path not taken. Sarah\u2019s aspiration is to break free from her comfortable cage\u2014to save enough to finish her degree and finally design a life for herself, not just manage one for someone else."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for a long day on the retail floor.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make a quick breakfast of toast and avocado at home while listening to a podcast.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Get in the car and begin the short but traffic-heavy drive to SoMa.",
+                        "geocode": {
+                            "lat": 37.7616419,
+                            "lng": -122.4149807,
+                            "formatted_address": "Folsom St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "SF Streets (Broadway to Folsom)"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Arrive at work, park in the building garage, and walk to the store to begin pre-opening tasks.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Form & Function Collective, SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Store opens. Manage the sales floor, assist high-value clients, and support the team during the morning rush.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 180,
+                        "location": "Form & Function Collective, SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick salad and sandwich for lunch and eat in the breakroom.",
+                        "geocode": {
+                            "lat": 37.780602,
+                            "lng": -122.3961766,
+                            "formatted_address": "212 Ritch St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 45,
+                        "location": "Darwin Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Handle afternoon administrative work: create next week's staff schedule, review inventory reports, and place new orders.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Form & Function Collective (Back Office)"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Return to the sales floor to assist with the after-work customer surge and help the team prep for closing.",
+                        "geocode": {
+                            "lat": 37.7745616,
+                            "lng": -122.3984402,
+                            "formatted_address": "450 Townsend St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 75,
+                        "location": "Form & Function Collective, SOMAcentral"
+                    },
+                    {
+                        "emoji": "\ud83d\ude98",
+                        "action": "Lock up the store and head to the car to begin the commute home.",
+                        "geocode": {
+                            "lat": 37.7818086,
+                            "lng": -122.3886392,
+                            "formatted_address": "Townsend St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Streets (Townsend to The Embarcadero)"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Arrive home, drop off bags, change into comfortable clothes and decompress for a few minutes.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Walk to the local grocery store to pick up items for the next few days.",
+                        "geocode": {
+                            "lat": 37.8054852,
+                            "lng": -122.4137755,
+                            "formatted_address": "401 Bay St, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 40,
+                        "location": "Trader Joe's - North Beach"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Meet a friend for a casual pasta dinner at a favorite neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.8016074,
+                            "lng": -122.4117736,
+                            "formatted_address": "716 Columbus Ave, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Italian Homemade Company - North Beach"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down at home, watch an episode of a show on HBO Max, and scroll through social media.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment on Montgomery St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Lay out work clothes for tomorrow, do a skincare routine, and read a book before bed.",
+                        "geocode": {
+                            "lat": 37.7972385,
+                            "lng": -122.4036872,
+                            "formatted_address": "Montgomery St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment on Montgomery St"
+                    }
+                ],
+                "day_overview": "A busy day for a retail manager, balancing floor responsibilities and administrative tasks in SoMa, punctuated by a stressful commute, and winding down with errands and a casual dinner with a friend in her historic North Beach neighborhood.",
+                "home_address": "664 Montgomery St, San Francisco, CA 94104",
+                "home_geocode": {
+                    "lat": 37.7952805,
+                    "lng": -122.4029602,
+                    "formatted_address": "664 Montgomery St, San Francisco, CA 94111, USA"
+                },
+                "neighborhood": "Financial District",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1997",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

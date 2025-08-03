@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Brandon Miller",
+    "givenName": "Brandon",
+    "familyName": "Miller",
+    "jobTitle": "Junior Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Brandon Miller\u2019s world is a tidy five-block radius in San Francisco\u2019s Inner Richmond. Raised in a quiet Portland suburb by a practical accountant father and a high school teacher mother, Brandon was instilled with a sense of order and logical progression. He was the kid who built intricate Lego cities, more interested in their systems of governance than in smashing them. This fascination with underlying structures led him to UC Davis, where he pursued a degree in Cognitive Science\u2014a perfect compromise between his interest in the human mind and his aptitude for computational thinking.\n\nHis key turning point came during a summer internship. Initially planning on a PhD track, he took a role at a mid-sized tech startup in San Francisco to \"see the other side.\" The sheer speed and tangible impact of analyzing user data to improve a product hooked him instantly. The academic world suddenly felt slow and abstract. Upon graduation, he accepted a full-time offer from the same company as a Junior Data Scientist.\n\nNow 24, Brandon\u2019s life is defined by a discipline that borders on monastic. Since his job is fully remote, his commute is a ten-step walk from his bed to his standing desk. His apartment, neat and minimalist, is both his office and sanctuary. Mornings are for deep work, sifting through datasets to find the elegant-but-unseen patterns in human behavior. Afternoons are for breaking a sweat, either on a long run through Golden Gate Park or at the Dogpatch Boulders climbing gym, where his small, tight-knit group of friends convenes. These friends, mostly from college or the climbing community, form his entire social bubble.\n\nHis connection to San Francisco is more atmospheric than social. He loves the cool fog that blankets his neighborhood, the quiet hum of Geary Boulevard, and the accessibility of world-class dumplings. He eschews the chaotic nightlife of the Mission for the calm predictability of his routine. Brandon\u2019s dream is to eventually lead a team that builds ethical AI\u2014systems that understand and assist users without exploiting them. He wants to prove that data can be used not just for profit, but for genuine human connection, a puzzle he is determined to solve, one line of code at a time."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2615",
+                        "action": "Wake up, brew coffee, and check news feeds on the phone.",
+                        "geocode": {
+                            "lat": 37.7875598,
+                            "lng": -122.4445777,
+                            "formatted_address": "California St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment, California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Shower, get dressed in tech-casual attire, and pack a bag with a laptop and water bottle.",
+                        "geocode": {
+                            "lat": 37.7875598,
+                            "lng": -122.4445777,
+                            "formatted_address": "California St, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment, California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Start the morning bike commute, enjoying the fresh air.",
+                        "geocode": {
+                            "lat": 37.7870981,
+                            "lng": -122.4467901,
+                            "formatted_address": "Presidio Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Bike Route via Presidio Ave & The Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at the desk, sort through emails and Slack messages, and review the day's priorities.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "USF Data Science Office, Harney Science Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend the daily team stand-up meeting to sync on project progress and blockers.",
+                        "geocode": {
+                            "lat": 37.7768265,
+                            "lng": -122.4511639,
+                            "formatted_address": "Harney Science Center, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Harney Science Center Conference Room"
+                    },
+                    {
+                        "emoji": "\ud83e\uddf9",
+                        "action": "Deep work session: Data cleaning and preprocessing a new dataset on student engagement metrics.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 150,
+                        "location": "USF Data Science Office, Harney Science Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk with a coworker to grab a classic SF sandwich for lunch and eat outside.",
+                        "geocode": {
+                            "lat": 37.775658,
+                            "lng": -122.4581416,
+                            "formatted_address": "782 Arguello Blvd, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 60,
+                        "location": "Arguello Super Market Deli"
+                    },
+                    {
+                        "emoji": "\ud83d\udc0d",
+                        "action": "Afternoon work: Develop a predictive model in a Jupyter Notebook to identify at-risk students.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "USF Data Science Office, Harney Science Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Code review and collaboration session with a senior data scientist on the model's architecture.",
+                        "geocode": {
+                            "lat": 37.7765643,
+                            "lng": -122.4507187,
+                            "formatted_address": "2130 Fulton St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "USF Data Science Office, Harney Science Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Wrap up final tasks, push code to GitLab, and begin the bike commute home.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "USF to Home Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Change into running clothes and go for a de-stressing run with city and bay views.",
+                        "geocode": {
+                            "lat": 37.8021445,
+                            "lng": -122.4585086,
+                            "formatted_address": "Presidio Promenade Trail, San Francisco, CA 94129, USA"
+                        },
+                        "duration": 60,
+                        "location": "Presidio Promenade Trail"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop by the local grocery store to pick up fresh ingredients for dinner.",
+                        "geocode": {
+                            "lat": 37.7833698,
+                            "lng": -122.4478739,
+                            "formatted_address": "3 Masonic Ave, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 30,
+                        "location": "Trader Joe's, Masonic Ave"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cook a stir-fry dinner while listening to a data science podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet up with a friend for a couple of beers at a lively neighborhood spot.",
+                        "geocode": {
+                            "lat": 37.7742011,
+                            "lng": -122.4373746,
+                            "formatted_address": "500 Divisadero St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 120,
+                        "location": "The Madrone Art Bar, Divisadero St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down at home, read a chapter of a book, and prep for the next day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment Living Room"
+                    }
+                ],
+                "day_overview": "A productive day for a young data scientist, balancing focused work at the university with an active SF lifestyle, including a bike commute, a run in the Presidio, and drinks with a friend on Divisadero.",
+                "home_address": "1988 California St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7900187,
+                    "lng": -122.4271074,
+                    "formatted_address": "1988 California St, San Francisco, CA 94109, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

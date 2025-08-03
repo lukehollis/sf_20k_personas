@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Lin",
+    "givenName": "David",
+    "familyName": "Lin",
+    "jobTitle": "Retail Store Manager",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Lin\u2019s world is measured not in miles, but in the 3,000 square feet of Lin\u2019s Hardware in San Francisco\u2019s Richmond District. Born and raised in the apartment directly above the store, his life has been shaped by the scent of sawdust and the familiar clang of the bell on the shop door. His parents, immigrants from Taiwan, established the store as their foothold in a new country, a legacy built with sweat and pragmatism.\n\nGrowing up, David saw a different future for himself. He enrolled at San Francisco State University, majoring in Communications, dreaming of a life in marketing or media, far from the aisles of plumbing fixtures and paint cans. But in his sophomore year, his father suffered a major heart attack. With his mother\u2019s English still limited, David made the decision to drop out and manage the store. What was meant to be a temporary measure slowly, imperceptibly, became his permanent reality.\n\nNow 39, David is the heart of the family business. His father has passed, and he is the primary caregiver for his aging mother, who still lives with him upstairs. His \"0.0 mile commute\" is a testament to this life of duty\u2014a walk down a flight of stairs each morning. He knows his regulars by name, from Mrs. Chen who needs help with her garden to the new tech couple struggling to hang a TV. He is a neighborhood institution, a friendly face who can always find the right screw or offer sound advice.\n\nWhile respected and well-liked, David\u2019s personal life has been a quiet casualty of his responsibilities. Dating is difficult when your life is tethered to a single city block. His social circle consists of customers and other local merchants. His enduring hope is not for wealth, but for survival\u2014to keep Lin's Hardware afloat against the tide of big-box stores and Amazon Prime. He dreams of one day finding a partner who understands his rooted life, and perhaps taking a real vacation, one where he can\u2019t hear the shop bell from his bedroom window. His story is one of quiet sacrifice, his connection to San Francisco woven into the very fabric of his small, essential corner of the city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up to alarm, check overnight work emails and news headlines on phone.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Bedroom, Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\udc55",
+                        "action": "Morning prep: shower, get dressed in business-casual attire, and pack bag for the day.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home, Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Have a quick breakfast of jook (rice porridge) and tea with his parents.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Kitchen, Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and ride the 31-Balboa eastbound to the N-Judah light rail line.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "MUNI Bus Stop on Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude87",
+                        "action": "Ride the crowded N-Judah inbound MUNI train, listening to a tech podcast.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "N-Judah MUNI Metro"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at work, unlock the store, power on the computers and displays, and review the daily schedule.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Computer & Tech Training"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Lead the morning team huddle, discussing new product arrivals and the sales goals for the day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "SF Computer & Tech Training"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udcbc",
+                        "action": "Manage the sales floor, assist customers with technical questions, and troubleshoot a point-of-sale system glitch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "SF Computer & Tech Training"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Walk over to grab a quick and tasty lunch of a spicy chicken sandwich and fries.",
+                        "geocode": {
+                            "lat": 37.7691838,
+                            "lng": -122.4316009,
+                            "formatted_address": "2 Sanchez St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Duboce Park Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udce6",
+                        "action": "Handle afternoon responsibilities: process a new shipment of inventory, create the staff schedule for next week, and respond to customer emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "SF Computer & Tech Training"
+                    },
+                    {
+                        "emoji": "\ud83d\udd10",
+                        "action": "Close out the registers, prepare the nightly bank deposit, and lock up the store.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF Computer & Tech Training"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Begin the commute home, taking the N-Judah train from Duboce & Church station.",
+                        "geocode": {
+                            "lat": 37.7693359,
+                            "lng": -122.4292406,
+                            "formatted_address": "Church St & Duboce Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Duboce & Church MUNI Station"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh produce and noodles for dinner as requested by his mom.",
+                        "geocode": {
+                            "lat": 37.7827054,
+                            "lng": -122.4668356,
+                            "formatted_address": "707 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 25,
+                        "location": "New May Wah Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66",
+                        "action": "Eat a home-cooked dinner with his parents, discussing their day and local news.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Dining Room, Balboa St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
+                        "action": "Go for a run to decompress from the day, following a familiar route through the neighborhood.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Wind down by watching a documentary and tidying up the living room before heading to bed.",
+                        "geocode": {
+                            "lat": 37.7762775,
+                            "lng": -122.4849879,
+                            "formatted_address": "Balboa St, San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "Home Living Room, Balboa St"
+                    }
+                ],
+                "day_overview": "A busy weekday for David, balancing his retail management duties in Duboce Triangle with a MUNI commute and family responsibilities back home in the Richmond District.",
+                "home_address": "312 Balboa St, San Francisco, CA 94121",
+                "home_geocode": {
+                    "lat": 37.777477,
+                    "lng": -122.462287,
+                    "formatted_address": "312 Balboa St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1985",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

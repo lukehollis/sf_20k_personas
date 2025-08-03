@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Tanaka",
+    "givenName": "David",
+    "familyName": "Tanaka",
+    "jobTitle": "Owner/Operator of Retail Shop",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Retail"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "David Tanaka\u2019s world is contained within a single city block. His apartment, a modest one-bedroom, sits directly above his retail shop, \"Paper Crane,\" a meticulously curated stationery and gift store in the heart of San Francisco's Japantown. His 0.0-mile commute is a short walk down a creaking wooden staircase each morning.\n\nBorn and raised in the Sunset District, David is a third-generation San Franciscan. His grandparents were interned at Topaz during WWII, a somber story that hung over his childhood like the city\u2019s fog. His parents, eager for him to achieve a stable, American-style success they felt was denied to their own parents, pushed him toward a practical education. He dutifully enrolled in a business program at a state college, but his heart was never in the textbooks. The ledgers and marketing theories felt abstract and lifeless.\n\nThe major turning point came at 22 when his grandfather\u2019s health declined. The family\u2019s small grocery store in Japantown, a fixture since the 1950s, was struggling. David left college to help, intending it to be temporary. Instead, he found his calling not in selling produce, but in the history of the place itself. After his grandfather passed, David used a small inheritance to transform the store. He didn't want to sell it; he wanted to honor it. \"Paper Crane\" was born.\n\nHis life is one of quiet routine and deep community ties. He opens the shop at 10 AM, the scent of Japanese incense and fine paper filling the space. His social life is woven into his work; he knows the names of the elderly residents who stop by for greeting cards, the tourists searching for authentic gifts, and the other merchants on the block. A serious relationship ended years ago, a casualty of his unwavering dedication to the shop, which she saw as a beautiful cage.\n\nNow 46, David doesn\u2019t dream of expansion or wealth. His aspiration is preservation\u2014to keep this small piece of his family\u2019s legacy alive against the current of gentrification. He hopes to one day learn the art of *kintsugi*, repairing broken pottery with gold, seeing it as a metaphor for his own life: finding purpose and beauty in a path that was broken and remade."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Wake up, shower, and get dressed for the day.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Haight-Ashbury Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make pour-over coffee and have a quick breakfast (toast with avocado) with his partner, discussing their plans for the day.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Haight-Ashbury Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Walk to the bus stop on Haight & Stanyan, catching up on emails and checking shop notifications on his phone.",
+                        "geocode": {
+                            "lat": 37.7709327,
+                            "lng": -122.43979,
+                            "formatted_address": "Haight St, San Francisco, CA, USA"
+                        },
+                        "duration": 10,
+                        "location": "Haight Street Sidewalk"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Commute to SFSU via the Muni 7 bus, listening to a business podcast.",
+                        "geocode": {
+                            "lat": 37.7730188,
+                            "lng": -122.4226135,
+                            "formatted_address": "7 Haight St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 40,
+                        "location": "Muni 7 Haight/Noriega Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\udd13",
+                        "action": "Arrive at his shop, 'Gator Goods & Gear,' to perform opening procedures: turn on lights, boot up the POS system, and restock front-facing shelves.",
+                        "geocode": {
+                            "lat": 37.7225174,
+                            "lng": -122.4787258,
+                            "formatted_address": "1650 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Gator Goods & Gear - SFSU Cesar Chavez Student Center"
+                    },
+                    {
+                        "emoji": "\ud83d\udecd\ufe0f",
+                        "action": "Manage the morning rush, serving students getting coffee and supplies between classes, and placing a reorder with a beverage supplier.",
+                        "geocode": {
+                            "lat": 37.7225174,
+                            "lng": -122.4787258,
+                            "formatted_address": "1650 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 210,
+                        "location": "Gator Goods & Gear - SFSU Cesar Chavez Student Center"
+                    },
+                    {
+                        "emoji": "\ud83e\udd6a",
+                        "action": "Take a lunch break, walking over to grab a 'Matt Cain' sandwich.",
+                        "geocode": {
+                            "lat": 37.71803,
+                            "lng": -122.4772003,
+                            "formatted_address": "Parkmerced, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ike's Love & Sandwiches - Parkmerced"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focus on administrative work in the back office: processing invoices, scheduling the part-time student employee, and planning a 'Finals Week' promotion.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "Gator Goods & Gear - Back Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udd10",
+                        "action": "Perform closing duties: cashing out the register, running sales reports, and doing a final sweep of the shop.",
+                        "geocode": {
+                            "lat": 37.7225174,
+                            "lng": -122.4787258,
+                            "formatted_address": "1650 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gator Goods & Gear - SFSU Cesar Chavez Student Center"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8e",
+                        "action": "Commute home on the Muni 7 bus, reading the news on his phone.",
+                        "geocode": {
+                            "lat": 37.7730188,
+                            "lng": -122.4226135,
+                            "formatted_address": "7 Haight St, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Muni 7 Haight/Noriega Bus"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up fresh pasta and vegetables for dinner.",
+                        "geocode": {
+                            "lat": 37.7702206,
+                            "lng": -122.4476072,
+                            "formatted_address": "1530 Haight St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "Gus's Community Market - Haight"
+                    },
+                    {
+                        "emoji": "\ud83c\udf32",
+                        "action": "Go for a brief, unwinding walk to clear his head after a long day at the shop.",
+                        "geocode": {
+                            "lat": 37.7729862,
+                            "lng": -122.4459943,
+                            "formatted_address": "Panhandle, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 25,
+                        "location": "The Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook and eat dinner with his partner, sharing stories from their respective days.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Haight-Ashbury Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch together, watching the latest episode of a favorite crime drama.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Haight-Ashbury Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, read a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7702175,
+                            "lng": -122.4453615,
+                            "formatted_address": "Haight-Ashbury, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Haight-Ashbury Apartment"
+                    }
+                ],
+                "day_overview": "A routine but productive weekday for David, balancing the demands of running his campus retail shop with his home life and personal time in the Haight-Ashbury neighborhood.",
+                "home_address": "1929 Haight St, San Francisco, CA 94117",
+                "home_geocode": {
+                    "lat": 37.769184,
+                    "lng": -122.4535654,
+                    "formatted_address": "1929 Haight St, San Francisco, CA 94117, USA"
+                },
+                "neighborhood": "Haight-Ashbury",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1978",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Tanaka Family"
+    }
+}

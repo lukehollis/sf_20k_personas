@@ -1,0 +1,256 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Davis",
+    "givenName": "Sarah",
+    "familyName": "Davis",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "INTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Davis\u2019s worldview was forged in the sprawling, sun-baked cul-de-sacs of suburban Sacramento. The daughter of a pragmatic civil engineer and a history teacher, her childhood was a comfortable but monotonous landscape of minivans, strip malls, and the ever-present hum of freeway traffic. This car-centric existence bred in her a deep fascination with cities\u2014dense, walkable, and seemingly alive with possibility. This fascination propelled her to UC Davis to study Environmental Policy, followed by a Master's in Urban and Regional Planning from UCLA, where she specialized in transportation systems.\n\nUpon graduating, Sarah was lured away from traditional city hall positions by the siren song of Silicon Valley. She joined a high-profile tech firm developing autonomous vehicle software, enticed by the promise of using big data to solve the very traffic problems that defined her youth. Her role as a Transportation Planner was to model how self-driving fleets would integrate into complex urban grids, essentially designing the future of movement.\n\nThe key turning point in her life was, ironically, a moment of profound stasis: the 2020 pandemic. Hired just before the lockdown, her job became fully remote overnight. This created the central paradox of her adult life: she spends her days planning for a world of seamless mobility from a standing desk in her apartment, her own commute a static 0.0 miles.\n\nNow, Sarah lives in a classic bay-windowed apartment in the Mission District, a neighborhood she chose for its vibrant grit and superb public transit access. Her life is a case study in the urbanism she advocates for. Mornings start with a walk to a local coffee shop, and evenings are often spent with her partner, Leo, a software engineer, trying new restaurants on Valencia Street or catching a film at the Roxie. Her daily routine is an intimate dance with the city, observing the intricate ballet of Muni buses, cyclists, and pedestrians that her algorithms aim to augment, or perhaps, supplant.\n\nSarah\u2019s dream is to reconcile the two halves of her world. While she appreciates the innovation of her work, she harbors a growing desire to apply her skills to public infrastructure, improving the bus routes and bike lanes she uses every day. She yearns to bridge the gap between tech\u2019s sleek, often exclusive solutions and the messy, equitable, and beautifully human reality of the city unfolding just outside her window."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was sixteen, stuck in bumper-to-bumper traffic on I-80, the Sacramento sun beating down on the minivan's roof. Her father sighed about poor planning. Through the window, Sarah watched an Amtrak train slice effortlessly past them, its passengers reading or gazing out. It wasn\u2019t just frustration she felt, but a profound revelation. A city didn\u2019t have to be this static, this chained to the car. That image of the moving train became her compass, pointing her away from the suburbs and toward a different future she had to build.\n\n2.\nDuring her final interview at the tech firm, they showed her the simulation: a digital twin of San Francisco, glowing with data streams from a future fleet of autonomous cars. The interviewer spoke of \u201csolving traffic, forever.\u201d Sarah felt a dizzying awe. This was the power to reshape the city she\u2019d dreamt of from her cul-de-sac\u2014the messy human problem rendered as elegant, solvable code. She accepted the offer that day, feeling, for the first time, like a true architect of the future.\n\n3.\nIt was deep in the summer of 2020. Sarah spent ten hours fine-tuning an algorithm for fleet deployment in a post-pandemic London she'd never visited. She finally looked up from her screen, out her bay window at the quiet Mission street below. An elderly woman was carefully helping a neighbor with groceries. The contrast was staggering\u2014the abstract, global solution on her monitor versus the small, tangible, human act of community outside. Her 0.0-mile commute suddenly felt less like a perk and more like a cage.\n\n4.\nLast winter, sardined on a dripping, delayed 14 Mission bus, Sarah initially felt only frustration. Her app couldn\u2019t have predicted this chaos. But then she saw it: a teenager gave their seat to an older man, two strangers laughed over a shared glance, the driver expertly navigated a double-parked truck. This wasn't an inefficiency to be optimized away; it was a chaotic, breathing ecosystem of shared space and small courtesies. A humbling, beautiful reality she was afraid her work was trying to erase.\n\n5.\nWalking home from the Roxie with Leo a few months ago, the Valencia streetlights blurring above, she finally said it out loud. \"My models can't account for the feeling of this street right now,\" she confessed. \"I want to fix the bus route we wait for, not just design a system that bypasses it.\" In that moment, telling him, her vague yearning crystallized into purpose. She didn't want to architect a sleek future from afar; she had to be a mechanic for the beautiful, messy present."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, hydrate, and check personal notifications.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Morning run up to the summit for panoramic city views.",
+                        "geocode": {
+                            "lat": 37.7430272,
+                            "lng": -122.4136408,
+                            "formatted_address": "Bernal Heights Park, Bernal Heights Blvd, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 45,
+                        "location": "Bernal Heights Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in comfortable work-from-home clothes, and prep coffee.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\u2615\ufe0f",
+                        "action": "Eat a quick breakfast of yogurt and granola while reviewing the day's calendar.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Log in to work VPN, open Slack and project management tools, and sort through overnight emails.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Deep Work: Analyze geospatial data for a new e-bike deployment strategy in the Sunset District.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 120,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udc65",
+                        "action": "Daily Standup: Video call with the Mobility Pod to sync on project statuses and blockers.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook (via Zoom)"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk to grab a healthy lunch to-go, getting some fresh air and breaking up the screen time.",
+                        "geocode": {
+                            "lat": 37.7526328,
+                            "lng": -122.4145762,
+                            "formatted_address": "3114 24th St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 60,
+                        "location": "La Reyna Bakery & Coffee Shop"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Cross-functional meeting with the engineering team to discuss data API requirements for a new feature.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Office Nook (via Google Meet)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Focused Work: Create a presentation deck outlining Q3 ridership projections based on new models.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 150,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\udd0c",
+                        "action": "Log off work systems, clear desk, and mentally transition away from the workday.",
+                        "geocode": {
+                            "lat": 37.7946709,
+                            "lng": -122.4180295,
+                            "formatted_address": "1500 Hyde St, San Francisco, CA 94109, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Office Nook"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Quick grocery run to pick up items for the next few days' breakfasts and snacks.",
+                        "geocode": {
+                            "lat": 37.7601788,
+                            "lng": -122.3968338,
+                            "formatted_address": "1524 20th St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Good Life Grocery"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd7\u200d\u2640\ufe0f",
+                        "action": "Meet up with a friend for an after-work bouldering and top-roping session.",
+                        "geocode": {
+                            "lat": 37.7609759,
+                            "lng": -122.4125139,
+                            "formatted_address": "2295 Harrison St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 90,
+                        "location": "Mission Cliffs Climbing & Fitness"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Dinner with friend after climbing at a lively, nearby restaurant.",
+                        "geocode": {
+                            "lat": 37.7828996,
+                            "lng": -122.4078583,
+                            "formatted_address": "8 Mint Plaza, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Burma Love"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Wind down at home, listen to a transportation policy podcast ('The War on Cars').",
+                        "geocode": {
+                            "lat": 37.77066689999999,
+                            "lng": -122.4328558,
+                            "formatted_address": "557 Waller St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Read a chapter of a non-fiction book before going to sleep.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Bedroom"
+                    }
+                ],
+                "day_overview": "A productive work-from-home day for a tech transportation planner, balanced with a scenic neighborhood run, a social rock climbing session, and dinner with a friend in the Mission.",
+                "home_address": "3766 Howard St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7817629,
+                    "lng": -122.4046217,
+                    "formatted_address": "Howard St, San Francisco, CA, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "worked_from_home"
+            }
+        }
+    ],
+    "birthDate": "1996",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Davis Family"
+    }
+}

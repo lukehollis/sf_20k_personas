@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maria Garcia",
+    "givenName": "Maria",
+    "familyName": "Garcia",
+    "jobTitle": "Transportation Planner",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Hispanic or Latino"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Mission District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maria Garcia\u2019s passion for urban transit was born from its absence. Growing up in a sprawling Central Valley suburb, she watched her parents, immigrants from Mexico, spend hours in traffic commuting to landscaping and housekeeping jobs. Life was dictated by the car; a breakdown meant a lost day\u2019s wage, and the lack of sidewalks made their neighborhood feel isolated. This firsthand experience with car-dependency planted a seed. She was the first in her family to attend a four-year university, eventually earning a Master's in Urban and Regional Planning from UC Berkeley.\n\nHer turning point came during a graduate internship, where she helped analyze data for a bus rapid transit proposal. Seeing how thoughtful design could reconnect a severed community and give people back hours of their day solidified her career path. Landing a job as a Transportation Planner for the City of San Francisco was the culmination of her life's goal: to build cities for people, not just for cars.\n\nNow 32, Maria has meticulously crafted a life that reflects her principles. She lives in a rent-controlled apartment in the Mission District, a neighborhood chosen for its vibrant culture, walkability, and unparalleled transit access. Her 0.0-mile commute is a point of pride; she works primarily from home, her desk overlooking a bustling street where she can observe circulation patterns in real-time. On days she goes into her office near City Hall, the journey is a pleasant 20-minute ride on the Muni J-Church line.\n\nHer partner, a public-school teacher, shares her civic-minded values. Evenings often involve walks to Dolores Park or trying new taquerias on 24th Street. Maria feels a deep connection to the Mission, seeing echoes of her own heritage in its murals and markets, but with the urban dynamism she craved as a child. Her dream is to lead a transformative project, perhaps a new light rail line or a city-wide network of protected bike lanes, creating a more equitable and sustainable San Francisco for the next generation of residents, ensuring no one feels as isolated as she once did."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe was nine years old, and the smell of hot asphalt filled their broken-down sedan on the shoulder of Highway 99. She watched the river of headlights rush past, each one a family going home while hers was stranded. Her father\u2019s hands, stained with dirt and grease, gripped the steering wheel in tense silence. The helplessness of that moment, the weight of a lost day's wage, ignited a quiet fury in her. It wasn't just a car problem; it was an injustice she vowed she would one day fix.\n\n2.\nIn a quiet computer lab at UC Berkeley, the map on her screen lit up. During her graduate internship, she had been analyzing census tracts and bus schedules. But when the final visualization appeared, showing a proposed rapid transit line stitching together two low-income neighborhoods, she gasped. It wasn\u2019t data anymore; it was a circulatory system for a community. At 25, she saw with perfect clarity how lines on a map could give people back their lives. Her abstract anger finally had a blueprint for a solution.\n\n3.\nThe job offer from the city came while she was riding the J-Church line home to the Mission. Clutching her phone, she looked out the window at the kinetic ballet of a city that worked: pedestrians, cyclists, and streetcars all flowing together. A wave of emotion washed over her\u2014pride, relief, and a profound sense of arrival. At 27, she felt her parents' long, lonely commutes had paved her way here, to a place where she could ensure no one else felt so cut off.\n\n4.\nOne Tuesday night, about a year after moving in with her partner, they took a spontaneous walk to Dolores Park. They passed bustling restaurants and neighbors chatting on their stoops, the sounds of the city a comforting hum. The sheer ease of it\u2014the ability to just exist in their community without a plan or a car key\u2014felt like a radical luxury. This simple, unplanned joy was the lived reality of her professional ideals, confirming that a well-designed city is measured in moments of connection, not just commute times.\n\n5.\nFrom her apartment window last spring, she watched a mother with a stroller and two toddlers effortlessly board the 14-Mission bus. The driver lowered the ramp, waited patiently, and smiled. Maria felt a fierce, protective pride swell in her chest. She saw her own mother in that woman, but without the exhaustion and anxiety of car-dependency. This small, graceful act of public service wasn't small at all. It was everything. It was the future she was working to build for everyone."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check personal emails and news headlines on phone.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home (Bedroom)"
+                    },
+                    {
+                        "emoji": "\ud83d\udc5f",
+                        "action": "Go for a refreshing morning jog to clear the head before the busy day.",
+                        "geocode": {
+                            "lat": 37.7680222,
+                            "lng": -122.4670096,
+                            "formatted_address": "Golden Gate Park, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Golden Gate Park"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get ready for the day, and have a quick breakfast of Greek yogurt and coffee.",
+                        "geocode": {
+                            "lat": 37.7765947,
+                            "lng": -122.4740278,
+                            "formatted_address": "1417 Balboa St, San Francisco, CA 94118"
+                        },
+                        "duration": 45,
+                        "location": "Home"
+                    },
+                    {
+                        "emoji": "\ud83d\ude8c",
+                        "action": "Walk to the bus stop and begin the commute downtown, listening to 'The War on Cars' podcast.",
+                        "geocode": {
+                            "lat": 37.7810654,
+                            "lng": -122.4651874,
+                            "formatted_address": "Geary Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 55,
+                        "location": "Muni 38R Bus on Geary Blvd"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Arrive at the office, grab a tea, and sync with the project team on daily priorities for the city's new mobility data platform.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Analyze pedestrian flow data from a recent street fair to model crowd movement for future city events.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 120,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a quick and healthy lunch bowl while catching up on some non-work reading.",
+                        "geocode": {
+                            "lat": 37.78728,
+                            "lng": -122.398546,
+                            "formatted_address": "171 2nd St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 50,
+                        "location": "sweetgreen (SoMa)"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Lead a virtual presentation for SFMTA partners, showcasing the capabilities of a new traffic simulation tool.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 90,
+                        "location": "Unity Technologies Conference Room"
+                    },
+                    {
+                        "emoji": "\u270d\ufe0f",
+                        "action": "Focused work session: Draft a report outlining policy recommendations based on recent data analysis.",
+                        "geocode": {
+                            "lat": 37.7871623,
+                            "lng": -122.4004572,
+                            "formatted_address": "116 New Montgomery St, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 110,
+                        "location": "Unity Technologies Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Pack up and start the commute home, switching from a podcast to a music playlist to unwind.",
+                        "geocode": {
+                            "lat": 37.7810654,
+                            "lng": -122.4651874,
+                            "formatted_address": "Geary Blvd, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Muni 38 Bus on Geary Blvd"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5c",
+                        "action": "Meet up with a close friend for dinner and to share stories from the week.",
+                        "geocode": {
+                            "lat": 37.7829939,
+                            "lng": -122.4672055,
+                            "formatted_address": "736 Clement St, San Francisco, CA 94118, USA"
+                        },
+                        "duration": 90,
+                        "location": "Good Luck Dim Sum"
+                    },
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Call family on the walk home from dinner to catch up.",
+                        "geocode": {
+                            "lat": 37.782132,
+                            "lng": -122.4826232,
+                            "formatted_address": "Clement St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Clement Street"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching a new documentary on urban design.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home (Living Room)"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night: skin care routine, prep coffee maker for the morning, and read a few pages of a novel.",
+                        "geocode": {
+                            "lat": 37.7765947,
+                            "lng": -122.4740278,
+                            "formatted_address": "1417 Balboa St, San Francisco, CA 94118"
+                        },
+                        "duration": 30,
+                        "location": "Home"
+                    }
+                ],
+                "day_overview": "A productive day for Maria, a transportation planner, involving data analysis and stakeholder meetings at her SoMa office. The day is bookended by a long but typical Muni bus commute from her home in the Richmond District and capped off with a social dinner on bustling Clement Street.",
+                "home_address": "1417 Balboa St, San Francisco, CA 94118",
+                "home_geocode": {
+                    "lat": 37.7765947,
+                    "lng": -122.4740278,
+                    "formatted_address": "1417 Balboa St, San Francisco, CA 94118, USA"
+                },
+                "neighborhood": "Richmond",
+                "commute_method": "public_transportation"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Garcia Family"
+    }
+}

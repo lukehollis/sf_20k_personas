@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Administrative Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "South Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Financial District"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTP"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Finance"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s identity was forged in the hyphen between cultures. Raised in Cupertino, she was the daughter of Mark Miller, a pragmatic architect from the Midwest, and Priya Sharma, a vibrant software engineer from Mumbai. Her childhood was a blend of suburban American normalcy and the rich traditions of her mother\u2019s heritage\u2014Diwali celebrations one month, Thanksgiving the next. While she loved both, she often felt adrift between them, never quite fitting perfectly into either world.\n\nDefying the Silicon Valley pressure to pursue STEM, Sarah enrolled at UC Santa Cruz to study art history, a decision that felt like her first true act of self-definition. However, her rebellion was cut short during her sophomore year when her father suffered a severe heart attack. The crisis shook the family\u2019s foundation, both emotionally and financially. Without a second thought, Sarah left college and took an office temp job to help with the mounting bills, putting her own ambitions on hold.\n\nThat temporary gig evolved into her current role as an administrative assistant for a finance firm. Now 26, she lives in a small apartment in San Francisco\u2019s Richmond District. Her 0.0-mile commute means her world is often confined to the four walls of her home office, her window looking out at the city she feels more an observer of than a participant in. Her days are a quiet routine of emails, spreadsheets, and scheduling meetings for executives she\u2019s never met in person.\n\nThough her practical side appreciates the stability of her job, a creative restlessness hums beneath the surface. In the evenings, after logging off from her corporate life, she dives into online graphic design tutorials, slowly building a portfolio that feels more authentically \"her\" than any financial report. Her closest connections are a few old friends and her younger brother, now at UCLA, for whom she feels a fierce sense of responsibility. Sarah\u2019s dream isn\u2019t grand; it\u2019s to finish her degree, find a job in a creative field, and finally take that trip to India with her mother. For now, she finds solace in long, foggy walks through Golden Gate Park, nurturing the quiet hope that her life\u2019s biggest detour will eventually lead her back to herself."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83e\udd71",
+                        "action": "Wake up, hit snooze once, and scroll through social media feeds.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "2296 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment - 2296 Howard St"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a pour-over coffee and have a quick breakfast of yogurt and granola.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "2296 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment - 2296 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed in work-appropriate casual attire, and pack a bag for the day.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "2296 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment - 2296 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute south through the city, navigating the morning traffic and hills.",
+                        "geocode": {
+                            "lat": 37.7269341,
+                            "lng": -122.4662835,
+                            "formatted_address": "Ocean Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "The Mission-to-Ocean Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Arrive at work, lock up bike, and start the day by reviewing emails and prioritizing tasks.",
+                        "geocode": {
+                            "lat": 37.7212589,
+                            "lng": -122.4766311,
+                            "formatted_address": "Administration, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 45,
+                        "location": "CCSF Finance & Administration Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc2",
+                        "action": "Process student payment forms, answer phone calls, and schedule department meetings.",
+                        "geocode": {
+                            "lat": 37.7212589,
+                            "lng": -122.4766311,
+                            "formatted_address": "Administration, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 180,
+                        "location": "CCSF Finance & Administration Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd61",
+                        "action": "Walk off campus to grab a quick and affordable lunch.",
+                        "geocode": {
+                            "lat": 37.7269341,
+                            "lng": -122.4662835,
+                            "formatted_address": "Ocean Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Ocean Pho on Ocean Avenue"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Focus on data entry for departmental budgets and assist with preparing financial reports.",
+                        "geocode": {
+                            "lat": 37.7212589,
+                            "lng": -122.4766311,
+                            "formatted_address": "Administration, 1600 Holloway Ave, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 195,
+                        "location": "CCSF Finance & Administration Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb2",
+                        "action": "Bike commute home, taking a slightly different route to avoid some of the evening traffic.",
+                        "geocode": {
+                            "lat": 37.7606369,
+                            "lng": -122.4217986,
+                            "formatted_address": "766 Valencia St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 30,
+                        "location": "The Ocean-to-Mission Bike Route"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a few essential groceries for dinner and the next day's lunch.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Unwind from the day, cook a simple pasta dinner, and listen to a podcast.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "2296 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home Apartment - 2296 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Walk to meet a friend for a weeknight beer and catch up.",
+                        "geocode": {
+                            "lat": 37.77002299999999,
+                            "lng": -122.4221172,
+                            "formatted_address": "199 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Zeitgeist Beer Garden"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Head home and relax on the couch, watching an episode of a trending TV show.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "2296 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Apartment - 2296 Howard St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude34",
+                        "action": "Evening routine: brush teeth, set out clothes for tomorrow, and read a few pages of a book.",
+                        "geocode": {
+                            "lat": 37.7703823,
+                            "lng": -122.417582,
+                            "formatted_address": "2296 Howard St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home Apartment - 2296 Howard St"
+                    }
+                ],
+                "day_overview": "A typical weekday for Sarah, balancing her administrative role at CCSF with a bike commute and an active evening life in her vibrant Mission District neighborhood.",
+                "home_address": "2296 Howard St, San Francisco, CA 94107",
+                "home_geocode": {
+                    "lat": 37.7703823,
+                    "lng": -122.417582,
+                    "formatted_address": "2296 Howard St, San Francisco, CA 94103, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1998",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}

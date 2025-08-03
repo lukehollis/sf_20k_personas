@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mei Lee",
+    "givenName": "Mei",
+    "familyName": "Lee",
+    "jobTitle": "Health Program Coordinator",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Jewish"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Mei Lee\u2019s story is woven into the very fabric of San Francisco. She was raised in the fog-laced avenues of the Sunset District, the daughter of second-generation Chinese-American parents who ran a beloved neighborhood bakery. Her childhood was a symphony of early morning flour dust, the clatter of mahjong tiles from her grandparents' apartment upstairs, and the quiet diligence of homework. The defining turning point of her youth was watching her grandmother, a native Cantonese speaker, struggle to navigate the labyrinthine American healthcare system. This experience planted a seed of purpose in Mei: a desire to bridge the gaps in community health access.\n\nThis drive led her to pursue a Bachelor's in Public Health at UC Davis. College was an awakening, a place where she could finally put a name to the systemic issues she\u2019d witnessed firsthand. After graduating, she felt the pull of home and landed a role perfectly suited to her mission: a Health Program Coordinator for a major city healthcare provider.\n\nNow, at 24, Mei embodies the modern San Franciscan professional. She traded the familiar quiet of the Sunset for a compact, minimalist apartment in a gleaming SoMa high-rise. Her 0.0-mile commute means her workday begins not on a crowded MUNI bus, but with a short walk to her desk overlooking the city. Her days are a web of spreadsheets and Zoom calls, coordinating outreach programs for non-English speaking seniors and low-income families\u2014the very work inspired by her grandmother.\n\nHer life is a deliberate balance. After shutting her laptop, she explores her new neighborhood, meeting college friends for dinner in Hayes Valley or taking a solo stroll along the Embarcadero. Though she loves her independence, she drives across the city every Sunday for family dinner, grounding herself in the love and traditions that shaped her. Mei\u2019s dream is to one day lead a city-wide initiative focused on geriatric care for the AAPI community. She isn\u2019t just building a career; she\u2019s honoring her roots by building a healthier, more equitable future for her city."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, stretch, and check morning fog over the bay.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udfc3\u200d\u2640\ufe0f",
+                        "action": "Go for a brisk jog along the waterfront with views of the Golden Gate Bridge.",
+                        "geocode": {
+                            "lat": 37.8066961,
+                            "lng": -122.439016,
+                            "formatted_address": "Marina Green, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 30,
+                        "location": "Marina Green"
+                    },
+                    {
+                        "emoji": "\ud83e\udd63",
+                        "action": "Shower, get ready, and have a quick breakfast of yogurt and granola with her partner.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udef5",
+                        "action": "Commute across town on her electric moped, zipping through morning traffic.",
+                        "geocode": {
+                            "lat": 37.7245693,
+                            "lng": -122.4433573,
+                            "formatted_address": "Balboa Park, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 35,
+                        "location": "Cross-City Commute (Marina to Balboa Park)"
+                    },
+                    {
+                        "emoji": "\ud83d\udce7",
+                        "action": "Settle in at her desk, brew a cup of tea, and respond to urgent student and faculty emails.",
+                        "geocode": {
+                            "lat": 37.7275826,
+                            "lng": -122.4520562,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 45,
+                        "location": "CCSF Student Health Services Center"
+                    },
+                    {
+                        "emoji": "\ud83d\uddd3\ufe0f",
+                        "action": "Lead a planning meeting for an upcoming 'Finals Week De-Stress' event, coordinating with student volunteers.",
+                        "geocode": {
+                            "lat": 37.724438,
+                            "lng": -122.4529414,
+                            "formatted_address": "55 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 75,
+                        "location": "CCSF Conference Room MUB 357"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a healthy lunch bowl and enjoy the fresh air.",
+                        "geocode": {
+                            "lat": 37.7269341,
+                            "lng": -122.4662835,
+                            "formatted_address": "Ocean Ave, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Ocean Avenue Eats"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Host drop-in hours, providing students with information on health insurance and wellness resources.",
+                        "geocode": {
+                            "lat": 37.7241654,
+                            "lng": -122.4504111,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 120,
+                        "location": "CCSF Student Union Resource Table"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Compile and analyze survey data from a recent sexual health workshop.",
+                        "geocode": {
+                            "lat": 37.7275826,
+                            "lng": -122.4520562,
+                            "formatted_address": "50 Frida Kahlo Way, San Francisco, CA 94112, USA"
+                        },
+                        "duration": 90,
+                        "location": "CCSF Student Health Services Center"
+                    },
+                    {
+                        "emoji": "\ud83c\udf33",
+                        "action": "Ride her moped home, taking a scenic route through the Presidio.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Homeward Bound Commute"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make a quick stop to pick up fresh produce for dinner.",
+                        "geocode": {
+                            "lat": 37.8000211,
+                            "lng": -122.4416326,
+                            "formatted_address": "2323 Chestnut St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 20,
+                        "location": "Marina Supermarket"
+                    },
+                    {
+                        "emoji": "\ud83d\udc69\u200d\ud83c\udf73",
+                        "action": "Cook a delicious salmon and asparagus dinner together with her partner while talking about their days.",
+                        "geocode": {
+                            "lat": 37.7181276,
+                            "lng": -122.4741971,
+                            "formatted_address": "35 Cambon Dr, San Francisco, CA 94132, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home Kitchen"
+                    },
+                    {
+                        "emoji": "\ud83d\udecb\ufe0f",
+                        "action": "Relax on the couch, watch a new documentary, and scroll through social media.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "Home Living Room"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Evening routine: tidying up, packing her work bag, and reading a few chapters of a novel before bed.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a Health Program Coordinator, involving a cross-city moped commute from the Marina to City College, planning student wellness events, and ending with a relaxing evening cooking and unwinding with her partner at home.",
+                "home_address": "1252 Marina Blvd, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.8049696,
+                    "lng": -122.448036,
+                    "formatted_address": "1252 Marina Blvd, San Francisco, CA 94123, USA"
+                },
+                "neighborhood": "Marina",
+                "commute_method": "other_means"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Bachelor's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lee Family"
+    }
+}

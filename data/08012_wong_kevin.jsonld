@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kevin Wong",
+    "givenName": "Kevin",
+    "familyName": "Wong",
+    "jobTitle": "Senior Project Manager, Transportation Infrastructure",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Kevin Wong is a product of San Francisco\u2019s fog-laced Sunset District, the son of Hong Kong immigrants who ran a small but beloved neighborhood grocery on Taraval Street. Growing up amidst the rhythm of inventory stocking and friendly customer chatter, Kevin learned the value of community and hard work. His parents envisioned a stable future for him as a doctor or an engineer, a common dream for their generation.\n\nKevin, however, was fascinated by the city itself\u2014its intricate web of MUNI lines, the persistent traffic on 19th Avenue, and the way people moved through its varied landscapes. This led him to pursue a Master\u2019s in Urban and Regional Planning at UCLA, believing he could solve the city's problems from within the system. He spent his first four professional years at the SFMTA, analyzing transit data and drafting reports. While the work was meaningful, he grew frustrated with the slow pace of bureaucratic change.\n\nThe turning point came when a burgeoning autonomous vehicle company, impressed by his practical infrastructure knowledge, recruited him. The move to the private tech sector felt like a betrayal of his public service ideals at first, but he soon realized he could enact change on a much larger and faster scale.\n\nNow a Senior Project Manager, Kevin lives a life his parents could never have imagined. His 0.0-mile commute takes him from his bedroom to a standing desk in his sleek Hayes Valley condo. His days are a flurry of virtual meetings with engineers, city officials, and international logistics teams, all aimed at integrating smart transportation networks into the urban fabric.\n\nHis partner, Eliza, a freelance illustrator, provides a creative balance to his structured world. Evenings are often spent trying new restaurants in their neighborhood or cycling through Golden Gate Park, a nostalgic return to his childhood backyard. Kevin\u2019s deepest aspiration isn\u2019t a promotion, but to one day ride an autonomous shuttle across the Golden Gate Bridge and know he personally managed the project that made it possible\u2014using the tools of New San Francisco to improve the city that has always been his home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check work Slack and overnight emails on phone while still in bed.",
+                        "geocode": {
+                            "lat": 37.793978,
+                            "lng": -122.408083,
+                            "formatted_address": "Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 20,
+                        "location": "Chinatown Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Quick shower and get ready. Grab a protein bar and make a pour-over coffee.",
+                        "geocode": {
+                            "lat": 37.793978,
+                            "lng": -122.408083,
+                            "formatted_address": "Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 30,
+                        "location": "Chinatown Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute to Mission Bay, listening to 'The Daily' podcast to catch up on news.",
+                        "geocode": {
+                            "lat": 37.7962244,
+                            "lng": -122.3799173,
+                            "formatted_address": "I-80, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "I-80 E / Bryant St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at the office, grab a cold brew, and sync with the team before the day's meetings kick off.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 25,
+                        "location": "Uber HQ - Cafe 1515"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Lead the daily stand-up meeting for the 'Dynamic Tolling Integration' project team.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 45,
+                        "location": "Uber HQ - Conference Room 'Cable Car'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcdd",
+                        "action": "Focused work block: Finalizing the Q3 project roadmap and resource allocation document.",
+                        "geocode": {
+                            "lat": 37.7693304,
+                            "lng": -122.3889394,
+                            "formatted_address": "1515 3rd St, San Francisco, CA 94158, United States"
+                        },
+                        "duration": 120,
+                        "location": "Uber HQ - Open Plan Workspace"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Walk over to meet a colleague for a quick lunch at the nearby food truck park.",
+                        "geocode": {
+                            "lat": 37.7707793,
+                            "lng": -122.3914307,
+                            "formatted_address": "601 Mission Bay Boulevard North, San Francisco, CA 94158, USA"
+                        },
+                        "duration": 60,
+                        "location": "Spark Social SF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Bi-weekly sync with the Data Science team to review routing algorithm performance metrics.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 75,
+                        "location": "Uber HQ - Conference Room 'Alcatraz'"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Respond to high-priority emails and prepare notes for tomorrow's director-level review.",
+                        "geocode": {
+                            "lat": 37.7756852,
+                            "lng": -122.4179707,
+                            "formatted_address": "1455 Market St #400, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 105,
+                        "location": "Uber HQ - Quiet Focus Zone"
+                    },
+                    {
+                        "emoji": "\u6e0b",
+                        "action": "Drive home, navigating the heavy evening traffic on the Embarcadero.",
+                        "geocode": {
+                            "lat": 37.8009727,
+                            "lng": -122.3990315,
+                            "formatted_address": "The Embarcadero, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "The Embarcadero"
+                    },
+                    {
+                        "emoji": "\ud83c\udfcb\ufe0f",
+                        "action": "Weight lifting session to decompress from the workday.",
+                        "geocode": {
+                            "lat": 37.8050802,
+                            "lng": -122.4254187,
+                            "formatted_address": "North Point St, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "24 Hour Fitness - North Point"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5a",
+                        "action": "Sit down for dinner with his parents, catching up on their day.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Family Dinner at Home"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching the latest episode of a popular sci-fi series.",
+                        "geocode": {
+                            "lat": 37.793978,
+                            "lng": -122.408083,
+                            "formatted_address": "Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 70,
+                        "location": "Chinatown Apartment on Pacific Ave"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Review personal calendar for the next day and read a few chapters of a book on urban planning.",
+                        "geocode": {
+                            "lat": 37.793978,
+                            "lng": -122.408083,
+                            "formatted_address": "Stockton St, San Francisco, CA 94108, USA"
+                        },
+                        "duration": 35,
+                        "location": "Chinatown Apartment on Pacific Ave"
+                    }
+                ],
+                "day_overview": "A demanding day for a tech Project Manager, balancing strategic meetings and deep work at Uber HQ with a de-stressing gym session and a traditional family dinner in his Chinatown home.",
+                "home_address": "845 Pacific Ave, San Francisco, CA 94115",
+                "home_geocode": {
+                    "lat": 37.7963786,
+                    "lng": -122.4093043,
+                    "formatted_address": "845 Pacific Ave, San Francisco, CA 94133, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1992",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

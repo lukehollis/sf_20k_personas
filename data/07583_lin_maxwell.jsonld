@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maxwell Lin",
+    "givenName": "Maxwell",
+    "familyName": "Lin",
+    "jobTitle": "Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Maxwell Lin is a product of two San Franciscos. He was raised in the Outer Richmond, amidst the fragrant fog and the cacophony of his parents\u2019 small, beloved Cantonese restaurant. The son of first-generation immigrants from Guangzhou, Max\u2019s childhood was a tapestry of tradition, hard work, and the unspoken expectation that he would pursue a stable, prestigious career like medicine. While he dutifully helped with the family business, his true passion was found not in healing bodies, but in identifying the elegant patterns hidden within complex systems\u2014from traffic flows on Geary Boulevard to the ordering habits of their restaurant's regulars.\n\nHis path diverged from his parents' dreams when he chose UC Berkeley for his undergraduate degree in Cognitive Science, followed by a Master\u2019s in Computational Social Science from Stanford. The turning point was telling his parents he wasn\u2019t applying to medical school. Their disappointment was palpable, but it slowly softened into grudging pride when he was recruited before graduation into a lucrative data scientist role at a growing tech firm.\n\nNow 24, Max lives a life defined by a modern dichotomy. His 0.0-mile commute is a short walk from his bed to his minimalist desk in his Inner Richmond apartment. His days are spent in the abstract world of code and datasets, modeling user behavior and optimizing digital engagement. Yet, this digital connection has fostered a sense of physical isolation. His social life revolves around a tight-knit group of college friends and the occasional, awkward dating-app meetup that feels more like data collection than genuine connection.\n\nMax\u2019s connection to San Francisco is deep and nuanced. He bypasses the trendy downtown hotspots for morning runs in Golden Gate Park and weekend dim sum with his family. His dream is to bridge the two worlds he inhabits: to eventually use his data skills not for a corporation, but for a cause\u2014perhaps optimizing urban planning for the city he loves, or even creating a system to help small family-owned businesses like his parents' thrive in a changing world. He seeks to find the human story within the data, a narrative that feels as real and meaningful as the scent of salt and eucalyptus in the Richmond fog."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, check phone notifications, and drink a glass of water.",
+                        "geocode": {
+                            "lat": 37.7616419,
+                            "lng": -122.4149807,
+                            "formatted_address": "Folsom St, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Apartment on Folsom St"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Make a quick breakfast of coffee and avocado toast.",
+                        "geocode": {
+                            "lat": 37.7616419,
+                            "lng": -122.4149807,
+                            "formatted_address": "Folsom St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on Folsom St"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Morning commute: A long walk across the city while listening to the 'Lex Fridman Podcast'.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 85,
+                        "location": "City Streets Route SF"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Arrive at the office, grab a coffee from the hospital cafeteria, and review daily priorities and emails.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 20,
+                        "location": "UCSF St. Mary's Medical Center Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Run SQL queries and perform exploratory data analysis on a new patient dataset using Python.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF St. Mary's Medical Center Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to grab a healthy grain bowl for lunch.",
+                        "geocode": {
+                            "lat": 37.763954,
+                            "lng": -122.464751,
+                            "formatted_address": "627 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 50,
+                        "location": "Pluto's on Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Attend a project sync meeting with clinical researchers to discuss model performance.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Conference Room at UCSF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcc8",
+                        "action": "Create data visualizations in Tableau to illustrate key findings for an upcoming presentation.",
+                        "geocode": {
+                            "lat": 37.7739514,
+                            "lng": -122.4538523,
+                            "formatted_address": "450 Stanyan St, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 150,
+                        "location": "UCSF St. Mary's Medical Center Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6",
+                        "action": "Walk home, taking a scenic detour through the Panhandle and listening to an audiobook.",
+                        "geocode": {
+                            "lat": 37.7729862,
+                            "lng": -122.4459943,
+                            "formatted_address": "Panhandle, San Francisco, CA 94117, USA"
+                        },
+                        "duration": 90,
+                        "location": "Commute Route via The Panhandle"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Drop off backpack, take a quick shower, and change clothes.",
+                        "geocode": {
+                            "lat": 37.7616419,
+                            "lng": -122.4149807,
+                            "formatted_address": "Folsom St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on Folsom St"
+                    },
+                    {
+                        "emoji": "\ud83c\udf54",
+                        "action": "Meet up with a friend for dinner and drinks at a nearby gastropub.",
+                        "geocode": {
+                            "lat": 37.7783424,
+                            "lng": -122.3967887,
+                            "formatted_address": "500 Brannan St, San Francisco, CA 94107, USA"
+                        },
+                        "duration": 90,
+                        "location": "Marlowe"
+                    },
+                    {
+                        "emoji": "\ud83d\udcde",
+                        "action": "Video call with his parents to catch up on their week.",
+                        "geocode": {
+                            "lat": 37.7616419,
+                            "lng": -122.4149807,
+                            "formatted_address": "Folsom St, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Apartment on Folsom St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading articles on Medium and planning out his tasks for the next day.",
+                        "geocode": {
+                            "lat": 37.7616419,
+                            "lng": -122.4149807,
+                            "formatted_address": "Folsom St, San Francisco, CA, USA"
+                        },
+                        "duration": 70,
+                        "location": "Apartment on Folsom St"
+                    }
+                ],
+                "day_overview": "A long but productive day for Maxwell, balancing intense data science work at a UCSF hospital with a significant walking commute for exercise and mental clarity, and ending with a social dinner in his SoMa neighborhood.",
+                "home_address": "274 Folsom St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.7889512,
+                    "lng": -122.392812,
+                    "formatted_address": "274 Folsom St, San Francisco, CA 94105, USA"
+                },
+                "neighborhood": "SOMA",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "2000",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Lin Family"
+    }
+}

@@ -1,0 +1,267 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Liam Wong",
+    "givenName": "Liam",
+    "familyName": "Wong",
+    "jobTitle": "Data Scientist",
+    "gender": "male",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Hindu"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Technology"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Liam Wong is a product of San Francisco\u2019s two distinct worlds. He was raised in the Outer Sunset, lulled to sleep by the hum of the N-Judah and the whisper of Pacific fog. His parents, immigrants from Hong Kong, ran a small, beloved bakery on Irving Street, their lives a testament to grueling hours and the quiet dignity of providing for their family. Liam\u2019s childhood was a blend of Cantonese spoken at home and the boisterous English of his public school. He was studious and observant, more interested in the patterns of language than the chaotic energy of the schoolyard.\n\nThis fascination led him to UC Berkeley, where he pursued a graduate degree in Computational Linguistics. He was on a clear academic path, envisioning a life of research, until a pivotal moment during the pandemic. He saw the deep financial fear in his parents\u2019 eyes as their bakery struggled, and the abstract appeal of academia suddenly felt like a luxury he couldn't afford. Driven by a newfound pragmatism, he leveraged his skills in data and modeling to pivot into tech, quickly landing a lucrative job as a data scientist.\n\nNow 29, Liam lives a life his parents could only dream of, yet it feels worlds away from his upbringing. His commute is zero miles; he works from a sleek, minimalist apartment in Hayes Valley, his days dictated by Slack notifications and complex datasets. The structured, logical world of his job offers a comforting clarity, but also a profound isolation. His mornings start with a walk to a local coffee roaster with his Shiba Inu, Kenji, one of the few constants in his routine. Evenings are often spent at a bouldering gym, a solitary pursuit of problem-solving that mirrors his work.\n\nThough financially secure, Liam feels a persistent ache of unfulfillment. He recently ended a long-term relationship, the quiet of his apartment now amplified. He dreams of using his skills for something more meaningful than optimizing ad clicks\u2014perhaps building a platform to help preserve endangered languages, a nod to his original passion. He is a man caught between the city he was born into and the one he helped build, navigating the fog of his own aspirations, searching for the data point that will finally tell him where he truly belongs."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83d\udcf1",
+                        "action": "Wake up, check notifications and news headlines.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Liam's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd8",
+                        "action": "Light yoga and stretching to prepare for the day's long walk.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Liam's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udebf",
+                        "action": "Shower, get dressed, and prepare for the workday.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Liam's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make a quick breakfast of oatmeal and coffee.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "Liam's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f",
+                        "action": "Commute to work, listening to a data science podcast while walking through the city.",
+                        "geocode": {
+                            "lat": 37.7850246,
+                            "lng": -122.4005003,
+                            "formatted_address": "SoMa, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Walk through The Mission & SoMa"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive at work, grab a coffee, and review daily priorities and emails.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 20,
+                        "location": "NexusData Corp. Office"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Deep work session: Cleaning data sets and running predictive models in Python.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 150,
+                        "location": "NexusData Corp. Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Grab a healthy grain bowl for lunch.",
+                        "geocode": {
+                            "lat": 37.7936658,
+                            "lng": -122.3964729,
+                            "formatted_address": "Financial District, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Mixt - FiDi"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Collaborate with a product manager on interpreting model results and creating visualizations.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 90,
+                        "location": "NexusData Corp. Office"
+                    },
+                    {
+                        "emoji": "\ud83e\udd1d",
+                        "action": "Attend the daily data science team stand-up meeting to share progress.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "NexusData Corp. Office"
+                    },
+                    {
+                        "emoji": "\u2328\ufe0f",
+                        "action": "Wrap up final tasks, push code to repository, and answer Slack messages.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 85,
+                        "location": "NexusData Corp. Office"
+                    },
+                    {
+                        "emoji": "\ud83c\udfa7",
+                        "action": "Commute home, listening to an audiobook to decompress.",
+                        "geocode": {
+                            "lat": 37.7594023,
+                            "lng": -122.4102251,
+                            "formatted_address": "2180 Bryant St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 75,
+                        "location": "Walk through SoMa & The Mission"
+                    },
+                    {
+                        "emoji": "\ud83e\uddd1\u200d\ud83c\udf73",
+                        "action": "Cook a simple but healthy stir-fry for dinner.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "Liam's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Eat dinner while on a Facetime call with his parents.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Liam's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf7b",
+                        "action": "Meet a friend nearby for a post-work drink.",
+                        "geocode": {
+                            "lat": 37.77002299999999,
+                            "lng": -122.4221172,
+                            "formatted_address": "199 Valencia St, San Francisco, CA 94103, USA"
+                        },
+                        "duration": 90,
+                        "location": "Zeitgeist"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch, watching an episode of a sci-fi series.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Liam's Noe Valley Apartment"
+                    },
+                    {
+                        "emoji": "\ud83c\udf19",
+                        "action": "Evening routine: brush teeth, lay out clothes for tomorrow, and read a few pages of a book.",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 30,
+                        "location": "Liam's Noe Valley Apartment"
+                    }
+                ],
+                "day_overview": "A productive day for a tech professional, defined by a long, active walking commute through the city, and balanced by a relaxing evening of socializing and family connection in his local neighborhood.",
+                "home_address": "1638 Dolores St, San Francisco, CA 94103",
+                "home_geocode": {
+                    "lat": 37.743248,
+                    "lng": -122.42466,
+                    "formatted_address": "1638 Dolores St, San Francisco, CA 94110, USA"
+                },
+                "neighborhood": "Mission District",
+                "commute_method": "walked"
+            }
+        }
+    ],
+    "birthDate": "1995",
+    "educationalCredentialAwarded": "Graduate degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Wong Family"
+    }
+}

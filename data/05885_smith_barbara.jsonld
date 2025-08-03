@@ -1,0 +1,245 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Barbara Smith",
+    "givenName": "Barbara",
+    "familyName": "Smith",
+    "jobTitle": "Office Manager",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "No Religious Affiliation"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Other Bay Communities"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Administrative"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Barbara Smith wasn't born in San Francisco, but the city holds her history. Raised in the predictable flatness of Modesto, she was the daughter of a pragmatic mechanic and a no-nonsense bookkeeper. They valued stability over dreams, a lesson Barbara absorbed completely. Seeking a life with more color and acceptance, she moved to the city in her early twenties, enrolling in a community college. She earned an Associate's degree in Business Administration\u2014not out of passion, but as a direct path to a secure job.\n\nHer career began at a small architectural firm in SoMa, where she was hired as a receptionist. Through two decades of quiet competence and unwavering reliability, she became the indispensable office manager, the true central nervous system of the company. A long-term relationship that defined her thirties ended not with a bang, but with the slow, sad realization that she and her partner wanted different futures. In the wake of the breakup, Barbara doubled down on her self-reliance, finding solace and identity in her work and the meticulous order of her Inner Richmond apartment.\n\nThe pandemic was the great turning point that brought her commute to zero. The firm went fully remote, and her role transitioned seamlessly. Her one-bedroom apartment, once a sanctuary from the office, became the office itself. Her daily routine is now a well-worn path within a ten-block radius. Mornings start with coffee from the corner cafe, work is punctuated by a lunchtime walk through the fog-dusted greenery of Golden Gate Park, and evenings are for her small, curated circle of friends or a book.\n\nThough her life may seem small from the outside, Barbara finds deep contentment in it. She is woven into the fabric of her neighborhood, known by name at the bakery and the library. Her hopes are not grand; they are personal and tangible. She dreams of traveling to see the Scottish Highlands, of finally taking a pottery class at the community center, and of a peaceful retirement filled with long walks and good friends. For Barbara, success isn't a title or a salary, but the quiet, unshakable stability she has built for herself, brick by careful brick."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Primary Adult"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\ud83c\udfe0",
+                        "action": "Wake up, make coffee, and listen to the KQED Forum podcast while getting ready for the day.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Presidio Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f",
+                        "action": "Walk to the corner to meet her carpool partner, Carol, for the ride to work.",
+                        "geocode": {
+                            "lat": 37.7928229,
+                            "lng": -122.4464704,
+                            "formatted_address": "Broadway & Lyon St, San Francisco, CA 94123, USA"
+                        },
+                        "duration": 5,
+                        "location": "Corner of Broadway & Lyon St"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute to work, catching up with Carol and navigating through Presidio and city traffic.",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "In Transit to UCSF"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Settle in at the desk, boot up the computer, review the day's calendar, and sort through high-priority emails.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 30,
+                        "location": "Office - UCSF Parnassus Campus"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Process pending invoices and coordinate with the lab supply vendor about a delayed shipment.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "Office - UCSF Parnassus Campus"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk off-campus to grab a custom-made salad and decompress with a colleague.",
+                        "geocode": {
+                            "lat": 37.763954,
+                            "lng": -122.464751,
+                            "formatted_address": "627 Irving St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Pluto's - Irving St"
+                    },
+                    {
+                        "emoji": "\ud83d\udde3\ufe0f",
+                        "action": "Attend the weekly department administrative meeting to discuss upcoming events and staffing needs.",
+                        "geocode": {
+                            "lat": 37.7627927,
+                            "lng": -122.4580873,
+                            "formatted_address": "San Francisco, CA 94131, USA"
+                        },
+                        "duration": 60,
+                        "location": "Conference Room - UCSF Medical Sciences Building"
+                    },
+                    {
+                        "emoji": "\ud83d\udccb",
+                        "action": "Handle various staff requests, troubleshoot a malfunctioning printer, and order new office supplies.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 120,
+                        "location": "Office - UCSF Parnassus Campus"
+                    },
+                    {
+                        "emoji": "\u2705",
+                        "action": "Tidy up the desk, write a to-do list for tomorrow, and log off for the day.",
+                        "geocode": {
+                            "lat": 37.7626459,
+                            "lng": -122.4587106,
+                            "formatted_address": "505 Parnassus Ave, San Francisco, CA 94143, USA"
+                        },
+                        "duration": 15,
+                        "location": "Office - UCSF Parnassus Campus"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Carpool commute home, discussing the day with Carol on the drive back.",
+                        "geocode": {
+                            "lat": 37.7942824,
+                            "lng": -122.4349387,
+                            "formatted_address": "Pacific Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 40,
+                        "location": "In Transit to Pacific Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop for a quick grocery run to pick up fresh produce, chicken, and a bottle of wine.",
+                        "geocode": {
+                            "lat": 37.7885472,
+                            "lng": -122.434559,
+                            "formatted_address": "2435 California St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 30,
+                        "location": "Mollie Stone's Market - California St"
+                    },
+                    {
+                        "emoji": "\ud83d\udeaa",
+                        "action": "Drop off groceries at home, change clothes, and freshen up before heading out.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Presidio Heights"
+                    },
+                    {
+                        "emoji": "\ud83c\udf77",
+                        "action": "Walk to meet a friend for a glass of wine and appetizers to catch up on the week.",
+                        "geocode": {
+                            "lat": 37.79083809999999,
+                            "lng": -122.4343963,
+                            "formatted_address": "2301 Fillmore St, San Francisco, CA 94115, USA"
+                        },
+                        "duration": 90,
+                        "location": "The Snug - Fillmore St"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Prepare a simple dinner, eat while watching an episode of a favorite British crime drama.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 75,
+                        "location": "Home - Presidio Heights"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down by reading a novel, setting out clothes for the next day, and getting ready for bed.",
+                        "geocode": {
+                            "lat": 37.7899488,
+                            "lng": -122.4473926,
+                            "formatted_address": "Presidio Heights, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Home - Presidio Heights"
+                    }
+                ],
+                "day_overview": "A structured day for a seasoned office manager, balancing a busy workday at UCSF with a manageable commute, essential errands, and a relaxing evening socializing with a friend in her Pacific Heights neighborhood.",
+                "home_address": "3812 Broadway, San Francisco, CA 94123",
+                "home_geocode": {
+                    "lat": 37.7928229,
+                    "lng": -122.4464704,
+                    "formatted_address": "3812 Broadway, San Francisco, CA 94115, USA"
+                },
+                "neighborhood": "Pac Heights",
+                "commute_method": "carpool"
+            }
+        }
+    ],
+    "birthDate": "1970",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Smith Family"
+    }
+}

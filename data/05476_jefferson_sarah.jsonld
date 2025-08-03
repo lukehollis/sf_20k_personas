@@ -1,0 +1,223 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Jefferson",
+    "givenName": "Sarah",
+    "familyName": "Jefferson",
+    "jobTitle": "Medical Assistant",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "White"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Tech Community"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ESTJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Healthcare"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Jefferson\u2019s life is a study in pragmatism, a carefully constructed world within the sprawling chaos of San Francisco. Raised in Sacramento by a mechanic father and a school secretary mother, she inherited a blue-collar appreciation for stability. Her defining moment came at sixteen when her younger brother suffered a severe asthma attack that landed him in the ICU. Watching the calm, competent medical assistants and nurses manage the crisis, Sarah saw a future for herself\u2014one of purpose and tangible skill.\n\nForsaking a four-year university path, she pursued an Associate\u2019s degree in Medical Assisting, seeing it as the most direct route to a career and financial independence. Her goal was San Francisco, a city that felt a world away from the suburban heat of the Central Valley. Upon graduating, she secured a position at a small, private family practice in the Inner Richmond. The clinic offered a rare perk: a small, rent-controlled studio apartment in the building next door, making her commute nonexistent and life in the expensive city possible.\n\nNow 25, Sarah\u2019s world is contained within a few blocks. Her days are a blur of taking patient histories, drawing blood, and managing the clinic\u2019s steady rhythm of appointments. She finds deep satisfaction in calming anxious patients and being a reliable part of their healthcare journey. Her life isn\u2019t glamorous; evenings are often spent studying, taking online prerequisites for a nursing program. Her social circle is small but tight\u2014a few colleagues and a friend from her program she meets for brunch in the Mission on weekends.\n\nWhile she enjoys her work, Sarah sees it as a stepping stone. Her dream is to become a registered nurse, specializing in pediatric care, a goal born from her brother\u2019s long-ago hospital stay. Her connection to San Francisco isn't found in its tech booms or nightlife, but in the foggy morning walks through Golden Gate Park, the familiar greetings from the grocer on Clement Street, and the quiet satisfaction of building a life, step by meticulous step, in the city she chose as her own."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": "1.\nShe remembers the metallic weight of the key to her Inner Richmond studio, pressed into her palm on her first day. At 22, standing in the empty, bay-windowed room, a profound sense of quiet victory washed over her. It wasn't just an apartment; it was the tangible result of her focused plan, a foothold in a city that had felt impossibly out of reach. That single key represented the secure, independent life she was meticulously building for herself, far from the heat and familiarity of Sacramento.\n\n2.\nA year into her job, a five-year-old boy, hysterical about getting a shot, was nearly inconsolable. Sarah knelt, ignoring the schedule, and spoke to him softly about the brave knights in his favorite storybook. She made him a \"shield\" sticker for his arm. He barely flinched during the injection. The look of immense gratitude from his mother resonated deeper than any praise. It was a clarifying moment, solidifying her abstract goal into a visceral need: she had to become a pediatric nurse.\n\n3.\nOne rainy Tuesday evening last year, she was staring at the empty spot where the cilantro should be at the Clement Street grocery. As she turned to leave, Mr. Chen, the owner, called out, holding a bunch he'd set aside. \"For your soup,\" he'd said with a nod. The simple act of being remembered, of being seen as a regular, made her chest ache with a surprising warmth. It transformed the neighborhood from a zip code into a community, anchoring her to the city.\n\n4.\nIt was 1 AM last semester, the night before a brutal anatomy final. Surrounded by textbooks, her exhausted mind screamed to quit. She felt the familiar pull of doubt, the question of whether this was all worth it. Her eyes landed on a photo on her desk: her and her healthy, grinning brother at his high school graduation. The image cut through the fatigue, a stark reminder of the \"why.\" She took a deep breath and refocused on the diagrams, her resolve hardened.\n\n5.\nOn an early, foggy morning walk through Golden Gate Park, the world was muted and soft. The cypress trees emerged like gray ghosts, and the only sound was the distant, mournful bellow of the foghorns over the ocean. In that quiet, insulated world, with the city still asleep, she felt a profound sense of peace and anonymity. This was *her* San Francisco\u2014not the skyline or the startups, but this atmospheric, personal peace. It became her ritual for resetting her soul."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Child"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake Up & Morning Prep",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 45,
+                        "location": "Sarah's Apartment, Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83e\udd51",
+                        "action": "Breakfast and Coffee",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 25,
+                        "location": "Sarah's Apartment, Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udeb5\u200d\u2640\ufe0f",
+                        "action": "Bicycle Commute to FiDi",
+                        "geocode": {
+                            "lat": 37.7590959,
+                            "lng": -122.4212936,
+                            "formatted_address": "Valencia St, San Francisco, CA, USA"
+                        },
+                        "duration": 35,
+                        "location": "Valencia Street Bike Corridor"
+                    },
+                    {
+                        "emoji": "\ud83c\udfe2",
+                        "action": "Arrive, Park Bike & Change into Scrubs",
+                        "geocode": {
+                            "lat": 37.7932577,
+                            "lng": -122.3944272,
+                            "formatted_address": "One Market Plaza, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 20,
+                        "location": "Google Wellness Center, One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83e\ude7a",
+                        "action": "Morning Clinic Prep & Chart Review",
+                        "geocode": {
+                            "lat": 37.7932577,
+                            "lng": -122.3944272,
+                            "formatted_address": "One Market Plaza, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 35,
+                        "location": "Google Wellness Center, One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83e\ude79",
+                        "action": "Patient Care Block: Vitals & Assisting Clinicians",
+                        "geocode": {
+                            "lat": 37.7749295,
+                            "lng": -122.4194155,
+                            "formatted_address": "San Francisco, CA, USA"
+                        },
+                        "duration": 180,
+                        "location": "Google Wellness Center Exam Rooms"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Lunch with Coworkers at On-site Cafe",
+                        "geocode": {
+                            "lat": 37.8033934,
+                            "lng": -122.4008661,
+                            "formatted_address": "23 The Embarcadero, San Francisco, CA 94111, USA"
+                        },
+                        "duration": 60,
+                        "location": "The Piers Cafe at Google SF"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Afternoon Patient Block & Administrative Tasks",
+                        "geocode": {
+                            "lat": 37.7932577,
+                            "lng": -122.3944272,
+                            "formatted_address": "One Market Plaza, San Francisco, CA 94105, USA"
+                        },
+                        "duration": 240,
+                        "location": "Google Wellness Center, One Market Plaza"
+                    },
+                    {
+                        "emoji": "\ud83c\udf06",
+                        "action": "Uphill Bicycle Commute Home",
+                        "geocode": {
+                            "lat": 37.7627161,
+                            "lng": -122.435218,
+                            "formatted_address": "Market St & Castro St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 45,
+                        "location": "Market Street & Castro Street Climb"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Pick up Fresh Pasta and Wine for the Weekend",
+                        "geocode": {
+                            "lat": 37.7513732,
+                            "lng": -122.4361692,
+                            "formatted_address": "741 Diamond St, San Francisco, CA 94114, USA"
+                        },
+                        "duration": 20,
+                        "location": "Pasta Gina on 24th Street"
+                    },
+                    {
+                        "emoji": "\ud83c\udf2e",
+                        "action": "Meet a Friend for Dinner and Cocktails",
+                        "geocode": {
+                            "lat": 37.7564917,
+                            "lng": -122.4191194,
+                            "formatted_address": "2534 Mission St, San Francisco, CA 94110, USA"
+                        },
+                        "duration": 120,
+                        "location": "Foreign Cinema, Mission District"
+                    },
+                    {
+                        "emoji": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+                        "action": "Call Parents to Catch Up",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 15,
+                        "location": "Sarah's Apartment, Noe Valley"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Relax, Watch a Show, and Wind Down for Bed",
+                        "geocode": {
+                            "lat": 37.7490293,
+                            "lng": -122.4316583,
+                            "formatted_address": "Noe Valley, San Francisco, CA, USA"
+                        },
+                        "duration": 80,
+                        "location": "Sarah's Apartment, Noe Valley"
+                    }
+                ],
+                "day_overview": "A dynamic day for Sarah, a Medical Assistant, featuring an energizing bike commute from Noe Valley to her corporate wellness job at Google, followed by patient care, an errand on 24th Street, and a rewarding dinner with a friend in the Mission.",
+                "home_address": "1668 Diamond St, San Francisco, CA 94114",
+                "home_geocode": {
+                    "lat": 37.7440072,
+                    "lng": -122.4356377,
+                    "formatted_address": "1668 Diamond St, San Francisco, CA 94131, USA"
+                },
+                "neighborhood": "Noe Valley",
+                "commute_method": "bicycle"
+            }
+        }
+    ],
+    "birthDate": "1999",
+    "educationalCredentialAwarded": "Associate's degree",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Jefferson Family"
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sarah Miller",
+    "givenName": "Sarah",
+    "familyName": "Miller",
+    "jobTitle": "Administrative Assistant, City Planning Department",
+    "gender": "female",
+    "nationality": "San Francisco Resident",
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "race",
+            "value": "Asian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "religion",
+            "value": "Christian"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "tribe",
+            "value": "Chinatown"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "personality",
+            "value": "ISFJ"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "industry",
+            "value": "Public Administration"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "backstory",
+            "value": "Sarah Miller\u2019s story is woven into the very fabric of San Francisco, a city she serves from the inside out. A second-generation Filipino-American, she grew up in the fog-kissed avenues of the Excelsior District. Her parents, a Muni driver and a nursing home aide, instilled in her a profound sense of duty and a quiet resilience. Her childhood was filled with the rumble of the M Ocean View streetcar and the aroma of her mother's cooking, a world away from the city's glittering downtown core.\n\nAmbitious and bright, Sarah enrolled at San Francisco State University, fascinated by the city\u2019s evolution and majoring in Urban Studies. She dreamed of shaping neighborhoods for the better. However, during her junior year, her mother suffered a debilitating stroke. Sarah made the difficult choice to leave school, taking on full-time work to help with medical bills and support her family. This decision became the defining pivot of her life, trading her own academic ambitions for familial responsibility.\n\nThrough a temp agency, she landed a position at the City Planning Department. What began as a temporary gig evolved into a permanent role as an administrative assistant. For over a decade, Sarah has been the steadfast anchor in a sea of rotating planners and ambitious political appointees. She knows the arcane filing systems, the unofficial channels, and the institutional history that isn't written in any manual.\n\nToday, Sarah lives in a small, rent-controlled studio in Hayes Valley, a deliberate choice that allows her a zero-mile commute. Her days begin with a short walk past boutique shops and bustling cafes to the grandeur of City Hall. While her official role is modest, she finds quiet satisfaction in being the department's indispensable hub. Her social life is a tight-knit circle of old high school friends, and every Sunday, she takes the bus back to the Excelsior to care for her now-widowed mother.\n\nSarah's dreams are no longer about grand urban redesign. Instead, she aspires to a quiet stability: perhaps one day finishing her degree through online classes, and maintaining the sense of purpose she finds in serving the complex, frustrating, and beautiful city that is her one true home."
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "reveries",
+            "value": null
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "familyRole",
+            "value": "Partner"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "dayPlan",
+            "value": {
+                "actions": [
+                    {
+                        "emoji": "\u2600\ufe0f",
+                        "action": "Wake up, scroll through news headlines on phone, and get out of bed.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 20,
+                        "location": "Home - Outer Sunset"
+                    },
+                    {
+                        "emoji": "\uc53b",
+                        "action": "Morning hygiene routine: shower, brush teeth, and get dressed for the office.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 30,
+                        "location": "Home - Outer Sunset"
+                    },
+                    {
+                        "emoji": "\u2615",
+                        "action": "Make coffee and have a quick breakfast of toast and yogurt with her partner before they both head out.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Home - Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Commute across the city, listening to the 'City Arts & Lectures' podcast to navigate morning traffic.",
+                        "geocode": {
+                            "lat": 37.7773082,
+                            "lng": -122.4196412,
+                            "formatted_address": "Civic Center, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 45,
+                        "location": "Lincoln Way to Civic Center Garage"
+                    },
+                    {
+                        "emoji": "\ud83d\udcbb",
+                        "action": "Settle in at her desk, organize the day's tasks, and sort through the planning director's incoming emails.",
+                        "geocode": {
+                            "lat": 37.779275,
+                            "lng": -122.4192417,
+                            "formatted_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 30,
+                        "location": "SF City Hall - Planning Department"
+                    },
+                    {
+                        "emoji": "\u260e\ufe0f",
+                        "action": "Field phone calls from the public regarding permit statuses and general zoning questions.",
+                        "geocode": {
+                            "lat": 37.779275,
+                            "lng": -122.4192417,
+                            "formatted_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 120,
+                        "location": "SF City Hall - Planning Department"
+                    },
+                    {
+                        "emoji": "\ud83e\udd57",
+                        "action": "Walk over to Hayes Valley for a quick lunch, grabbing a healthy grain bowl.",
+                        "geocode": {
+                            "lat": 37.7981294,
+                            "lng": -122.4056449,
+                            "formatted_address": "504 Broadway, San Francisco, CA 94133, USA"
+                        },
+                        "duration": 60,
+                        "location": "RADIUS Cafe"
+                    },
+                    {
+                        "emoji": "\ud83d\udda8\ufe0f",
+                        "action": "Prepare and print binders with public notices and building plans for next week\u2019s commission hearing.",
+                        "geocode": {
+                            "lat": 37.779275,
+                            "lng": -122.4192417,
+                            "formatted_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 75,
+                        "location": "SF City Hall - Planning Department"
+                    },
+                    {
+                        "emoji": "\ud83d\udcca",
+                        "action": "Perform data entry, updating the department's database with new project applications.",
+                        "geocode": {
+                            "lat": 37.779275,
+                            "lng": -122.4192417,
+                            "formatted_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, USA"
+                        },
+                        "duration": 90,
+                        "location": "SF City Hall - Planning Department"
+                    },
+                    {
+                        "emoji": "\ud83d\ude97",
+                        "action": "Begin the long drive home, battling the afternoon exodus from the city center.",
+                        "geocode": {
+                            "lat": 37.7590135,
+                            "lng": -122.4955623,
+                            "formatted_address": "Outer Sunset, San Francisco, CA, USA"
+                        },
+                        "duration": 50,
+                        "location": "Fell Street to Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83d\uded2",
+                        "action": "Stop to pick up a few groceries and a bottle of wine for dinner.",
+                        "geocode": {
+                            "lat": 37.7528602,
+                            "lng": -122.5035591,
+                            "formatted_address": "3701 Noriega St Unit A, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 25,
+                        "location": "Gus's Community Market - Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83c\udf5d",
+                        "action": "Cook a simple pasta dinner with her partner and talk about their respective days.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 70,
+                        "location": "Home - Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83d\udcfa",
+                        "action": "Relax on the couch and watch an episode of a popular historical drama.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 60,
+                        "location": "Home - Outer Sunset"
+                    },
+                    {
+                        "emoji": "\ud83d\udcd6",
+                        "action": "Wind down for the night, reading a book and tidying up the kitchen before bed.",
+                        "geocode": {
+                            "lat": 37.7602395,
+                            "lng": -122.5075841,
+                            "formatted_address": "4233 Judah St, San Francisco, CA 94122, USA"
+                        },
+                        "duration": 40,
+                        "location": "Home - Outer Sunset"
+                    }
+                ],
+                "day_overview": "A busy day for Sarah, an administrative assistant for the city. Her day is defined by a long cross-town commute, structured administrative work at City Hall, and a relaxed evening at home with her partner in the Outer Sunset.",
+                "home_address": "2599 Judah St, San Francisco, CA 94122",
+                "home_geocode": {
+                    "lat": 37.7611404,
+                    "lng": -122.48988,
+                    "formatted_address": "2599 Judah St, San Francisco, CA 94122, USA"
+                },
+                "neighborhood": "Sunset",
+                "commute_method": "drove_alone"
+            }
+        }
+    ],
+    "birthDate": "1989",
+    "educationalCredentialAwarded": "Some college",
+    "homeLocation": {
+        "@type": "Place",
+        "name": "San Francisco, California"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "additionalType": "Family",
+        "name": "Miller Family"
+    }
+}
